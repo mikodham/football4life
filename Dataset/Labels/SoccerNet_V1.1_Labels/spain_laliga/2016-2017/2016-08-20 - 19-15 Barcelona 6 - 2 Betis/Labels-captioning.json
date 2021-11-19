@@ -1,0 +1,455 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. The host team were better throughout the game. Both sides adopted slow build up play tactics today."
+        },
+        {
+            "gameTime": "2 - 47:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 46:47",
+            "label": "",
+            "description": "Excellent touch by Daniel Ceballos (Betis)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:10",
+            "label": "corner",
+            "description": "The resulting corner from Lionel Messi (Barcelona) comes to nothing."
+        },
+        {
+            "gameTime": "2 - 43:47",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "gameTime": "2 - 43:32",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 43:12",
+            "label": "",
+            "description": "That was a nice football moment. Ivan Rakitic (Barcelona) receives an amazing defence splitting low pass on the edge of the box and blasts the ball towards the roof of the net. Antonio Adan guesses his intention and dives superbly to deny him with a remarkable save! Barcelona get a corner."
+        },
+        {
+            "gameTime": "2 - 42:26",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 41:52",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Antonio Adan is alert and denies him with a nice save. Barcelona force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 38:54",
+            "label": "soccer-ball",
+            "description": "Goal! Ruben Castro (Betis) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 6:2."
+        },
+        {
+            "gameTime": "2 - 38:20",
+            "label": "",
+            "description": "Ruben Castro (Betis) receives the ball inside the box from the resulting free kick, but fails to score as his shot is blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 38:10",
+            "label": "",
+            "description": "Alvaro Cejudo (Betis) takes the ball and sets it for the free kick."
+        },
+        {
+            "gameTime": "2 - 37:50",
+            "label": "",
+            "description": "One of the Barcelona players unfairly tackled his opponent and conceded a foul. A free kick has been awarded to Betis."
+        },
+        {
+            "gameTime": "2 - 36:48",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) can showcase his brilliant free kick ability, particularly from a distance like this. He hits the ball perfectly and it ends up inside the left post."
+        },
+        {
+            "gameTime": "2 - 35:30",
+            "label": "",
+            "description": "Alberto Undiano Mallenco blows the whistle, Fabian Ruiz (Betis) is penalised for a foul. Barcelona are awarded a free kick."
+        },
+        {
+            "gameTime": "2 - 34:51",
+            "label": "",
+            "description": "Referee Alberto Undiano Mallenco sees the trip by Riza Durmisi (Betis) and doesn't hesitate to blow his whistle. Barcelona will take a free kick near the side line."
+        },
+        {
+            "gameTime": "2 - 31:32",
+            "label": "y-card",
+            "description": "Ruben Castro (Betis) takes his opponent down and receives a yellow card from the referee."
+        },
+        {
+            "gameTime": "2 - 30:39",
+            "label": "substitution",
+            "description": "Here comes a substitution. Lucas Digne (Barcelona) is brought on as a substitute for Jordi Alba."
+        },
+        {
+            "gameTime": "2 - 29:47",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 29:37",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) latches on to a precise pass and one on one with the keeper slams the ball towards the middle of the goal. Antonio Adan is alert, though, and makes an easy save to deny him. It will be a corner kick for Barcelona."
+        },
+        {
+            "gameTime": "2 - 28:46",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) connects with the ball from the corner kick on the edge of the penalty box and plants a low header to the middle of the target. However, the ball is cleared away by one of the defenders. Great reaction."
+        },
+        {
+            "gameTime": "2 - 28:28",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) is about to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 28:10",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) delivers a promising cross into the box, but it's cleared. The ball goes out for a corner. Barcelona can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 25:13",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it."
+        },
+        {
+            "gameTime": "2 - 24:11",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Denis Suarez as he is replaced by Munir El Haddadi (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 22:29",
+            "label": "y-card",
+            "description": "Daniel Ceballos (Betis) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+        },
+        {
+            "gameTime": "2 - 21:23",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 20:17",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fails to convert the free kick from the edge of the box. His shot goes right into the stands. High, wide and not at all handsome."
+        },
+        {
+            "gameTime": "2 - 19:14",
+            "label": "",
+            "description": "Alberto Undiano Mallenco interrupts the game for a tactical foul by Alvaro Cejudo (Betis). A free kick to Barcelona."
+        },
+        {
+            "gameTime": "2 - 16:57",
+            "label": "y-card",
+            "description": "Yellow card. Luis Suarez (Barcelona) goes into the book for a bad tackle on his opponent."
+        },
+        {
+            "gameTime": "2 - 15:20",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 15:10",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempted to curl the ball over the defensive wall from the free kick, but with no success. The ball goes out of play and Barcelona have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 15:01",
+            "label": "",
+            "description": "Antonio Sanabria (Betis) brings an opponent down and Alberto Undiano Mallenco interrupts the game. Barcelona earn a free kick."
+        },
+        {
+            "gameTime": "2 - 13:42",
+            "label": "substitution",
+            "description": "Gustavo Poyet has decided to introduce fresh legs, with Fabian Ruiz (Betis) replacing Petros."
+        },
+        {
+            "gameTime": "2 - 11:49",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom right corner in trademark fashion."
+        },
+        {
+            "gameTime": "2 - 10:50",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Lionel Messi sprays a pass out to Luis Suarez (Barcelona), and he has an easy job to slot the ball into an empty net. The score is 4:1."
+        },
+        {
+            "gameTime": "2 - 10:04",
+            "label": "corner",
+            "description": "Alvaro Cejudo (Betis) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 09:47",
+            "label": "",
+            "description": "The ball is cleared after Charly Junior Musonda (Betis) attempted to dribble past an opposing player. Betis have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 09:12",
+            "label": "substitution",
+            "description": "Felipe Gutierrez goes off the pitch and Charly Junior Musonda (Betis) comes on."
+        },
+        {
+            "gameTime": "2 - 08:38",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "gameTime": "2 - 05:51",
+            "label": "",
+            "description": "Denis Suarez (Barcelona)'s poor effort is easily saved by Antonio Adan. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 04:39",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble Antonio Adan."
+        },
+        {
+            "gameTime": "2 - 04:07",
+            "label": "",
+            "description": "Goal! No, wait. It's disallowed for a foul by Arda Turan (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 02:07",
+            "label": "",
+            "description": "An attempted cross from Sergi Roberto (Barcelona) is cleared."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "The fans must be pleased so far with the entertainment on the pitch. Let's hope the players don't lose their passion and determination during the half time break. The home side were more active and dominant in the first half. The opposition found it tough to keep up. The home team makes a lot of passes and attempts to maintain possession. The same goes for the away side."
+        },
+        {
+            "gameTime": "1 - 46:06",
+            "label": "whistle",
+            "description": "The end of the first half."
+        },
+        {
+            "gameTime": "1 - 44:45",
+            "label": "y-card",
+            "description": "What was Alvaro Cejudo (Betis) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "gameTime": "1 - 43:54",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "1 - 41:50",
+            "label": "soccer-ball",
+            "description": "Goal! Sergi Roberto plays a pass to the feet of Luis Suarez (Barcelona), and he shoots into the bottom left corner from inside the box. It's 3:1."
+        },
+        {
+            "gameTime": "1 - 39:58",
+            "label": "",
+            "description": "A pass from Sergi Roberto (Barcelona) is intercepted by Antonio Adan and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 36:50",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) collected a pass and decided to shoot from about 21 metres out. He hit it perfectly! The ball zoomed around the goalkeeper and ended up inside the left post."
+        },
+        {
+            "gameTime": "1 - 35:26",
+            "label": "substitution",
+            "description": "The manager has been forced to make a substitution and the injured Jonas Martin leaves the pitch to be replaced by Daniel Ceballos (Betis)."
+        },
+        {
+            "gameTime": "1 - 34:16",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) robs an opponent of the ball and explodes in anger when Alberto Undiano Mallenco blows for a foul."
+        },
+        {
+            "gameTime": "1 - 32:31",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) commits a rough challenge and Alberto Undiano Mallenco blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 29:31",
+            "label": "",
+            "description": "What a chance that is! Lionel Messi (Barcelona) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the crossbar!"
+        },
+        {
+            "gameTime": "1 - 29:14",
+            "label": "corner",
+            "description": "The resulting corner, taken by Ivan Rakitic (Barcelona), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 28:57",
+            "label": "",
+            "description": "Samuel Umtiti (Barcelona) gets himself onto the end of the corner, but his header is blocked. Barcelona earn a corner."
+        },
+        {
+            "gameTime": "1 - 28:32",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 28:11",
+            "label": "",
+            "description": "This shall not pass! Denis Suarez (Barcelona) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. Barcelona have a corner."
+        },
+        {
+            "gameTime": "1 - 27:52",
+            "label": "",
+            "description": "One of the Betis players tripped an opponent and conceded a foul."
+        },
+        {
+            "gameTime": "1 - 25:34",
+            "label": "",
+            "description": "Sergi Roberto slides a brilliant pass into Arda Turan (Barcelona), but his shot from inside the box goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 23:12",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) rises highest from the corner to head at goal, but his effort towards the underside of the crossbar is brilliantly kept out by the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 22:45",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) will take the corner."
+        },
+        {
+            "gameTime": "1 - 22:30",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The ball is out of play and Barcelona manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 20:40",
+            "label": "soccer-ball",
+            "description": "Ruben Castro (Betis) sets the ball for the free kick and fires in a beautiful strike, which nestles exactly in the top right corner."
+        },
+        {
+            "gameTime": "1 - 20:10",
+            "label": "",
+            "description": "Ruben Castro (Betis) will take the free kick."
+        },
+        {
+            "gameTime": "1 - 19:27",
+            "label": "",
+            "description": "Denis Suarez (Barcelona) brings his opponent down with a tackle and Alberto Undiano Mallenco blows his whistle for a foul. A free kick is awarded to Betis."
+        },
+        {
+            "gameTime": "1 - 18:40",
+            "label": "",
+            "description": "Alvaro Cejudo (Betis) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar."
+        },
+        {
+            "gameTime": "1 - 17:07",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Sergi Roberto (Barcelona)."
+        },
+        {
+            "gameTime": "1 - 14:21",
+            "label": "",
+            "description": "Great ball in from Lionel Messi. Luis Suarez (Barcelona) should really have done better with a close range header, but he heads it a whisker wide of the left post."
+        },
+        {
+            "gameTime": "1 - 13:48",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 10:19",
+            "label": "corner",
+            "description": "Lionel Messi (Barcelona) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 10:00",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off. The ball is out of play. Barcelona will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 09:20",
+            "label": "",
+            "description": "Barcelona hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 05:50",
+            "label": "soccer-ball",
+            "description": "GOAL! Arda Turan (Barcelona) finishes off a sublime move with a delightful back heel goal. Jordi Alba provided the assist with a brilliant pass. 1:0."
+        },
+        {
+            "gameTime": "1 - 02:46",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 01:48",
+            "label": "corner",
+            "description": "Felipe Gutierrez (Betis) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 01:15",
+            "label": "",
+            "description": "Alvaro Cejudo (Betis) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Betis will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Betis will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's referee will be Alberto Undiano Mallenco."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The last 5 games between these two teams have been goal rich, with an average of 3.4 goals per game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The Betis fans can enjoy new signings this season: ."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Barcelona have made new signings during the transfer window and they have welcomed: ."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. The host team were better throughout the game. Both sides adopted slow build up play tactics today."
+        }
+    ],
+    "gameAwayTeam": "Betis",
+    "gameDate": "20/08/2016 - 19:15",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "6 - 2"
+}

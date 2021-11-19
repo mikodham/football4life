@@ -1,0 +1,425 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "The game wasn't exhilarating, but it wasn't totally boring either. There were a few nice moments from both sides. The away side was dominant and dictated the tempo of the game. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks. On the other hand, long balls and crosses were the main weapons of the away team."
+        },
+        {
+            "gameTime": "2 - 49:23",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        },
+        {
+            "gameTime": "2 - 47:36",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) rises high to meet a perfect cross, but powers his header just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 45:52",
+            "label": "y-card",
+            "description": "Renato Sanches (Bayern Munich) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Tobias Stieler ignores the protests."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:56",
+            "label": "attendance",
+            "description": "The attendance is 81360."
+        },
+        {
+            "gameTime": "2 - 42:45",
+            "label": "y-card",
+            "description": "Franck Ribery (Bayern Munich) is shown a yellow card by the referee."
+        },
+        {
+            "gameTime": "2 - 42:39",
+            "label": "y-card",
+            "description": "Adrian Ramos (Dortmund) is yellow carded for breaking the rules of the game."
+        },
+        {
+            "gameTime": "2 - 42:20",
+            "label": "substitution",
+            "description": "Thomas Tuchel is forced to make a change. Marcel Schmelzer is unable to continue due to injury, Christian Pulisic (Dortmund) comes on."
+        },
+        {
+            "gameTime": "2 - 38:55",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) is unable to feed an accurate cross into the box."
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) fails to deliver a decent cross from the corner and the ball goes out of play."
+        },
+        {
+            "gameTime": "2 - 35:24",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) misses a good chance to score. An inch perfect cross into the box finds Robert Lewandowski (Bayern Munich) who rises for a header, but sends the ball well over the bar. The ball is out of play and the linesman points at the corner flag. Corner to Bayern Munich."
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to substitute Mario Gotze and he is replaced by Gonzalo Castro (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 29:51",
+            "label": "",
+            "description": "Tobias Stieler blows his whistle and it's Jerome Boateng (Bayern Munich) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "2 - 29:11",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 28:50",
+            "label": "substitution",
+            "description": "That will be all from Xabi Alonso who is being replaced by the fresh legs of Renato Sanches (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 28:44",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes out of play and Bayern Munich have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 26:03",
+            "label": "corner",
+            "description": "Mario Gotze (Dortmund) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 25:27",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Manuel Neuer guesses his intention and denies him with a fine save. Dortmund have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 22:14",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to introduce fresh legs, with Erik Durm (Dortmund) replacing Andre Schurrle."
+        },
+        {
+            "gameTime": "2 - 22:07",
+            "label": "substitution",
+            "description": "Substitution. Philipp Lahm did his best and is replaced by Rafinha (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 21:05",
+            "label": "",
+            "description": "What a chance that is! Douglas Costa (Bayern Munich) finds himself in a promising position after receiving a pass on the edge of the box. His attempt goes just over the bar."
+        },
+        {
+            "gameTime": "2 - 18:08",
+            "label": "corner",
+            "description": "Andre Schurrle (Dortmund) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "2 - 17:56",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence. Dortmund have a corner."
+        },
+        {
+            "gameTime": "2 - 16:29",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 16:20",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Now Bayern Munich have a corner."
+        },
+        {
+            "gameTime": "2 - 15:47",
+            "label": "",
+            "description": "Crossbar! Xabi Alonso (Bayern Munich) picks up a precise pass and produces a bullet of a strike from distance that smashes against the crossbar. It could have been a brilliant goal."
+        },
+        {
+            "gameTime": "2 - 15:18",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 14:57",
+            "label": "",
+            "description": "The ball rebounds to Mats Hummels (Bayern Munich) around the penalty spot and he produces a header towards the goal. Unfortunately for him, one of the defenders prevents the ball from ending in the net. Bayern Munich have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 14:31",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "2 - 14:20",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) flights in the cross, but the defender is alert and clears to safety. The ball goes out for a corner. Bayern Munich can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "substitution",
+            "description": "Today's match ends for Joshua Kimmich who will be replaced by Douglas Costa (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 09:45",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "2 - 07:47",
+            "label": "corner",
+            "description": "The corner from Andre Schurrle (Dortmund) is intercepted by the defence."
+        },
+        {
+            "gameTime": "2 - 07:31",
+            "label": "",
+            "description": "Adrian Ramos (Dortmund) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The ball goes out of play. Dortmund are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 04:43",
+            "label": "y-card",
+            "description": "Mario Gotze (Dortmund) sees a yellow card from Tobias Stieler after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 03:32",
+            "label": "",
+            "description": "Great ball in from Marcel Schmelzer. Pierre Emerick Aubameyang (Dortmund) should really have done better with a close range header, but he heads it a whisker over the crossbar."
+        },
+        {
+            "gameTime": "2 - 01:47",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) is well placed to meet a cross and sends a difficult header towards the right post, but the goalkeeper reacts well to stop the effort."
+        },
+        {
+            "gameTime": "2 - 00:31",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) latches on to a precise pass and one on one with the keeper slams the ball towards the left hand post. Manuel Neuer is alert, though, and leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Well, that wasn't the best of halves. Both sides struggled to produce anything of merit. During the first 45 minutes, we have witnessed the ascendency of the visiting team who have been precise and effective. The home team tries to find the weakness in the opposition's defence, especially with rapid counter attacks, while the away team play possession football."
+        },
+        {
+            "gameTime": "1 - 46:09",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:05",
+            "label": "corner",
+            "description": "The resulting corner from Joshua Kimmich (Bayern Munich) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 44:54",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Good work from Bayern Munich as they win a corner."
+        },
+        {
+            "gameTime": "1 - 43:52",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 43:15",
+            "label": "corner",
+            "description": "Philipp Lahm (Bayern Munich) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 43:01",
+            "label": "",
+            "description": "The ball is cleared after Franck Ribery (Bayern Munich) attempted to dribble past an opposing player. Bayern Munich get a corner."
+        },
+        {
+            "gameTime": "1 - 41:42",
+            "label": "corner",
+            "description": "Xabi Alonso (Bayern Munich) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 41:33",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The referee blows his whistle, Bayern Munich are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 40:52",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Franck Ribery (Bayern Munich). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "gameTime": "1 - 39:10",
+            "label": "",
+            "description": "Philipp Lahm sends a lofted pass into the box, Thiago Alcantara (Bayern Munich) shows good awareness to connect with it but blazes his shot high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 35:29",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 31:38",
+            "label": "",
+            "description": "Mats Hummels (Bayern Munich) leaps highest in the penalty area to get on the end of a cross from the set piece, and he produces a promising goal bound header towards the middle of the goal, but Roman Burki pulls off a comfortable save to deny him."
+        },
+        {
+            "gameTime": "1 - 31:16",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) takes a direct free kick."
+        },
+        {
+            "gameTime": "1 - 30:47",
+            "label": "",
+            "description": "Tobias Stieler blows his whistle after Julian Weigl (Dortmund) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "1 - 28:33",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) takes one touch to control a lofted pass and makes some space to unleash a long range low drive. The ball heads towards the middle of the goal but fails to give the goalkeeper anything to worry about, allowing him to make a comfortable save."
+        },
+        {
+            "gameTime": "1 - 28:00",
+            "label": "",
+            "description": "Manuel Neuer blocks a long range effort from Andre Schurrle (Dortmund) towards the bottom right corner."
+        },
+        {
+            "gameTime": "1 - 25:56",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) misses a good chance to score. A perfect cross into the box finds Robert Lewandowski (Bayern Munich) who rises for a header, but he sends the ball well over the bar."
+        },
+        {
+            "gameTime": "1 - 22:19",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+        },
+        {
+            "gameTime": "1 - 20:34",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "1 - 20:15",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The linesman points to the corner flag, Bayern Munich are going to take it."
+        },
+        {
+            "gameTime": "1 - 19:47",
+            "label": "",
+            "description": "It's unbelievable, Andre Schurrle (Dortmund) blows a huge opportunity! He is totally unmarked and fires a first time shot towards goal from a few yards out, but Manuel Neuer reacts superbly to keep the ball out."
+        },
+        {
+            "gameTime": "1 - 18:27",
+            "label": "y-card",
+            "description": "The foul by Marc Bartra (Dortmund) is worthy of a card and a yellow is duly shown by Tobias Stieler."
+        },
+        {
+            "gameTime": "1 - 18:02",
+            "label": "",
+            "description": "Lukasz Piszczek (Dortmund) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 16:06",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "1 - 15:45",
+            "label": "injury",
+            "description": "Robert Lewandowski (Bayern Munich) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "gameTime": "1 - 13:29",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Franck Ribery (Bayern Munich)."
+        },
+        {
+            "gameTime": "1 - 10:20",
+            "label": "soccer-ball",
+            "description": "Goal Pierre Emerick Aubameyang (Dortmund)! Pierre Emerick Aubameyang (Dortmund) was put through by Mario Gotze and he showed brilliant composure inside the box to fire into the bottom left corner. 1:0."
+        },
+        {
+            "gameTime": "1 - 06:20",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) gets on the ball and beats an opponent, but his run is stopped by the referee Tobias Stieler who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 05:26",
+            "label": "",
+            "description": "Manuel Neuer blocks a long range effort from Marc Bartra (Dortmund) towards the roof of the net."
+        },
+        {
+            "gameTime": "1 - 03:20",
+            "label": "",
+            "description": "Adrian Ramos (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 00:38",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "gameTime": "1 - 00:22",
+            "label": "",
+            "description": "Referee Tobias Stieler sees the trip by Mario Gotze (Dortmund) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Bayern Munich will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Tobias Stieler is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bayern Munich have not lost for 4 games in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Gonzalo Castro from Dortmund is in good form this season, he's assisted in a goal 4 times."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang looks sharp as he's the top goal scorer for Dortmund with 23 goals in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The game wasn't exhilarating, but it wasn't totally boring either. There were a few nice moments from both sides. The away side was dominant and dictated the tempo of the game. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks. On the other hand, long balls and crosses were the main weapons of the away team."
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "19/11/2016 - 20:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "1 - 0"
+}

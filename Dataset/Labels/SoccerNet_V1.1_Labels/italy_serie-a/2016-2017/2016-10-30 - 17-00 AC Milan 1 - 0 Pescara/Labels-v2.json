@@ -1,0 +1,1620 @@
+{
+    "UrlLocal": "italy_serie-a/2016-2017/2016-10-30 - 17-00 AC Milan 1 - 0 Pescara/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "1 - 00:00",
+            "label": "Kick-off",
+            "position": "0",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 00:13",
+            "label": "Ball out of play",
+            "position": "13208",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 00:21",
+            "label": "Throw-in",
+            "position": "21575",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 00:24",
+            "label": "Ball out of play",
+            "position": "24155",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 00:46",
+            "label": "Throw-in",
+            "position": "46653",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 01:14",
+            "label": "Ball out of play",
+            "position": "74127",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 01:29",
+            "label": "Clearance",
+            "position": "89081",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 01:36",
+            "label": "Ball out of play",
+            "position": "96519",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 01:42",
+            "label": "Throw-in",
+            "position": "102355",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 03:32",
+            "label": "Ball out of play",
+            "position": "212376",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 03:41",
+            "label": "Throw-in",
+            "position": "221953",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 03:44",
+            "label": "Ball out of play",
+            "position": "224963",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 03:50",
+            "label": "Throw-in",
+            "position": "230268",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 04:09",
+            "label": "Shots off target",
+            "position": "249588",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 04:10",
+            "label": "Ball out of play",
+            "position": "250616",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 04:15",
+            "label": "Clearance",
+            "position": "255684",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 04:52",
+            "label": "Foul",
+            "position": "292072",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 05:13",
+            "label": "Indirect free-kick",
+            "position": "313346",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 05:42",
+            "label": "Foul",
+            "position": "342261",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 05:49",
+            "label": "Indirect free-kick",
+            "position": "349403",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 07:45",
+            "label": "Ball out of play",
+            "position": "465916",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 08:02",
+            "label": "Throw-in",
+            "position": "482976",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 09:03",
+            "label": "Ball out of play",
+            "position": "543659",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 09:08",
+            "label": "Clearance",
+            "position": "548841",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 10:15",
+            "label": "Ball out of play",
+            "position": "615119",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 10:45",
+            "label": "Corner",
+            "position": "645735",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 11:35",
+            "label": "Shots on target",
+            "position": "695463",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 12:03",
+            "label": "Shots off target",
+            "position": "723395",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 12:04",
+            "label": "Ball out of play",
+            "position": "724871",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 12:18",
+            "label": "Clearance",
+            "position": "738474",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 12:34",
+            "label": "Throw-in",
+            "position": "754405",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 12:50",
+            "label": "Ball out of play",
+            "position": "770026",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 13:15",
+            "label": "Corner",
+            "position": "795607",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 13:54",
+            "label": "Ball out of play",
+            "position": "834417",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 14:02",
+            "label": "Throw-in",
+            "position": "842541",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 14:31",
+            "label": "Shots on target",
+            "position": "871556",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 14:59",
+            "label": "Ball out of play",
+            "position": "899758",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 15:06",
+            "label": "Throw-in",
+            "position": "906028",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 15:24",
+            "label": "Foul",
+            "position": "924483",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 15:35",
+            "label": "Indirect free-kick",
+            "position": "935615",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 15:45",
+            "label": "Foul",
+            "position": "945823",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 16:05",
+            "label": "Indirect free-kick",
+            "position": "965331",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 16:45",
+            "label": "Shots on target",
+            "position": "1005601",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 17:40",
+            "label": "Ball out of play",
+            "position": "1060750",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 17:46",
+            "label": "Throw-in",
+            "position": "1066090",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 18:01",
+            "label": "Foul",
+            "position": "1081572",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 18:30",
+            "label": "Indirect free-kick",
+            "position": "1110903",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 19:33",
+            "label": "Offside",
+            "position": "1173058",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 20:04",
+            "label": "Indirect free-kick",
+            "position": "1204946",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 21:37",
+            "label": "Ball out of play",
+            "position": "1297360",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 21:56",
+            "label": "Throw-in",
+            "position": "1316863",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 22:00",
+            "label": "Ball out of play",
+            "position": "1320563",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 22:12",
+            "label": "Throw-in",
+            "position": "1332057",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 22:26",
+            "label": "Ball out of play",
+            "position": "1346956",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 22:35",
+            "label": "Throw-in",
+            "position": "1355149",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 23:37",
+            "label": "Ball out of play",
+            "position": "1417019",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 23:49",
+            "label": "Throw-in",
+            "position": "1429456",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 24:43",
+            "label": "Ball out of play",
+            "position": "1483515",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 25:55",
+            "label": "Throw-in",
+            "position": "1555119",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 26:47",
+            "label": "Ball out of play",
+            "position": "1607668",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 27:04",
+            "label": "Clearance",
+            "position": "1624627",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 27:11",
+            "label": "Ball out of play",
+            "position": "1631680",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 27:39",
+            "label": "Clearance",
+            "position": "1659530",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 28:02",
+            "label": "Foul",
+            "position": "1682475",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 28:12",
+            "label": "Indirect free-kick",
+            "position": "1692169",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 28:26",
+            "label": "Ball out of play",
+            "position": "1706641",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 28:35",
+            "label": "Throw-in",
+            "position": "1715666",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 28:46",
+            "label": "Ball out of play",
+            "position": "1726262",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 29:05",
+            "label": "Throw-in",
+            "position": "1745246",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 29:16",
+            "label": "Offside",
+            "position": "1756561",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 29:43",
+            "label": "Clearance",
+            "position": "1783330",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 29:55",
+            "label": "Shots off target",
+            "position": "1795145",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 29:56",
+            "label": "Ball out of play",
+            "position": "1796308",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 30:16",
+            "label": "Clearance",
+            "position": "1816688",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 30:31",
+            "label": "Ball out of play",
+            "position": "1831987",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 30:40",
+            "label": "Clearance",
+            "position": "1840958",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 31:30",
+            "label": "Foul",
+            "position": "1890728",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 31:36",
+            "label": "Indirect free-kick",
+            "position": "1896022",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 32:05",
+            "label": "Ball out of play",
+            "position": "1925930",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 32:44",
+            "label": "Corner",
+            "position": "1964511",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 32:45",
+            "label": "Foul",
+            "position": "1965760",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 33:18",
+            "label": "Indirect free-kick",
+            "position": "1998550",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 33:22",
+            "label": "Ball out of play",
+            "position": "2002684",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 33:34",
+            "label": "Throw-in",
+            "position": "2014301",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 33:37",
+            "label": "Foul",
+            "position": "2017034",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 34:27",
+            "label": "Indirect free-kick",
+            "position": "2067049",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 34:29",
+            "label": "Shots on target",
+            "position": "2069740",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 35:51",
+            "label": "Shots off target",
+            "position": "2151550",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 35:52",
+            "label": "Ball out of play",
+            "position": "2152575",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 36:13",
+            "label": "Clearance",
+            "position": "2173800",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 36:22",
+            "label": "Foul",
+            "position": "2182434",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 36:31",
+            "label": "Yellow card",
+            "position": "2191664",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 37:37",
+            "label": "Direct free-kick",
+            "position": "2257460",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 37:39",
+            "label": "Ball out of play",
+            "position": "2259824",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 38:00",
+            "label": "Clearance",
+            "position": "2280895",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 38:05",
+            "label": "Ball out of play",
+            "position": "2285771",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 38:16",
+            "label": "Corner",
+            "position": "2296493",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 38:38",
+            "label": "Foul",
+            "position": "2318419",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 38:54",
+            "label": "Indirect free-kick",
+            "position": "2334653",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 39:16",
+            "label": "Ball out of play",
+            "position": "2356856",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 39:21",
+            "label": "Throw-in",
+            "position": "2361290",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "1 - 40:14",
+            "label": "Ball out of play",
+            "position": "2414961",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 40:37",
+            "label": "Corner",
+            "position": "2437134",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 40:46",
+            "label": "Foul",
+            "position": "2446459",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 40:55",
+            "label": "Yellow card",
+            "position": "2455000",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 41:16",
+            "label": "Indirect free-kick",
+            "position": "2476390",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 42:52",
+            "label": "Shots off target",
+            "position": "2572858",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 43:11",
+            "label": "Ball out of play",
+            "position": "2591579",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 43:30",
+            "label": "Corner",
+            "position": "2610284",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 43:37",
+            "label": "Ball out of play",
+            "position": "2617202",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 43:39",
+            "label": "Throw-in",
+            "position": "2619402",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 43:57",
+            "label": "Ball out of play",
+            "position": "2637958",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 44:05",
+            "label": "Throw-in",
+            "position": "2645282",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "1 - 44:45",
+            "label": "Shots on target",
+            "position": "2685714",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 00:00",
+            "label": "Kick-off",
+            "position": "14",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 00:17",
+            "label": "Foul",
+            "position": "17782",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 00:25",
+            "label": "Indirect free-kick",
+            "position": "25785",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 00:46",
+            "label": "Ball out of play",
+            "position": "46199",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 01:10",
+            "label": "Clearance",
+            "position": "70015",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 01:59",
+            "label": "Foul",
+            "position": "119498",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 02:05",
+            "label": "Yellow card",
+            "position": "125000",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 02:05",
+            "label": "Yellow card",
+            "position": "125000",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 03:13",
+            "label": "Shots on target",
+            "position": "193337",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 03:13",
+            "label": "Direct free-kick",
+            "position": "193337",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 03:14",
+            "label": "Goal",
+            "position": "194234",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 04:02",
+            "label": "Kick-off",
+            "position": "242950",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 04:27",
+            "label": "Offside",
+            "position": "267364",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 04:55",
+            "label": "Indirect free-kick",
+            "position": "295943",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 05:25",
+            "label": "Shots off target",
+            "position": "325043",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 05:30",
+            "label": "Ball out of play",
+            "position": "330524",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 05:57",
+            "label": "Clearance",
+            "position": "357597",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 06:02",
+            "label": "Ball out of play",
+            "position": "362345",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 06:06",
+            "label": "Throw-in",
+            "position": "366686",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 06:31",
+            "label": "Ball out of play",
+            "position": "391787",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 06:51",
+            "label": "Throw-in",
+            "position": "411495",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 07:15",
+            "label": "Shots on target",
+            "position": "435210",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 07:15",
+            "label": "Ball out of play",
+            "position": "435868",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 07:29",
+            "label": "Clearance",
+            "position": "449643",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 07:47",
+            "label": "Shots off target",
+            "position": "467819",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 07:48",
+            "label": "Ball out of play",
+            "position": "468866",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 10:29",
+            "label": "Substitution",
+            "position": "629000",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 11:50",
+            "label": "Clearance",
+            "position": "710710",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 12:13",
+            "label": "Foul",
+            "position": "733163",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 12:47",
+            "label": "Indirect free-kick",
+            "position": "767706",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 12:57",
+            "label": "Ball out of play",
+            "position": "777771",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 13:03",
+            "label": "Clearance",
+            "position": "783869",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 13:25",
+            "label": "Foul",
+            "position": "805335",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 13:41",
+            "label": "Indirect free-kick",
+            "position": "821333",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 14:23",
+            "label": "Ball out of play",
+            "position": "863550",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 14:41",
+            "label": "Throw-in",
+            "position": "881618",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 15:20",
+            "label": "Shots on target",
+            "position": "920836",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 15:23",
+            "label": "Shots off target",
+            "position": "923856",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 15:24",
+            "label": "Ball out of play",
+            "position": "924536",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 16:01",
+            "label": "Substitution",
+            "position": "961000",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 16:07",
+            "label": "Clearance",
+            "position": "967906",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 16:41",
+            "label": "Shots on target",
+            "position": "1001251",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 16:42",
+            "label": "Ball out of play",
+            "position": "1002291",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 17:10",
+            "label": "Corner",
+            "position": "1030514",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 17:11",
+            "label": "Shots on target",
+            "position": "1031651",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 17:15",
+            "label": "Ball out of play",
+            "position": "1035435",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 17:25",
+            "label": "Throw-in",
+            "position": "1045170",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 17:53",
+            "label": "Clearance",
+            "position": "1073109",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 19:08",
+            "label": "Ball out of play",
+            "position": "1148492",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 19:17",
+            "label": "Clearance",
+            "position": "1157125",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 20:01",
+            "label": "Ball out of play",
+            "position": "1201385",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 20:06",
+            "label": "Throw-in",
+            "position": "1206865",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 20:21",
+            "label": "Ball out of play",
+            "position": "1221231",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 20:23",
+            "label": "Throw-in",
+            "position": "1223848",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 20:37",
+            "label": "Throw-in",
+            "position": "1237544",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 21:25",
+            "label": "Ball out of play",
+            "position": "1285486",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 21:43",
+            "label": "Throw-in",
+            "position": "1303438",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 22:00",
+            "label": "Ball out of play",
+            "position": "1320430",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 22:14",
+            "label": "Throw-in",
+            "position": "1334303",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 22:24",
+            "label": "Ball out of play",
+            "position": "1344383",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 22:41",
+            "label": "Substitution",
+            "position": "1361761",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 22:49",
+            "label": "Throw-in",
+            "position": "1369205",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 23:11",
+            "label": "Ball out of play",
+            "position": "1391075",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 23:18",
+            "label": "Clearance",
+            "position": "1398490",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 24:11",
+            "label": "Ball out of play",
+            "position": "1451866",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 24:34",
+            "label": "Corner",
+            "position": "1474436",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 24:52",
+            "label": "Shots on target",
+            "position": "1492024",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 26:01",
+            "label": "Foul",
+            "position": "1561419",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 26:10",
+            "label": "Indirect free-kick",
+            "position": "1570244",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 27:24",
+            "label": "Ball out of play",
+            "position": "1644020",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 27:32",
+            "label": "Throw-in",
+            "position": "1652391",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 27:45",
+            "label": "Ball out of play",
+            "position": "1665311",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 28:10",
+            "label": "Substitution",
+            "position": "1690000",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 28:32",
+            "label": "Clearance",
+            "position": "1712782",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 29:03",
+            "label": "Ball out of play",
+            "position": "1743517",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 29:08",
+            "label": "Throw-in",
+            "position": "1748630",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 30:54",
+            "label": "Ball out of play",
+            "position": "1854657",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 31:18",
+            "label": "Substitution",
+            "position": "1878000",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "Throw-in",
+            "position": "1890183",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 32:03",
+            "label": "Indirect free-kick",
+            "position": "1923958",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 32:09",
+            "label": "Ball out of play",
+            "position": "1929449",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 32:24",
+            "label": "Clearance",
+            "position": "1944683",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 32:30",
+            "label": "Ball out of play",
+            "position": "1950675",
+            "team": "not applicable",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 32:42",
+            "label": "Clearance",
+            "position": "1962698",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 33:28",
+            "label": "Shots on target",
+            "position": "2008112",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 33:29",
+            "label": "Offside",
+            "position": "2009212",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 33:58",
+            "label": "Indirect free-kick",
+            "position": "2038205",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 34:12",
+            "label": "Foul",
+            "position": "2052676",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 34:45",
+            "label": "Indirect free-kick",
+            "position": "2085183",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 35:44",
+            "label": "Shots on target",
+            "position": "2144936",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 36:15",
+            "label": "Foul",
+            "position": "2175940",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 36:26",
+            "label": "Indirect free-kick",
+            "position": "2186532",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 37:00",
+            "label": "Shots off target",
+            "position": "2220494",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 37:01",
+            "label": "Ball out of play",
+            "position": "2221954",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 37:29",
+            "label": "Clearance",
+            "position": "2249147",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 37:33",
+            "label": "Foul",
+            "position": "2253569",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 37:52",
+            "label": "Indirect free-kick",
+            "position": "2272973",
+            "team": "home",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 38:01",
+            "label": "Foul",
+            "position": "2281000",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 38:39",
+            "label": "Substitution",
+            "position": "2319516",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 38:45",
+            "label": "Indirect free-kick",
+            "position": "2325601",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 39:06",
+            "label": "Ball out of play",
+            "position": "2346822",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 39:22",
+            "label": "Throw-in",
+            "position": "2362574",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 39:28",
+            "label": "Ball out of play",
+            "position": "2368532",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 39:45",
+            "label": "Throw-in",
+            "position": "2385613",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 40:23",
+            "label": "Shots off target",
+            "position": "2423598",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 40:24",
+            "label": "Ball out of play",
+            "position": "2424423",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 40:41",
+            "label": "Clearance",
+            "position": "2441901",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 42:20",
+            "label": "Ball out of play",
+            "position": "2540018",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 42:27",
+            "label": "Throw-in",
+            "position": "2547031",
+            "team": "away",
+            "visibility": "not shown"
+        },
+        {
+            "gameTime": "2 - 43:08",
+            "label": "Ball out of play",
+            "position": "2588984",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 43:16",
+            "label": "Throw-in",
+            "position": "2596184",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 43:36",
+            "label": "Ball out of play",
+            "position": "2616345",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 43:58",
+            "label": "Throw-in",
+            "position": "2638118",
+            "team": "home",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 44:12",
+            "label": "Ball out of play",
+            "position": "2652493",
+            "team": "not applicable",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 44:19",
+            "label": "Throw-in",
+            "position": "2659981",
+            "team": "away",
+            "visibility": "visible"
+        },
+        {
+            "gameTime": "2 - 44:54",
+            "label": "Foul",
+            "position": "2694323",
+            "team": "away",
+            "visibility": "visible"
+        }
+    ],
+    "gameAwayTeam": "Pescara",
+    "gameDate": "30/10/2016 - 17:00",
+    "gameHomeTeam": "AC Milan",
+    "gameScore": "1 - 0"
+}

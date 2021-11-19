@@ -1,0 +1,495 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2016-12-10 - 17-30 FC Koln 1 - 1 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "There wasn't a lot of action on the pitch. We could describe the game as average. We saw a very balanced game over the 90 minutes. The home team attempted to leave the opposition defence outnumbered and hit them on the break. The visitors tried to keep the ball on the ground and play a passing game."
+        },
+        {
+            "gameTime": "2 - 49:10",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 48:19",
+            "label": "yr-card",
+            "description": "Salih Ozcan (Koln) is awarded a second yellow by Felix Zwayer and subsequently dismisses him with a red one."
+        },
+        {
+            "gameTime": "2 - 47:13",
+            "label": "",
+            "description": "Dortmund hold the ball and are exchanging some long passes."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 44:50",
+            "label": "soccer-ball",
+            "description": "GOAL! Superb work from Adrian Ramos, who plays a vital role in the build up. He squares it to Marco Reus (Dortmund), who beats Thomas Kessler with a brilliant shot into the bottom right corner. 1:1."
+        },
+        {
+            "gameTime": "2 - 44:02",
+            "label": "",
+            "description": "Sehrou Guirassy (Koln) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Dortmund will have a throw in."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Anthony Modeste as he is replaced by Sehrou Guirassy (Koln)."
+        },
+        {
+            "gameTime": "2 - 41:11",
+            "label": "",
+            "description": "Sebastian Rode (Dortmund) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball."
+        },
+        {
+            "gameTime": "2 - 41:00",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "2 - 39:57",
+            "label": "",
+            "description": "Anthony Modeste (Koln) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 37:04",
+            "label": "",
+            "description": "Adrian Ramos (Dortmund) is penalised for a foul. Felix Zwayer had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 35:03",
+            "label": "",
+            "description": "Konstantin Rausch (Koln) comes close as his long range free kick goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "2 - 34:26",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) gives away a foul during an attacking move and the referee blows his whistle."
+        },
+        {
+            "gameTime": "2 - 32:57",
+            "label": "",
+            "description": "Marco Reus (Dortmund) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 30:39",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) whips a long ball in from the free kick which is intercepted by Thomas Kessler."
+        },
+        {
+            "gameTime": "2 - 30:15",
+            "label": "substitution",
+            "description": "Peter Stoger has decided to introduce fresh legs, with Konstantin Rausch (Koln) replacing Artjoms Rudnevs."
+        },
+        {
+            "gameTime": "2 - 29:45",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Adrian Ramos (Dortmund) comes onto the pitch for Sokratis."
+        },
+        {
+            "gameTime": "2 - 29:25",
+            "label": "",
+            "description": "Dominique Heintz (Koln) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 28:56",
+            "label": "corner",
+            "description": "Dortmund didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "gameTime": "2 - 28:36",
+            "label": "",
+            "description": "Thomas Kessler was forced into action to thwart Marco Reus (Dortmund). He found himself some space after latching on to a pass and unleashed a shot to the right post but couldn't beat the keeper. Dortmund get a corner."
+        },
+        {
+            "gameTime": "2 - 28:26",
+            "label": "",
+            "description": "Neat passing move from Dortmund in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "2 - 27:45",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) takes the resultant free kick from distance and swings it into the box, but the goalkeeper climbs high to collect the ball."
+        },
+        {
+            "gameTime": "2 - 26:01",
+            "label": "y-card",
+            "description": "Felix Zwayer shows a yellow card to Marco Hoger (Koln) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 25:36",
+            "label": "",
+            "description": "A cross is whipped into the box by Ousmane Dembele (Dortmund) and Pierre Emerick Aubameyang controls it well. He lines up the ball, but one of the defenders produces a timely intervention."
+        },
+        {
+            "gameTime": "2 - 25:00",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "2 - 23:32",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) commits a rough challenge and Felix Zwayer blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 22:38",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Erik Durm (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 21:45",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity."
+        },
+        {
+            "gameTime": "2 - 20:17",
+            "label": "",
+            "description": "Neat link up play between Yuya Osako (Koln) and Anthony Modeste, but Roman Weidenfeller reads the game well and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 19:37",
+            "label": "y-card",
+            "description": "Salih Ozcan (Koln) has tested the patience of referee Felix Zwayer and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 18:41",
+            "label": "",
+            "description": "Marco Reus (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. FC Koln are taking a throw in."
+        },
+        {
+            "gameTime": "2 - 16:50",
+            "label": "corner",
+            "description": "Marcel Schmelzer (Dortmund) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "y-card",
+            "description": "Sokratis (Dortmund) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+        },
+        {
+            "gameTime": "2 - 14:21",
+            "label": "",
+            "description": "Dortmund control the tempo of the game by exchanging some accurate short passes."
+        },
+        {
+            "gameTime": "2 - 14:00",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "2 - 12:27",
+            "label": "corner",
+            "description": "Marcel Schmelzer (Dortmund) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play."
+        },
+        {
+            "gameTime": "2 - 11:01",
+            "label": "corner",
+            "description": "FC Koln have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "2 - 09:50",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Marco Reus (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 08:00",
+            "label": "substitution",
+            "description": "Substitution. Gonzalo Castro is replaced by Sebastian Rode (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 07:58",
+            "label": "y-card",
+            "description": "Dominique Heintz (Koln) receives a yellow card from the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "2 - 04:55",
+            "label": "",
+            "description": "Anthony Modeste (Koln) produces a stunning solo run from the middle of the pitch, all the way to the penalty area. He unleashes a decent strike which goes narrowly wide of the right post. The ball goes out of play and Dortmund will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 03:36",
+            "label": "",
+            "description": "Good clearance! Pierre Emerick Aubameyang (Dortmund) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him."
+        },
+        {
+            "gameTime": "2 - 01:31",
+            "label": "",
+            "description": "Anthony Modeste (Koln) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half time break is over and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Up to now the match has suffered in terms of attractiveness as the game has been devoid of any interesting moments. Neither team was able to take the initiative and dominate the first half. The home players attempt to beat the opposition's defence using mostly counter attacks. The away team tries to prevail using combination football."
+        },
+        {
+            "gameTime": "1 - 45:09",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:01",
+            "label": "y-card",
+            "description": "Ousmane Dembele (Dortmund) is arguing with the referee and is given a caution."
+        },
+        {
+            "gameTime": "1 - 44:56",
+            "label": "",
+            "description": "Artjoms Rudnevs (Koln) commits a foul and Felix Zwayer immediately signals a free kick."
+        },
+        {
+            "gameTime": "1 - 44:48",
+            "label": "",
+            "description": "Artjoms Rudnevs (Koln) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 44:02",
+            "label": "",
+            "description": "Marco Hoger (Koln) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "gameTime": "1 - 42:02",
+            "label": "",
+            "description": "Artjoms Rudnevs (Koln) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play."
+        },
+        {
+            "gameTime": "1 - 41:20",
+            "label": "",
+            "description": "Marco Reus (Dortmund) sends a long ball in, but Thomas Kessler comfortably gathers the ball."
+        },
+        {
+            "gameTime": "1 - 41:05",
+            "label": "",
+            "description": "Yuya Osako (Koln) brings an opponent down and Felix Zwayer interrupts the game."
+        },
+        {
+            "gameTime": "1 - 39:31",
+            "label": "",
+            "description": "The foul by Sokratis (Dortmund) was seen by Felix Zwayer who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 38:26",
+            "label": "",
+            "description": "Marco Hoger (Koln) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "gameTime": "1 - 37:33",
+            "label": "",
+            "description": "Artjoms Rudnevs (Koln) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 35:57",
+            "label": "",
+            "description": "Yuya Osako (Koln) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 34:42",
+            "label": "",
+            "description": "Yuya Osako (Koln) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Felix Zwayer with no other option than to blow for a foul."
+        },
+        {
+            "gameTime": "1 - 32:51",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) receives a clever chip pass into a promising position. Nevertheless, one of the defenders is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "gameTime": "1 - 30:54",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 28:00",
+            "label": "soccer-ball",
+            "description": "The ball from the free kick finds its way to Artjoms Rudnevs (Koln) who finds himself some space and scores with a thunderous header into the bottom right corner. An incredible long range header!"
+        },
+        {
+            "gameTime": "1 - 27:33",
+            "label": "y-card",
+            "description": "Marcel Schmelzer (Dortmund) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "1 - 26:32",
+            "label": "substitution",
+            "description": "Substitution. Marc Bartra (Dortmund) on for Lukasz Piszczek."
+        },
+        {
+            "gameTime": "1 - 25:14",
+            "label": "",
+            "description": "Marco Reus (Dortmund) tries to find Pierre Emerick Aubameyang, but he puts too much power on the pass. The ball is off of the pitch and it's a goal kick for FC Koln."
+        },
+        {
+            "gameTime": "1 - 23:55",
+            "label": "",
+            "description": "Marco Reus (Dortmund) blows a huge opportunity after receiving a cross from the free kick. He shoots from just outside of the box, but the ball goes narrowly wide of the left post! The ball is off of the pitch and it's a goal kick for FC Koln."
+        },
+        {
+            "gameTime": "1 - 22:58",
+            "label": "",
+            "description": "Frederik Sorensen (Koln) brings his opponent down. Felix Zwayer has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 22:13",
+            "label": "",
+            "description": "Artjoms Rudnevs (Koln) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 19:42",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark."
+        },
+        {
+            "gameTime": "1 - 18:14",
+            "label": "",
+            "description": "Anthony Modeste (Koln) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 18:00",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) shows too much aggression during an attacking move and ends up fouling his opponent."
+        },
+        {
+            "gameTime": "1 - 16:59",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 15:48",
+            "label": "",
+            "description": "Matthias Ginter (Dortmund) sends a long ball forward to Ousmane Dembele, but he put too much power and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 14:13",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) tries to find Pierre Emerick Aubameyang, but he puts too much power on the pass. The ball is off of the pitch and it's a goal kick for FC Koln."
+        },
+        {
+            "gameTime": "1 - 12:57",
+            "label": "",
+            "description": "Erik Durm (Dortmund) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 11:49",
+            "label": "",
+            "description": "The Dortmund players keep hold of the ball by exchanging some long passes. One inaccurate pass, however, surrenders possession."
+        },
+        {
+            "gameTime": "1 - 10:47",
+            "label": "",
+            "description": "Erik Durm (Dortmund) commits a foul after making a slide tackle on his opponent."
+        },
+        {
+            "gameTime": "1 - 09:49",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) makes a rough challenge and Felix Zwayer blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 09:15",
+            "label": "",
+            "description": "The ball is cleared after Marco Hoger (Koln) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 08:30",
+            "label": "",
+            "description": "GOAL DISALLOWED! Controversy and anger as Pierre Emerick Aubameyang (Dortmund) has a goal ruled out, incredibly, for offside."
+        },
+        {
+            "gameTime": "1 - 07:44",
+            "label": "",
+            "description": "Frederik Sorensen (Koln) sends a long cross over to Artjoms Rudnevs, but Roman Weidenfeller comes forward to gather the ball."
+        },
+        {
+            "gameTime": "1 - 05:59",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) plays a one two with Ousmane Dembele, but the move breaks down."
+        },
+        {
+            "gameTime": "1 - 04:45",
+            "label": "",
+            "description": "Yuya Osako (Koln) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+        },
+        {
+            "gameTime": "1 - 04:32",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 03:13",
+            "label": "",
+            "description": "What a wonderful moment! Erik Durm (Dortmund) receives a perfect pass in the middle of the pitch, lines up the ball and unloads a powerful strike towards the bottom right corner. His effort fails to surprise Thomas Kessler, who makes a nice save."
+        },
+        {
+            "gameTime": "1 - 02:25",
+            "label": "",
+            "description": "That was close by Salih Ozcan (Koln)! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar."
+        },
+        {
+            "gameTime": "1 - 01:27",
+            "label": "",
+            "description": "Ousmane Dembele picks out Marco Reus (Dortmund) unmarked inside the box, but he blazes the ball well over the bar. The ball goes out of play and FC Koln will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 00:40",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) is picked out by one of his teammates with a brilliant long range cross, but he doesn't control the ball well and the defence eliminates the danger without any problem. The referee and the linesman both signal a throw in for Dortmund."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dortmund will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Felix Zwayer."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "4:1 This was the result of the last match between Dortmund and B. Monchengladbach."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang has already scored 16 goals and he is the top goal scorer for Dortmund in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Anthony Modeste looks sharp as he's the top goal scorer for FC Koln with 22 goals in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There wasn't a lot of action on the pitch. We could describe the game as average. We saw a very balanced game over the 90 minutes. The home team attempted to leave the opposition defence outnumbered and hit them on the break. The visitors tried to keep the ball on the ground and play a passing game."
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "10/12/2016 - 17:30",
+    "gameHomeTeam": "FC Koln",
+    "gameScore": "1 - 1"
+}

@@ -1,0 +1,430 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "Today's game was very poor. There weren't many thrilling moments. The home side dominated this game. The home side attempted to hold onto the ball for as long as possible. The away team's main weapon was fast counter attacks."
+        },
+        {
+            "gameTime": "2 - 47:50",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 47:40",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) is caught offside!"
+        },
+        {
+            "gameTime": "2 - 47:03",
+            "label": "",
+            "description": "Daniel Amartey (Leicester) was too forceful with his tackle and Michael Dean interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "2 - 45:17",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 42:50",
+            "label": "attendance",
+            "description": "The attendance is 75256."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "substitution",
+            "description": "A substitution has been made. Juan Manuel Mata is replaced by Ashley Young (Manchester United)."
+        },
+        {
+            "gameTime": "2 - 40:39",
+            "label": "",
+            "description": "The Manchester United players are exchanging some short passes."
+        },
+        {
+            "gameTime": "2 - 37:52",
+            "label": "substitution",
+            "description": "Jose Mourinho has decided to make a change. Wayne Rooney (Manchester United) replaces Marcus Rashford."
+        },
+        {
+            "gameTime": "2 - 36:30",
+            "label": "corner",
+            "description": "Demarai Gray (Leicester) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 36:12",
+            "label": "",
+            "description": "Andy King (Leicester) blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball is out of play. A goal scoring opportunity from a corner for Leicester."
+        },
+        {
+            "gameTime": "2 - 35:57",
+            "label": "corner",
+            "description": "Demarai Gray (Leicester) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 35:44",
+            "label": "",
+            "description": "Demarai Gray (Leicester) fails to send a pass into the box as his effort is cut out. Leicester earn a corner."
+        },
+        {
+            "gameTime": "2 - 32:53",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Michael Carrick (Manchester United) comes onto the pitch so that Jesse Lingard can be given a rest."
+        },
+        {
+            "gameTime": "2 - 32:01",
+            "label": "corner",
+            "description": "Demarai Gray (Leicester) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "2 - 31:39",
+            "label": "",
+            "description": "David de Gea blocks a long range effort from Demarai Gray (Leicester) towards the top right corner. The referee and one of his assistants signal for a corner kick to Leicester."
+        },
+        {
+            "gameTime": "2 - 29:38",
+            "label": "corner",
+            "description": "The resulting corner from Daley Blind (Manchester United) is cleared by the defence."
+        },
+        {
+            "gameTime": "2 - 29:22",
+            "label": "",
+            "description": "Daley Blind (Manchester United) wastes a good opportunity as his pass into the box is blocked by the defence. The referee points to the corner flag and Manchester United will take a corner."
+        },
+        {
+            "gameTime": "2 - 29:00",
+            "label": "y-card",
+            "description": "Michael Dean shows a yellow card to Danny Simpson (Leicester), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "gameTime": "2 - 26:09",
+            "label": "corner",
+            "description": "The resulting corner from Daley Blind (Manchester United) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "2 - 25:58",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Zlatan Ibrahimovic (Manchester United). Manchester United get a corner."
+        },
+        {
+            "gameTime": "2 - 23:24",
+            "label": "",
+            "description": "Andy King (Leicester) takes a wonderful touch after collecting a pass inside the box. He steers his shot goalwards, but the keeper produces a decent save!"
+        },
+        {
+            "gameTime": "2 - 21:33",
+            "label": "corner",
+            "description": "Juan Manuel Mata (Manchester United) sends in a poor cross from the corner and Ron Robert Zieler has no trouble gathering it."
+        },
+        {
+            "gameTime": "2 - 21:23",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) latches on to a precise defence splitting pass and fires a nice strike from a promising distance towards the bottom right corner. Ron Robert Zieler has a clear sight of it and makes a comfortable save. The ball goes out of play. Manchester United are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 19:12",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) unleashed a promising volley from the edge of the box, but he narrowly misses the target as his shot goes over the bar."
+        },
+        {
+            "gameTime": "2 - 16:42",
+            "label": "substitution",
+            "description": "Here's the change. Marc Albrighton leaves the pitch and Jeffery Schlupp (Leicester) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 13:25",
+            "label": "soccer-ball",
+            "description": "Demarai Gray (Leicester) scores a splendid goal as he finishes his great individual effort with a venomous shot from around 21 metres out into the top right corner. Take a bow son. The score is now 4:1."
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "",
+            "description": "Neat passing move from Manchester United in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "2 - 09:50",
+            "label": "",
+            "description": "Juan Manuel Mata (Manchester United) misses a good chance to score. An inch perfect cross into the box finds Juan Manuel Mata (Manchester United) who rises for a header, but sends the ball well over the bar."
+        },
+        {
+            "gameTime": "2 - 07:32",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) leaps high to meet a lofted pass inside the six yard box, but his header flies yards wide of the right post."
+        },
+        {
+            "gameTime": "2 - 04:28",
+            "label": "y-card",
+            "description": "Today's referee Michael Dean rightly decides to book Robert Huth (Leicester) for his harsh tackle."
+        },
+        {
+            "gameTime": "2 - 02:11",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) attempted to pick out a free teammate inside the box, but Ron Robert Zieler comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Claudio Ranieri has made a change at the break. Demarai Gray (Leicester) has come on in place of Jamie Vardy."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "The need to improve in the second half has brought about a change. Riyad Mahrez comes off for Andy King (Leicester)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. Manchester United enjoyed superiority over the opposition in that first 45 minutes. The home side have dominated the possession and midfield so far. The visitors have spent most of their time defending and waiting for the right moment to launch counter attacks."
+        },
+        {
+            "gameTime": "1 - 46:51",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 46:14",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:55",
+            "label": "",
+            "description": "The foul by Jamie Vardy (Leicester) was seen by Michael Dean who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 41:46",
+            "label": "soccer-ball",
+            "description": "Daley Blind takes over corner duties and expertly finds Paul Pogba (Manchester United), who jumps highest and coolly plants a bullet header into the right side of the goal. The score is now 4:0."
+        },
+        {
+            "gameTime": "1 - 41:20",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "gameTime": "1 - 41:09",
+            "label": "",
+            "description": "Marcus Rashford (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. The ball is out of play and Manchester United manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 39:29",
+            "label": "soccer-ball",
+            "description": "Goal! Mata puts the ball on a plate for Marcus Rashford (Manchester United), who scores with a simple close range finish. It's 3:0."
+        },
+        {
+            "gameTime": "1 - 38:55",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 38:54",
+            "label": "",
+            "description": "The ball is cleared after Marcus Rashford (Manchester United) attempted to dribble past an opposing player. The ball is out of play and the linesman points at the corner flag. Corner to Manchester United."
+        },
+        {
+            "gameTime": "1 - 36:22",
+            "label": "soccer-ball",
+            "description": "Goal! Jesse Lingard slips it to Mata (Manchester United) on the edge of the box and he finds the left side of the net with a great effort. The score is 2:0."
+        },
+        {
+            "gameTime": "1 - 34:11",
+            "label": "",
+            "description": "Marcus Rashford (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 31:37",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Zlatan Ibrahimovic (Manchester United) heads on."
+        },
+        {
+            "gameTime": "1 - 30:12",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Daley Blind (Manchester United), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "1 - 29:48",
+            "label": "",
+            "description": "Paul Pogba (Manchester United) receives a pass and tries his luck with a shot from 25 metres out. Ron Robert Zieler pulls off a decent save to stop the effort going in the top left corner. The linesman points to the corner flag, Manchester United are going to take it."
+        },
+        {
+            "gameTime": "1 - 28:35",
+            "label": "",
+            "description": "A cross from Daley Blind (Manchester United) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "gameTime": "1 - 26:51",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 25:02",
+            "label": "",
+            "description": "Zlatan Ibrahimovic sprays a pass out to Marcus Rashford (Manchester United), but he produces a poor effort from inside the box which goes well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 24:21",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 24:02",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) whips in the free kick, but one of the defenders comfortably clears the ball away. Leicester force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 23:43",
+            "label": "",
+            "description": "Paul Pogba (Manchester United) should know this behaviour is beyond the rules. He was too careless with his challenge and left Michael Dean no option but to blow his whistle. Leicester have a free kick."
+        },
+        {
+            "gameTime": "1 - 22:00",
+            "label": "soccer-ball",
+            "description": "Gooal! Daley Blind takes over corner duties. Chris Smalling (Manchester United) gets his head on the ball from the corner and puts it into the right side of the net. 1:0."
+        },
+        {
+            "gameTime": "1 - 21:40",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) goes over to take the corner kick and it looks like he will swing the ball into the penalty box."
+        },
+        {
+            "gameTime": "1 - 21:30",
+            "label": "",
+            "description": "Daley Blind (Manchester United) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. Manchester United will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 19:20",
+            "label": "",
+            "description": "Manchester United seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "gameTime": "1 - 16:53",
+            "label": "",
+            "description": "Robert Huth (Leicester) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was!"
+        },
+        {
+            "gameTime": "1 - 16:28",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "1 - 16:14",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play. Leicester win a corner kick."
+        },
+        {
+            "gameTime": "1 - 14:20",
+            "label": "",
+            "description": "Marcus Rashford (Manchester United) is picked out by one of his teammates with a great cross, but his poor control allows the defence to clear and avert the threat."
+        },
+        {
+            "gameTime": "1 - 11:12",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 11:03",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) races towards goal but the defender gets back well to make a challenge. The ball goes out of play. Leicester are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:08",
+            "label": "",
+            "description": "Christian Fuchs (Leicester) collects an inch perfect pass and strikes the ball from far out, but his shot is blocked."
+        },
+        {
+            "gameTime": "1 - 07:50",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 07:06",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) darts into the box and immediately fires a first time effort that ends well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 06:43",
+            "label": "corner",
+            "description": "The corner from Juan Manuel Mata (Manchester United) is intercepted by Ron Robert Zieler."
+        },
+        {
+            "gameTime": "1 - 06:34",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Antonio Valencia (Manchester United), is intercepted by the opposition's defence. Manchester United will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 04:23",
+            "label": "",
+            "description": "What a miskick by Daley Blind (Manchester United). He smashes a volley from long distance that goes into the stands."
+        },
+        {
+            "gameTime": "1 - 02:50",
+            "label": "",
+            "description": "Marcus Rashford (Manchester United) gives away a foul for a clumsy challenge. Referee Michael Dean saw the whole situation."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Manchester United will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Michael Dean will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "In the 36 games that Leicester have played so far this season, 23 have had over 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Leicester have 17 clean sheets in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The last game that Manchester United played was against Everton and it ended 1:1."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's game was very poor. There weren't many thrilling moments. The home side dominated this game. The home side attempted to hold onto the ball for as long as possible. The away team's main weapon was fast counter attacks."
+        }
+    ],
+    "gameAwayTeam": "Leicester",
+    "gameDate": "24/09/2016 - 14:30",
+    "gameHomeTeam": "Manchester United",
+    "gameScore": "4 - 1"
+}

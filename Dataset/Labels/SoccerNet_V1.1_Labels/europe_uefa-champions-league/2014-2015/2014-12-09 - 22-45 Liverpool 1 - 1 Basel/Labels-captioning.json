@@ -1,0 +1,575 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Liverpool 1 - 1 Basel/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "The fans can't complain about what they saw on the pitch as both sides displayed a highly captivating football match. The performance of both teams was pretty much even. The home team played possession football and the away players really focused on a well organized defence."
+        },
+        {
+            "gameTime": "2 - 49:06",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 48:50",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) latches on to an accurate pass on the edge of the box and produces a ferocious strike towards the left post, but his shot is well held by the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 47:42",
+            "label": "",
+            "description": "Chance! Jordan Henderson (Liverpool) gets to the rebound on the edge of the box and smashes the ball towards the left side of the goal, but Tomas Vaclik is alert and makes a save to deny him."
+        },
+        {
+            "gameTime": "2 - 46:41",
+            "label": "",
+            "description": "Raheem Sterling slides a brilliant pass into Martin Skrtel (Liverpool), but his shot from inside the box goes a whisker wide of the left post. The ball goes out of play and Basel will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 46:30",
+            "label": "",
+            "description": "A pass by Behrang Safari (Basel) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "2 - 46:06",
+            "label": "",
+            "description": "Breel Embolo (Basel) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Simon Mignolet makes a great save to stop his effort."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:40",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) unleashes a shot, but his effort is poor and floats high over the bar. The ball goes out of play and Basel will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 44:20",
+            "label": "corner",
+            "description": "Philippe Coutinho (Liverpool) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 44:06",
+            "label": "",
+            "description": "Jordan Henderson (Liverpool) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. Liverpool earn a corner."
+        },
+        {
+            "gameTime": "2 - 44:03",
+            "label": "corner",
+            "description": "Philippe Coutinho (Liverpool) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "2 - 43:25",
+            "label": "",
+            "description": "Tomas Vaclik (Basel) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "2 - 43:22",
+            "label": "injury",
+            "description": "Tomas Vaclik (Basel) picks up an injury."
+        },
+        {
+            "gameTime": "2 - 43:06",
+            "label": "",
+            "description": "It could have been a good chance to score! Steven Gerrard (Liverpool) fails to release Raheem Sterling with a through ball as the defence is alert and clears. Corner kick. Liverpool will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 42:05",
+            "label": "substitution",
+            "description": "Paulo Sousa has decided to introduce fresh legs, with Walter Samuel (Basel) replacing Luca Zuffi."
+        },
+        {
+            "gameTime": "2 - 41:03",
+            "label": "",
+            "description": "Jordan Henderson (Liverpool) attempts to score as he rises near the penalty spot and heads the ball down to the middle of the goal. Tomas Vaclik pulls off a comfortable save to stop the ball from hitting the net."
+        },
+        {
+            "gameTime": "2 - 40:29",
+            "label": "",
+            "description": "Ambitious effort from Taulant Xhaka (Basel). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well over the bar. The ball goes out of play and Liverpool will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 39:29",
+            "label": "",
+            "description": "Luca Zuffi (Basel) jinks his way past multiple challenges and fires the ball from the edge of the box to the left side of the goal, but Simon Mignolet shows his agility and makes a save."
+        },
+        {
+            "gameTime": "2 - 38:53",
+            "label": "corner",
+            "description": "Steven Gerrard (Liverpool) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play. The ball goes out of play and Basel will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 38:39",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee points to the corner flag and Liverpool will take a corner."
+        },
+        {
+            "gameTime": "2 - 37:53",
+            "label": "substitution",
+            "description": "Here comes a substitution. Tired Mohamed Elneny (Basel) left the pitch, and Marcelo Diaz (Basel) is coming on to help his team."
+        },
+        {
+            "gameTime": "2 - 37:23",
+            "label": "",
+            "description": "Shkelzen Gashi (Basel) stands over the free kick and opts to take it himself, sending the ball towards the bottom left corner only for Simon Mignolet to dive and make a save."
+        },
+        {
+            "gameTime": "2 - 36:52",
+            "label": "",
+            "description": "Dejan Lovren (Liverpool) brings an opponent down and Bjorn Kuipers interrupts the game. Basel have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "2 - 35:47",
+            "label": "soccer-ball",
+            "description": "Steven Gerrard (Liverpool) struck with a superb free kick from the edge of the box, sending the ball in off the inside of the left post. The goalkeeper didn't have a chance. Simply glorious! It's 0:1."
+        },
+        {
+            "gameTime": "2 - 34:48",
+            "label": "y-card",
+            "description": "Fabian Schar (Basel) is cautioned by the referee."
+        },
+        {
+            "gameTime": "2 - 34:32",
+            "label": "",
+            "description": "Fabian Schar (Basel) commits an ugly challenge. The referee sees it and immediately blows his whistle. Liverpool are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 32:35",
+            "label": "",
+            "description": "The ball is cleared after Raheem Sterling (Liverpool) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 31:20",
+            "label": "y-card",
+            "description": "Bjorn Kuipers shows a yellow card to Alberto Moreno (Liverpool) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 30:55",
+            "label": "corner",
+            "description": "Luca Zuffi (Basel) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "2 - 30:13",
+            "label": "",
+            "description": "Breel Embolo (Basel) tries to send a pass but it's blocked. The ball is out of play. Basel will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 29:44",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) swings a cross into the box, but it's far too close to Tomas Vaclik, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 28:30",
+            "label": "substitution",
+            "description": "Here's the change. Marco Streller leaves the pitch and Breel Embolo (Basel) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 28:16",
+            "label": "substitution",
+            "description": "Brendan Rodgers prepares a substitution. Lucas Leiva is replaced by Philippe Coutinho (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 27:40",
+            "label": "",
+            "description": "A precise low pass is received by Steven Gerrard (Liverpool), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the right post. The ball is off of the pitch and it's a goal kick for Basel."
+        },
+        {
+            "gameTime": "2 - 26:18",
+            "label": "",
+            "description": "Tomas Vaclik displays his ability to read the game and clears the danger after Steven Gerrard (Liverpool) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "gameTime": "2 - 25:26",
+            "label": "",
+            "description": "Marco Streller (Basel) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "gameTime": "2 - 24:46",
+            "label": "",
+            "description": "Taulant Xhaka (Basel) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 24:23",
+            "label": "",
+            "description": "Dejan Lovren (Liverpool) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "gameTime": "2 - 23:48",
+            "label": "",
+            "description": "Taulant Xhaka (Basel) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "2 - 22:37",
+            "label": "",
+            "description": "Martin Skrtel (Liverpool) picks up a pass and fires a powerful long range shot which goes painfully close to the left post. The ball goes out of play and Basel will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 21:15",
+            "label": "injury",
+            "description": "Taulant Xhaka (Basel) is asking for medical treatment after picking up an injury."
+        },
+        {
+            "gameTime": "2 - 20:59",
+            "label": "y-card",
+            "description": "The game is interrupted because of a yellow card that is shown to Dejan Lovren (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 20:31",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "gameTime": "2 - 20:14",
+            "label": "",
+            "description": "Fabian Frei (Basel) was trying to get to the ball but clattered into the legs of the opponent as well. Bjorn Kuipers blows his whistle for an infringement. It's a free kick to Liverpool in a dangerous position."
+        },
+        {
+            "gameTime": "2 - 19:37",
+            "label": "",
+            "description": "Dangerous play by Shkelzen Gashi (Basel). Bjorn Kuipers blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 18:33",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 14:54",
+            "label": "r-card",
+            "description": "We have witnessed a red card for Lazar Markovic (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 13:28",
+            "label": "",
+            "description": "Taulant Xhaka (Basel) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the right post! The ball goes out of play and Liverpool will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 12:22",
+            "label": "",
+            "description": "Lazar Markovic (Liverpool) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 11:53",
+            "label": "",
+            "description": "This shall not pass! Joe Allen (Liverpool) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 11:11",
+            "label": "",
+            "description": "Martin Skrtel (Liverpool) makes a reckless foul in order to win the ball from his opponent. Bjorn Kuipers has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 10:39",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Raheem Sterling (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 09:34",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) is in a clear offside position and the referee blows his whistle after the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 09:03",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 07:50",
+            "label": "",
+            "description": "Derlis Gonzalez (Basel) unleashed a powerful long range strike, but the ball was blocked by a defender on its way."
+        },
+        {
+            "gameTime": "2 - 06:52",
+            "label": "",
+            "description": "Shkelzen Gashi (Basel) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 06:12",
+            "label": "",
+            "description": "Bjorn Kuipers has a clear sight and sees a foul from Shkelzen Gashi (Basel)."
+        },
+        {
+            "gameTime": "2 - 02:20",
+            "label": "",
+            "description": "Fabian Schar (Basel) attempts to beat the goalkeeper with a powerful strike from a long range free kick. His effort, however, goes way wide of the left post. The ball goes out of play and Liverpool will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 01:42",
+            "label": "y-card",
+            "description": "Lucas Leiva (Liverpool) has tested the patience of referee Bjorn Kuipers and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 00:29",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) goes for goal, but his effort isn't precise at all and it flies yards wide of the right post. The ball is off of the pitch and it's a goal kick for Basel."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Half time substitution. Rickie Lambert is replaced by Lazar Markovic (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Half time substitution. Jose Enrique will not participate anymore and Alberto Moreno (Liverpool) is coming on."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "It wasn't the most inspiring 45 minutes that you'll see this week. Let's hope that the second period will be more exciting. There wasn't any evident superiority by either side during the first half. Both sides are using combination football to try and gain the upper hand."
+        },
+        {
+            "gameTime": "1 - 45:11",
+            "label": "whistle",
+            "description": "The end of the first half."
+        },
+        {
+            "gameTime": "1 - 44:36",
+            "label": "",
+            "description": "Good movement by Glen Johnson (Liverpool), but he can't find any of his teammates as the cross is poor."
+        },
+        {
+            "gameTime": "1 - 42:59",
+            "label": "",
+            "description": "Shkelzen Gashi (Basel) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "1 - 40:10",
+            "label": "",
+            "description": "Bjorn Kuipers blows his whistle and it's Marco Streller (Basel) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "1 - 39:52",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) attempted to pick out a free teammate inside the box, but Tomas Vaclik comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "1 - 38:03",
+            "label": "",
+            "description": "Marco Streller (Basel) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "gameTime": "1 - 37:16",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 35:29",
+            "label": "",
+            "description": "Liverpool slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+        },
+        {
+            "gameTime": "1 - 33:33",
+            "label": "",
+            "description": "Behrang Safari (Basel) commits a rough challenge and Bjorn Kuipers blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 32:27",
+            "label": "",
+            "description": "Marco Streller (Basel) had a good opportunity when he latched on to a cross from the wing, but his strike wasn't accurate at all and the ball went well wide of the right post. The ball is off of the pitch and it's a goal kick for Liverpool."
+        },
+        {
+            "gameTime": "1 - 32:10",
+            "label": "corner",
+            "description": "Luca Zuffi (Basel) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 31:49",
+            "label": "",
+            "description": "Derlis Gonzalez (Basel) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Basel have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 29:59",
+            "label": "corner",
+            "description": "Luca Zuffi (Basel) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort."
+        },
+        {
+            "gameTime": "1 - 29:58",
+            "label": "",
+            "description": "Marco Streller (Basel) produces a brilliant low pass into the box, where Derlis Gonzalez is already waiting. He attempts to dribble past the defence, but one of the defenders does well to dispossess him. Basel have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 29:07",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) makes an unfair challenge by holding his opponent to prevent him from getting the ball."
+        },
+        {
+            "gameTime": "1 - 28:21",
+            "label": "",
+            "description": "Bjorn Kuipers blows his whistle after Jordan Henderson (Liverpool) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "gameTime": "1 - 27:35",
+            "label": "",
+            "description": "What an amazing save by Tomas Vaclik! Raheem Sterling (Liverpool) swirls around the defenders and attempts to beat the keeper with a close range shot low towards the middle of the target, but fails."
+        },
+        {
+            "gameTime": "1 - 24:29",
+            "label": "soccer-ball",
+            "description": "Fabian Frei (Basel) gets to the ball on the edge of the box and fires in a first time shot without any hesitation. The strike is excellent and goes straight into the bottom right corner. He couldn't have done it any better. 0:1."
+        },
+        {
+            "gameTime": "1 - 23:27",
+            "label": "",
+            "description": "Luca Zuffi (Basel) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity."
+        },
+        {
+            "gameTime": "1 - 22:56",
+            "label": "",
+            "description": "Bjorn Kuipers interrupts the game for a tactical foul by Jose Enrique (Liverpool). Basel are awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 21:45",
+            "label": "",
+            "description": "Marco Streller (Basel) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 21:25",
+            "label": "corner",
+            "description": "Luca Zuffi (Basel) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 20:57",
+            "label": "",
+            "description": "Shkelzen Gashi (Basel) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes behind for a corner. Basel will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 18:56",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "gameTime": "1 - 16:45",
+            "label": "",
+            "description": "Behrang Safari (Basel) makes an overly aggressive challenge and Bjorn Kuipers blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 14:37",
+            "label": "",
+            "description": "Lucas Leiva (Liverpool) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 14:16",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) whips in the resulting set piece but it's cleared."
+        },
+        {
+            "gameTime": "1 - 14:00",
+            "label": "",
+            "description": "Luca Zuffi (Basel) was too forceful with his tackle and Bjorn Kuipers interrupted the game to signal a free kick. A free kick is awarded to Liverpool."
+        },
+        {
+            "gameTime": "1 - 13:21",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) wastes a good opportunity as his pass into the box is blocked by the defence."
+        },
+        {
+            "gameTime": "1 - 12:28",
+            "label": "",
+            "description": "Luca Zuffi links up with Shkelzen Gashi (Basel), who fires just wide of the left post from the edge of the box. The ball goes out of play and Liverpool will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 11:34",
+            "label": "",
+            "description": "A pass from Taulant Xhaka (Basel) is intercepted by Simon Mignolet and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 09:49",
+            "label": "corner",
+            "description": "Lucas Leiva (Liverpool) works the corner short."
+        },
+        {
+            "gameTime": "1 - 09:38",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Liverpool win a corner kick."
+        },
+        {
+            "gameTime": "1 - 08:10",
+            "label": "",
+            "description": "Luca Zuffi (Basel) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "gameTime": "1 - 07:31",
+            "label": "",
+            "description": "Martin Skrtel (Liverpool) makes a rough challenge and Bjorn Kuipers blows his whistle for a foul. Basel are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "1 - 07:08",
+            "label": "",
+            "description": "The linesman signals that Rickie Lambert (Liverpool) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "1 - 05:37",
+            "label": "",
+            "description": "Marco Streller (Basel) probably handled the ball."
+        },
+        {
+            "gameTime": "1 - 05:05",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "gameTime": "1 - 04:34",
+            "label": "",
+            "description": "Behrang Safari (Basel) handled the ball and gives away a free kick. There is a free kick given to Liverpool."
+        },
+        {
+            "gameTime": "1 - 02:59",
+            "label": "",
+            "description": "Jordan Henderson (Liverpool) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar. The ball is off of the pitch and it's a goal kick for Basel."
+        },
+        {
+            "gameTime": "1 - 02:41",
+            "label": "",
+            "description": "Raheem Sterling (Liverpool) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 01:48",
+            "label": "",
+            "description": "Steven Gerrard (Liverpool) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Tomas Vaclik was alert and the score remains the same."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Liverpool will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bjorn Kuipers is introduced as the referee for today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans can't complain about what they saw on the pitch as both sides displayed a highly captivating football match. The performance of both teams was pretty much even. The home team played possession football and the away players really focused on a well organized defence."
+        }
+    ],
+    "gameAwayTeam": "Basel",
+    "gameDate": "09/12/2014 - 22:45",
+    "gameHomeTeam": "Liverpool",
+    "gameScore": "1 - 1"
+}

@@ -1,0 +1,360 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. Liverpool were much the better side in today's clash. The hosts defended well and were deadly on the counter attack. The away side displayed some nice build up play using a lot of passes."
+        },
+        {
+            "gameTime": "2 - 49:55",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 48:00",
+            "label": "soccer-ball",
+            "description": "Goal! Nathan Ake (Bournemouth) is quickest to react to the rebound and stabs the ball into the back of the net. It's 4:3."
+        },
+        {
+            "gameTime": "2 - 47:56",
+            "label": "",
+            "description": "Nathan Ake (Bournemouth) fails to score from the rebound as the goalkeeper stops his effort from hitting the net."
+        },
+        {
+            "gameTime": "2 - 47:55",
+            "label": "",
+            "description": "Steve Cook (Bournemouth) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Loris Karius easily deals with the threat."
+        },
+        {
+            "gameTime": "2 - 45:50",
+            "label": "",
+            "description": "Divock Origi (Liverpool) blows a big chance to score! He slammed the ball from deep inside the box towards the net, but his aim was off and it went narrowly over the crossbar."
+        },
+        {
+            "gameTime": "2 - 45:28",
+            "label": "corner",
+            "description": "The ball goes out of play and Liverpool have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:57",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out of play. Liverpool are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 43:15",
+            "label": "",
+            "description": "The linesman signals that Benik Afobe (Bournemouth) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 42:56",
+            "label": "corner",
+            "description": "A quickly taken corner by Bournemouth."
+        },
+        {
+            "gameTime": "2 - 42:46",
+            "label": "",
+            "description": "Simon Francis (Bournemouth) races towards goal but the defender gets back well to make a challenge. The ball is out of play and Bournemouth manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "y-card",
+            "description": "Robert Madley shows a yellow card to Emre Can (Liverpool) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 35:54",
+            "label": "corner",
+            "description": "Bournemouth have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "2 - 35:48",
+            "label": "",
+            "description": "Corner kick. Bournemouth will have an opportunity. Benik Afobe (Bournemouth) runs with the ball towards the keeper and pulls the trigger from close range, but Loris Karius anticipates his intention and makes an amazing save to stop the shot going low into the middle of the target."
+        },
+        {
+            "gameTime": "2 - 33:00",
+            "label": "soccer-ball",
+            "description": "Steve Cook (Bournemouth) receives the ball inside the box, reacts quickly and without any problems stabs the ball low inside the left post."
+        },
+        {
+            "gameTime": "2 - 30:46",
+            "label": "soccer-ball",
+            "description": "A superb goal from great team play! Ryan Fraser (Bournemouth) latches on to a perfect pass and fires an excellent low shot inside the right post. There is nothing a goalkeeper can do about shots like that."
+        },
+        {
+            "gameTime": "2 - 29:10",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Benik Afobe (Bournemouth) replaces Dan Gosling."
+        },
+        {
+            "gameTime": "2 - 26:56",
+            "label": "corner",
+            "description": "Artur Boruc leaps to collect the ball from the corner which was sent over by James Milner (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 26:40",
+            "label": "",
+            "description": "James Milner (Liverpool) looks to break free, but an opposing player clears the ball away. Liverpool have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 25:01",
+            "label": "corner",
+            "description": "Bournemouth take the corner, but their hopes of scoring a goal end with nice clearance by the defence."
+        },
+        {
+            "gameTime": "2 - 24:37",
+            "label": "",
+            "description": "Loris Karius hears the fans clapping his superb goalkeeping. Ryan Fraser (Bournemouth) shoots from the edge of the box towards the top of the net, but the goalkeeper makes a magnificent save. Bournemouth earn a corner."
+        },
+        {
+            "gameTime": "2 - 23:15",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Adam Lallana (Liverpool) comes onto the pitch for Sadio Mane."
+        },
+        {
+            "gameTime": "2 - 18:21",
+            "label": "soccer-ball",
+            "description": "Emre Can (Liverpool) scores yet another astonishing goal after unleashing a sweet volley from the edge of the penalty box that goes into the back of the net!"
+        },
+        {
+            "gameTime": "2 - 11:00",
+            "label": "soccer-ball",
+            "description": "Goal! Callum Wilson (Bournemouth) slams home the penalty with a precise low shot into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 10:56",
+            "label": "",
+            "description": "Callum Wilson (Bournemouth) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "2 - 10:19",
+            "label": "penalty",
+            "description": "James Milner (Liverpool) brings an opponent down and Robert Madley interrupts the game. The referee points to the penalty spot. It's a penalty for Bournemouth!"
+        },
+        {
+            "gameTime": "2 - 09:40",
+            "label": "substitution",
+            "description": "Substitution. Junior Stanislas leaves the pitch and is replaced by Ryan Fraser (Bournemouth)."
+        },
+        {
+            "gameTime": "2 - 08:44",
+            "label": "injury",
+            "description": "Looks like Junior Stanislas (Bournemouth) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "2 - 07:23",
+            "label": "y-card",
+            "description": "Jordan Henderson (Liverpool) is booked after bringing down an opponent. Robert Madley had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 05:55",
+            "label": "corner",
+            "description": "The resulting corner from Jordan Henderson (Liverpool) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 05:35",
+            "label": "",
+            "description": "The free kick from close range, taken by Liverpool, is intercepted by one of the defenders. Liverpool force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 05:00",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Simon Francis (Bournemouth) was quite harsh and Robert Madley didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "2 - 02:50",
+            "label": "y-card",
+            "description": "Jack Wilshere (Bournemouth) receives a yellow card for talking out of turn to the referee."
+        },
+        {
+            "gameTime": "2 - 00:12",
+            "label": "substitution",
+            "description": "Half time substitution. Eddie Howe decided to make a change. Joshua King is replaced by Jordon Ibe (Bournemouth)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Up to now the game has been rather average in terms of entertainment, with little in the way of thrilling moments. Liverpool have arguably been the better of the two sides in the first half. The home side is creating their opportunities using lightning fast counter attacks. The tactic of the away side is slow build up play."
+        },
+        {
+            "gameTime": "1 - 46:58",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "2 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:54",
+            "label": "corner",
+            "description": "Jordan Henderson (Liverpool) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "1 - 44:00",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) goes on a solo run, but he fails to create a chance as an opposition player blocks him. It will be a corner kick for Liverpool."
+        },
+        {
+            "gameTime": "1 - 36:15",
+            "label": "corner",
+            "description": "The resulting set piece from Bournemouth is comfortably intercepted by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 36:10",
+            "label": "",
+            "description": "Half chance! Joshua King (Bournemouth) plays a pass into the box, but Loris Karius reacts well to snuff out the attack. Bournemouth will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 32:09",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) takes a mid range shot, but it lacks accuracy and it goes way over the bar."
+        },
+        {
+            "gameTime": "1 - 30:49",
+            "label": "",
+            "description": "Emre Can (Liverpool) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 27:00",
+            "label": "injury",
+            "description": "Emre Can (Liverpool) picks up an injury."
+        },
+        {
+            "gameTime": "1 - 22:00",
+            "label": "soccer-ball",
+            "description": "Divock Origi (Liverpool) receives a killer pass, finds himself one on one with the goalkeeper and coolly sends the ball into the back of the net."
+        },
+        {
+            "gameTime": "1 - 20:00",
+            "label": "soccer-ball",
+            "description": "A superb goal from great team play! Sadio Mane (Liverpool) latches on to a perfect pass and fires an excellent low shot into the middle of the net. There is nothing a goalkeeper can do about shots like that."
+        },
+        {
+            "gameTime": "1 - 17:01",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) strikes a volley towards goal, but one of the defenders blocks his effort."
+        },
+        {
+            "gameTime": "1 - 15:34",
+            "label": "corner",
+            "description": "Liverpool have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "1 - 15:25",
+            "label": "",
+            "description": "The ball is cleared after Georginio Wijnaldum (Liverpool) attempted to dribble past an opposing player. The linesman makes the right call and Liverpool will have a corner."
+        },
+        {
+            "gameTime": "1 - 14:25",
+            "label": "corner",
+            "description": "Liverpool didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "gameTime": "1 - 13:39",
+            "label": "corner",
+            "description": "Jordan Henderson (Liverpool) takes the corner which is cleared. The referee blows his whistle, Liverpool are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 13:31",
+            "label": "corner",
+            "description": "Jordan Henderson (Liverpool) takes the corner, but the opposition's defence is ready and clears the ball to safety. The ball goes out for a corner. Liverpool can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 12:25",
+            "label": "corner",
+            "description": "Jordan Henderson (Liverpool) floats the ball in from the corner but it's intercepted. Liverpool have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 12:14",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) fails to send a pass into the box as his effort is cut out. Liverpool get a corner."
+        },
+        {
+            "gameTime": "1 - 11:04",
+            "label": "",
+            "description": "What a big chance! Divock Origi (Liverpool) picks up an inch perfect pass inside the box and fires the ball well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 09:08",
+            "label": "",
+            "description": "Harry Arter (Bournemouth) was too forceful with his tackle and Robert Madley interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "1 - 06:40",
+            "label": "",
+            "description": "Emre Can (Liverpool) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "gameTime": "1 - 05:19",
+            "label": "",
+            "description": "James Milner (Liverpool) plays a through ball but overhits it."
+        },
+        {
+            "gameTime": "1 - 03:12",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Liverpool will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Robert Madley is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The last game that Bournemouth played was against Burnley and it ended 2:1."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Liverpool will miss a few players for this clash: ."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sadio Mane is the biggest threat to an opponent! He has already scored 9 goals and is top scorer in this Liverpool team."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. Liverpool were much the better side in today's clash. The hosts defended well and were deadly on the counter attack. The away side displayed some nice build up play using a lot of passes."
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "04/12/2016 - 16:30",
+    "gameHomeTeam": "Bournemouth",
+    "gameScore": "4 - 3"
+}

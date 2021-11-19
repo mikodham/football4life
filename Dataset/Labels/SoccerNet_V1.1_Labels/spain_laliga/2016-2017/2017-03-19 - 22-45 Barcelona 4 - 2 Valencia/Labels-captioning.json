@@ -1,0 +1,370 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:07",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 45:53",
+            "label": "y-card",
+            "description": "Today's referee Alejandro Hernandez rightly decides to book Martin Montoya (Valencia) for his harsh tackle."
+        },
+        {
+            "gameTime": "2 - 45:23",
+            "label": "attendance",
+            "description": "The attendance is 78675."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:47",
+            "label": "soccer-ball",
+            "description": "Goal! Neymar puts the ball on a plate for Andre Gomes (Barcelona), who scores with a simple close range finish. It's 4:2."
+        },
+        {
+            "gameTime": "2 - 40:35",
+            "label": "y-card",
+            "description": "Lionel Messi (Barcelona) attempts to discuss the decision with Alejandro Hernandez, but he soon realises that it's not the right thing to do as he sees the yellow."
+        },
+        {
+            "gameTime": "2 - 40:06",
+            "label": "",
+            "description": "Neymar (Barcelona) takes the chance to have an effort at goal from inside the box but misses to the right of the target."
+        },
+        {
+            "gameTime": "2 - 38:29",
+            "label": "substitution",
+            "description": "Voro decides to make a substitution. Joao Cancelo will be replaced by Zakaria Bakkali (Valencia)."
+        },
+        {
+            "gameTime": "2 - 38:06",
+            "label": "",
+            "description": "Flag up against Luis Suarez (Barcelona). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 36:30",
+            "label": "",
+            "description": "The free kick from the edge of the box is taken by Luis Suarez (Barcelona), but he hits it straight in the defensive wall."
+        },
+        {
+            "gameTime": "2 - 36:06",
+            "label": "",
+            "description": "Ezequiel Garay (Valencia) makes an unfair challenge by holding his opponent to prevent him from getting the ball. Barcelona earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "2 - 33:46",
+            "label": "",
+            "description": "Alejandro Hernandez has a clear sight and sees a foul from Simone Zaza (Valencia)."
+        },
+        {
+            "gameTime": "2 - 31:14",
+            "label": "y-card",
+            "description": "The foul by Andre Gomes (Barcelona) is worthy of a card and a yellow is duly shown by Alejandro Hernandez."
+        },
+        {
+            "gameTime": "2 - 30:56",
+            "label": "",
+            "description": "What a strike! Neymar (Barcelona) hits the left post from the free kick."
+        },
+        {
+            "gameTime": "2 - 30:07",
+            "label": "",
+            "description": "Joao Cancelo (Valencia) pulls the jersey of one of the opposition players and Alejandro Hernandez blows his whistle for a foul. Barcelona are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 28:57",
+            "label": "substitution",
+            "description": "Luis Enrique has decided to make a change. Andre Gomes (Barcelona) replaces Rafinha."
+        },
+        {
+            "gameTime": "2 - 27:51",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Simone Zaza (Valencia) for Munir El Haddadi."
+        },
+        {
+            "gameTime": "2 - 27:12",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) can't believe his eyes as he blows an opportunity from close range. It looked really simple and he only needed to tap the ball in, but he failed. The ball goes well wide of the right post. Hang your head in shame son."
+        },
+        {
+            "gameTime": "2 - 26:58",
+            "label": "",
+            "description": "The goalkeeper pulls off a save to deny Lionel Messi (Barcelona), whose low effort is only aimed at the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 24:59",
+            "label": "",
+            "description": "Flag goes up against Daniel Parejo (Valencia) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 23:12",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Luis Suarez (Barcelona), whose instinctive shot towards goal flashes inches over the top."
+        },
+        {
+            "gameTime": "2 - 21:42",
+            "label": "y-card",
+            "description": "Andres Iniesta (Barcelona) sees a yellow card from Alejandro Hernandez after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 20:58",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Martin Montoya (Valencia). Alejandro Hernandez saw the sliding tackle and blows for a foul."
+        },
+        {
+            "gameTime": "2 - 20:26",
+            "label": "",
+            "description": "Rafinha (Barcelona) produces a ferocious strike from the edge of the box. His dangerous low effort towards the middle of the goal is blocked by Diego Alves, who pulls off a superb save to keep the ball out of the net."
+        },
+        {
+            "gameTime": "2 - 19:16",
+            "label": "substitution",
+            "description": "Substitution. Ivan Rakitic is replaced by Sergi Roberto (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 17:08",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) goes close to scoring with a shot from inside the box, but he drags his effort wide of the right post."
+        },
+        {
+            "gameTime": "2 - 16:03",
+            "label": "",
+            "description": "Diego Alves blocks Andres Iniesta (Barcelona)'s effort from the edge of the box."
+        },
+        {
+            "gameTime": "2 - 14:55",
+            "label": "",
+            "description": "Rafinha (Barcelona) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 14:32",
+            "label": "",
+            "description": "Great teamplay by Barcelona as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "gameTime": "2 - 06:58",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) receives the ball inside the box, reacts quickly and without any problems stabs the ball inside the right post."
+        },
+        {
+            "gameTime": "2 - 06:55",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "2 - 06:49",
+            "label": "",
+            "description": "Neymar (Barcelona) came close to scoring but should have done much better. His poor attempt from close range ended up in the gloves of Diego Alves. Barcelona will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 03:06",
+            "label": "",
+            "description": "Neymar (Barcelona) unleashes a bullet of a shot that is blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 02:12",
+            "label": "corner",
+            "description": "Neymar (Barcelona) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Voro has decided to make a substitution during the half time break. Aymen Abdennour (Valencia) comes on the pitch for Fabian Orellana."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Alejandro Hernandez blows his whistle and the second half starts."
+        },
+        {
+            "gameTime": "1 - 46:32",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 45:57",
+            "label": "soccer-ball",
+            "description": "Munir El Haddadi (Valencia) connects with a pass inside the box and slams home into the bottom right corner. The goalkeeper was helpless."
+        },
+        {
+            "gameTime": "1 - 44:41",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) makes no mistake from the penalty spot after waiting for Diego Alves to move before slotting the ball low into the middle of the goal!"
+        },
+        {
+            "gameTime": "1 - 44:11",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "1 - 43:35",
+            "label": "r-card",
+            "description": "Red card! Eliaquim Mangala (Valencia) is dismissed from the pitch by the referee."
+        },
+        {
+            "gameTime": "1 - 43:20",
+            "label": "penalty",
+            "description": "Alejandro Hernandez interrupts the game for a tactical foul by Eliaquim Mangala (Valencia). PENALTY to Barcelona! Almost the entire opposition team is gathered around the referee and complaining. However, the decision has been made and it's final."
+        },
+        {
+            "gameTime": "1 - 42:45",
+            "label": "y-card",
+            "description": "Daniel Parejo (Valencia) has received a yellow card for his foul."
+        },
+        {
+            "gameTime": "1 - 38:56",
+            "label": "",
+            "description": "A decent effort by Lionel Messi (Barcelona) from a close range free kick! His attempt flies narrowly over the crossbar."
+        },
+        {
+            "gameTime": "1 - 38:07",
+            "label": "y-card",
+            "description": "Alejandro Hernandez shows the yellow card to Eliaquim Mangala (Valencia) for a heavy challenge."
+        },
+        {
+            "gameTime": "1 - 34:49",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) receives a killer pass, finds himself one on one with the goalkeeper and drills the ball into the bottom right corner. Magnificent finish!"
+        },
+        {
+            "gameTime": "1 - 32:22",
+            "label": "",
+            "description": "Rafinha (Barcelona) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 29:00",
+            "label": "soccer-ball",
+            "description": "Eliaquim Mangala (Valencia) jumps highest to meet the ball from the corner kick and finishes behind the helpless keeper with a fine header into the bottom left corner. The defence stare motionlessly at each other. What a peach of a goal that is. Eliaquim Mangala (Valencia) has every right to celebrate!"
+        },
+        {
+            "gameTime": "1 - 28:35",
+            "label": "corner",
+            "description": "There's an opportunity for Daniel Parejo (Valencia) to deliver the ball into the box from a corner."
+        },
+        {
+            "gameTime": "1 - 27:56",
+            "label": "",
+            "description": "Eliaquim Mangala (Valencia) picks up a lofted cross inside the box and unleashes a low shot to the middle of the goal. His promising effort is kept out by Marc Andre ter Stegen, who pulls off a decent save! Valencia force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 26:31",
+            "label": "corner",
+            "description": "Barcelona take a short corner kick."
+        },
+        {
+            "gameTime": "1 - 23:37",
+            "label": "y-card",
+            "description": "Enzo Perez (Valencia) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Alejandro Hernandez ignores the protests."
+        },
+        {
+            "gameTime": "1 - 18:54",
+            "label": "corner",
+            "description": "Daniel Parejo (Valencia) will deliver the corner kick."
+        },
+        {
+            "gameTime": "1 - 18:18",
+            "label": "",
+            "description": "Carlos Soler (Valencia) blew a promising chance when he got to a rebound just outside the penalty area. He struck it towards the bottom right corner, but Marc Andre ter Stegen pulled off a nice save to stop the attempt."
+        },
+        {
+            "gameTime": "1 - 14:07",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) misses a good chance to score. An inch perfect cross into the box finds Lionel Messi (Barcelona) who rises for a header, but sends the ball well over the bar."
+        },
+        {
+            "gameTime": "1 - 12:06",
+            "label": "corner",
+            "description": "Barcelona take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 10:08",
+            "label": "",
+            "description": "Munir El Haddadi (Valencia) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "1 - 09:27",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt."
+        },
+        {
+            "gameTime": "1 - 07:51",
+            "label": "corner",
+            "description": "Neymar (Barcelona) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "1 - 07:41",
+            "label": "",
+            "description": "Luis Suarez (Barcelona)'s poor effort is easily saved by Diego Alves. He connects well with a cross, but mistimes it a little, and it heads low towards the middle of the target and straight into the grateful hands of the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 05:54",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) brings his opponent down. Alejandro Hernandez has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 04:30",
+            "label": "corner",
+            "description": "Valencia work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "gameTime": "1 - 02:51",
+            "label": "corner",
+            "description": "Neymar (Barcelona) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Barcelona will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Alejandro Hernandez will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "5 that's the number of matches that Valencia have lost at home so far this season, while they have lost 8x away."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There has been over 2.5 goals in 28 out of the 37 games that Barcelona have played so far this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The last game that Barcelona played was against Las Palmas and it ended 4:1."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        }
+    ],
+    "gameAwayTeam": "Valencia",
+    "gameDate": "19/03/2017 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "4 - 2"
+}

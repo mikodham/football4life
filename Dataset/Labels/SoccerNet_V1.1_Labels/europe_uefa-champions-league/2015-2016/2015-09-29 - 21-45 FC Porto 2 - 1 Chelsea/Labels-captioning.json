@@ -1,0 +1,585 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. The game was quite balanced and neither team had any obvious advantage. Both teams attempted to play possession football."
+        },
+        {
+            "gameTime": "2 - 48:08",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 46:36",
+            "label": "",
+            "description": "Willian (Chelsea) sends a cross into the box, but Iker Casillas comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 45:20",
+            "label": "corner",
+            "description": "Willian (Chelsea) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:45",
+            "label": "",
+            "description": "Diego Costa (Chelsea) looks to break free, but an opposing player clears the ball away. Chelsea have a corner."
+        },
+        {
+            "gameTime": "2 - 43:31",
+            "label": "y-card",
+            "description": "Antonio Mateu Lahoz shows the yellow card to Gianelli Imbula Wanga (FC Porto) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 43:00",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "gameTime": "2 - 42:30",
+            "label": "",
+            "description": "Evandro (FC Porto) trips an opposition player and Antonio Mateu Lahoz signals a foul. Chelsea have been awarded a free kick."
+        },
+        {
+            "gameTime": "2 - 41:55",
+            "label": "",
+            "description": "Chelsea are playing excellent possession football at the moment by exchanging some long passes."
+        },
+        {
+            "gameTime": "2 - 41:00",
+            "label": "substitution",
+            "description": "A substitution has been made. Yacine Brahimi goes off and Pablo Osvaldo (FC Porto) comes on."
+        },
+        {
+            "gameTime": "2 - 39:33",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) receives an accurate pass and attempts to threaten the goalkeeper with his long range strike. Unfortunately for him, his effort goes high above the crossbar. The ball goes out of play and FC Porto will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 37:49",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Cesc Fabregas (Chelsea) is thwarted and cleared to safety. The ball goes out of play and FC Porto will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 36:31",
+            "label": "y-card",
+            "description": "Danilo Pereira (FC Porto) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Antonio Mateu Lahoz ignores the protests."
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "",
+            "description": "Danilo Pereira (FC Porto) rises high to connect with the ball inside the six yard box from the corner kick, but his decent header only hits the left post and ricochets away!"
+        },
+        {
+            "gameTime": "2 - 35:12",
+            "label": "corner",
+            "description": "Miguel Layun (FC Porto) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 34:50",
+            "label": "",
+            "description": "A long ball forward to Miguel Layun (FC Porto) is intercepted. The referee points to the corner flag and FC Porto will take a corner."
+        },
+        {
+            "gameTime": "2 - 34:36",
+            "label": "substitution",
+            "description": "Julen Lopetegui has decided to introduce fresh legs, with Miguel Layun (FC Porto) replacing Andre."
+        },
+        {
+            "gameTime": "2 - 33:54",
+            "label": "y-card",
+            "description": "Antonio Mateu Lahoz shows a yellow card to Nemanja Matic (Chelsea) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 33:13",
+            "label": "",
+            "description": "Eden Hazard (Chelsea) and Willian combine well with a quick one two to trick their opponent."
+        },
+        {
+            "gameTime": "2 - 32:20",
+            "label": "substitution",
+            "description": "Substitution. Ruben Neves walks off the pitch and Evandro (FC Porto) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 30:59",
+            "label": "",
+            "description": "FC Porto keep the ball well and push forward with purpose, but here comes an interception from the opposition."
+        },
+        {
+            "gameTime": "2 - 28:59",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) rises above the defence to meet the corner. His timing is good, but he directs his header just a few inches over the bar. The ball is off of the pitch and it's a goal kick for FC Porto."
+        },
+        {
+            "gameTime": "2 - 28:58",
+            "label": "corner",
+            "description": "Willian (Chelsea) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "gameTime": "2 - 27:50",
+            "label": "",
+            "description": "Diego Costa (Chelsea) tries to slide the ball through to a teammate but it's well blocked by a defender. Chelsea earn a corner."
+        },
+        {
+            "gameTime": "2 - 27:16",
+            "label": "substitution",
+            "description": "Jose Mourinho has decided to substitute Ramires and he is replaced by Nemanja Matic (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 27:10",
+            "label": "substitution",
+            "description": "Today's match ends for Pedro who will be replaced by Kenedy (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 26:50",
+            "label": "corner",
+            "description": "Ruben Neves (FC Porto) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "2 - 26:42",
+            "label": "",
+            "description": "Yacine Brahimi (FC Porto) produced a promising shot low towards the middle of the goal after his wonderful solo run, but Asmir Begovic thwarted him with a fabulous save and the score remains the same. The referee points to the corner flag. It's a corner to FC Porto."
+        },
+        {
+            "gameTime": "2 - 26:03",
+            "label": "corner",
+            "description": "Ruben Neves (FC Porto) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "2 - 25:40",
+            "label": "",
+            "description": "Danilo Pereira (FC Porto) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. FC Porto will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "2 - 25:28",
+            "label": "",
+            "description": "Gianelli Imbula Wanga (FC Porto) meets a precise pass with a nice touch on the edge of the box and produces a shot to the middle of the goal. What an excellent save by the goalkeeper!"
+        },
+        {
+            "gameTime": "2 - 24:30",
+            "label": "",
+            "description": "Gianelli Imbula Wanga (FC Porto) gets a shot away from around 22 metres out after his fine solo run. The ball went just over the top! The ball goes out of play and Chelsea will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 23:59",
+            "label": "funfact",
+            "description": "42:58 \u2013 the latest ball possession ratio. The current number of shots on goal is 6:3."
+        },
+        {
+            "gameTime": "2 - 20:53",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Cesar Azpilicueta (Chelsea). Antonio Mateu Lahoz doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 20:33",
+            "label": "",
+            "description": "Cesar Azpilicueta (Chelsea) is penalised for holding. Antonio Mateu Lahoz signals a set piece."
+        },
+        {
+            "gameTime": "2 - 18:19",
+            "label": "",
+            "description": "Close! Eden Hazard (Chelsea) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post. The ball is off of the pitch and it's a goal kick for FC Porto."
+        },
+        {
+            "gameTime": "2 - 17:55",
+            "label": "corner",
+            "description": "Ruben Neves (FC Porto) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "2 - 17:44",
+            "label": "",
+            "description": "Maicon (FC Porto) sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession. Good work from FC Porto as they win a corner."
+        },
+        {
+            "gameTime": "2 - 16:33",
+            "label": "substitution",
+            "description": "That's the end of the game for John Obi Mikel, who is replaced by Eden Hazard (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 15:17",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from Chelsea."
+        },
+        {
+            "gameTime": "2 - 12:30",
+            "label": "",
+            "description": "Diego Costa (Chelsea) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "2 - 11:51",
+            "label": "",
+            "description": "Chelsea enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "2 - 10:25",
+            "label": "",
+            "description": "Yacine Brahimi (FC Porto) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 09:11",
+            "label": "",
+            "description": "Ruben Neves (FC Porto) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence."
+        },
+        {
+            "gameTime": "2 - 08:19",
+            "label": "",
+            "description": "What a great touch by Diego Costa (Chelsea)! He picks up a precise pass inside the box and immediately produces a shot towards the net. Unfortunately for him, his bullet only crashes against the crossbar."
+        },
+        {
+            "gameTime": "2 - 06:42",
+            "label": "soccer-ball",
+            "description": "Goal! The corner is whipped in and Maicon (FC Porto) is in the right place at the right time, planting his header perfectly into the left side of the goal. He makes it 1:1."
+        },
+        {
+            "gameTime": "2 - 06:30",
+            "label": "corner",
+            "description": "Ruben Neves (FC Porto) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "2 - 05:48",
+            "label": "",
+            "description": "Yacine Brahimi (FC Porto) tries to send a pass but it's blocked. The referee signals a corner kick to FC Porto."
+        },
+        {
+            "gameTime": "2 - 05:24",
+            "label": "",
+            "description": "That was a poorly executed free kick from long distance. Willian (Chelsea) was trying to produce a cross into the penalty area, but his effort sailed off the pitch. The ball is off of the pitch and it's a goal kick for FC Porto."
+        },
+        {
+            "gameTime": "2 - 05:00",
+            "label": "",
+            "description": "Maximiliano Pereira (FC Porto) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Free kick. Chelsea will probably just try to cross the ball in from here."
+        },
+        {
+            "gameTime": "2 - 03:53",
+            "label": "",
+            "description": "Ruben Neves (FC Porto) collects a pass and has an effort from 25 metres out, but it flies just wide of the right post. The ball goes out of play and Chelsea will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 02:45",
+            "label": "",
+            "description": "The foul by Ramires (Chelsea) was seen by Antonio Mateu Lahoz who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 02:25",
+            "label": "corner",
+            "description": "Cesc Fabregas (Chelsea) will take the corner."
+        },
+        {
+            "gameTime": "2 - 01:51",
+            "label": "",
+            "description": "Wow, what an escape. Diego Costa (Chelsea) has an effort from inside the box but it's brilliantly blocked. Chelsea will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Antonio Mateu Lahoz blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "There has been no time for the supporters to get bored during an eventful opening 45 minutes. Both teams provided some breathtaking moments. Neither team has really been able to control the flow of the game. Both sides are using combination football to try and gain the upper hand."
+        },
+        {
+            "gameTime": "1 - 46:20",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "soccer-ball",
+            "description": "Willian (Chelsea) converts the free kick from about 20 metres out with a perfectly bent shot that ends up inside the right post. The goalkeeper had no chance. What a shot!"
+        },
+        {
+            "gameTime": "1 - 44:47",
+            "label": "",
+            "description": "Maicon (FC Porto) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. Chelsea are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "1 - 44:11",
+            "label": "",
+            "description": "The linesman signals that Willian (Chelsea) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "1 - 43:34",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) probably handled the ball."
+        },
+        {
+            "gameTime": "1 - 40:45",
+            "label": "y-card",
+            "description": "The foul by Gary Cahill (Chelsea) is worthy of a card and a yellow is duly shown by Antonio Mateu Lahoz."
+        },
+        {
+            "gameTime": "1 - 38:31",
+            "label": "soccer-ball",
+            "description": "Goal! Andre (FC Porto) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 1:0."
+        },
+        {
+            "gameTime": "1 - 38:30",
+            "label": "",
+            "description": "Yacine Brahimi (FC Porto) zig zags his way into the box and fires the ball towards the middle of the goal, but the goalkeeper makes a great reaction save to stop the effort."
+        },
+        {
+            "gameTime": "1 - 37:21",
+            "label": "",
+            "description": "Maximiliano Pereira (FC Porto) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "gameTime": "1 - 35:34",
+            "label": "",
+            "description": "Maximiliano Pereira (FC Porto) smashes the ball from the edge of the box and misses well wide of the left post. The ball goes out of play and Chelsea will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 33:52",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) gets a shot away from around 21 metres out after his fine solo run. The ball went just wide of the right post! The ball is off of the pitch and it's a goal kick for Chelsea."
+        },
+        {
+            "gameTime": "1 - 32:37",
+            "label": "",
+            "description": "Antonio Mateu Lahoz interrupts the game for a tactical foul by Ramires (Chelsea)."
+        },
+        {
+            "gameTime": "1 - 31:50",
+            "label": "",
+            "description": "Diego Costa (Chelsea) dribbles into space and finds himself in a shooting position, but his shot from the edge of the box is bravely blocked."
+        },
+        {
+            "gameTime": "1 - 31:33",
+            "label": "",
+            "description": "Gary Cahill (Chelsea) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "gameTime": "1 - 29:59",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Ruben Neves (FC Porto) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "1 - 29:52",
+            "label": "",
+            "description": "Maximiliano Pereira (FC Porto) goes on a weaving run through the defence and gets within shooting range but his effort is blocked. The ball goes out of play and FC Porto have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 29:05",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) commits a foul after bringing down his opponent with a slide tackle. FC Porto win a free kick and will be able to apply some pressure on the opposition goal. FC Porto produce a short pass from the free kick."
+        },
+        {
+            "gameTime": "1 - 28:58",
+            "label": "",
+            "description": "The FC Porto players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 28:07",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) sends over a cross, but he can't find any teammate inside the box. Poor delivery. The ball goes out of play and FC Porto will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 27:27",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "gameTime": "1 - 25:51",
+            "label": "",
+            "description": "Gary Cahill (Chelsea) creates himself some space in front of goal and connects with the resulting free kick. His header is so wild it sails way past the right post and behind for a goal kick. The ball goes out of play and FC Porto will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 25:27",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) is going to send the ball in from the free kick."
+        },
+        {
+            "gameTime": "1 - 24:16",
+            "label": "y-card",
+            "description": "Ivan Marcano (FC Porto) is booked after bringing down an opponent. Antonio Mateu Lahoz had an easy decision to make. Chelsea have a free kick."
+        },
+        {
+            "gameTime": "1 - 22:55",
+            "label": "",
+            "description": "Yacine Brahimi (FC Porto) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball is out of play. FC Porto will take a throw in."
+        },
+        {
+            "gameTime": "1 - 22:05",
+            "label": "",
+            "description": "The Chelsea players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession."
+        },
+        {
+            "gameTime": "1 - 21:45",
+            "label": "",
+            "description": "Good clearance! Ramires (Chelsea) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him."
+        },
+        {
+            "gameTime": "1 - 20:54",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) tackles a bit over zealously and Antonio Mateu Lahoz blows for a foul."
+        },
+        {
+            "gameTime": "1 - 19:54",
+            "label": "",
+            "description": "Willian (Chelsea) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 18:35",
+            "label": "y-card",
+            "description": "Bruno Martins Indi (FC Porto) has tested the patience of referee Antonio Mateu Lahoz and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "1 - 18:34",
+            "label": "",
+            "description": "Antonio Mateu Lahoz blows the whistle, Andre (FC Porto) is penalised for a foul. Chelsea are awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 16:47",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 15:50",
+            "label": "corner",
+            "description": "Ruben Neves (FC Porto) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "1 - 15:36",
+            "label": "",
+            "description": "Ruben Neves (FC Porto) unleashes a powerful shot towards goal, but it is bravely blocked by a self sacrificing defender. FC Porto force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 14:55",
+            "label": "corner",
+            "description": "Ruben Neves (FC Porto) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "1 - 14:30",
+            "label": "",
+            "description": "Maximiliano Pereira (FC Porto) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes out of play. FC Porto are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 13:20",
+            "label": "",
+            "description": "Diego Costa (Chelsea) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 13:05",
+            "label": "",
+            "description": "Pedro (Chelsea) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Iker Casillas was alert and the score remained the same."
+        },
+        {
+            "gameTime": "1 - 11:42",
+            "label": "",
+            "description": "The effort by Danilo Pereira (FC Porto) failed to trouble the goalkeeper. He smashed the ball in from 26 metres but it went well wide of the right post. The ball is off of the pitch and it's a goal kick for Chelsea."
+        },
+        {
+            "gameTime": "1 - 10:01",
+            "label": "",
+            "description": "Chelsea hold the ball and are exchanging some long passes."
+        },
+        {
+            "gameTime": "1 - 09:10",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Pedro (Chelsea)."
+        },
+        {
+            "gameTime": "1 - 07:55",
+            "label": "",
+            "description": "FC Porto are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block."
+        },
+        {
+            "gameTime": "1 - 06:52",
+            "label": "",
+            "description": "Flag goes up against Diego Costa (Chelsea) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 06:02",
+            "label": "corner",
+            "description": "Cesc Fabregas (Chelsea) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 05:52",
+            "label": "",
+            "description": "What a sweet touch by Cesc Fabregas (Chelsea) as he collects a pass. From near the edge of the box he produces a shot which goes towards the left post, but the goalkeeper pulls off a decent save to thwart him! The referee and one of his assistants signal for a corner kick to Chelsea."
+        },
+        {
+            "gameTime": "1 - 05:02",
+            "label": "",
+            "description": "FC Porto seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "gameTime": "1 - 04:37",
+            "label": "",
+            "description": "Ruben Neves (FC Porto) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 03:41",
+            "label": "",
+            "description": "Ruben Neves (FC Porto) pulls the jersey of one of the opposition players and Antonio Mateu Lahoz blows his whistle for a foul. Chelsea get a free kick. Chelsea decide to take a short pass from the free kick and the attacking effort continues."
+        },
+        {
+            "gameTime": "1 - 02:56",
+            "label": "",
+            "description": "Flag up against Diego Costa (Chelsea). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "1 - 02:33",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) plays a through ball inside the box, but it's too strong and Asmir Begovic comes off his line to intercept."
+        },
+        {
+            "gameTime": "1 - 01:41",
+            "label": "",
+            "description": "Great solo effort by Yacine Brahimi (FC Porto) as he beats two defenders before firing in a drive from just outside of the box towards the middle of the goal. The goalkeeper is ready and makes an amazing save."
+        },
+        {
+            "gameTime": "1 - 01:12",
+            "label": "",
+            "description": "Maximiliano Pereira (FC Porto) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "gameTime": "1 - 00:47",
+            "label": "",
+            "description": "Willian (Chelsea) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! FC Porto will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Antonio Mateu Lahoz will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. The game was quite balanced and neither team had any obvious advantage. Both teams attempted to play possession football."
+        }
+    ],
+    "gameAwayTeam": "Chelsea",
+    "gameDate": "29/09/2015 - 21:45",
+    "gameHomeTeam": "FC Porto",
+    "gameScore": "2 - 1"
+}

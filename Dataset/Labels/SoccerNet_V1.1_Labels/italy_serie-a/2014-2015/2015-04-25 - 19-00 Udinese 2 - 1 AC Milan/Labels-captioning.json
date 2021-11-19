@@ -1,0 +1,550 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2014-2015/2015-04-25 - 19-00 Udinese 2 - 1 AC Milan/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The game was quite balanced and neither team had any obvious advantage. The home side relied on counter attacks for most of their chances, while the away side's tactic was kick and rush football."
+        },
+        {
+            "gameTime": "2 - 48:29",
+            "label": "whistle",
+            "description": "That's it for today, Antonio Damato has blown his whistle and the game is over."
+        },
+        {
+            "gameTime": "2 - 47:32",
+            "label": "",
+            "description": "Ivan Rodrigo Piris (Udinese) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. A free kick is awarded to AC Milan."
+        },
+        {
+            "gameTime": "2 - 46:26",
+            "label": "",
+            "description": "Panagiotis Kone (Udinese) skips past his man but can't keep the ball in play."
+        },
+        {
+            "gameTime": "2 - 45:09",
+            "label": "",
+            "description": "Mattia Destro (AC Milan) trips an opposition player and Antonio Damato signals a foul."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 42:11",
+            "label": "soccer-ball",
+            "description": "Alessio Cerci produces a beautiful lofted cross into the box, where Giampaolo Pazzini (AC Milan) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 2:1."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "corner",
+            "description": "Jeremy Menez (AC Milan) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 41:53",
+            "label": "",
+            "description": "A beautiful low pass from the side is received by Giampaolo Pazzini (AC Milan), who was waiting for his chance. However, the defence is alert and spanks the ball away. AC Milan force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 40:15",
+            "label": "",
+            "description": "Alessio Cerci (AC Milan) is penalised for a foul. Antonio Damato had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 38:42",
+            "label": "substitution",
+            "description": "Here is a change. Guilherme is going off and Andrea Stramaccioni gives the last tactical orders to Panagiotis Kone (Udinese)."
+        },
+        {
+            "gameTime": "2 - 38:28",
+            "label": "",
+            "description": "Mattia Destro (AC Milan) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 37:09",
+            "label": "",
+            "description": "Jeremy Menez (AC Milan) takes a first time shot from the edge of the box, but his effort is well blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 35:44",
+            "label": "",
+            "description": "Ignazio Abate (AC Milan) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "2 - 35:08",
+            "label": "funfact",
+            "description": "5:1 \u2013 this is the current number of shots on target."
+        },
+        {
+            "gameTime": "2 - 34:44",
+            "label": "funfact",
+            "description": "The actual number of corner kicks in this match \u2013 9:1."
+        },
+        {
+            "gameTime": "2 - 33:46",
+            "label": "",
+            "description": "Guilherme (Udinese) tackles a bit over zealously and Antonio Damato blows for a foul."
+        },
+        {
+            "gameTime": "2 - 33:24",
+            "label": "",
+            "description": "Udinese are happy showing off their ball keeping skills and that is only interrupted when the defender steps in."
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "",
+            "description": "The Udinese players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "2 - 28:59",
+            "label": "soccer-ball",
+            "description": "Goal 2:0! Guilherme laid the ball off to Badu (Udinese), who slots it into the back of the net from close range, leaving the goalkeeper helpless."
+        },
+        {
+            "gameTime": "2 - 28:58",
+            "label": "",
+            "description": "That was a nice football moment. Antonio Di Natale (Udinese) receives an amazing defence splitting low pass on the edge of the box and blasts the ball towards the right post. Diego Lopez guesses his intention and dives superbly to deny him with a remarkable save!"
+        },
+        {
+            "gameTime": "2 - 28:57",
+            "label": "substitution",
+            "description": "Substitution. Giacomo Bonaventura walks off the pitch and Mattia Destro (AC Milan) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 27:05",
+            "label": "corner",
+            "description": "Antonio Di Natale (Udinese) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play."
+        },
+        {
+            "gameTime": "2 - 26:26",
+            "label": "",
+            "description": "Antonio Di Natale (Udinese) takes the free kick but it is cleared by the first defender. The referee points to the corner flag and Udinese will take a corner."
+        },
+        {
+            "gameTime": "2 - 25:13",
+            "label": "",
+            "description": "Giampaolo Pazzini (AC Milan) commits a foul and Antonio Damato immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 24:37",
+            "label": "",
+            "description": "Ivan Rodrigo Piris (Udinese) commits a foul after making a slide tackle on his opponent."
+        },
+        {
+            "gameTime": "2 - 23:15",
+            "label": "",
+            "description": "Cyril Thereau (Udinese) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "2 - 22:29",
+            "label": "",
+            "description": "Poor challenge! Luca Antonelli (AC Milan) is penalised for tripping and Antonio Damato blows his whistle. Udinese have a free kick."
+        },
+        {
+            "gameTime": "2 - 20:12",
+            "label": "",
+            "description": "Half chance! Ignazio Abate (AC Milan) plays a pass into the box, but Orestis Karnezis reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "2 - 19:57",
+            "label": "funfact",
+            "description": "Corner kicks \u2013 9:1."
+        },
+        {
+            "gameTime": "2 - 18:56",
+            "label": "substitution",
+            "description": "Filippo Inzaghi has decided to introduce fresh legs, with Alessio Cerci (AC Milan) replacing Suso."
+        },
+        {
+            "gameTime": "2 - 18:31",
+            "label": "",
+            "description": "The foul by Jeremy Menez (AC Milan) was seen by Antonio Damato who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 18:20",
+            "label": "",
+            "description": "Jeremy Menez (AC Milan) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 16:53",
+            "label": "",
+            "description": "Ignazio Abate (AC Milan) sends a teasing cross into the area, but Orestis Karnezis intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 16:11",
+            "label": "",
+            "description": "Suso (AC Milan) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 14:47",
+            "label": "",
+            "description": "AC Milan seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "gameTime": "2 - 12:44",
+            "label": "soccer-ball",
+            "description": "Giampiero Pinzi (Udinese) gets on the end of the corner kick deep inside the box and beats the keeper with a precise strike into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 12:40",
+            "label": "corner",
+            "description": "Antonio Di Natale (Udinese) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "2 - 12:36",
+            "label": "",
+            "description": "A lofted cross from Allan (Udinese) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. Udinese have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 11:37",
+            "label": "",
+            "description": "Giampiero Pinzi (Udinese) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again."
+        },
+        {
+            "gameTime": "2 - 10:11",
+            "label": "",
+            "description": "Silvan Widmer (Udinese) is penalised for holding. Antonio Damato signals a set piece."
+        },
+        {
+            "gameTime": "2 - 08:45",
+            "label": "substitution",
+            "description": "The manager has decided to make a substitution and Alexandre Geijo walks off the pitch to be replaced by Cyril Thereau (Udinese)."
+        },
+        {
+            "gameTime": "2 - 08:01",
+            "label": "",
+            "description": "Silvan Widmer (Udinese) attempts to create a scoring opportunity with a wonderful long ball, but his pass is blocked."
+        },
+        {
+            "gameTime": "2 - 06:34",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Antonio Di Natale (Udinese), whose instinctive shot towards goal flashes inches over the top. The ball is off of the pitch and it's a goal kick for AC Milan."
+        },
+        {
+            "gameTime": "2 - 04:55",
+            "label": "",
+            "description": "Marco van Ginkel (AC Milan) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+        },
+        {
+            "gameTime": "2 - 03:17",
+            "label": "",
+            "description": "Silvan Widmer (Udinese) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "2 - 02:42",
+            "label": "",
+            "description": "Neat passing move from AC Milan in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "2 - 01:23",
+            "label": "",
+            "description": "Antonio Damato blows his whistle for a foul after Silvan Widmer (Udinese) hacks down one of his opponents."
+        },
+        {
+            "gameTime": "2 - 00:02",
+            "label": "substitution",
+            "description": "Here is a change after the half time break. Gabriel Paletta is replaced by Adil Rami (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "The game can't be described as attractive. We are hoping against hope that the second half will bring more exciting moments and goal opportunities. It's difficult to say if one side enjoyed any superiority over the other in the first half. The home team's main weapon is fast counter attacks, while the away side attempts to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "1 - 46:24",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:30",
+            "label": "",
+            "description": "Goal disallowed! Luca Antonelli (AC Milan) scores but Antonio Damato blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 44:30",
+            "label": "",
+            "description": "Guilherme (Udinese) unleashes a superb first time shot from the edge of the box, but it flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 44:07",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Antonio Di Natale (Udinese), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "1 - 43:43",
+            "label": "",
+            "description": "Guilherme (Udinese) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The referee and his assistant both point at the corner flag. Udinese will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 43:01",
+            "label": "",
+            "description": "Guilherme (Udinese) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post. The ball is off of the pitch and it's a goal kick for AC Milan."
+        },
+        {
+            "gameTime": "1 - 42:46",
+            "label": "corner",
+            "description": "Antonio Di Natale (Udinese) will deliver the corner kick."
+        },
+        {
+            "gameTime": "1 - 42:17",
+            "label": "",
+            "description": "Silvan Widmer (Udinese) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Udinese get a corner."
+        },
+        {
+            "gameTime": "1 - 40:10",
+            "label": "y-card",
+            "description": "Giampaolo Pazzini (AC Milan) gets a yellow card."
+        },
+        {
+            "gameTime": "1 - 40:09",
+            "label": "",
+            "description": "Jeremy Menez (AC Milan) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 39:13",
+            "label": "",
+            "description": "Dangerous play by Jeremy Menez (AC Milan). Antonio Damato blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 37:50",
+            "label": "y-card",
+            "description": "Giampiero Pinzi (Udinese) lunges into his opponent and is relieved when the referee only shows him a yellow card."
+        },
+        {
+            "gameTime": "1 - 37:20",
+            "label": "",
+            "description": "Gabriel Paletta (AC Milan) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 36:31",
+            "label": "injury",
+            "description": "Gabriel Paletta (AC Milan) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "gameTime": "1 - 36:00",
+            "label": "",
+            "description": "Antonio Di Natale (Udinese) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post."
+        },
+        {
+            "gameTime": "1 - 35:33",
+            "label": "",
+            "description": "A precise low pass is received by Marco van Ginkel (AC Milan), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well over the bar. The ball goes out of play and Udinese will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 33:26",
+            "label": "",
+            "description": "Badu (Udinese) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball goes well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 33:08",
+            "label": "corner",
+            "description": "Antonio Di Natale (Udinese) will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 32:38",
+            "label": "",
+            "description": "Silvan Widmer (Udinese) delivers a promising cross into the box, but it's cleared. The ball goes behind for a corner. Udinese will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 32:01",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from AC Milan."
+        },
+        {
+            "gameTime": "1 - 30:08",
+            "label": "",
+            "description": "Allan (Udinese) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Antonio Damato with no other option than to blow for a foul."
+        },
+        {
+            "gameTime": "1 - 28:59",
+            "label": "y-card",
+            "description": "Maurizio Domizzi (Udinese) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision."
+        },
+        {
+            "gameTime": "1 - 28:16",
+            "label": "corner",
+            "description": "Antonio Di Natale (Udinese) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "1 - 27:59",
+            "label": "",
+            "description": "Antonio Di Natale (Udinese) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The linesman makes the right call and Udinese will have a corner."
+        },
+        {
+            "gameTime": "1 - 25:21",
+            "label": "",
+            "description": "Jeremy Menez (AC Milan) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 23:32",
+            "label": "corner",
+            "description": "The resulting corner from Antonio Di Natale (Udinese) is cleared."
+        },
+        {
+            "gameTime": "1 - 21:55",
+            "label": "",
+            "description": "Guilherme (Udinese) makes a reckless foul in order to win the ball from his opponent. Antonio Damato has a clear sight of it and blows his whistle. AC Milan are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "1 - 20:48",
+            "label": "",
+            "description": "Ignazio Abate (AC Milan) swings a cross into the box, but it's far too close to Orestis Karnezis, who smothers the ball."
+        },
+        {
+            "gameTime": "1 - 20:11",
+            "label": "",
+            "description": "Luca Antonelli (AC Milan) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball goes out of play and Udinese will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 18:25",
+            "label": "",
+            "description": "The flag is raised and Antonio Di Natale (Udinese) is offside again, not for the first time today."
+        },
+        {
+            "gameTime": "1 - 17:04",
+            "label": "",
+            "description": "Guilherme (Udinese) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "gameTime": "1 - 16:38",
+            "label": "",
+            "description": "The Udinese players are exchanging some short passes."
+        },
+        {
+            "gameTime": "1 - 15:37",
+            "label": "",
+            "description": "Suso (AC Milan) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 14:58",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Luca Antonelli (AC Milan) but poses no threat."
+        },
+        {
+            "gameTime": "1 - 13:50",
+            "label": "",
+            "description": "Antonio Di Natale (Udinese) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 12:50",
+            "label": "",
+            "description": "Giampaolo Pazzini (AC Milan) gets on the ball and beats an opponent, but his run is stopped by the referee Antonio Damato who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 12:39",
+            "label": "",
+            "description": "The cross into the penalty area from Nigel De Jong (AC Milan) needed to be more accurate in order to create a goal scoring opportunity for his team."
+        },
+        {
+            "gameTime": "1 - 11:40",
+            "label": "",
+            "description": "Ignazio Abate (AC Milan) tries to send the ball in front of the goal, but the opposition's defence averts the threat."
+        },
+        {
+            "gameTime": "1 - 11:03",
+            "label": "",
+            "description": "Jeremy Menez (AC Milan) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 09:46",
+            "label": "",
+            "description": "Badu (Udinese) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "gameTime": "1 - 08:20",
+            "label": "",
+            "description": "Maurizio Domizzi (Udinese) makes a rough challenge and Antonio Damato blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 07:08",
+            "label": "corner",
+            "description": "The corner by Guilherme (Udinese) lacks accuracy as it's hit with too much power."
+        },
+        {
+            "gameTime": "1 - 06:57",
+            "label": "",
+            "description": "Giampiero Pinzi (Udinese) releases a low pass from just outside the box in an attempt to find his teammate, but one of the defenders calmly averts the threat. Udinese force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 05:53",
+            "label": "",
+            "description": "Giampaolo Pazzini (AC Milan) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "gameTime": "1 - 05:09",
+            "label": "",
+            "description": "Suso (AC Milan) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity."
+        },
+        {
+            "gameTime": "1 - 03:56",
+            "label": "",
+            "description": "Great teamplay by AC Milan as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "gameTime": "1 - 03:06",
+            "label": "",
+            "description": "Nigel De Jong (AC Milan) tries to take the opposition by surprise with a quick free kick into the box."
+        },
+        {
+            "gameTime": "1 - 02:12",
+            "label": "",
+            "description": "Flag up against Guilherme (Udinese). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "1 - 01:35",
+            "label": "corner",
+            "description": "Antonio Di Natale (Udinese) overhits the corner kick and none of his teammates can their head on it. The ball is off of the pitch and it's a goal kick for AC Milan."
+        },
+        {
+            "gameTime": "1 - 00:57",
+            "label": "",
+            "description": "Antonio Di Natale (Udinese) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the left post is thwarted by Diego Lopez. The ball is out of play. A goal scoring opportunity from a corner for Udinese."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. AC Milan will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Antonio Damato is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The game was quite balanced and neither team had any obvious advantage. The home side relied on counter attacks for most of their chances, while the away side's tactic was kick and rush football."
+        }
+    ],
+    "gameAwayTeam": "AC Milan",
+    "gameDate": "25/04/2015 - 19:00",
+    "gameHomeTeam": "Udinese",
+    "gameScore": "2 - 1"
+}

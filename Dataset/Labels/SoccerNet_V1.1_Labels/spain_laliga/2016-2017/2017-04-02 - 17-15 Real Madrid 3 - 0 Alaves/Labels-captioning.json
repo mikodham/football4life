@@ -1,0 +1,370 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 47:20",
+            "label": "",
+            "description": "Theo Hernandez (Alaves) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 42:58",
+            "label": "soccer-ball",
+            "description": "Nacho (Real Madrid) gets to a rebound inside the six yard box and produces a header. He manages to put the ball into the middle of the goal, and thus alter the score to 3:0."
+        },
+        {
+            "gameTime": "2 - 42:50",
+            "label": "",
+            "description": "This should have been a goal! Gareth Bale (Real Madrid) takes a mid range free kick and his effort flies straight as an arrow, but crashes against the crossbar. The keeper only turned his head and stared at the ball."
+        },
+        {
+            "gameTime": "2 - 41:28",
+            "label": "y-card",
+            "description": "The foul by Manu Garcia (Alaves) is worthy of a card and a yellow is duly shown by Martinez Sanchez."
+        },
+        {
+            "gameTime": "2 - 39:11",
+            "label": "soccer-ball",
+            "description": "Goal! Cristiano Ronaldo plays a pass to the feet of Isco (Real Madrid), and he shoots into the top right corner from inside the box. It's 2:0."
+        },
+        {
+            "gameTime": "2 - 38:29",
+            "label": "substitution",
+            "description": "Mauricio Pellegrino has decided to substitute Victor Camarasa and he is replaced by Christian Santos (Alaves)."
+        },
+        {
+            "gameTime": "2 - 37:41",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 35:58",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Lucas (Real Madrid) comes onto the pitch for Karim Benzema."
+        },
+        {
+            "gameTime": "2 - 33:26",
+            "label": "corner",
+            "description": "Alaves have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "2 - 32:37",
+            "label": "",
+            "description": "Theo Hernandez (Alaves) tries to slide the ball through to a teammate but it's well blocked by a defender. It will be a corner kick for Alaves."
+        },
+        {
+            "gameTime": "2 - 31:27",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) receives a reproachful look from Karim Benzema. He latches on to his pass, but the effort from the edge of the box sails well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 29:23",
+            "label": "substitution",
+            "description": "That will be all from Edgar Mendez who is being replaced by the fresh legs of Aleksandar Katai (Alaves)."
+        },
+        {
+            "gameTime": "2 - 28:33",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 24:38",
+            "label": "",
+            "description": "What an opportunity! Manu Garcia (Alaves) leaps high to meet a beautiful cross into the box from the resulting free kick, and he plants a header from near the penalty spot which goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "2 - 23:23",
+            "label": "substitution",
+            "description": "Mauricio Pellegrino decides to make a substitution. Gomez Perez Ibai will be replaced by Oscar Romero (Alaves)."
+        },
+        {
+            "gameTime": "2 - 22:53",
+            "label": "substitution",
+            "description": "Here comes a substitution. Mateo Kovacic (Real Madrid) is brought on as a substitute for Luka Modric."
+        },
+        {
+            "gameTime": "2 - 21:58",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards over the bar."
+        },
+        {
+            "gameTime": "2 - 18:15",
+            "label": "",
+            "description": "The foul by Gareth Bale (Real Madrid) was seen by Martinez Sanchez who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 14:36",
+            "label": "",
+            "description": "Edgar Mendez (Alaves) misses a great opportunity from inside the penalty area after blasting the ball towards goal and it goes wide of the left post."
+        },
+        {
+            "gameTime": "2 - 11:28",
+            "label": "",
+            "description": "Deyverson (Alaves) climbs high to connect with a cross near the penalty spot but plants a header well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 09:59",
+            "label": "",
+            "description": "Flag up against Cristiano Ronaldo (Real Madrid). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 08:14",
+            "label": "",
+            "description": "Danilo (Real Madrid) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "2 - 08:05",
+            "label": "",
+            "description": "Real Madrid play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass."
+        },
+        {
+            "gameTime": "2 - 06:27",
+            "label": "injury",
+            "description": "Danilo (Real Madrid) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "gameTime": "2 - 04:49",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) was trying to get to the ball but clattered into the legs of the opponent as well. Martinez Sanchez blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "2 - 04:13",
+            "label": "corner",
+            "description": "Gomez Perez Ibai (Alaves) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 03:53",
+            "label": "",
+            "description": "Edgar Mendez (Alaves) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and the linesman points at the corner flag. Corner to Alaves."
+        },
+        {
+            "gameTime": "2 - 01:23",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Gaizka Toquero Pinedo (Alaves)."
+        },
+        {
+            "gameTime": "2 - 00:40",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Martinez Sanchez blows his whistle and the second half starts."
+        },
+        {
+            "gameTime": "1 - 45:58",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 45:41",
+            "label": "",
+            "description": "Danilo plays a lovely pass into Gareth Bale (Real Madrid), but he can't find the target. His strike from inside the box goes narrowly wide of the right post."
+        },
+        {
+            "gameTime": "1 - 44:11",
+            "label": "",
+            "description": "Gomez Perez Ibai (Alaves) takes a long range free kick and whips it into the box. The goalkeeper reads it well and leaps high to intercept the ball."
+        },
+        {
+            "gameTime": "1 - 41:20",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "1 - 38:48",
+            "label": "",
+            "description": "Edgar Mendez (Alaves) is penalised for a foul. Martinez Sanchez had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 37:42",
+            "label": "",
+            "description": "Deyverson (Alaves) commits a rough foul. Martinez Sanchez stops the game and makes a call."
+        },
+        {
+            "gameTime": "1 - 35:35",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "1 - 35:07",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) hammered the ball from a long range free kick only into the defensive wall. Real Madrid force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 34:46",
+            "label": "",
+            "description": "Manu Garcia (Alaves) makes an overly aggressive challenge and Martinez Sanchez blows his whistle for a foul. It's a free kick to Real Madrid, but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "1 - 34:19",
+            "label": "corner",
+            "description": "Isco (Real Madrid) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "1 - 33:37",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The referee blows his whistle, Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 33:13",
+            "label": "",
+            "description": "Danilo (Real Madrid) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 30:37",
+            "label": "soccer-ball",
+            "description": "GOAL! Superb work from Daniel Carvajal, who plays a vital role in the build up. He squares it to Karim Benzema (Real Madrid), who beats Fernando Pacheco with a brilliant shot into the left side of the net. 1:0."
+        },
+        {
+            "gameTime": "1 - 26:31",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) weaves through the defence with ease and gets one on one with the keeper, but fails to score with his strike towards the bottom left corner as Fernando Pacheco produces a good save."
+        },
+        {
+            "gameTime": "1 - 24:29",
+            "label": "",
+            "description": "Isco (Real Madrid) unleashes a shot, but his effort is poor and floats high over the bar."
+        },
+        {
+            "gameTime": "1 - 22:45",
+            "label": "",
+            "description": "Manu Garcia (Alaves) was too forceful with his tackle and Martinez Sanchez interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "1 - 21:08",
+            "label": "",
+            "description": "The referee blows his whistle, a clear handball by Luka Modric (Real Madrid)."
+        },
+        {
+            "gameTime": "1 - 18:19",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 18:01",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) fails to send a pass into the box as his effort is cut out. Real Madrid force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 17:07",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) sends the resulting free kick a whisker wide of the left post!"
+        },
+        {
+            "gameTime": "1 - 16:12",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Rodrigo Ely (Alaves). Martinez Sanchez doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 15:15",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!"
+        },
+        {
+            "gameTime": "1 - 14:36",
+            "label": "",
+            "description": "The free kick is taken by Theo Hernandez (Alaves), but ball is cleared."
+        },
+        {
+            "gameTime": "1 - 13:49",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) brings an opponent down and Martinez Sanchez interrupts the game."
+        },
+        {
+            "gameTime": "1 - 11:58",
+            "label": "attendance",
+            "description": "The attendance is 76875."
+        },
+        {
+            "gameTime": "1 - 11:17",
+            "label": "corner",
+            "description": "Gomez Perez Ibai (Alaves) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "1 - 11:01",
+            "label": "",
+            "description": "Victor Camarasa (Alaves) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Alaves have a corner."
+        },
+        {
+            "gameTime": "1 - 10:12",
+            "label": "substitution",
+            "description": "Raphael Varane has picked up an injury and is replaced by Daniel Carvajal (Real Madrid)."
+        },
+        {
+            "gameTime": "1 - 07:31",
+            "label": "",
+            "description": "Gaizka Toquero Pinedo (Alaves) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 05:16",
+            "label": "",
+            "description": "Pepe (Real Madrid) was too fierce in his attempt to get the ball from his opponent and Martinez Sanchez blows for a foul."
+        },
+        {
+            "gameTime": "1 - 03:53",
+            "label": "",
+            "description": "A cross into the box from Danilo (Real Madrid) is cleared."
+        },
+        {
+            "gameTime": "1 - 02:15",
+            "label": "",
+            "description": "Neat passing move from Real Madrid in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Alaves will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's referee will be Martinez Sanchez."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Alaves will be looking to keep their unbeaten run of 3 matches."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid haven't lost in their last 5 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        }
+    ],
+    "gameAwayTeam": "Alaves",
+    "gameDate": "02/04/2017 - 17:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 0"
+}

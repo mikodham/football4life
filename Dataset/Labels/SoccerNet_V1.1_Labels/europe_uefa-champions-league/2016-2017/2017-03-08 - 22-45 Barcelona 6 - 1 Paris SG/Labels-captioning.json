@@ -1,0 +1,505 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 51:42",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 49:57",
+            "label": "soccer-ball",
+            "description": "Neymar plays a terrific cross over to Sergi Roberto (Barcelona), who finds some space inside the box and puts the ball into the back of the net."
+        },
+        {
+            "gameTime": "2 - 48:31",
+            "label": "y-card",
+            "description": "Marco Verratti (Paris SG) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Deniz Aytekin ignores the protests."
+        },
+        {
+            "gameTime": "2 - 47:25",
+            "label": "substitution",
+            "description": "Thomas Meunier comes off the pitch to be replaced by Grzegorz Krychowiak (Paris SG)."
+        },
+        {
+            "gameTime": "2 - 45:14",
+            "label": "soccer-ball",
+            "description": "Goal! Neymar (Barcelona) slams home the penalty with a precise shot which goes inside the right post."
+        },
+        {
+            "gameTime": "2 - 45:08",
+            "label": "",
+            "description": "Neymar (Barcelona) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:57",
+            "label": "y-card",
+            "description": "Marquinhos (Paris SG) is the one who receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 44:12",
+            "label": "penalty",
+            "description": "The referee blows his whistle as Marquinhos (Paris SG) was too aggressive in his challenge. The referee points to the penalty spot. Barcelona are awarded a penalty kick!"
+        },
+        {
+            "gameTime": "2 - 42:41",
+            "label": "soccer-ball",
+            "description": "Neymar (Barcelona) struck a perfect 23 metre free kick. He curls the ball over the wall and into the top left corner of the net. Spectacular technique."
+        },
+        {
+            "gameTime": "2 - 41:51",
+            "label": "",
+            "description": "Deniz Aytekin blows the whistle, Angel Di Maria (Paris SG) is penalised for a foul. A free kick has been awarded to Barcelona."
+        },
+        {
+            "gameTime": "2 - 40:52",
+            "label": "corner",
+            "description": "The resulting corner from Neymar (Barcelona) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 40:40",
+            "label": "",
+            "description": "Neymar (Barcelona) fires the ball at goal from inside the area, but it's well blocked. Barcelona get a corner."
+        },
+        {
+            "gameTime": "2 - 39:57",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target."
+        },
+        {
+            "gameTime": "2 - 38:32",
+            "label": "substitution",
+            "description": "Substitution. Ivan Rakitic walks off the pitch and Andre Gomes (Barcelona) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 33:55",
+            "label": "",
+            "description": "Sergi Roberto (Barcelona) has a shot blocked from inside the box."
+        },
+        {
+            "gameTime": "2 - 33:47",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 33:36",
+            "label": "",
+            "description": "The ball is cleared after Sergi Roberto (Barcelona) attempted to dribble past an opposing player. The referee blows his whistle, Barcelona are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "2 - 30:51",
+            "label": "substitution",
+            "description": "Luis Enrique has decided to make a change. Sergi Roberto (Barcelona) replaces Rafinha."
+        },
+        {
+            "gameTime": "2 - 29:40",
+            "label": "substitution",
+            "description": "Substitution. Julian Draxler makes way for Serge Aurier (Paris SG)."
+        },
+        {
+            "gameTime": "2 - 28:50",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) makes a good run with the ball into the box, but mishits his shot as it goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 26:20",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) commits a foul and Deniz Aytekin immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 24:25",
+            "label": "funfact",
+            "description": "66:34 \u2013 this is the current ball possession ratio."
+        },
+        {
+            "gameTime": "2 - 21:45",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 21:23",
+            "label": "y-card",
+            "description": "Luis Suarez (Barcelona) gets a yellow card."
+        },
+        {
+            "gameTime": "2 - 19:36",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Andres Iniesta as he is replaced by Arda Turan (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 18:51",
+            "label": "y-card",
+            "description": "Neymar (Barcelona) is booked after bringing down an opponent. Deniz Aytekin had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 18:20",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) collects a great pass inside the box and misses a golden opportunity. His low drive is headed for the bottom right corner, but the goalkeeper pulls off a marvellous diving save and denies him."
+        },
+        {
+            "gameTime": "2 - 16:29",
+            "label": "soccer-ball",
+            "description": "GOAL! A cross into the box is headed down by Layvin Kurzawa and Edinson Cavani (Paris SG) does brilliantly to get to the ball and fire home. 3:1."
+        },
+        {
+            "gameTime": "2 - 15:43",
+            "label": "y-card",
+            "description": "The foul by Ivan Rakitic (Barcelona) is worthy of a card and a yellow is duly shown by Deniz Aytekin."
+        },
+        {
+            "gameTime": "2 - 14:09",
+            "label": "corner",
+            "description": "The resulting corner from Angel Di Maria (Paris SG) is cleared by the defence."
+        },
+        {
+            "gameTime": "2 - 13:36",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The linesman points to the corner flag, Paris SG are going to take it."
+        },
+        {
+            "gameTime": "2 - 10:16",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 09:43",
+            "label": "substitution",
+            "description": "A substitution has been made. Lucas is replaced by Angel Di Maria (Paris SG)."
+        },
+        {
+            "gameTime": "2 - 08:08",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) whips in the resulting set piece but it's cleared."
+        },
+        {
+            "gameTime": "2 - 07:36",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. It's a free kick to Barcelona in a dangerous position."
+        },
+        {
+            "gameTime": "2 - 06:36",
+            "label": "",
+            "description": "OFF THE POST! Edinson Cavani (Paris SG) drifts into the box to give his teammate support. He receives a fantastic pass and shoots from close range, but it crashes against the right post! It could have been a brilliant goal, unlucky."
+        },
+        {
+            "gameTime": "2 - 06:19",
+            "label": "",
+            "description": "Samuel Umtiti (Barcelona) fouls an opponent. At least that's what referee Deniz Aytekin signals."
+        },
+        {
+            "gameTime": "2 - 04:19",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) confidently powers his spot kick into the left side of the goal."
+        },
+        {
+            "gameTime": "2 - 04:03",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is going to take the penalty!"
+        },
+        {
+            "gameTime": "2 - 03:06",
+            "label": "penalty",
+            "description": "Thomas Meunier (Paris SG) is penalised after knocking an opponent down. Barcelona are given a penalty!"
+        },
+        {
+            "gameTime": "2 - 02:08",
+            "label": "",
+            "description": "Barcelona try to maintain the tempo of the game by taking a quick free kick."
+        },
+        {
+            "gameTime": "2 - 01:58",
+            "label": "",
+            "description": "Deniz Aytekin blows his whistle after Adrien Rabiot (Paris SG) brings one of his opponents down with a strong tackle. That's a free kick to Barcelona."
+        },
+        {
+            "gameTime": "2 - 00:57",
+            "label": "",
+            "description": "A rebound falls at the feet of Julian Draxler (Paris SG) who unleashes a shot from long range towards the goal. However, his effort is poor and it flies high over the crossbar."
+        },
+        {
+            "gameTime": "2 - 00:52",
+            "label": "corner",
+            "description": "Nothing comes of the resulting corner from Lucas (Paris SG). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "2 - 00:30",
+            "label": "",
+            "description": "Julian Draxler (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away. Corner kick. Paris SG will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 48:33",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 48:30",
+            "label": "",
+            "description": "A cross from the free kick is whipped in by Lionel Messi (Barcelona), but one of the defenders steps in and averts the threat."
+        },
+        {
+            "gameTime": "1 - 47:55",
+            "label": "",
+            "description": "Thiago Silva (Paris SG) was trying to get to the ball but clattered into the legs of the opponent as well. Deniz Aytekin blows his whistle for an infringement. Barcelona have a free kick."
+        },
+        {
+            "gameTime": "1 - 46:51",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 46:32",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The referee and one of his assistants signal for a corner kick to Barcelona."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:26",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Edinson Cavani (Paris SG) heads on."
+        },
+        {
+            "gameTime": "1 - 41:53",
+            "label": "y-card",
+            "description": "Edinson Cavani (Paris SG) was probably a bit loose with his words to Deniz Aytekin, who decides to show him a yellow."
+        },
+        {
+            "gameTime": "1 - 40:50",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 39:17",
+            "label": "soccer-ball-own",
+            "description": "What bad luck! Layvin Kurzawa (Paris SG) got in the way of a pass and unintentionally sent the ball past his own goalkeeper. The score is 2:0."
+        },
+        {
+            "gameTime": "1 - 38:52",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 38:37",
+            "label": "",
+            "description": "Lucas (Paris SG) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 37:20",
+            "label": "injury",
+            "description": "The game is interrupted now, Lucas (Paris SG) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 35:23",
+            "label": "y-card",
+            "description": "Sergio Busquets (Barcelona) got a yellow card."
+        },
+        {
+            "gameTime": "1 - 34:57",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) tackles a bit over zealously and Deniz Aytekin blows for a foul."
+        },
+        {
+            "gameTime": "1 - 34:19",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) collects a pass on the edge of the box and unleashes a low drive to the middle, but Kevin Trapp makes a save."
+        },
+        {
+            "gameTime": "1 - 30:44",
+            "label": "",
+            "description": "Lucas (Paris SG) attempts to score from 22 metres out, but his decent effort flies towards the middle of the target and is stopped by Marc Andre ter Stegen. It didn't really trouble him."
+        },
+        {
+            "gameTime": "1 - 28:30",
+            "label": "",
+            "description": "The game is interrupted as Gerard Pique (Barcelona) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 28:15",
+            "label": "",
+            "description": "Deniz Aytekin blows his whistle after Thomas Meunier (Paris SG) kicks an opponent's legs instead of the ball. There is a free kick near the sideline to Barcelona."
+        },
+        {
+            "gameTime": "1 - 27:11",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) collects a pass and has an effort from 24 metres out, but it flies just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 26:47",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "1 - 26:30",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) looks to break free, but an opposing player clears the ball away. The referee points to the corner flag and Barcelona will take a corner."
+        },
+        {
+            "gameTime": "1 - 25:46",
+            "label": "",
+            "description": "The resulting free kick from 25 metres out taken by Lionel Messi (Barcelona) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 24:54",
+            "label": "",
+            "description": "Layvin Kurzawa (Paris SG) commits an ugly tackle on his opponent, but there is no caution from the referee. Barcelona have a free kick."
+        },
+        {
+            "gameTime": "1 - 22:58",
+            "label": "y-card",
+            "description": "Gerard Pique (Barcelona) sees a yellow card from Deniz Aytekin after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "1 - 21:30",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) brings his opponent down. Deniz Aytekin has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 17:31",
+            "label": "",
+            "description": "Neymar (Barcelona) gets a shot away from around 24 metres out after his fine solo run. The ball went just wide of the right post!"
+        },
+        {
+            "gameTime": "1 - 16:20",
+            "label": "",
+            "description": "Marquinhos (Paris SG) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 16:15",
+            "label": "",
+            "description": "The free kick is taken by Lucas (Paris SG), but ball is cleared."
+        },
+        {
+            "gameTime": "1 - 15:49",
+            "label": "",
+            "description": "Sergio Busquets (Barcelona) commits a foul after bringing down his opponent with a slide tackle. Paris SG earn a free kick."
+        },
+        {
+            "gameTime": "1 - 14:20",
+            "label": "",
+            "description": "Close! Lionel Messi (Barcelona) takes the resultant free kick from 25 metres out and his shot goes just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 13:15",
+            "label": "y-card",
+            "description": "Deniz Aytekin shows a yellow card to Julian Draxler (Paris SG) for a tough tackle. A free kick to Barcelona."
+        },
+        {
+            "gameTime": "1 - 12:24",
+            "label": "",
+            "description": "Deniz Aytekin blows his whistle as Luis Suarez (Barcelona) used excessive force in the tackle during an attack."
+        },
+        {
+            "gameTime": "1 - 11:41",
+            "label": "corner",
+            "description": "The resulting corner from Lucas (Paris SG) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 11:31",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) races towards goal but the defender gets back well to make a challenge. Good work from Paris SG as they win a corner."
+        },
+        {
+            "gameTime": "1 - 11:03",
+            "label": "corner",
+            "description": "Lucas (Paris SG) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "1 - 10:13",
+            "label": "",
+            "description": "Julian Draxler (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 09:44",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the right post."
+        },
+        {
+            "gameTime": "1 - 09:24",
+            "label": "corner",
+            "description": "Neymar (Barcelona) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "1 - 09:13",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) tries to send a pass but it's blocked. Barcelona will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 08:20",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 08:05",
+            "label": "",
+            "description": "Neymar (Barcelona) delivers a promising cross into the box, but it's cleared. Barcelona earn a corner."
+        },
+        {
+            "gameTime": "1 - 06:50",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "gameTime": "1 - 04:53",
+            "label": "y-card",
+            "description": "Deniz Aytekin shows a yellow card to Blaise Matuidi (Paris SG), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "gameTime": "1 - 02:26",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) finds some space inside the box and powers his header past the goalkeeper, giving him no chance."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Barcelona will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Deniz Aytekin will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "08/03/2017 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "6 - 1"
+}

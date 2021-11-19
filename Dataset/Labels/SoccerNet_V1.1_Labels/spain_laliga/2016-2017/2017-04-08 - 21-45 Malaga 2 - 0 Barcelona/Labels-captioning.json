@@ -1,0 +1,340 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:19",
+            "label": "whistle",
+            "description": "There will be no more action in this match as the referee signals full time."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:50",
+            "label": "soccer-ball",
+            "description": "Fantastic team goal! Jony (Malaga) was set free in the area by Pablo Fornals and fired past Marc Andre ter Stegen. 2:0."
+        },
+        {
+            "gameTime": "2 - 41:40",
+            "label": "y-card",
+            "description": "Jesus Gil Manzano shows a yellow card to Javier Mascherano (Barcelona), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "gameTime": "2 - 37:57",
+            "label": "substitution",
+            "description": "Jony (Malaga) joins the action as a substitute, replacing Juan Carlos."
+        },
+        {
+            "gameTime": "2 - 36:36",
+            "label": "y-card",
+            "description": "Juan Carlos (Malaga) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Jesus Gil Manzano ignores the protests."
+        },
+        {
+            "gameTime": "2 - 34:06",
+            "label": "",
+            "description": "What a wasted opportunity by Charles (Malaga)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the bottom left corner, but Marc Andre ter Stegen makes an astonishing save to thwart him."
+        },
+        {
+            "gameTime": "2 - 33:48",
+            "label": "",
+            "description": "A poorly taken free kick by Lionel Messi (Barcelona)! He sends a shot from the edge of the box into the defensive wall."
+        },
+        {
+            "gameTime": "2 - 33:21",
+            "label": "",
+            "description": "Charles (Malaga) makes a rough challenge and Jesus Gil Manzano blows his whistle for a foul. Barcelona are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 31:17",
+            "label": "substitution",
+            "description": "Substitution. Sandro Ramirez is replaced by Charles (Malaga)."
+        },
+        {
+            "gameTime": "2 - 27:50",
+            "label": "",
+            "description": "Sandro Ramirez (Malaga) unleashes a shot from a mid range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly."
+        },
+        {
+            "gameTime": "2 - 27:17",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) was trying to get to the ball but clattered into the legs of the opponent as well. Jesus Gil Manzano blows his whistle for an infringement. Malaga have a free kick."
+        },
+        {
+            "gameTime": "2 - 25:53",
+            "label": "",
+            "description": "Adalberto Penaranda (Malaga) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "2 - 23:37",
+            "label": "y-card",
+            "description": "The whistle blows and Adalberto Penaranda (Malaga) is booked for an infringement."
+        },
+        {
+            "gameTime": "2 - 21:50",
+            "label": "substitution",
+            "description": "It's time for a substitution. Adalberto Penaranda (Malaga) comes on in place of Juanpi."
+        },
+        {
+            "gameTime": "2 - 19:58",
+            "label": "yr-card",
+            "description": "Neymar (Barcelona) is sent off! He justly receives a yellow card and it is his second one, a red card must be given. The match ends for him."
+        },
+        {
+            "gameTime": "2 - 18:43",
+            "label": "",
+            "description": "Neymar (Barcelona) misses a good chance to score. A perfect cross into the box finds Neymar (Barcelona) who rises for a header, but he sends the ball well over the bar."
+        },
+        {
+            "gameTime": "2 - 17:52",
+            "label": "",
+            "description": "What a chance that is! Juanpi (Malaga) finds himself in a promising position after receiving a pass on the edge of the box. His attempt goes just over the bar."
+        },
+        {
+            "gameTime": "2 - 16:58",
+            "label": "",
+            "description": "Jesus Gil Manzano couldn't ignore the rough tackle by Juan Carlos (Malaga) and blew his whistle. A free kick has been awarded to Barcelona. Barcelona continue the game with a quickly taken free kick."
+        },
+        {
+            "gameTime": "2 - 15:20",
+            "label": "substitution",
+            "description": "The substitution is prepared. Alcacer Paco (Barcelona) joins the action as a substitute, replacing Andre Gomes."
+        },
+        {
+            "gameTime": "2 - 11:50",
+            "label": "",
+            "description": "Marc Andre ter Stegen pulls off a great save to deny Juanpi (Malaga), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 09:05",
+            "label": "",
+            "description": "Neymar (Barcelona) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "gameTime": "2 - 07:57",
+            "label": "",
+            "description": "Ignacio Camacho (Malaga) commits an ugly tackle on his opponent, but there is no caution from the referee. A free kick is awarded to Barcelona."
+        },
+        {
+            "gameTime": "2 - 05:28",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) stands over the resultant free kick from 24 metres out and his shot goes well over the bar."
+        },
+        {
+            "gameTime": "2 - 04:42",
+            "label": "",
+            "description": "Jesus Gil Manzano blows his whistle for a foul after Ignacio Camacho (Malaga) hacks down one of his opponents. Barcelona earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "2 - 03:17",
+            "label": "corner",
+            "description": "The resulting corner, taken by Juanpi (Malaga), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 02:59",
+            "label": "",
+            "description": "Juan Carlos (Malaga) tries to send a pass but it's blocked. The ball goes out of play and Malaga have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Luis Enrique makes a switch. Sergi Roberto (Barcelona) is coming on in place of Jeremy Mathieu at the start of the second period."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Half time substitution. Denis Suarez will not participate anymore and Andres Iniesta (Barcelona) is coming on."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half time break is over and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 45:15",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 44:30",
+            "label": "y-card",
+            "description": "Jesus Gil Manzano shows a yellow card to Recio (Malaga) for a tough tackle."
+        },
+        {
+            "gameTime": "1 - 43:51",
+            "label": "corner",
+            "description": "Malaga take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 43:36",
+            "label": "",
+            "description": "Sandro Ramirez (Malaga) receives a clever long through ball and finds himself in a promising position inside the box, but the defence is alert to the danger and clears. The linesman points to the corner flag, Malaga are going to take it."
+        },
+        {
+            "gameTime": "1 - 42:09",
+            "label": "",
+            "description": "One of the players from Barcelona times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 41:37",
+            "label": "",
+            "description": "Juanpi (Malaga) fires the ball on goal, but his attempt goes well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 40:30",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 40:10",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) sends a lofted cross into the box which is headed clear. The referee points to the corner flag. It's a corner to Barcelona."
+        },
+        {
+            "gameTime": "1 - 38:34",
+            "label": "corner",
+            "description": "Neymar (Barcelona) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 37:56",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The linesman makes the right call and Barcelona will have a corner."
+        },
+        {
+            "gameTime": "1 - 36:55",
+            "label": "y-card",
+            "description": "Federico Ricca (Malaga) sees a yellow card from Jesus Gil Manzano after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "1 - 32:32",
+            "label": "y-card",
+            "description": "Samuel Umtiti (Barcelona) is awarded a yellow card."
+        },
+        {
+            "gameTime": "1 - 31:51",
+            "label": "soccer-ball",
+            "description": "Sandro Ramirez (Malaga) converts a killer cross with a precise low shot that goes into the bottom left corner. What a brilliant finish!"
+        },
+        {
+            "gameTime": "1 - 29:34",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) tries to find Andre Gomes with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "1 - 27:05",
+            "label": "",
+            "description": "Sandro Ramirez (Malaga) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch."
+        },
+        {
+            "gameTime": "1 - 26:48",
+            "label": "y-card",
+            "description": "A yellow coloured card is received by Neymar (Barcelona)."
+        },
+        {
+            "gameTime": "1 - 25:59",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. It's a free kick to Malaga in a dangerous position."
+        },
+        {
+            "gameTime": "1 - 21:43",
+            "label": "",
+            "description": "Close! Lionel Messi (Barcelona) takes the resultant free kick from 25 metres out and his shot goes just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 20:46",
+            "label": "",
+            "description": "Federico Ricca (Malaga) brings his opponent down. Jesus Gil Manzano has a clear sight of it and blows his whistle for a foul. Barcelona win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 15:30",
+            "label": "corner",
+            "description": "Neymar (Barcelona) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "1 - 15:05",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) makes a good run inside the box to meet a precise cross. He latches on to it and shoots, but the goalkeeper pulls off an excellent save. The ball is out of play. A goal scoring opportunity from a corner for Barcelona."
+        },
+        {
+            "gameTime": "1 - 12:46",
+            "label": "",
+            "description": "One of the players from Barcelona times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 09:17",
+            "label": "",
+            "description": "Malaga are ruled offside."
+        },
+        {
+            "gameTime": "1 - 08:10",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Malaga was in an offside position."
+        },
+        {
+            "gameTime": "1 - 07:14",
+            "label": "y-card",
+            "description": "Jordi Alba (Barcelona) picks up a yellow card for an infringement."
+        },
+        {
+            "gameTime": "1 - 06:59",
+            "label": "",
+            "description": "Neymar (Barcelona) fouls an opponent. At least that's what referee Jesus Gil Manzano signals."
+        },
+        {
+            "gameTime": "1 - 05:40",
+            "label": "",
+            "description": "Barcelona players are playing combination football and attempting to create a goal scoring opportunity, but they will have to wait for that as they have just lost possession due to a poor pass."
+        },
+        {
+            "gameTime": "1 - 02:37",
+            "label": "",
+            "description": "Sergio Busquets (Barcelona) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Malaga will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Jesus Gil Manzano was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The top scorer of Barcelona is Lionel Messi with 27 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "In the last 5 games between these two teams there were 1 matches with over 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "There will be no more action in this match as the referee signals full time."
+        }
+    ],
+    "gameAwayTeam": "Barcelona",
+    "gameDate": "08/04/2017 - 21:45",
+    "gameHomeTeam": "Malaga",
+    "gameScore": "2 - 0"
+}

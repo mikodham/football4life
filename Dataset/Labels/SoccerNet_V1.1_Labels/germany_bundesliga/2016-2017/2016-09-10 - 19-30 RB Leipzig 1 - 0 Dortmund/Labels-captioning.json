@@ -1,0 +1,465 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:58",
+            "label": "",
+            "description": "Today's game was very poor. There weren't many thrilling moments. Both teams tried unsuccessfully to control the game. Their overall performances were more or less even. In terms of strategy, the hosts were waiting for the right moment to win the ball and launch a counter attack. The visiting side adopted a possession style of football."
+        },
+        {
+            "gameTime": "2 - 48:56",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 48:40",
+            "label": "corner",
+            "description": "The resulting corner, taken by Ousmane Dembele (Dortmund), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 48:35",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee blows his whistle, Dortmund are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 47:30",
+            "label": "corner",
+            "description": "The resulting corner from Emil Forsberg (RB Leipzig) is cleared."
+        },
+        {
+            "gameTime": "2 - 45:28",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "2 - 45:27",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) sends the ball into the box from the side of the pitch, but his cross is blocked. Dortmund earn a corner."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:54",
+            "label": "soccer-ball",
+            "description": "It's a goal! Naby Keita (RB Leipzig) shows off his superb ability as he volleys the ball from inside the box into the top right corner. The assist goes to Oliver Burke and the score changes to 1:0."
+        },
+        {
+            "gameTime": "2 - 41:47",
+            "label": "",
+            "description": "Wolfgang Stark blows his whistle after Marcel Schmelzer (Dortmund) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "gameTime": "2 - 39:35",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to make a change. Adrian Ramos (Dortmund) replaces Pierre Emerick Aubameyang."
+        },
+        {
+            "gameTime": "2 - 38:36",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Naby Keita (RB Leipzig) coming on for Dominik Kaiser."
+        },
+        {
+            "gameTime": "2 - 37:40",
+            "label": "",
+            "description": "What a chance that is! Andre Schurrle (Dortmund) finds himself in a promising position after receiving a pass on the edge of the box. His attempt goes just over the bar."
+        },
+        {
+            "gameTime": "2 - 37:13",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) fouls an opponent. At least that's what referee Wolfgang Stark signals."
+        },
+        {
+            "gameTime": "2 - 34:52",
+            "label": "",
+            "description": "Marcel Halstenberg (RB Leipzig) outjumps the defence to meet the resulting corner and heads the ball towards the bottom left corner. The long range header is not powerful enough, and the keeper comfortably makes a save."
+        },
+        {
+            "gameTime": "2 - 34:09",
+            "label": "corner",
+            "description": "Dominik Kaiser (RB Leipzig) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "2 - 32:40",
+            "label": "",
+            "description": "Timo Werner (RB Leipzig) produced a promising shot towards the roof of the net after his wonderful solo run, but Roman Burki thwarted him with a fabulous save and the score remains the same. The ball goes out of play. RB Leipzig are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 31:33",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Timo Werner (RB Leipzig), whose instinctive shot towards goal flashes inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 29:33",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Dominik Kaiser (RB Leipzig) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "2 - 25:50",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to introduce fresh legs, with Ousmane Dembele (Dortmund) replacing Gonzalo Castro."
+        },
+        {
+            "gameTime": "2 - 25:45",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Raphael Guerreiro (Dortmund) for Mario Gotze."
+        },
+        {
+            "gameTime": "2 - 24:11",
+            "label": "corner",
+            "description": "Dominik Kaiser (RB Leipzig) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 23:56",
+            "label": "",
+            "description": "The ball is cleared after Timo Werner (RB Leipzig) attempted to dribble past an opposing player. The referee signals a corner kick to RB Leipzig."
+        },
+        {
+            "gameTime": "2 - 23:22",
+            "label": "substitution",
+            "description": "Ralph Hasenhuttl has decided to substitute Yussuf Poulsen and he is replaced by Oliver Burke (RB Leipzig)."
+        },
+        {
+            "gameTime": "2 - 22:45",
+            "label": "",
+            "description": "Wolfgang Stark blows his whistle after Yussuf Poulsen (RB Leipzig) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "2 - 19:07",
+            "label": "attendance",
+            "description": "The attendance for today's match is 42558."
+        },
+        {
+            "gameTime": "2 - 18:38",
+            "label": "substitution",
+            "description": "Substitution. Marcel Sabitzer walks off the pitch and Emil Forsberg (RB Leipzig) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 16:40",
+            "label": "",
+            "description": "Marvin Compper (RB Leipzig) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+        },
+        {
+            "gameTime": "2 - 16:10",
+            "label": "",
+            "description": "The linesman signals that Emil Forsberg (RB Leipzig) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 13:46",
+            "label": "y-card",
+            "description": "Marc Bartra (Dortmund) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Wolfgang Stark didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 11:07",
+            "label": "",
+            "description": "Lukas Klostermann (RB Leipzig) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 09:10",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) is caught offside!"
+        },
+        {
+            "gameTime": "2 - 08:36",
+            "label": "y-card",
+            "description": "Timo Werner (RB Leipzig) kept talking out of turn to the referee until Wolfgang Stark lost patience and pulled out a yellow card."
+        },
+        {
+            "gameTime": "2 - 06:32",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "gameTime": "2 - 06:05",
+            "label": "",
+            "description": "Dominik Kaiser (RB Leipzig) brings down his opponent with a very late tackle. Another situation results in a direct free kick for Dortmund."
+        },
+        {
+            "gameTime": "2 - 04:37",
+            "label": "",
+            "description": "Yussuf Poulsen (RB Leipzig) brings an opponent down and Wolfgang Stark interrupts the game."
+        },
+        {
+            "gameTime": "2 - 03:59",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 03:56",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) looks to break free, but an opposing player clears the ball away. The ball goes behind for a corner. Dortmund will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 02:58",
+            "label": "y-card",
+            "description": "Today's referee Wolfgang Stark rightly decides to book Lukas Klostermann (RB Leipzig) for his harsh tackle."
+        },
+        {
+            "gameTime": "2 - 01:09",
+            "label": "",
+            "description": "Marcel Sabitzer (RB Leipzig) escapes without any punishment from the referee after using excessive force to foul his opponent. Dortmund have been awarded a free kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Wolfgang Stark blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 47:10",
+            "label": "",
+            "description": "Well, a decent first half here. It's certainly not boring, but not the best match either. The visitors are mostly controlling the match and making it tough for the home side to keep up. The home side attempts to hold onto the ball for as long as possible, while the away team's main weapon is fast counter attacks."
+        },
+        {
+            "gameTime": "1 - 47:05",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 46:16",
+            "label": "corner",
+            "description": "Dominik Kaiser (RB Leipzig) takes a short corner kick."
+        },
+        {
+            "gameTime": "1 - 45:48",
+            "label": "",
+            "description": "Timo Werner (RB Leipzig) unleashes a shot from a mid range free kick that crashes into the defensive wall. The opposition's goalkeeper set it up perfectly. Good work from RB Leipzig as they win a corner."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:39",
+            "label": "",
+            "description": "Marc Bartra (Dortmund) makes a slide tackle, but referee Wolfgang Stark blows for a foul. RB Leipzig win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 43:12",
+            "label": "",
+            "description": "Sebastian Rode (Dortmund) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 42:00",
+            "label": "",
+            "description": "Marcel Sabitzer (RB Leipzig) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt."
+        },
+        {
+            "gameTime": "1 - 41:34",
+            "label": "corner",
+            "description": "Dominik Kaiser (RB Leipzig) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 41:24",
+            "label": "",
+            "description": "Dominik Kaiser (RB Leipzig) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to RB Leipzig."
+        },
+        {
+            "gameTime": "1 - 39:33",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Gonzalo Castro (Dortmund). Wolfgang Stark doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 36:29",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Timo Werner (RB Leipzig) but poses no threat."
+        },
+        {
+            "gameTime": "1 - 33:56",
+            "label": "",
+            "description": "Stefan Ilsanker (RB Leipzig) trips an opponent with a slide tackle. Wolfgang Stark stops the game and he could give him a card, but eventually decides on just a warning. A free kick has been awarded to Dortmund."
+        },
+        {
+            "gameTime": "1 - 32:58",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 30:18",
+            "label": "",
+            "description": "Timo Werner (RB Leipzig) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 27:36",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) receives a precise pass on the edge of the box and releases a promising effort. Unfortunately for him, his strike flies painfully close to the right post."
+        },
+        {
+            "gameTime": "1 - 24:55",
+            "label": "",
+            "description": "Lukas Klostermann (RB Leipzig) jumps into a tackle and Wolfgang Stark blows his whistle for a foul. Dortmund are awarded the free kick."
+        },
+        {
+            "gameTime": "1 - 23:05",
+            "label": "",
+            "description": "Yussuf Poulsen (RB Leipzig) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 22:09",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Julian Weigl (Dortmund). Wolfgang Stark saw the sliding tackle and blows for a foul. RB Leipzig will take a free kick."
+        },
+        {
+            "gameTime": "1 - 20:56",
+            "label": "",
+            "description": "Mario Gotze (Dortmund) attempted to pick out a free teammate inside the box, but Peter Gulacsi comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "1 - 19:51",
+            "label": "",
+            "description": "Roman Burki was forced into action to thwart Timo Werner (RB Leipzig). He found himself some space after latching on to a pass and unleashed a shot to the bottom left corner but couldn't beat the keeper."
+        },
+        {
+            "gameTime": "1 - 18:31",
+            "label": "",
+            "description": "This would have been a magnificent goal from Pierre Emerick Aubameyang (Dortmund), who collected the ball inside the box and prodded a first time shot on goal that flew just narrowly wide of the right post."
+        },
+        {
+            "gameTime": "1 - 17:30",
+            "label": "",
+            "description": "Flag up against Yussuf Poulsen (RB Leipzig). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "1 - 15:21",
+            "label": "",
+            "description": "Sebastian Rode (Dortmund) tries his luck with a shot from long distance after receiving a good pass. He hits the ball poorly and sends it into orbit."
+        },
+        {
+            "gameTime": "1 - 14:55",
+            "label": "corner",
+            "description": "Mario Gotze (Dortmund) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 14:47",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Now Dortmund have a corner."
+        },
+        {
+            "gameTime": "1 - 13:53",
+            "label": "",
+            "description": "Referee Wolfgang Stark sees the trip by Stefan Ilsanker (RB Leipzig) and doesn't hesitate to blow his whistle. It's a free kick to Dortmund, but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "1 - 11:58",
+            "label": "",
+            "description": "Dominik Kaiser (RB Leipzig) failed to convert a mid range free kick and sends the ball narrowly over the bar."
+        },
+        {
+            "gameTime": "1 - 11:34",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) brings his opponent down with a tackle and Wolfgang Stark blows his whistle for a foul. RB Leipzig have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "1 - 10:40",
+            "label": "",
+            "description": "Dominik Kaiser (RB Leipzig) sends a promising through ball, but the defence is alert and cuts out the pass. The referee and the linesman both signal a throw in for RB Leipzig."
+        },
+        {
+            "gameTime": "1 - 09:34",
+            "label": "corner",
+            "description": "Andre Schurrle (Dortmund) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 09:27",
+            "label": "",
+            "description": "The linesman points to the corner flag, Dortmund are going to take it. Pierre Emerick Aubameyang (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 08:59",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 08:24",
+            "label": "",
+            "description": "Dortmund are awarded a free kick from a dangerous position. Diego Demme (RB Leipzig) trips an opposition player and Wolfgang Stark signals a foul."
+        },
+        {
+            "gameTime": "1 - 08:00",
+            "label": "corner",
+            "description": "Andre Schurrle (Dortmund) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 07:46",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) slides a pass forward, but one of the defenders cuts it out. The referee points to the corner flag and Dortmund will take a corner."
+        },
+        {
+            "gameTime": "1 - 07:30",
+            "label": "corner",
+            "description": "Andre Schurrle (Dortmund) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 07:16",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. The ball is out of play. A goal scoring opportunity from a corner for Dortmund."
+        },
+        {
+            "gameTime": "1 - 07:01",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) will take the free kick."
+        },
+        {
+            "gameTime": "1 - 06:23",
+            "label": "",
+            "description": "Willi Orban (RB Leipzig) commits a foul after making a slide tackle on his opponent. Dortmund earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "1 - 03:46",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) sends a cross into the box, but Peter Gulacsi comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 02:21",
+            "label": "",
+            "description": "Wolfgang Stark blows his whistle and signals a foul after Yussuf Poulsen (RB Leipzig) brought his opponent down. Dortmund have a free kick."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. RB Leipzig will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Wolfgang Stark was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang is the biggest threat to an opponent! He has already scored 17 goals and is top scorer in this Dortmund team."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "RB Leipzig have signed: ."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's game was very poor. There weren't many thrilling moments. Both teams tried unsuccessfully to control the game. Their overall performances were more or less even. In terms of strategy, the hosts were waiting for the right moment to win the ball and launch a counter attack. The visiting side adopted a possession style of football."
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "10/09/2016 - 19:30",
+    "gameHomeTeam": "RB Leipzig",
+    "gameScore": "1 - 0"
+}

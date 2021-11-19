@@ -1,0 +1,350 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 45:12",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 43:00",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Adem Ljajic (Torino), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "2 - 43:00",
+            "label": "",
+            "description": "Joel Obi (Torino) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. The referee blows his whistle, Torino are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 36:51",
+            "label": "corner",
+            "description": "Adem Ljajic (Torino) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "2 - 36:44",
+            "label": "",
+            "description": "Juan Iturbe (Torino) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes out for a corner. Torino can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 36:00",
+            "label": "substitution",
+            "description": "Maurizio Sarri has decided to make a change. Arkadiusz Milik (Napoli) replaces Jose Callejon."
+        },
+        {
+            "gameTime": "2 - 33:00",
+            "label": "soccer-ball",
+            "description": "Piotr Zielinski (Napoli) takes a great first touch to control a killer pass on the edge of the box and curls the ball into the top right corner in trademark fashion."
+        },
+        {
+            "gameTime": "2 - 31:00",
+            "label": "soccer-ball",
+            "description": "Jose Callejon (Napoli) takes a great first touch to control a killer pass on the edge of the box and curls the ball inside the left post in trademark fashion."
+        },
+        {
+            "gameTime": "2 - 30:00",
+            "label": "substitution",
+            "description": "Today's match ends for Daniele Baselli who will be replaced by Joel Obi (Torino)."
+        },
+        {
+            "gameTime": "2 - 29:56",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "2 - 29:37",
+            "label": "",
+            "description": "Jorginho (Napoli) gets on the end of a pass on the edge of the box but his shot is blocked. It will be a corner kick for Napoli."
+        },
+        {
+            "gameTime": "2 - 27:00",
+            "label": "soccer-ball",
+            "description": "Goal! Dries Mertens (Napoli) weaves his way past opponents, and he unleashes a magnificent effort from the edge of the box inside the left post. Joe Hart had no chance of reaching it. The score is 0:3."
+        },
+        {
+            "gameTime": "2 - 25:22",
+            "label": "",
+            "description": "Dries Mertens (Napoli) meets a cross inside the box, but Joe Hart wins the battle for the ball and the chance is gone."
+        },
+        {
+            "gameTime": "2 - 20:37",
+            "label": "substitution",
+            "description": "Jose Callejon comes off the pitch to be replaced by Marko Rog (Napoli)."
+        },
+        {
+            "gameTime": "2 - 19:24",
+            "label": "",
+            "description": "Cristian Molinaro (Torino) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "gameTime": "2 - 18:00",
+            "label": "substitution",
+            "description": "Maurizio Sarri has decided to substitute Allan and he is replaced by Piotr Zielinski (Napoli)."
+        },
+        {
+            "gameTime": "2 - 17:05",
+            "label": "",
+            "description": "Joe Hart pulls off a great save to deny Dries Mertens (Napoli), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 14:44",
+            "label": "soccer-ball",
+            "description": "Goal! Dries Mertens displays great vision and sends a pass to Lorenzo Insigne (Napoli), who shows brilliant composure inside the box to bury the ball into the bottom left corner. The score is 0:2."
+        },
+        {
+            "gameTime": "2 - 13:38",
+            "label": "substitution",
+            "description": "Substitution. Lucas Boye makes way for Juan Iturbe (Torino)."
+        },
+        {
+            "gameTime": "2 - 12:10",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 12:00",
+            "label": "y-card",
+            "description": "Massimiliano Irrati shows a yellow card to Raul Albiol (Napoli), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "gameTime": "2 - 10:37",
+            "label": "",
+            "description": "Good team movement sets up Lucas Boye (Torino) on the edge of the box, but he slices the ball narrowly wide of the right post."
+        },
+        {
+            "gameTime": "2 - 07:28",
+            "label": "y-card",
+            "description": "Samuel Gustafsson (Torino) sees a yellow card from Massimiliano Irrati after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 06:28",
+            "label": "substitution",
+            "description": "The manager has decided to make a substitution and Marco Benassi walks off the pitch to be replaced by Samuel Gustafsson (Torino)."
+        },
+        {
+            "gameTime": "2 - 05:05",
+            "label": "",
+            "description": "Dries Mertens (Napoli) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "gameTime": "2 - 02:48",
+            "label": "",
+            "description": "Marco Benassi (Torino) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Pepe Reina pulls off an easy save."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:11",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Massimiliano Irrati has ended it."
+        },
+        {
+            "gameTime": "1 - 45:23",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:16",
+            "label": "",
+            "description": "Dries Mertens (Napoli) is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 40:35",
+            "label": "",
+            "description": "That's a well taken pass by Carlao Carlao (Torino). He unleashes a strike from the edge of the box, but blazes it high over the bar."
+        },
+        {
+            "gameTime": "1 - 37:37",
+            "label": "",
+            "description": "Dries Mertens (Napoli) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 35:33",
+            "label": "",
+            "description": "Lucas Boye (Torino) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "1 - 34:13",
+            "label": "",
+            "description": "Cristian Molinaro (Torino) does his best to latch onto a cross into the box, but he can't get to the ball."
+        },
+        {
+            "gameTime": "1 - 31:10",
+            "label": "",
+            "description": "Andrea Belotti (Torino) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 30:43",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) sends in a shot from a promising distance after a precise pass. His effort goes inches over the crossbar."
+        },
+        {
+            "gameTime": "1 - 29:09",
+            "label": "",
+            "description": "The foul by Dries Mertens (Napoli) was seen by Massimiliano Irrati who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 28:30",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "1 - 28:22",
+            "label": "",
+            "description": "Allan (Napoli) collects a pass from the flank, looks up and fires in a goal bound shot from the edge of the box which canons off a defender to safety. The ball goes out of play and Napoli have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 26:05",
+            "label": "",
+            "description": "Andrea Belotti (Torino) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Pepe Reina pulls off an easy save."
+        },
+        {
+            "gameTime": "1 - 22:42",
+            "label": "",
+            "description": "Adem Ljajic (Torino) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 21:17",
+            "label": "",
+            "description": "Referee Massimiliano Irrati sees the trip by Jose Callejon (Napoli) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 20:18",
+            "label": "",
+            "description": "Davide Zappacosta (Torino) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "1 - 20:15",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Napoli was in an offside position."
+        },
+        {
+            "gameTime": "1 - 19:22",
+            "label": "",
+            "description": "Dries Mertens (Napoli) gets the ball and drives a shot high over the bar from the edge of the area."
+        },
+        {
+            "gameTime": "1 - 18:18",
+            "label": "",
+            "description": "What a huge chance for Jose Callejon (Napoli). He collects a precise pass inside the box and slices a shot that goes a whisker wide of the left post."
+        },
+        {
+            "gameTime": "1 - 17:26",
+            "label": "",
+            "description": "The referee blows his whistle after Iago Falque (Torino) does a good impression of a basketball player and handles the ball. Napoli will take a free kick."
+        },
+        {
+            "gameTime": "1 - 15:47",
+            "label": "",
+            "description": "Pepe Reina (Napoli) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Massimiliano Irrati blows for the foul but keeps his cards in his pocket on this occasion. Torino have a free kick."
+        },
+        {
+            "gameTime": "1 - 12:25",
+            "label": "corner",
+            "description": "The corner from Faouzi Ghoulam (Napoli) is intercepted by the defence."
+        },
+        {
+            "gameTime": "1 - 12:12",
+            "label": "",
+            "description": "Allan (Napoli) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball goes out of play. Napoli are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:43",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 10:22",
+            "label": "",
+            "description": "Dries Mertens (Napoli) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The linesman points to the corner flag, Napoli are going to take it."
+        },
+        {
+            "gameTime": "1 - 09:26",
+            "label": "",
+            "description": "Jose Callejon (Napoli) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 07:39",
+            "label": "y-card",
+            "description": "Daniele Baselli (Torino) receives a yellow card for infringement."
+        },
+        {
+            "gameTime": "1 - 06:43",
+            "label": "soccer-ball",
+            "description": "Goal Jose Callejon (Napoli)! Jose Callejon (Napoli) was put through by Allan and he showed brilliant composure inside the box to fire into the bottom left corner. 0:1."
+        },
+        {
+            "gameTime": "1 - 04:50",
+            "label": "corner",
+            "description": "The corner from Faouzi Ghoulam (Napoli) is intercepted by Joe Hart."
+        },
+        {
+            "gameTime": "1 - 04:32",
+            "label": "",
+            "description": "A cross from Jose Callejon (Napoli) fails to reach the box as the defence clears the ball away to safety. The referee and one of his assistants signal for a corner kick to Napoli."
+        },
+        {
+            "gameTime": "1 - 02:10",
+            "label": "corner",
+            "description": "Jorginho (Napoli) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "1 - 01:43",
+            "label": "",
+            "description": "Allan (Napoli) sends a lofted cross into the box which is headed clear. Napoli force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The match has just started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Napoli will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Massimiliano Irrati is introduced as the referee for today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "23 The number of Torino matches with more than 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "1:1 This was the result of the last match between Torino and Juventus."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Andrea Belotti has already scored 25 goals and he is the top goal scorer for Torino in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "14/05/2017 - 16:00",
+    "gameHomeTeam": "Torino",
+    "gameScore": "0 - 5"
+}

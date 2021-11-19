@@ -1,0 +1,315 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:37",
+            "label": "whistle",
+            "description": "Luca Banti is looking at his watch and immediately ends this match."
+        },
+        {
+            "gameTime": "2 - 49:47",
+            "label": "corner",
+            "description": "Miralem Pjanic (Juventus) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 49:27",
+            "label": "",
+            "description": "Gonzalo Higuain (Juventus) blows a clear opportunity to score a goal. He was one on one with Wojciech Szczesny inside the six yard box and attempted to put the ball low into the middle of the target, but was denied by a great save. The ball is out of play. A goal scoring opportunity from a corner for Juventus."
+        },
+        {
+            "gameTime": "2 - 47:33",
+            "label": "substitution",
+            "description": "It is time for a substitution. Francesco Totti (AS Roma) is on for Mohamed Salah."
+        },
+        {
+            "gameTime": "2 - 47:00",
+            "label": "y-card",
+            "description": "Gonzalo Higuain (Juventus) is booked for saying more than Luca Banti was willing to tolerate."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:00",
+            "label": "y-card",
+            "description": "Mehdi Benatia (Juventus) picks up a yellow card."
+        },
+        {
+            "gameTime": "2 - 42:21",
+            "label": "",
+            "description": "Emerson (AS Roma) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 40:21",
+            "label": "injury",
+            "description": "Looks like Emerson (AS Roma) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "2 - 39:24",
+            "label": "corner",
+            "description": "Miralem Pjanic (Juventus) works the corner short."
+        },
+        {
+            "gameTime": "2 - 39:10",
+            "label": "",
+            "description": "Mario Lemina (Juventus) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. The referee signals a corner kick to Juventus."
+        },
+        {
+            "gameTime": "2 - 36:28",
+            "label": "injury",
+            "description": "Mario Mandzukic (Juventus) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 32:23",
+            "label": "substitution",
+            "description": "A substitution has been made. Radja Nainggolan goes off and Juan Jesus (AS Roma) comes on."
+        },
+        {
+            "gameTime": "2 - 32:12",
+            "label": "substitution",
+            "description": "Substitution. Claudio Marchisio (Juventus) in, Juan Cuadrado out."
+        },
+        {
+            "gameTime": "2 - 28:42",
+            "label": "",
+            "description": "Paulo Dybala (Juventus) misses a chance to score! He produces a header from inside the box, but it goes narrowly over the crossbar."
+        },
+        {
+            "gameTime": "2 - 24:00",
+            "label": "substitution",
+            "description": "Luciano Spalletti decides to make a substitution. Diego Perotti will be replaced by Clement Grenier (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 23:36",
+            "label": "substitution",
+            "description": "It will be a substitution. Paulo Dybala (Juventus) is ready to enter the pitch as Stefano Sturaro walks off."
+        },
+        {
+            "gameTime": "2 - 20:00",
+            "label": "soccer-ball",
+            "description": "Radja Nainggolan (AS Roma) receives the ball inside the box, reacts quickly and without any problems stabs the ball inside the right post."
+        },
+        {
+            "gameTime": "2 - 18:18",
+            "label": "substitution",
+            "description": "Massimiliano Allegri has decided to make a change. Dani Alves (Juventus) replaces Stephan Lichtsteiner."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "y-card",
+            "description": "Leandro Paredes (AS Roma) got a yellow card."
+        },
+        {
+            "gameTime": "2 - 13:09",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Miralem Pjanic (Juventus) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "2 - 12:51",
+            "label": "",
+            "description": "Juventus are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes. The ball goes out of play and Juventus have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 10:47",
+            "label": "soccer-ball",
+            "description": "Stephan El Shaarawy (AS Roma) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the bottom right corner. He makes it 2:1."
+        },
+        {
+            "gameTime": "2 - 05:00",
+            "label": "y-card",
+            "description": "Daniele De Rossi (AS Roma) is the one who receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 03:53",
+            "label": "corner",
+            "description": "Leandro Paredes (AS Roma) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "2 - 03:41",
+            "label": "",
+            "description": "Antonio Rudiger (AS Roma) blasts the ball from just outside the box, but his attempt is blocked by the defender. The referee blows his whistle, AS Roma are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 01:12",
+            "label": "injury",
+            "description": "Mario Lemina (Juventus) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 01:00",
+            "label": "y-card",
+            "description": "The game is interrupted because of a yellow card that is shown to Federico Fazio (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 46:03",
+            "label": "whistle",
+            "description": "Luca Banti has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 39:43",
+            "label": "corner",
+            "description": "The resulting corner from Miralem Pjanic (Juventus) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "1 - 39:25",
+            "label": "",
+            "description": "A cross into the box from Kwadwo Asamoah (Juventus) is cleared. Juventus force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 37:01",
+            "label": "corner",
+            "description": "Miralem Pjanic (Juventus) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 36:28",
+            "label": "",
+            "description": "Kwadwo Asamoah (Juventus) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag and Juventus will take a corner."
+        },
+        {
+            "gameTime": "1 - 34:55",
+            "label": "",
+            "description": "Gonzalo Higuain (Juventus) is unlucky with a goal bound effort from the edge of the box. A fortuitous save from Wojciech Szczesny stops the ball from going into the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 31:38",
+            "label": "",
+            "description": "Leandro Paredes (AS Roma) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 24:35",
+            "label": "soccer-ball",
+            "description": "Goal! Daniele De Rossi (AS Roma) fires the rebound into the middle of the goal after the ball breaks to him in the box. The score is 1:1."
+        },
+        {
+            "gameTime": "1 - 24:04",
+            "label": "corner",
+            "description": "Leandro Paredes (AS Roma) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "gameTime": "1 - 23:55",
+            "label": "",
+            "description": "AS Roma move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. AS Roma will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 21:00",
+            "label": "soccer-ball",
+            "description": "Goal 0:1! Gonzalo Higuain laid the ball off to Mario Lemina (Juventus), who slots it into the back of the net from close range, leaving the goalkeeper helpless."
+        },
+        {
+            "gameTime": "1 - 18:35",
+            "label": "corner",
+            "description": "Leandro Paredes (AS Roma) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 17:57",
+            "label": "corner",
+            "description": "The corner from Leandro Paredes (AS Roma) is intercepted by the defence. AS Roma have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 17:05",
+            "label": "",
+            "description": "Leandro Paredes (AS Roma) takes the free kick but it is cleared by the first defender. AS Roma force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 15:12",
+            "label": "",
+            "description": "Gonzalo Higuain (Juventus) takes a mid range shot, but it lacks accuracy and it goes way over the bar."
+        },
+        {
+            "gameTime": "1 - 09:42",
+            "label": "",
+            "description": "Luca Banti blows his whistle and it's Antonio Rudiger (AS Roma) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "1 - 06:10",
+            "label": "corner",
+            "description": "Miralem Pjanic (Juventus) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "1 - 05:56",
+            "label": "",
+            "description": "Gonzalo Higuain (Juventus) crosses the ball forward but it is intercepted. The ball is out of play. Juventus will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 04:31",
+            "label": "",
+            "description": "Antonio Rudiger (AS Roma) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "gameTime": "1 - 02:19",
+            "label": "injury",
+            "description": "The game is interrupted now, Mario Mandzukic (Juventus) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 01:33",
+            "label": "corner",
+            "description": "Leandro Paredes (AS Roma) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "gameTime": "1 - 01:25",
+            "label": "",
+            "description": "AS Roma play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. The ball is out of play and the linesman points at the corner flag. Corner to AS Roma."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The match has just started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and AS Roma will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Luca Banti."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Juventus have a rock solid defence this season as they have conceded only 26 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Gonzalo Higuain is the leading goal scorer for Juventus with 24 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "AS Roma have won 14x at home this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "Luca Banti is looking at his watch and immediately ends this match."
+        }
+    ],
+    "gameAwayTeam": "Juventus",
+    "gameDate": "14/05/2017 - 21:45",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "3 - 1"
+}

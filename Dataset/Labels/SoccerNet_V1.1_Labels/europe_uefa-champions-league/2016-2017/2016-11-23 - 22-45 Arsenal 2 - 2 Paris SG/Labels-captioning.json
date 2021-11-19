@@ -1,0 +1,520 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The performance of both teams was pretty much even. Both teams attempted to play possession football."
+        },
+        {
+            "gameTime": "2 - 48:10",
+            "label": "whistle",
+            "description": "That's it for today, Felix Brych has blown his whistle and the game is over."
+        },
+        {
+            "gameTime": "2 - 46:27",
+            "label": "",
+            "description": "Thiago Motta (Paris SG) fails to pick a body out in the box with an over hit chip pass. The ball goes out of play and Arsenal will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 45:56",
+            "label": "corner",
+            "description": "Hatem Ben Arfa (Paris SG) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 45:47",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Jese (Paris SG). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. Paris SG force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:43",
+            "label": "",
+            "description": "Jese (Paris SG) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "gameTime": "2 - 43:14",
+            "label": "substitution",
+            "description": "It's time for a substitution. Jese (Paris SG) comes on in place of Lucas."
+        },
+        {
+            "gameTime": "2 - 42:24",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) swings a cross into the box, but it's far too close to David Ospina, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 39:20",
+            "label": "",
+            "description": "Aaron Ramsey (Arsenal) is penalised for holding. Felix Brych signals a set piece."
+        },
+        {
+            "gameTime": "2 - 38:01",
+            "label": "",
+            "description": "Flag goes up against Olivier Giroud (Arsenal) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 36:37",
+            "label": "",
+            "description": "What a chance that is! Lucas swings the ball into the box, and Edinson Cavani (Paris SG) gets in front of his man and powers his header just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "substitution",
+            "description": "Arsene Wenger has decided to introduce fresh legs, with Alex Oxlade Chamberlain (Arsenal) replacing Carl Jenkinson."
+        },
+        {
+            "gameTime": "2 - 34:31",
+            "label": "substitution",
+            "description": "The substitution has been made. Theo Walcott (Arsenal) has replaced Francis Coquelin."
+        },
+        {
+            "gameTime": "2 - 34:00",
+            "label": "",
+            "description": "Aaron Ramsey (Arsenal) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post."
+        },
+        {
+            "gameTime": "2 - 33:33",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) picks up a pass and hits the ball towards goal, but he can't generate enough power to trouble David Ospina."
+        },
+        {
+            "gameTime": "2 - 32:00",
+            "label": "substitution",
+            "description": "Here is a change. Alex Iwobi is going off and Arsene Wenger gives the last tactical orders to Granit Xhaka (Arsenal)."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "soccer-ball-own",
+            "description": "Alex Iwobi (Arsenal) attempts to head the ball away from inside the six yard box, but unluckily he turns the resulting corner into his own net."
+        },
+        {
+            "gameTime": "2 - 31:00",
+            "label": "corner",
+            "description": "Hatem Ben Arfa (Paris SG) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "2 - 30:46",
+            "label": "",
+            "description": "Maxwell (Paris SG) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. Corner kick. Paris SG will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 28:47",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) fails to pick a body out in the box with an over hit chip pass."
+        },
+        {
+            "gameTime": "2 - 26:24",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) delivers a promising cross into the box, but it's cleared. The ball is out of play. Paris SG will have a throw in."
+        },
+        {
+            "gameTime": "2 - 25:17",
+            "label": "",
+            "description": "Thiago Motta (Paris SG) collects a pass and strikes from about 28 metres out. It's a poor attempt which flies well over the bar. The ball is off of the pitch and it's a goal kick for Arsenal."
+        },
+        {
+            "gameTime": "2 - 24:22",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) was standing in a clear offside position, making it an easy call for the linesman."
+        },
+        {
+            "gameTime": "2 - 23:53",
+            "label": "",
+            "description": "Felix Brych blows his whistle after Thiago Motta (Paris SG) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "2 - 22:28",
+            "label": "",
+            "description": "The ball is cleared after Hatem Ben Arfa (Paris SG) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for Arsenal."
+        },
+        {
+            "gameTime": "2 - 21:21",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Hatem Ben Arfa (Paris SG) will replace Grzegorz Krychowiak."
+        },
+        {
+            "gameTime": "2 - 20:50",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "2 - 20:37",
+            "label": "corner",
+            "description": "Lucas (Paris SG) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "2 - 20:13",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. Good work from Paris SG as they win a corner."
+        },
+        {
+            "gameTime": "2 - 18:43",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 17:45",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) dribbles into the box, but David Ospina is quick enough to come off his line and stop him."
+        },
+        {
+            "gameTime": "2 - 17:01",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) unleashes a shot from 20 metres out but is unable to find the target and it goes well wide of the left post. The ball goes out of play and Arsenal will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 16:32",
+            "label": "",
+            "description": "The Arsenal players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 14:26",
+            "label": "soccer-ball-own",
+            "description": "Marco Verratti (Paris SG) puts the ball into the back of the net but, unfortunately for him and his teammates, it's into his own goal!"
+        },
+        {
+            "gameTime": "2 - 14:00",
+            "label": "",
+            "description": "Aaron Ramsey (Arsenal) reacts well to latch onto a rebound inside the box, but his shot is well blocked."
+        },
+        {
+            "gameTime": "2 - 12:59",
+            "label": "corner",
+            "description": "Mesut Ozil (Arsenal) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "2 - 12:47",
+            "label": "",
+            "description": "An attempted cross from Alexis Sanchez (Arsenal) is cleared. The referee points to the corner flag. It's a corner to Arsenal."
+        },
+        {
+            "gameTime": "2 - 12:23",
+            "label": "corner",
+            "description": "Corner kick. Mesut Ozil (Arsenal) is ready to send the ball into the box."
+        },
+        {
+            "gameTime": "2 - 12:11",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee and his assistant both point at the corner flag. Arsenal will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 11:55",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 11:27",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) creates himself some space on the edge of the box and unleashes a strong shot which is blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 11:01",
+            "label": "",
+            "description": "Alex Iwobi (Arsenal) attempted to send a defence splitting pass into space where Alexis Sanchez was lurking. It could have put him one on one with the goalkeeper, but one of the defending players somehow manages to avert the threat."
+        },
+        {
+            "gameTime": "2 - 09:57",
+            "label": "y-card",
+            "description": "Felix Brych shows the yellow card to Marco Verratti (Paris SG) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 08:46",
+            "label": "",
+            "description": "Felix Brych blows for a foul after Kieran Gibbs (Arsenal) was too aggressive in the battle for the ball. Free kick. Paris SG will probably just try to cross the ball in from here."
+        },
+        {
+            "gameTime": "2 - 08:16",
+            "label": "",
+            "description": "Lucas (Paris SG) takes a mid range free kick and his stunning strike crashes against the crossbar."
+        },
+        {
+            "gameTime": "2 - 07:10",
+            "label": "y-card",
+            "description": "Laurent Koscielny (Arsenal) picks up a yellow card for a foul. Paris SG win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "2 - 05:53",
+            "label": "",
+            "description": "Alex Iwobi (Arsenal) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "2 - 04:16",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) commits a foul and Felix Brych immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 02:21",
+            "label": "",
+            "description": "Lucas (Paris SG) brings down his opponent with a very late tackle. It's a free kick to Arsenal, but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "2 - 01:25",
+            "label": "",
+            "description": "Poor challenge! Aaron Ramsey (Arsenal) is penalised for tripping and Felix Brych blows his whistle. A free kick has been awarded to Paris SG."
+        },
+        {
+            "gameTime": "2 - 00:28",
+            "label": "",
+            "description": "The linesman raises his flag. Francis Coquelin (Arsenal) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "We are watching a run of the mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The visitors dominated that half and looked more dangerous in attack. The home side are really focusing on a well organized defence and are happy to let the opposition play their possession football."
+        },
+        {
+            "gameTime": "1 - 46:28",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:47",
+            "label": "soccer-ball",
+            "description": "Olivier Giroud (Arsenal) scores from the penalty spot after firing the ball into the bottom left corner to give the goalkeeper no chance!"
+        },
+        {
+            "gameTime": "1 - 45:42",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "1 - 44:29",
+            "label": "penalty",
+            "description": "Grzegorz Krychowiak (Paris SG) brings an opponent down and Felix Brych interrupts the game. A penalty is given to Arsenal!"
+        },
+        {
+            "gameTime": "1 - 42:44",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) sends a teasing cross into the area, but Alphonse Areola intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 41:43",
+            "label": "",
+            "description": "Carl Jenkinson (Arsenal) is disappointed with himself because he got into a good area but produced a poor cross. The ball goes out of play and Paris SG will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 39:46",
+            "label": "corner",
+            "description": "Alex Iwobi (Arsenal) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "1 - 39:34",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) slides a pass forward, but one of the defenders cuts it out. Arsenal win a corner."
+        },
+        {
+            "gameTime": "1 - 37:13",
+            "label": "",
+            "description": "Francis Coquelin (Arsenal) and Olivier Giroud exchange crossfield passes in an attempt to shake up the opposition's defence, but the last pass is not up to the mark and is stolen by the defender. Well read."
+        },
+        {
+            "gameTime": "1 - 34:54",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) sends a long ball across the pitch, but it misses its target. The ball goes out of play and Paris SG will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 33:58",
+            "label": "y-card",
+            "description": "Francis Coquelin (Arsenal) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Felix Brych didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "1 - 32:45",
+            "label": "",
+            "description": "Handball by Lucas (Paris SG). Arsenal are awarded the free kick."
+        },
+        {
+            "gameTime": "1 - 31:00",
+            "label": "y-card",
+            "description": "Marquinhos (Paris SG) sees a yellow card from Felix Brych after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "1 - 30:29",
+            "label": "corner",
+            "description": "Lucas (Paris SG) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "1 - 30:08",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) sends the ball into the box from the side of the pitch, but his cross is blocked. It will be a corner kick for Paris SG."
+        },
+        {
+            "gameTime": "1 - 29:22",
+            "label": "",
+            "description": "Carl Jenkinson (Arsenal) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 27:43",
+            "label": "",
+            "description": "Aaron Ramsey (Arsenal) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Paris SG will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 26:43",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) sends a chip pass into the box, but Alphonse Areola is quickest to intercept the ball."
+        },
+        {
+            "gameTime": "1 - 26:17",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) fails to beat a perfect example of the offside trap."
+        },
+        {
+            "gameTime": "1 - 24:42",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) delivers a low pass into the box which is intercepted. The ball is off of the pitch and it's a goal kick for Paris SG."
+        },
+        {
+            "gameTime": "1 - 24:02",
+            "label": "",
+            "description": "The ball is cleared after Maxwell (Paris SG) attempted to dribble past an opposing player. The ball goes out of play and Arsenal will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 22:39",
+            "label": "",
+            "description": "The linesman signals that Olivier Giroud (Arsenal) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "1 - 21:39",
+            "label": "",
+            "description": "Carl Jenkinson (Arsenal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Paris SG are taking a throw in."
+        },
+        {
+            "gameTime": "1 - 20:43",
+            "label": "",
+            "description": "Laurent Koscielny (Arsenal) tackles a bit over zealously and Felix Brych blows for a foul. Paris SG win a free kick."
+        },
+        {
+            "gameTime": "1 - 19:42",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Lucas (Paris SG), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "1 - 19:27",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Paris SG force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 18:00",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Blaise Matuidi is the provider as he slips the ball to Edinson Cavani (Paris SG) who simply steers it home from close range. It's 0:1."
+        },
+        {
+            "gameTime": "1 - 16:08",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+        },
+        {
+            "gameTime": "1 - 14:48",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) meets a cross and produces a header towards the bottom right corner, but one of the defending players blocks the effort."
+        },
+        {
+            "gameTime": "1 - 14:32",
+            "label": "corner",
+            "description": "Lucas (Paris SG) will deliver the corner kick."
+        },
+        {
+            "gameTime": "1 - 14:15",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and Paris SG manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 13:19",
+            "label": "",
+            "description": "Alex Iwobi (Arsenal) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 12:55",
+            "label": "",
+            "description": "Lucas (Paris SG) sends a cross into the box, but David Ospina comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 12:10",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) tries to find Mesut Ozil, but he puts too much power on the through ball."
+        },
+        {
+            "gameTime": "1 - 11:17",
+            "label": "",
+            "description": "Lucas (Paris SG) tries to latch onto a through ball, but it's too long. The ball is off of the pitch and it's a goal kick for Arsenal."
+        },
+        {
+            "gameTime": "1 - 10:35",
+            "label": "",
+            "description": "Some great controlled play and passing from Paris SG. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 08:16",
+            "label": "",
+            "description": "Alex Iwobi (Arsenal) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 05:44",
+            "label": "",
+            "description": "Thomas Meunier (Paris SG) clips a neat ball into the box in the direction of Edinson Cavani, but he can't get on the end of the pass."
+        },
+        {
+            "gameTime": "1 - 04:31",
+            "label": "",
+            "description": "Alex Iwobi loses the ball after receiving a sweet pass from Olivier Giroud (Arsenal)."
+        },
+        {
+            "gameTime": "1 - 04:02",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) is unable to feed a through ball into the path of his teammates."
+        },
+        {
+            "gameTime": "1 - 03:11",
+            "label": "",
+            "description": "Aaron Ramsey (Arsenal) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 02:07",
+            "label": "",
+            "description": "Good movement by Carl Jenkinson (Arsenal), but he can't find any of his teammates as the cross is poor. It's a throw in for Paris SG."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The match has just started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Arsenal will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Felix Brych."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The performance of both teams was pretty much even. Both teams attempted to play possession football."
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "23/11/2016 - 22:45",
+    "gameHomeTeam": "Arsenal",
+    "gameScore": "2 - 2"
+}

@@ -1,0 +1,580 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2016-09-20 - 21-45 AC Milan 2 - 0 Lazio/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. The home side were better today. The home team's main weapon was fast counter attacks. The away team played long ball football."
+        },
+        {
+            "gameTime": "2 - 49:19",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 49:10",
+            "label": "",
+            "description": "Ciro Immobile (Lazio) wasted a chance to score! He pinged a fine header from deep inside the box towards the net, but his aim was off and it flew narrowly wide of the right post."
+        },
+        {
+            "gameTime": "2 - 49:05",
+            "label": "",
+            "description": "Marco Parolo (Lazio) reacts well and displays good awareness inside the box to get on the end of the resulting corner kick. He fails to direct the ball into the net as it flies narrowly wide of the right post."
+        },
+        {
+            "gameTime": "2 - 49:02",
+            "label": "corner",
+            "description": "Luis Alberto (Lazio) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "2 - 48:55",
+            "label": "corner",
+            "description": "Luis Alberto (Lazio) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear. The ball is out of play and the linesman points at the corner flag. Corner to Lazio."
+        },
+        {
+            "gameTime": "2 - 48:49",
+            "label": "",
+            "description": "Sergej Milinkovic Savic (Lazio) receives a pass and fires a shot in from long range, but it's blocked. Lazio get a corner."
+        },
+        {
+            "gameTime": "2 - 47:48",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards over the bar."
+        },
+        {
+            "gameTime": "2 - 46:34",
+            "label": "injury",
+            "description": "Dusan Basta (Lazio) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:33",
+            "label": "",
+            "description": "Senad Lulic (Lazio) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 43:57",
+            "label": "",
+            "description": "Balde Keita (Lazio) weaves through the defence with ease and gets one on one with the keeper, but fails to score with his low strike to the middle of the target as Gianluigi Donnarumma produces a good save."
+        },
+        {
+            "gameTime": "2 - 43:25",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) gives away a foul for a clumsy challenge. Referee Davide Massa saw the whole situation."
+        },
+        {
+            "gameTime": "2 - 41:32",
+            "label": "substitution",
+            "description": "Substitution. Gustavo Gomez (AC Milan) has come on for Carlos Bacca."
+        },
+        {
+            "gameTime": "2 - 40:59",
+            "label": "",
+            "description": "Balde Keita (Lazio) is caught offside after the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 40:14",
+            "label": "",
+            "description": "Balde Keita (Lazio) has a good chance to get on the scoresheet and fires the ball towards goal from the edge of the penalty box, but it goes narrowly over the crossbar."
+        },
+        {
+            "gameTime": "2 - 39:38",
+            "label": "",
+            "description": "Davide Massa blows his whistle. M'Baye Niang (AC Milan) commits a foul after dangerous play."
+        },
+        {
+            "gameTime": "2 - 38:50",
+            "label": "",
+            "description": "The foul by Ciro Immobile (Lazio) was seen by Davide Massa who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 37:37",
+            "label": "",
+            "description": "Felipe Anderson (Lazio) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+        },
+        {
+            "gameTime": "2 - 36:53",
+            "label": "substitution",
+            "description": "Substitution. Giacomo Bonaventura will be replaced by Keisuke Honda (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 36:23",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) smashes the ball towards goal from the edge of the penalty box, but it goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 35:14",
+            "label": "corner",
+            "description": "Luis Alberto (Lazio) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "2 - 34:56",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Balde Keita (Lazio). Lazio have a corner."
+        },
+        {
+            "gameTime": "2 - 32:02",
+            "label": "",
+            "description": "Juraj Kucka (AC Milan) tries his luck from a long range free kick and fires the ball to the middle of the goal, but Thomas Strakosha is alert and thwarts the effort."
+        },
+        {
+            "gameTime": "2 - 31:59",
+            "label": "substitution",
+            "description": "The manager has decided to make a substitution and Danilo Cataldi walks off the pitch to be replaced by Luis Alberto (Lazio)."
+        },
+        {
+            "gameTime": "2 - 30:58",
+            "label": "y-card",
+            "description": "Stefan de Vrij (Lazio) has tested the patience of referee Davide Massa and goes into the book for a previous late challenge. AC Milan earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "2 - 28:32",
+            "label": "soccer-ball",
+            "description": "Goal! M'Baye Niang (AC Milan) slams home the penalty with a precise low shot into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 28:30",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "2 - 27:51",
+            "label": "y-card",
+            "description": "Stefan Radu (Lazio) gets a yellow card."
+        },
+        {
+            "gameTime": "2 - 27:50",
+            "label": "penalty",
+            "description": "Stefan Radu (Lazio) handles the ball inside the box. It's a penalty for AC Milan!"
+        },
+        {
+            "gameTime": "2 - 27:14",
+            "label": "",
+            "description": "Gianluigi Donnarumma gets a well deserved ovation! He pulls off a remarkable save to block a long range effort from Felipe Anderson (Lazio) towards the bottom right corner. Nice goalkeeping skills!"
+        },
+        {
+            "gameTime": "2 - 26:13",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) picks up a pass, lines up a shot and strikes from 25 metres out, but Thomas Strakosha thwarts the effort which is headed to the roof of the net."
+        },
+        {
+            "gameTime": "2 - 25:14",
+            "label": "corner",
+            "description": "The corner from M'Baye Niang (AC Milan) is hurriedly cleared."
+        },
+        {
+            "gameTime": "2 - 25:03",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) wastes a good opportunity as his pass into the box is blocked by the defence. AC Milan win a corner."
+        },
+        {
+            "gameTime": "2 - 24:07",
+            "label": "",
+            "description": "Ciro Immobile (Lazio) missed a great opportunity! He finds himself some space near the penalty spot and plants a header goalwards which lacks both power and accuracy. The ball sails well over the bar!"
+        },
+        {
+            "gameTime": "2 - 23:07",
+            "label": "",
+            "description": "Carlos Bacca (AC Milan) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "2 - 22:46",
+            "label": "substitution",
+            "description": "Here is a change. Suso is going off and Vincenzo Montella gives the last tactical orders to Manuel Locatelli (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 22:05",
+            "label": "injury",
+            "description": "The game is interrupted now, Carlos Bacca (AC Milan) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 21:35",
+            "label": "",
+            "description": "Davide Massa blows his whistle and it's Carlos Bacca (AC Milan) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "2 - 21:15",
+            "label": "",
+            "description": "Balde Keita (Lazio) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 20:54",
+            "label": "",
+            "description": "Senad Lulic (Lazio) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 20:42",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Danilo Cataldi (Lazio) takes it short."
+        },
+        {
+            "gameTime": "2 - 20:28",
+            "label": "",
+            "description": "Balde Keita (Lazio) tries to send a pass but it's blocked. The ball goes behind for a corner. Lazio will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 16:57",
+            "label": "y-card",
+            "description": "Davide Calabria (AC Milan) is awarded a yellow card for his behaviour."
+        },
+        {
+            "gameTime": "2 - 15:16",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the right post."
+        },
+        {
+            "gameTime": "2 - 13:44",
+            "label": "y-card",
+            "description": "Danilo Cataldi (Lazio) kept talking out of turn to the referee until Davide Massa lost patience and pulled out a yellow card."
+        },
+        {
+            "gameTime": "2 - 12:23",
+            "label": "corner",
+            "description": "Danilo Cataldi (Lazio) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "2 - 11:56",
+            "label": "",
+            "description": "The ball is cleared after Balde Keita (Lazio) attempted to dribble past an opposing player. Lazio have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 10:47",
+            "label": "",
+            "description": "Chance! M'Baye Niang (AC Milan) was in a good position inside the box, but he couldn't connect with the pass as it was overhit."
+        },
+        {
+            "gameTime": "2 - 09:42",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Ciro Immobile (Lazio), whose instinctive shot towards goal flashes inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 07:12",
+            "label": "",
+            "description": "Foul! Dusan Basta (Lazio) is penalised for pulling back his opponent."
+        },
+        {
+            "gameTime": "2 - 06:37",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) is penalised for a foul. Davide Massa had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 05:14",
+            "label": "",
+            "description": "Sergej Milinkovic Savic (Lazio) slams the ball from a long range free kick. He should have curled it higher to avoid hitting the wall."
+        },
+        {
+            "gameTime": "2 - 04:35",
+            "label": "",
+            "description": "Suso (AC Milan) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. Lazio have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "2 - 03:28",
+            "label": "",
+            "description": "Davide Massa blows his whistle after Juraj Kucka (AC Milan) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "gameTime": "2 - 02:10",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) takes a rebound on the edge of the box and slams the ball well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 02:07",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "gameTime": "2 - 01:48",
+            "label": "",
+            "description": "The effort by Balde Keita (Lazio) failed to trouble the goalkeeper. He smashed the ball in from 18 metres but it went into the stands."
+        },
+        {
+            "gameTime": "2 - 01:09",
+            "label": "",
+            "description": "Davide Massa blows his whistle after Suso (AC Milan) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Here is a change after the half time break. Bastos is replaced by Balde Keita (Lazio)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Simone Inzaghi makes a half time substitution. Felipe Anderson (Lazio) comes on in place of Filip Dordevic."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half gets underway."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "We have been witnesses to an ordinary game without many breathtaking situations, but there is still time for improvement in the second half. Neither team was able to take the initiative and dominate the first half. Both teams have adopted a defensive style of play."
+        },
+        {
+            "gameTime": "1 - 47:41",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 47:30",
+            "label": "",
+            "description": "Goal disallowed! Juraj Kucka (AC Milan) scores but Davide Massa blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 47:10",
+            "label": "corner",
+            "description": "M'Baye Niang (AC Milan) will deliver the corner kick."
+        },
+        {
+            "gameTime": "1 - 46:03",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort. AC Milan force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 45:50",
+            "label": "",
+            "description": "Suso (AC Milan) sends a teasing cross into the area, but Thomas Strakosha intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 45:35",
+            "label": "y-card",
+            "description": "Bastos (Lazio) is shown a yellow card by the referee."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:54",
+            "label": "corner",
+            "description": "Danilo Cataldi (Lazio) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 44:23",
+            "label": "",
+            "description": "Dusan Basta (Lazio) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Lazio have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 42:21",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) takes the ball on and fires in a shot from 25 metres out. Thomas Strakosha stops the effort which is headed to the left post."
+        },
+        {
+            "gameTime": "1 - 39:52",
+            "label": "",
+            "description": "Dusan Basta (Lazio) is unable to feed an accurate cross into the box."
+        },
+        {
+            "gameTime": "1 - 38:49",
+            "label": "",
+            "description": "Thomas Strakosha was forced into action to thwart Giacomo Bonaventura (AC Milan). He found himself some space after picking up a pass and unleashed a shot to the left post but couldn't beat the keeper."
+        },
+        {
+            "gameTime": "1 - 36:54",
+            "label": "soccer-ball",
+            "description": "Stunning strike! Carlos Bacca (AC Milan) latches on to a precise through ball from Juraj Kucka before unleashing an unstoppable shot into the bottom left corner from the edge of the area. Fantastic goal. The score is now 1:0."
+        },
+        {
+            "gameTime": "1 - 35:24",
+            "label": "",
+            "description": "Senad Lulic (Lazio) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+        },
+        {
+            "gameTime": "1 - 34:05",
+            "label": "",
+            "description": "What a huge chance for Giacomo Bonaventura (AC Milan). He collects a precise pass inside the box and slices a shot that goes a whisker wide of the left post."
+        },
+        {
+            "gameTime": "1 - 32:43",
+            "label": "",
+            "description": "Filip Dordevic (Lazio) serves up a nice cross, but Gianluigi Donnarumma punches the ball away."
+        },
+        {
+            "gameTime": "1 - 31:29",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for Lazio."
+        },
+        {
+            "gameTime": "1 - 30:11",
+            "label": "",
+            "description": "Marco Parolo (Lazio) takes a mid range shot, but it lacks accuracy and it goes way over the bar."
+        },
+        {
+            "gameTime": "1 - 29:48",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) unleashes a shot from 35 metres out but is unable to find the target and it goes high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 29:12",
+            "label": "",
+            "description": "Davide Calabria (AC Milan) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "gameTime": "1 - 27:35",
+            "label": "",
+            "description": "Ciro Immobile passes to Senad Lulic (Lazio), but he produces a wild shot from the edge of the box which goes high over the bar."
+        },
+        {
+            "gameTime": "1 - 26:59",
+            "label": "corner",
+            "description": "Danilo Cataldi (Lazio) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "gameTime": "1 - 26:37",
+            "label": "",
+            "description": "Senad Lulic (Lazio) delivers a promising cross into the box, but it's cleared. The referee and his assistant both point at the corner flag. Lazio will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 26:19",
+            "label": "",
+            "description": "Sergej Milinkovic Savic (Lazio) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "1 - 24:52",
+            "label": "injury",
+            "description": "Sergej Milinkovic Savic (Lazio) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 24:10",
+            "label": "corner",
+            "description": "Suso (AC Milan) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "1 - 23:40",
+            "label": "",
+            "description": "Riccardo Montolivo (AC Milan) sends over a free kick from long range but the defence is alert. Corner kick. AC Milan will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 23:00",
+            "label": "",
+            "description": "The ball spins up and hits the hand of Dusan Basta (Lazio) after he fails to control it and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 20:49",
+            "label": "",
+            "description": "Filip Dordevic (Lazio) thinks that he is fouled by his opponent, but the referee deems him to be the one who commits a foul and awards a free kick to the other team."
+        },
+        {
+            "gameTime": "1 - 18:34",
+            "label": "",
+            "description": "Suso (AC Milan) pulls the jersey of one of the opposition players and Davide Massa blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 17:50",
+            "label": "",
+            "description": "Bastos (Lazio) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "1 - 17:38",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) produces a dangerous lofted cross into the box which is intercepted."
+        },
+        {
+            "gameTime": "1 - 16:34",
+            "label": "injury",
+            "description": "Bastos (Lazio) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 13:37",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) jinks his way past multiple challenges and fires a low shot from the edge of the box to the middle of the goal, but Thomas Strakosha is equal to it."
+        },
+        {
+            "gameTime": "1 - 12:29",
+            "label": "",
+            "description": "Stefan Radu (Lazio) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Davide Massa with no other option than to blow for a foul."
+        },
+        {
+            "gameTime": "1 - 11:53",
+            "label": "corner",
+            "description": "Danilo Cataldi (Lazio) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "1 - 11:25",
+            "label": "",
+            "description": "That was a brilliant piece of goalkeeping! Gianluigi Donnarumma dived superbly to block the header from around the penalty spot, which was aimed straight towards the bottom left corner by Sergej Milinkovic Savic (Lazio). Lazio earn a corner."
+        },
+        {
+            "gameTime": "1 - 10:27",
+            "label": "",
+            "description": "Sergej Milinkovic Savic (Lazio) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 07:22",
+            "label": "",
+            "description": "Danilo Cataldi (Lazio) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 04:05",
+            "label": "",
+            "description": "Bastos (Lazio) trips an opposition player and Davide Massa signals a foul."
+        },
+        {
+            "gameTime": "1 - 02:41",
+            "label": "",
+            "description": "Filip Dordevic (Lazio) receives a low pass just outside the box and unleashes a fine strike to the bottom left corner. Gianluigi Donnarumma pulls off a reflexive save to block his effort. Nice goalkeeping skill."
+        },
+        {
+            "gameTime": "1 - 02:14",
+            "label": "",
+            "description": "The game is interrupted as Filip Dordevic (Lazio) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 01:01",
+            "label": "",
+            "description": "Senad Lulic (Lazio) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Davide Massa is introduced as the referee for today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There is an average of 2.6 goals per game between these two sides over the last 5 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Gianluigi Donnarumma is the player who has played the most minutes (1350) so far for AC Milan."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The top scorer of AC Milan is Carlos Bacca with 6 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. The home side were better today. The home team's main weapon was fast counter attacks. The away team played long ball football."
+        }
+    ],
+    "gameAwayTeam": "Lazio",
+    "gameDate": "20/09/2016 - 21:45",
+    "gameHomeTeam": "AC Milan",
+    "gameScore": "2 - 0"
+}

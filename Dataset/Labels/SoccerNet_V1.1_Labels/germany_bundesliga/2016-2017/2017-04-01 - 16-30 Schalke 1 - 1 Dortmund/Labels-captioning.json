@@ -1,0 +1,335 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2017-04-01 - 16-30 Schalke 1 - 1 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:14",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 46:00",
+            "label": "y-card",
+            "description": "Nabil Bentaleb (Schalke) goes into the referee's book for dissent."
+        },
+        {
+            "gameTime": "2 - 45:57",
+            "label": "y-card",
+            "description": "Sokratis (Dortmund) lunges into his opponent and is relieved when the referee only shows him a yellow card."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "substitution",
+            "description": "Thomas Tuchel decides to make a substitution. Shinji Kagawa will be replaced by Christian Pulisic (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 40:49",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Klaas Jan Huntelaar (Schalke) heads on."
+        },
+        {
+            "gameTime": "2 - 39:53",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Klaas Jan Huntelaar (Schalke) is coming onto the pitch as Guido Burgstaller cannot continue after picking up an injury."
+        },
+        {
+            "gameTime": "2 - 39:03",
+            "label": "",
+            "description": "Sokratis (Dortmund) tackles a bit over zealously and Felix Zwayer blows for a foul."
+        },
+        {
+            "gameTime": "2 - 33:43",
+            "label": "substitution",
+            "description": "Thomas Tuchel is forced to make a change. Marcel Schmelzer is unable to continue due to injury, Emre Mor (Dortmund) comes on."
+        },
+        {
+            "gameTime": "2 - 31:37",
+            "label": "soccer-ball",
+            "description": "What a goal! Leon Goretzka plays it to Thilo Kehrer (Schalke), who finds himself unmarked inside the box and slots a first time shot past Roman Burki into the bottom left corner. 1:1."
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "corner",
+            "description": "Daniel Caligiuri (Schalke) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "2 - 30:50",
+            "label": "corner",
+            "description": "Daniel Caligiuri (Schalke) whips in the corner, but one of the defending players gets a head on it and intercepts. Schalke force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 29:10",
+            "label": "injury",
+            "description": "Marcel Schmelzer (Dortmund) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 28:30",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) shows off his amazing technique to get in front of goal by himself. He pulls the trigger but sends the ball onto the right post. Nice run, but unlucky finish!"
+        },
+        {
+            "gameTime": "2 - 27:54",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Felix Passlack leaves the pitch and Raphael Guerreiro (Dortmund) comes on."
+        },
+        {
+            "gameTime": "2 - 26:51",
+            "label": "",
+            "description": "Sokratis (Dortmund) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation."
+        },
+        {
+            "gameTime": "2 - 24:22",
+            "label": "substitution",
+            "description": "Markus Weinzierl has decided to make a change. Alessandro Schopf (Schalke) replaces Coke."
+        },
+        {
+            "gameTime": "2 - 24:12",
+            "label": "substitution",
+            "description": "The manager has decided to make a substitution and Benjamin Stambouli walks off the pitch to be replaced by Max Meyer (Schalke)."
+        },
+        {
+            "gameTime": "2 - 18:27",
+            "label": "attendance",
+            "description": "The attendance is 62271."
+        },
+        {
+            "gameTime": "2 - 16:50",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 13:00",
+            "label": "corner",
+            "description": "Dortmund take the corner, but their hopes of scoring a goal end with nice clearance by the defence."
+        },
+        {
+            "gameTime": "2 - 10:40",
+            "label": "corner",
+            "description": "Daniel Caligiuri (Schalke) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "2 - 10:12",
+            "label": "",
+            "description": "Benedikt Howedes (Schalke) jumps inside the box to meet the resulting corner and steers his header into the roof of the net, but the goalkeeper pulls off an astonishing save to deny him. Schalke win a corner."
+        },
+        {
+            "gameTime": "2 - 10:10",
+            "label": "corner",
+            "description": "Schalke have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 08:03",
+            "label": "y-card",
+            "description": "Pierre Emerick Aubameyang (Dortmund) earns the yellow card."
+        },
+        {
+            "gameTime": "2 - 07:50",
+            "label": "soccer-ball",
+            "description": "Goal! Shinji Kagawa puts the ball on a plate for Pierre Emerick Aubameyang (Dortmund), who scores with a simple close range finish. It's 0:1."
+        },
+        {
+            "gameTime": "2 - 05:10",
+            "label": "",
+            "description": "Maxim Choupo Moting (Schalke) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 01:23",
+            "label": "corner",
+            "description": "Daniel Caligiuri (Schalke) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half time break is over and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 45:07",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 43:36",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) was too forceful with his tackle and Felix Zwayer interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "1 - 41:55",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Gonzalo Castro (Dortmund) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "1 - 41:28",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) collects a pass from the flank, looks up and fires in a goal bound shot from the edge of the box which canons off a defender to safety. Dortmund force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 37:55",
+            "label": "corner",
+            "description": "The resulting corner from Gonzalo Castro (Dortmund) comes to nothing."
+        },
+        {
+            "gameTime": "1 - 36:06",
+            "label": "corner",
+            "description": "Daniel Caligiuri (Schalke) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 35:53",
+            "label": "",
+            "description": "Maxim Choupo Moting (Schalke) fails to find any of his teammates inside the box as his pass is blocked. It will be a corner kick for Schalke."
+        },
+        {
+            "gameTime": "1 - 34:00",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Ralf Fahrmann makes a decent save to deny his effort directed low to the middle of the target."
+        },
+        {
+            "gameTime": "1 - 31:58",
+            "label": "",
+            "description": "Daniel Caligiuri (Schalke) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee."
+        },
+        {
+            "gameTime": "1 - 29:58",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) has an effort on goal, but he misses to the right of the goal. The ball is off of the pitch and it's a goal kick for Schalke."
+        },
+        {
+            "gameTime": "1 - 28:37",
+            "label": "",
+            "description": "Daniel Caligiuri (Schalke) trips an opponent with a slide tackle. Felix Zwayer stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "gameTime": "1 - 25:25",
+            "label": "",
+            "description": "Daniel Caligiuri (Schalke) comes close as his long range free kick goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 21:41",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "1 - 21:04",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) picks up a precise pass deep inside the box, but his strike is saved by the keeper. The ball is out of play and the linesman points at the corner flag. Corner to Dortmund."
+        },
+        {
+            "gameTime": "1 - 18:50",
+            "label": "corner",
+            "description": "Roman Burki comes off his line to intercept the corner from Daniel Caligiuri (Schalke)."
+        },
+        {
+            "gameTime": "1 - 16:11",
+            "label": "",
+            "description": "Flag goes up against Guido Burgstaller (Schalke) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 13:33",
+            "label": "",
+            "description": "Thilo Kehrer (Schalke) gets a shot away from distance, but wasn't really set to take it and fires high and wide."
+        },
+        {
+            "gameTime": "1 - 10:58",
+            "label": "",
+            "description": "Leon Goretzka (Schalke) produces a shot from a long range free kick, but it flies well wide of the left post. The ball goes out of play and Dortmund will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 10:07",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "1 - 09:16",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) commits a rough challenge and Felix Zwayer blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 08:25",
+            "label": "",
+            "description": "Guido Burgstaller (Schalke) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 04:50",
+            "label": "corner",
+            "description": "Schalke have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "1 - 04:40",
+            "label": "",
+            "description": "Guido Burgstaller (Schalke) misses a good chance to score. An inch perfect cross into the box finds Guido Burgstaller (Schalke) who rises for a header, but sends the ball well over the bar. The ball is out of play and Schalke manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 04:03",
+            "label": "",
+            "description": "Sokratis (Dortmund) commits a rough foul. Felix Zwayer stops the game and makes a call."
+        },
+        {
+            "gameTime": "1 - 03:23",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 01:44",
+            "label": "",
+            "description": "Leon Goretzka (Schalke) fouls an opponent during an attacking move."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Dortmund will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Felix Zwayer will referee today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dortmund scored at least one goal in each of their last 16 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The most prolific goal scorer for Dortmund is Pierre Emerick Aubameyang with 23 goals in this competition so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Already 6 Schalke matches finished 1:1, it's their most frequent result this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "In the last 5 games between these two teams there were 4 matches with over 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "01/04/2017 - 16:30",
+    "gameHomeTeam": "Schalke",
+    "gameScore": "1 - 1"
+}

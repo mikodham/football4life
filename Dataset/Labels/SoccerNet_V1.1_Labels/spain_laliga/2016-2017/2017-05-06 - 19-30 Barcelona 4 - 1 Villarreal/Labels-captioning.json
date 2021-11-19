@@ -1,0 +1,350 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:05",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 45:17",
+            "label": "",
+            "description": "Jonathan dos Santos (Villarreal) shoots from the edge of the penalty area. The ball travels towards the middle of the target, but Marc Andre ter Stegen easily deals with the threat."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 39:05",
+            "label": "",
+            "description": "Nicola Sansone (Villarreal) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "2 - 38:25",
+            "label": "",
+            "description": "Nicola Sansone (Villarreal) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "2 - 37:37",
+            "label": "substitution",
+            "description": "Francisco Escriba has decided to introduce fresh legs, with Adrian (Villarreal) replacing Cedric Bakambu."
+        },
+        {
+            "gameTime": "2 - 37:25",
+            "label": "substitution",
+            "description": "That's the end of the game for Ivan Rakitic, who is replaced by Andre Gomes (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 36:21",
+            "label": "soccer-ball",
+            "description": "With a cheeky finish ala Antonin Panenka, Lionel Messi (Barcelona) scores from the penalty spot."
+        },
+        {
+            "gameTime": "2 - 36:01",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "2 - 35:50",
+            "label": "y-card",
+            "description": "The referee demonstrates he won't tolerate this behaviour. Jaume Costa (Villarreal) is given a yellow card."
+        },
+        {
+            "gameTime": "2 - 35:40",
+            "label": "penalty",
+            "description": "Jaume Costa (Villarreal) handles the ball and everyone in the stadium shouts 'handball'. The referee makes a quick call and points to the penalty spot. Big scoring opportunity for Barcelona."
+        },
+        {
+            "gameTime": "2 - 34:43",
+            "label": "funfact",
+            "description": "15:7 \u2013 this is the total number of shots produced by both teams."
+        },
+        {
+            "gameTime": "2 - 32:43",
+            "label": "substitution",
+            "description": "Luis Enrique has decided to make a change. Javier Mascherano (Barcelona) replaces Sergi Roberto."
+        },
+        {
+            "gameTime": "2 - 31:55",
+            "label": "y-card",
+            "description": "Mateo Musacchio (Villarreal) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Martinez Sanchez ignores the protests."
+        },
+        {
+            "gameTime": "2 - 30:57",
+            "label": "",
+            "description": "Neymar (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Andres Fernandez is alert and denies him."
+        },
+        {
+            "gameTime": "2 - 29:52",
+            "label": "substitution",
+            "description": "Here comes a substitution. Lucas Digne is given a rest as he is replaced by Jordi Alba (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 28:45",
+            "label": "corner",
+            "description": "Jonathan dos Santos (Villarreal) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "2 - 28:12",
+            "label": "",
+            "description": "Cedric Bakambu (Villarreal) has a shot blocked from inside the box. The linesman makes the right call and Villarreal will have a corner."
+        },
+        {
+            "gameTime": "2 - 27:00",
+            "label": "substitution",
+            "description": "Here is a change. Roberto Soriano is going off and Francisco Escriba gives the last tactical orders to Samu Castillejo (Villarreal)."
+        },
+        {
+            "gameTime": "2 - 26:40",
+            "label": "substitution",
+            "description": "Substitution. Nicola Sansone (Villarreal) in, Roberto Soldado out."
+        },
+        {
+            "gameTime": "2 - 26:24",
+            "label": "y-card",
+            "description": "The game is interrupted. Roberto Soldado (Villarreal) is given a yellow card. He has to be more careful now."
+        },
+        {
+            "gameTime": "2 - 23:16",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Sergi Roberto picks out Luis Suarez (Barcelona) with a sweet pass, and he latches on to it deep inside the box and beats the goalkeeper. 3:1."
+        },
+        {
+            "gameTime": "2 - 22:47",
+            "label": "",
+            "description": "Roberto Soriano (Villarreal) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 19:22",
+            "label": "",
+            "description": "Close! Jonathan dos Santos (Villarreal) stands over the resulting free kick from around 25 metres out and his shot goes just over the crossbar."
+        },
+        {
+            "gameTime": "2 - 18:38",
+            "label": "y-card",
+            "description": "Andres Iniesta (Barcelona) is booked after bringing down an opponent. Martinez Sanchez had an easy decision to make. A free kick to Villarreal."
+        },
+        {
+            "gameTime": "2 - 16:57",
+            "label": "attendance",
+            "description": "The attendance is 90463."
+        },
+        {
+            "gameTime": "2 - 12:40",
+            "label": "",
+            "description": "The linesman raises his flag. Luis Suarez (Barcelona) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 12:22",
+            "label": "corner",
+            "description": "Neymar (Barcelona) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 11:56",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) receives a low pass just outside the box and unleashes a fine strike towards the roof of the net. Andres Fernandez pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed. It will be a corner kick for Barcelona."
+        },
+        {
+            "gameTime": "2 - 09:26",
+            "label": "corner",
+            "description": "The resulting corner from Manuel Trigueros (Villarreal) comes to nothing."
+        },
+        {
+            "gameTime": "2 - 05:20",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) latches on to an accurate pass inside the box and shoots towards goal, but it goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 00:45",
+            "label": "",
+            "description": "Half chance! Neymar (Barcelona) plays a pass into the box, but Andres Fernandez reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 45:40",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 44:58",
+            "label": "soccer-ball",
+            "description": "GOAL 2:1! Lionel Messi (Barcelona) brilliantly slaloms his way forward past a few defenders and unleashes a shot from the edge of the box, which is deflected and goes into the back of the net."
+        },
+        {
+            "gameTime": "1 - 44:13",
+            "label": "",
+            "description": "Manuel Trigueros (Villarreal) sets the ball for the free kick from 28 metres out. His attempt is aimed towards the middle of the goal, but Marc Andre ter Stegen is alert and makes a comfortable save."
+        },
+        {
+            "gameTime": "1 - 43:24",
+            "label": "",
+            "description": "Martinez Sanchez blows his whistle and signals a foul after Ivan Rakitic (Barcelona) brought his opponent down. A free kick has been awarded to Villarreal."
+        },
+        {
+            "gameTime": "1 - 42:18",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) misses a big opportunity to score after striking the ball wide of the right post."
+        },
+        {
+            "gameTime": "1 - 40:50",
+            "label": "",
+            "description": "Neymar (Barcelona) takes the chance to have an effort at goal from inside the box but misses to the right of the target."
+        },
+        {
+            "gameTime": "1 - 39:59",
+            "label": "",
+            "description": "Chance! Roberto Soriano sends a brilliant curling cross into the heart of the defence and into the path of Roberto Soldado (Villarreal), whose header from the centre of the box goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 38:44",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) jumps for a cross in the goal area and produces a fine header which goes narrowly wide of the left post! What a huge opportunity!"
+        },
+        {
+            "gameTime": "1 - 38:20",
+            "label": "corner",
+            "description": "Neymar (Barcelona) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 38:00",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. The referee signals a corner kick to Barcelona."
+        },
+        {
+            "gameTime": "1 - 33:55",
+            "label": "",
+            "description": "Lucas Digne (Barcelona) is forced to stop his forward run after being caught in an offside position by the linesman."
+        },
+        {
+            "gameTime": "1 - 32:53",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Neymar (Barcelona) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "1 - 31:39",
+            "label": "soccer-ball",
+            "description": "Goal 1:1! Roberto Soldado tees up Cedric Bakambu (Villarreal) inside the box and he rolls the ball into the bottom right corner and past Marc Andre ter Stegen."
+        },
+        {
+            "gameTime": "1 - 28:59",
+            "label": "",
+            "description": "CHANCE! Ivan Rakitic finds Lionel Messi (Barcelona) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the right post!"
+        },
+        {
+            "gameTime": "1 - 26:42",
+            "label": "corner",
+            "description": "The corner from Manuel Trigueros (Villarreal) is hurriedly cleared."
+        },
+        {
+            "gameTime": "1 - 23:06",
+            "label": "",
+            "description": "The game is interrupted as Neymar (Barcelona) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 23:00",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "gameTime": "1 - 20:55",
+            "label": "soccer-ball",
+            "description": "Neymar (Barcelona) receives the ball inside the box, reacts quickly and coolly buries the ball low inside the right post."
+        },
+        {
+            "gameTime": "1 - 20:50",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) announces himself with a close range shot after a cross, but one of the defenders gets in the way of the ball to thwart him."
+        },
+        {
+            "gameTime": "1 - 19:45",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) unloads a good strike from the free kick just outside the box. His effort towards the middle of the goal is stopped by Andres Fernandez, who pulls off a glorious save!"
+        },
+        {
+            "gameTime": "1 - 18:43",
+            "label": "y-card",
+            "description": "Gonzalez Soberon Alvaro (Villarreal) picked up a yellow card from referee. Barcelona win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 15:56",
+            "label": "y-card",
+            "description": "Martinez Sanchez shows a yellow card to Sergi Roberto (Barcelona) for a tough tackle."
+        },
+        {
+            "gameTime": "1 - 15:20",
+            "label": "corner",
+            "description": "The resulting corner from Neymar (Barcelona) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 14:52",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Barcelona get a corner."
+        },
+        {
+            "gameTime": "1 - 08:44",
+            "label": "",
+            "description": "Flag goes up against Jonathan dos Santos (Villarreal) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 05:00",
+            "label": "",
+            "description": "Barcelona are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Barcelona will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Martinez Sanchez is introduced as the referee for today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Villarreal are unbeaten over their past 3 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "15 The amount of consecutive matches Barcelona have gone without a draw."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The top scorer of Barcelona is Lionel Messi with 33 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Villarreal",
+    "gameDate": "06/05/2017 - 19:30",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "4 - 1"
+}

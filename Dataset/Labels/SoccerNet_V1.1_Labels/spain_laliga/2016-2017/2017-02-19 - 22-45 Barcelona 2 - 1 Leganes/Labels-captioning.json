@@ -1,0 +1,440 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-02-19 - 22-45 Barcelona 2 - 1 Leganes/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:40",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 49:59",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Alberto (Leganes). Ignacio Iglesias Villanueva doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 49:18",
+            "label": "attendance",
+            "description": "The attendance is 63378."
+        },
+        {
+            "gameTime": "2 - 48:27",
+            "label": "",
+            "description": "Nabil El Zhar (Leganes) unleashes a superb first time shot from the edge of the box, but it flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 47:58",
+            "label": "corner",
+            "description": "Darwin Machis (Leganes) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 47:24",
+            "label": "",
+            "description": "Nabil El Zhar (Leganes) delivers a promising cross into the box, but it's cleared. Leganes force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 45:58",
+            "label": "",
+            "description": "Neymar (Barcelona) brings an opponent down and Ignacio Iglesias Villanueva interrupts the game."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:19",
+            "label": "soccer-ball",
+            "description": "Lionel Messi (Barcelona) coolly converts the penalty, sending the ball into the top left corner."
+        },
+        {
+            "gameTime": "2 - 43:53",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is going to take the penalty!"
+        },
+        {
+            "gameTime": "2 - 43:26",
+            "label": "penalty",
+            "description": "Ignacio Iglesias Villanueva blows his whistle for a foul after Martin Mantovani (Leganes) hacks down one of his opponents. Barcelona have been awarded a penalty kick!"
+        },
+        {
+            "gameTime": "2 - 41:47",
+            "label": "substitution",
+            "description": "Substitution. Dimitrios Siovas did his best and is replaced by Pablo Insua (Leganes)."
+        },
+        {
+            "gameTime": "2 - 41:21",
+            "label": "y-card",
+            "description": "Dimitrios Siovas (Leganes) is yellow carded."
+        },
+        {
+            "gameTime": "2 - 40:22",
+            "label": "injury",
+            "description": "Dimitrios Siovas (Leganes) is down injured and the referee stops play so that he can receive medical treatment."
+        },
+        {
+            "gameTime": "2 - 39:43",
+            "label": "injury",
+            "description": "Iago Herrerin (Leganes) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment."
+        },
+        {
+            "gameTime": "2 - 37:53",
+            "label": "corner",
+            "description": "The corner from Neymar (Barcelona) is hurriedly cleared."
+        },
+        {
+            "gameTime": "2 - 37:13",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) sprays a pass out to Neymar, but he can't beat his man inside the box. Corner kick. Barcelona will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 35:22",
+            "label": "substitution",
+            "description": "Substitution. Jordi Alba (Barcelona) on for Lucas Digne."
+        },
+        {
+            "gameTime": "2 - 34:55",
+            "label": "substitution",
+            "description": "The substitution is prepared. Denis Suarez (Barcelona) joins the action as a substitute, replacing Rafinha."
+        },
+        {
+            "gameTime": "2 - 34:36",
+            "label": "substitution",
+            "description": "Luis Enrique has decided to make a change. Andres Iniesta (Barcelona) replaces Andre Gomes."
+        },
+        {
+            "gameTime": "2 - 33:47",
+            "label": "",
+            "description": "Martin Mantovani (Leganes) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 32:57",
+            "label": "",
+            "description": "Gabriel (Leganes) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 31:08",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fires in an effort from the free kick from some 22 metres. His strike is very inaccurate and ends in row Z."
+        },
+        {
+            "gameTime": "2 - 30:20",
+            "label": "",
+            "description": "Dimitrios Siovas (Leganes) escapes without any punishment from the referee after using excessive force to foul his opponent. A free kick is awarded to Barcelona."
+        },
+        {
+            "gameTime": "2 - 28:07",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and Leganes will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 25:39",
+            "label": "soccer-ball",
+            "description": "Stunning strike! Unai Lopez (Leganes) latches on to a precise through ball from Darwin Machis and surprises the goalkeeper with a low shot from the edge of the box that goes into the middle of the goal. The score is now 1:1."
+        },
+        {
+            "gameTime": "2 - 24:09",
+            "label": "substitution",
+            "description": "It's time for a substitution. Darwin Machis (Leganes) comes on in place of Alexander Szymanowski."
+        },
+        {
+            "gameTime": "2 - 23:08",
+            "label": "",
+            "description": "Rafinha (Barcelona) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his shot towards the middle of the goal, but one of the defenders reacted brilliantly to block it."
+        },
+        {
+            "gameTime": "2 - 22:22",
+            "label": "",
+            "description": "Miguel Guerrero (Leganes) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 21:39",
+            "label": "",
+            "description": "Nabil El Zhar (Leganes) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "gameTime": "2 - 19:13",
+            "label": "substitution",
+            "description": "Asier Garitano prepares a substitution. Erik Moran is replaced by Unai Lopez (Leganes)."
+        },
+        {
+            "gameTime": "2 - 18:27",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "gameTime": "2 - 18:00",
+            "label": "",
+            "description": "Ignacio Iglesias Villanueva blows his whistle after Tito (Leganes) brings one of his opponents down with a strong tackle. Barcelona have a free kick."
+        },
+        {
+            "gameTime": "2 - 15:10",
+            "label": "",
+            "description": "That was close by Alexander Szymanowski (Leganes)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 13:59",
+            "label": "",
+            "description": "Neymar (Barcelona) shoots from the edge of the penalty area. The ball travels towards the bottom left corner, but Iago Herrerin easily deals with the threat."
+        },
+        {
+            "gameTime": "2 - 13:20",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) produces a cunning chipped pass for Neymar, who takes it down well but fails to get past the defenders and loses the ball."
+        },
+        {
+            "gameTime": "2 - 09:56",
+            "label": "y-card",
+            "description": "Martin Mantovani (Leganes) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Ignacio Iglesias Villanueva ignores the protests."
+        },
+        {
+            "gameTime": "2 - 09:04",
+            "label": "",
+            "description": "Andre Gomes (Barcelona) sends a long ball forward to Ivan Rakitic, but he put too much power and the chance is gone."
+        },
+        {
+            "gameTime": "2 - 06:26",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 05:36",
+            "label": "",
+            "description": "Neymar (Barcelona) threads a pass through the eye of a needle into the box for Luis Suarez, but Iago Herrerin displays great awareness to stop him."
+        },
+        {
+            "gameTime": "2 - 03:03",
+            "label": "corner",
+            "description": "The corner from Alexander Szymanowski (Leganes) is intercepted by the defence."
+        },
+        {
+            "gameTime": "2 - 02:33",
+            "label": "",
+            "description": "Miguel Guerrero (Leganes) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The referee points to the corner flag and Leganes will take a corner."
+        },
+        {
+            "gameTime": "2 - 02:22",
+            "label": "",
+            "description": "Iago Herrerin (Leganes) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "gameTime": "2 - 01:51",
+            "label": "",
+            "description": "The referee blows his whistle as Lucas Digne (Barcelona) was too aggressive in his challenge. Leganes will take a free kick."
+        },
+        {
+            "gameTime": "2 - 00:44",
+            "label": "y-card",
+            "description": "Ignacio Iglesias Villanueva shows the yellow card to Luis Suarez (Barcelona) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 44:59",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 44:50",
+            "label": "corner",
+            "description": "Alexander Szymanowski (Leganes) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 44:44",
+            "label": "",
+            "description": "Nabil El Zhar (Leganes) sends the ball into the box from the side of the pitch, but his cross is blocked. The referee signals a corner kick to Leganes."
+        },
+        {
+            "gameTime": "1 - 43:48",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempts to find Neymar, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 41:32",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) has an effort from distance but it's blocked."
+        },
+        {
+            "gameTime": "1 - 40:04",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) passes the ball onto Luis Suarez, but one of the defenders dispossesses him."
+        },
+        {
+            "gameTime": "1 - 37:35",
+            "label": "",
+            "description": "A pass from Sergi Roberto (Barcelona) is intercepted by Iago Herrerin and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 34:57",
+            "label": "",
+            "description": "A dangerous towering header by Martin Mantovani (Leganes) from around the penalty spot goes just over the bar. This corner kick didn't change the score."
+        },
+        {
+            "gameTime": "1 - 34:49",
+            "label": "corner",
+            "description": "Alexander Szymanowski (Leganes) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "1 - 33:55",
+            "label": "",
+            "description": "Nabil El Zhar (Leganes) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. The linesman points to the corner flag, Leganes are going to take it."
+        },
+        {
+            "gameTime": "1 - 32:55",
+            "label": "corner",
+            "description": "Neymar (Barcelona) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "1 - 32:37",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Neymar (Barcelona). Good work from Barcelona as they win a corner."
+        },
+        {
+            "gameTime": "1 - 32:06",
+            "label": "",
+            "description": "Neymar (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 30:29",
+            "label": "",
+            "description": "Gabriel (Leganes) threads a pass through the eye of a needle into the box for Nabil El Zhar, but Marc Andre ter Stegen displays great awareness to stop him."
+        },
+        {
+            "gameTime": "1 - 29:09",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall."
+        },
+        {
+            "gameTime": "1 - 28:42",
+            "label": "",
+            "description": "Dimitrios Siovas (Leganes) brings his opponent down. Ignacio Iglesias Villanueva has a clear sight of it and blows his whistle for a foul. Barcelona have a free kick."
+        },
+        {
+            "gameTime": "1 - 27:23",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 26:50",
+            "label": "",
+            "description": "Iago Herrerin pulls off a great save to deny Lionel Messi (Barcelona), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal. The ball is out of play. Barcelona will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 25:20",
+            "label": "",
+            "description": "Good defending. Lionel Messi (Barcelona) tries to find Luis Suarez inside the box, but the pass is cut out."
+        },
+        {
+            "gameTime": "1 - 23:26",
+            "label": "",
+            "description": "Ignacio Iglesias Villanueva blows his whistle after Diego Rico (Leganes) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "1 - 22:20",
+            "label": "",
+            "description": "Rafinha (Barcelona) sprays a pass out to Lionel Messi, but he can't beat his man inside the box."
+        },
+        {
+            "gameTime": "1 - 20:28",
+            "label": "corner",
+            "description": "Neymar (Barcelona) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 19:06",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Neymar (Barcelona), is intercepted by the opposition's defence. The referee points to the corner flag. It's a corner to Barcelona."
+        },
+        {
+            "gameTime": "1 - 17:24",
+            "label": "",
+            "description": "CHANCE! Nabil El Zhar (Leganes) goes very close! He gathers a cross inside the box and fires a shot towards Marc Andre ter Stegen, who produces an excellent reflex save."
+        },
+        {
+            "gameTime": "1 - 14:48",
+            "label": "",
+            "description": "Alberto (Leganes) passes the ball onto Nabil El Zhar, but one of the defenders dispossesses him."
+        },
+        {
+            "gameTime": "1 - 13:24",
+            "label": "",
+            "description": "The linesman raises his flag. Miguel Guerrero (Leganes) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 10:25",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) unleashes a shot from a mid range free kick that goes high over the bar. High, wide and not at all pretty."
+        },
+        {
+            "gameTime": "1 - 10:08",
+            "label": "",
+            "description": "Diego Rico (Leganes) commits a foul after bringing down his opponent with a slide tackle. Barcelona are awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 07:53",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) chips a pass over the line of defenders to get the ball to Neymar, but his attempt is intercepted and cleared."
+        },
+        {
+            "gameTime": "1 - 06:36",
+            "label": "",
+            "description": "Barcelona control the tempo of the game by exchanging some accurate short passes."
+        },
+        {
+            "gameTime": "1 - 03:28",
+            "label": "soccer-ball",
+            "description": "It's a goal! Luis Suarez plays a lovely pass into the box and finds Lionel Messi (Barcelona). He tries his luck from close range and coolly strikes the ball into the back of the net. 1:0."
+        },
+        {
+            "gameTime": "1 - 00:45",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Barcelona will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Ignacio Iglesias Villanueva will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Leganes are now without a win in their last 10 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Barcelona are unbeaten over their past 15 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        }
+    ],
+    "gameAwayTeam": "Leganes",
+    "gameDate": "19/02/2017 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "2 - 1"
+}

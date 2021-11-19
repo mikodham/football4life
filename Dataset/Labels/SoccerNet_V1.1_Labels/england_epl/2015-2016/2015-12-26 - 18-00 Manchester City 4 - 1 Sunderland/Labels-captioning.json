@@ -1,0 +1,490 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The home team had more of the game. The home side attempted to hold onto the ball for as long as possible. The away team's main weapon was fast counter attacks."
+        },
+        {
+            "gameTime": "2 - 48:10",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        },
+        {
+            "gameTime": "2 - 47:00",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from Manchester City."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:56",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 44:27",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) races towards goal but the defender gets back well to make a challenge. Manchester City have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 43:50",
+            "label": "",
+            "description": "Sebastian Coates (Sunderland) creates himself some space around the penalty spot and connects with the free kick. His accurate header would have probably ended up in the roof of the net, but Joe Hart pulls off a decent save to thwart him."
+        },
+        {
+            "gameTime": "2 - 43:28",
+            "label": "",
+            "description": "Martin Demichelis (Manchester City) commits a rough foul. Anthony Taylor stops the game and makes a call. Sunderland get a free kick."
+        },
+        {
+            "gameTime": "2 - 42:35",
+            "label": "funfact",
+            "description": "The current number of shots on goal is 9:3."
+        },
+        {
+            "gameTime": "2 - 41:28",
+            "label": "",
+            "description": "Wilfried Bony (Manchester City) latches on to a precise pass and finds himself one on one with the keeper. He fires a low shot towards the right side of the net, but Vito Mannone leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "2 - 40:14",
+            "label": "",
+            "description": "Duncan Watmore (Sunderland) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 37:48",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 35:28",
+            "label": "",
+            "description": "Close! Wilfried Bony (Manchester City) is a whisker away from finishing off the move he started. His close range effort flies just over the bar."
+        },
+        {
+            "gameTime": "2 - 34:32",
+            "label": "",
+            "description": "That was a nice football moment. Kevin De Bruyne (Manchester City) receives an amazing defence splitting low pass on the edge of the box and blasts the ball towards the right post. Vito Mannone guesses his intention and dives superbly to deny him with a remarkable save!"
+        },
+        {
+            "gameTime": "2 - 34:15",
+            "label": "",
+            "description": "John O'Shea (Sunderland) is able to continue to play."
+        },
+        {
+            "gameTime": "2 - 32:49",
+            "label": "",
+            "description": "Lee Cattermole (Sunderland) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Anthony Taylor with no other option than to blow for a foul."
+        },
+        {
+            "gameTime": "2 - 31:05",
+            "label": "injury",
+            "description": "John O'Shea (Sunderland) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "gameTime": "2 - 30:18",
+            "label": "",
+            "description": "David Silva (Manchester City) creates a good chance for himself and goes for goal from mid range, but he misses the left post by a whisker."
+        },
+        {
+            "gameTime": "2 - 28:35",
+            "label": "",
+            "description": "Jordi Gomez (Sunderland) reacts well and displays good awareness near the penalty spot to get on the end of a cross from the free kick. He jumps high and produces a header which goes well over the crossbar."
+        },
+        {
+            "gameTime": "2 - 27:19",
+            "label": "",
+            "description": "Eliaquim Mangala (Manchester City) gives away a foul for a clumsy challenge. Referee Anthony Taylor saw the whole situation. It's a free kick to Sunderland, but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "2 - 26:29",
+            "label": "substitution",
+            "description": "Here is a change. Danny Graham is going off and Samuel Allardyce gives the last tactical orders to Duncan Watmore (Sunderland)."
+        },
+        {
+            "gameTime": "2 - 25:55",
+            "label": "substitution",
+            "description": "Problems for Manuel Pellegrini as Vincent Kompany is not able to play anymore. His injury is too serious and Martin Demichelis (Manchester City) replaces him."
+        },
+        {
+            "gameTime": "2 - 23:55",
+            "label": "penalty-missed",
+            "description": "Wilfried Bony (Manchester City) wasted the penalty kick."
+        },
+        {
+            "gameTime": "2 - 23:50",
+            "label": "",
+            "description": "Wilfried Bony (Manchester City) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "2 - 23:07",
+            "label": "penalty",
+            "description": "Sebastian Coates (Sunderland) brings his opponent down. Anthony Taylor has a clear sight of it and blows his whistle for a foul. PENALTY! One of the players from Manchester City is about to take a penalty kick."
+        },
+        {
+            "gameTime": "2 - 22:37",
+            "label": "",
+            "description": "Manchester City are enjoying possession, but one of the opposition players steps in to end the sequence."
+        },
+        {
+            "gameTime": "2 - 20:37",
+            "label": "",
+            "description": "Bacary Sagna (Manchester City) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "2 - 19:26",
+            "label": "corner",
+            "description": "Aleksandar Kolarov (Manchester City) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "2 - 19:04",
+            "label": "",
+            "description": "Fabian Delph (Manchester City) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. The ball goes out of play. Manchester City are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 16:58",
+            "label": "substitution",
+            "description": "The referee signals a substitution. Jeremain Lens (Sunderland) is brought on as a substitute for Steven Fletcher."
+        },
+        {
+            "gameTime": "2 - 16:41",
+            "label": "substitution",
+            "description": "Manuel Pellegrini decides to make a substitution. Yaya Toure will be replaced by Fabian Delph (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 16:18",
+            "label": "substitution",
+            "description": "Substitution. Nicolas Otamendi walks off the pitch and Vincent Kompany (Manchester City) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 13:48",
+            "label": "soccer-ball",
+            "description": "Goal! Fabio Borini (Sunderland) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 4:1."
+        },
+        {
+            "gameTime": "2 - 13:45",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Joe Hart is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "2 - 13:10",
+            "label": "corner",
+            "description": "Adam Johnson (Sunderland) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "",
+            "description": "Billy Jones (Sunderland) tries to slide the ball through to a teammate but it's well blocked by a defender. Sunderland force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 10:34",
+            "label": "substitution",
+            "description": "Yann M'Vila goes off the pitch and Lee Cattermole (Sunderland) comes on."
+        },
+        {
+            "gameTime": "2 - 08:36",
+            "label": "soccer-ball",
+            "description": "Goal! Kevin De Bruyne (Manchester City) pounced on a loose ball inside the penalty area and beats the goalkeeper with a shot into the bottom right corner. He makes it 4:0."
+        },
+        {
+            "gameTime": "2 - 08:30",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "gameTime": "2 - 05:55",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "gameTime": "2 - 05:32",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by David Silva (Manchester City), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "2 - 05:12",
+            "label": "",
+            "description": "David Silva (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Manchester City force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 04:47",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) once again attempts to send a defence splitting pass, but the opposition's defence is alert and intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 03:18",
+            "label": "corner",
+            "description": "David Silva (Manchester City) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "2 - 02:47",
+            "label": "",
+            "description": "David Silva (Manchester City) latches on to a precise pass and one on one with the keeper slams the ball towards the left hand post. Vito Mannone is alert, though, and leaps like a salmon to deny him. Manchester City will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "2 - 01:11",
+            "label": "",
+            "description": "Wilfried Bony (Manchester City) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "It's a wonderful experience for every football lover to behold this hugely entertaining encounter. The players are performing at a high level, making the game very attractive. It was a fairly one sided opening 45 minutes, with Manchester City much the better side better so far. The tactic of the home side is slow build up play and the away side is creating their opportunities using lightning fast counter attacks."
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:50",
+            "label": "",
+            "description": "Wilfried Bony (Manchester City) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Manchester City get a corner."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 42:59",
+            "label": "",
+            "description": "A cross into the box finds the head of Steven Fletcher (Sunderland) who steers it goalwards, but Joe Hart manages to pull off a decent save to thwart him."
+        },
+        {
+            "gameTime": "1 - 41:50",
+            "label": "",
+            "description": "No, even this won't be a goal. A clever deflection by Eliaquim Mangala (Manchester City), the ball changed its direction, but the goalkeeper made a crucial save."
+        },
+        {
+            "gameTime": "1 - 41:34",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "1 - 41:14",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) sends a pass into the box, but his attempt is thwarted and cleared. The ball is out of play and the linesman points at the corner flag. Corner to Manchester City."
+        },
+        {
+            "gameTime": "1 - 39:44",
+            "label": "",
+            "description": "GOAL DISALLOWED! Controversy and anger as Raheem Sterling (Manchester City) has a goal ruled out, incredibly, for offside."
+        },
+        {
+            "gameTime": "1 - 38:59",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 38:09",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 37:23",
+            "label": "",
+            "description": "Eliaquim Mangala (Manchester City) pulls the jersey of one of the opposition players and Anthony Taylor blows his whistle for a foul. It's a free kick to Sunderland in a dangerous position."
+        },
+        {
+            "gameTime": "1 - 36:41",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) swings a cross into the box, but it's far too close to Vito Mannone, who smothers the ball."
+        },
+        {
+            "gameTime": "1 - 36:07",
+            "label": "",
+            "description": "Nice individual effort by Raheem Sterling (Manchester City). He gets all the way through to the keeper and hits a low drive to the middle of the goal, but Vito Mannone does a good job to anticipate the direction of the ball and keeps it out."
+        },
+        {
+            "gameTime": "1 - 35:32",
+            "label": "y-card",
+            "description": "The game is interrupted. Billy Jones (Sunderland) is given a yellow card. He has to be more careful now."
+        },
+        {
+            "gameTime": "1 - 34:23",
+            "label": "",
+            "description": "Joe Hart pulls off a great save to deny Fabio Borini (Sunderland) after receiving a precise defence splitting pass. The effort is headed for the left side of the goal, but the goalkeeper dives superbly to stop it. Definitely the best save of this match so far!"
+        },
+        {
+            "gameTime": "1 - 33:43",
+            "label": "",
+            "description": "Bacary Sagna (Manchester City) robs an opponent of the ball and explodes in anger when Anthony Taylor blows for a foul."
+        },
+        {
+            "gameTime": "1 - 33:08",
+            "label": "",
+            "description": "David Silva (Manchester City) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 32:16",
+            "label": "",
+            "description": "What a big chance! Steven Fletcher (Sunderland) picks up an inch perfect pass inside the box and skies the ball well over the bar."
+        },
+        {
+            "gameTime": "1 - 30:13",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) receives a pass and tries his luck with a shot from 25 metres out. Vito Mannone pulls off a decent save to stop the effort going into the right side of the goal."
+        },
+        {
+            "gameTime": "1 - 29:24",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "gameTime": "1 - 28:44",
+            "label": "",
+            "description": "It looks like Nicolas Otamendi (Manchester City) saw red with that tackle. Anthony Taylor won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "gameTime": "1 - 26:10",
+            "label": "",
+            "description": "What an opportunity! Eliaquim Mangala (Manchester City) wins the ball from the resulting set piece and unleashes a precise shot from inside the goal area which sails narrowly wide of the left post!"
+        },
+        {
+            "gameTime": "1 - 24:40",
+            "label": "",
+            "description": "Billy Jones (Sunderland) is penalised after knocking an opponent down. A free kick is awarded to Manchester City."
+        },
+        {
+            "gameTime": "1 - 24:14",
+            "label": "",
+            "description": "The ball is cleared after Wilfried Bony (Manchester City) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 21:44",
+            "label": "soccer-ball",
+            "description": "Perfectly taken free kick! Kevin De Bruyne sends the ball in, Wilfried Bony (Manchester City) manages to jump highest near the penalty spot and plants a cracking header low inside the right post. It's 3:0."
+        },
+        {
+            "gameTime": "1 - 21:04",
+            "label": "",
+            "description": "Poor challenge! Yann M'Vila (Sunderland) is penalised for tripping and Anthony Taylor blows his whistle."
+        },
+        {
+            "gameTime": "1 - 20:07",
+            "label": "",
+            "description": "Fabio Borini clips a neat ball into the box towards Danny Graham (Sunderland), whose header from the centre of the box goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 18:47",
+            "label": "",
+            "description": "It looked like the long range shot by Yann M'Vila (Sunderland) would end up in the net, but the effort went painfully wide of the left post. The goalkeeper was quite lucky this time."
+        },
+        {
+            "gameTime": "1 - 16:49",
+            "label": "soccer-ball",
+            "description": "A wonderful pass found its target. Yaya Toure (Manchester City) received it well and shot from about 20 metres out. He did really well to send the ball past the goalkeeper and into the bottom right corner."
+        },
+        {
+            "gameTime": "1 - 15:23",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) fails to find any of his teammates inside the box as his pass is blocked. The ball has crossed the sideline. Manchester City are taking a throw in."
+        },
+        {
+            "gameTime": "1 - 14:03",
+            "label": "",
+            "description": "David Silva (Manchester City) plays a through ball inside the box, but it's too strong and Vito Mannone comes off his line to intercept."
+        },
+        {
+            "gameTime": "1 - 11:27",
+            "label": "soccer-ball",
+            "description": "Goal! Kevin De Bruyne clips a neat ball into the box in the direction of Raheem Sterling (Manchester City), who jumps highest and steers a bullet header from the centre of the box into the left side of the goal. Vito Mannone had no chance of stopping that. 1:0."
+        },
+        {
+            "gameTime": "1 - 11:08",
+            "label": "",
+            "description": "Patrick van Aanholt (Sunderland) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "1 - 10:21",
+            "label": "",
+            "description": "Steven Fletcher (Sunderland) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger."
+        },
+        {
+            "gameTime": "1 - 06:54",
+            "label": "",
+            "description": "Fabio Borini (Sunderland) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 03:55",
+            "label": "y-card",
+            "description": "The game is interrupted because of a yellow card that is shown to Raheem Sterling (Manchester City)."
+        },
+        {
+            "gameTime": "1 - 03:50",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) obviously dived."
+        },
+        {
+            "gameTime": "1 - 03:44",
+            "label": "",
+            "description": "Steven Fletcher (Sunderland) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "gameTime": "1 - 03:07",
+            "label": "",
+            "description": "A pass by Patrick van Aanholt (Sunderland) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 02:02",
+            "label": "",
+            "description": "The foul by Raheem Sterling (Manchester City) was seen by Anthony Taylor who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 01:25",
+            "label": "",
+            "description": "Adam Johnson (Sunderland) makes an unfair challenge by holding his opponent to prevent him from getting the ball."
+        },
+        {
+            "gameTime": "1 - 00:54",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sunderland will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Anthony Taylor will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The home team had more of the game. The home side attempted to hold onto the ball for as long as possible. The away team's main weapon was fast counter attacks."
+        }
+    ],
+    "gameAwayTeam": "Sunderland",
+    "gameDate": "26/12/2015 - 18:00",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "4 - 1"
+}

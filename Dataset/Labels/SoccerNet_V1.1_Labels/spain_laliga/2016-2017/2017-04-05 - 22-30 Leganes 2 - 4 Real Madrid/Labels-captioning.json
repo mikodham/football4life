@@ -1,0 +1,345 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:09",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 46:28",
+            "label": "",
+            "description": "Mariano Diaz (Real Madrid) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:27",
+            "label": "y-card",
+            "description": "Nacho (Real Madrid) has tested the patience of referee Alfonso Alvarez and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 43:57",
+            "label": "",
+            "description": "Marcelo (Real Madrid) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar."
+        },
+        {
+            "gameTime": "2 - 43:40",
+            "label": "corner",
+            "description": "The referee awards a corner and Isco (Real Madrid) goes over to take it."
+        },
+        {
+            "gameTime": "2 - 43:09",
+            "label": "",
+            "description": "Lucas (Real Madrid) weaves his way through the defence and gets within shooting range inside the box, but his effort to the right post is thwarted by Iago Herrerin. The ball goes out of play. Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 40:39",
+            "label": "corner",
+            "description": "Marco Asensio (Real Madrid) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "2 - 40:13",
+            "label": "",
+            "description": "Isco (Real Madrid) sends the free kick into the box, but Iago Herrerin leaps to intercept it. It will be a corner kick for Real Madrid."
+        },
+        {
+            "gameTime": "2 - 40:09",
+            "label": "attendance",
+            "description": "The attendance is 10922."
+        },
+        {
+            "gameTime": "2 - 39:39",
+            "label": "y-card",
+            "description": "Unai Bustinza (Leganes) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        },
+        {
+            "gameTime": "2 - 38:38",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Darwin Machis (Leganes) coming on for Alexander Szymanowski."
+        },
+        {
+            "gameTime": "2 - 35:15",
+            "label": "substitution",
+            "description": "Zinedine Zidane decides to make a substitution. Mateo Kovacic will be replaced by Luka Modric (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 34:21",
+            "label": "",
+            "description": "Alexander Szymanowski (Leganes) makes a decision to dribble through the defence towards the goal. He gets inside the box, pulls the trigger, but hits the ball very poorly and it goes yards wide of the target."
+        },
+        {
+            "gameTime": "2 - 33:28",
+            "label": "corner",
+            "description": "Alexander Szymanowski (Leganes) launches a cross from the corner, but Keylor Navas is alert to thwart the effort."
+        },
+        {
+            "gameTime": "2 - 32:08",
+            "label": "substitution",
+            "description": "Substitution. Mariano Diaz (Real Madrid) receives a signal from the referee and is now allowed to enter the pitch as Alvaro Morata walks off."
+        },
+        {
+            "gameTime": "2 - 31:03",
+            "label": "",
+            "description": "Casemiro (Real Madrid) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "2 - 30:14",
+            "label": "injury",
+            "description": "The game is interrupted now, Casemiro (Real Madrid) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 29:56",
+            "label": "",
+            "description": "Marcelo (Real Madrid) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. The ball has crossed the sideline. Real Madrid are taking a throw in."
+        },
+        {
+            "gameTime": "2 - 29:25",
+            "label": "",
+            "description": "Real Madrid are playing possession football and controlling the game at present. They are exchanging inch perfect passes from player to player, making it difficult for the opposition to win the ball."
+        },
+        {
+            "gameTime": "2 - 26:03",
+            "label": "substitution",
+            "description": "Substitution. Isco (Real Madrid) replaces James Rodriguez."
+        },
+        {
+            "gameTime": "2 - 25:20",
+            "label": "",
+            "description": "Luciano (Leganes) finds space on the edge of the box, but his wild shot goes high over the bar."
+        },
+        {
+            "gameTime": "2 - 23:00",
+            "label": "",
+            "description": "Nacho (Real Madrid) handles the ball and everyone in the stadium shouts 'handball'."
+        },
+        {
+            "gameTime": "2 - 22:00",
+            "label": "",
+            "description": "Lucas (Real Madrid) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net."
+        },
+        {
+            "gameTime": "2 - 18:42",
+            "label": "substitution",
+            "description": "Asier Garitano has decided to introduce fresh legs, with Alberto Bueno (Leganes) replacing Gabriel."
+        },
+        {
+            "gameTime": "2 - 15:41",
+            "label": "",
+            "description": "Lucas (Real Madrid) commits a rough challenge and Alfonso Alvarez blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "2 - 12:00",
+            "label": "y-card",
+            "description": "Gabriel (Leganes) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision."
+        },
+        {
+            "gameTime": "2 - 08:54",
+            "label": "substitution",
+            "description": "Tito will be replaced by Samuel (Leganes)."
+        },
+        {
+            "gameTime": "2 - 08:20",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) has a shot blocked, it rebounds back to him, but even on his second attempt he cannot hit the target. His effort goes well wide."
+        },
+        {
+            "gameTime": "2 - 07:50",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) is about to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 07:26",
+            "label": "",
+            "description": "Lucas (Real Madrid) latches on to a precise pass and one on one with the keeper slams the ball towards the right hand post. Iago Herrerin is alert, though, and leaps like a salmon to deny him. The ball is out of play. Real Madrid win a corner kick."
+        },
+        {
+            "gameTime": "2 - 04:30",
+            "label": "corner",
+            "description": "The resulting corner, taken by Alexander Szymanowski (Leganes), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 03:00",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! James Rodriguez flights the free kick into the box, where Alvaro Morata (Real Madrid) peels off his marker and heads straight into the top left corner from the edge of the six yard box. He makes it 2:4."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 45:12",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Alfonso Alvarez has ended it."
+        },
+        {
+            "gameTime": "1 - 44:50",
+            "label": "",
+            "description": "Unai Bustinza (Leganes) finds himself some space just outside the box, collects a rebound and sends an effort in on goal. Keylor Navas pulls off a fantastic reflex save to stop the ball going into the bottom right corner."
+        },
+        {
+            "gameTime": "1 - 41:31",
+            "label": "",
+            "description": "Gabriel (Leganes) jumps for a header from the resulting corner kick and sends the ball in on goal, but the goalkeeper makes a very good save."
+        },
+        {
+            "gameTime": "1 - 41:06",
+            "label": "corner",
+            "description": "Alexander Szymanowski (Leganes) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "1 - 40:27",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 39:09",
+            "label": "",
+            "description": "Lucas (Real Madrid) receives a precise pass and is given time inside the box to send a promising strike towards the left post. Iago Herrerin guesses his intentions and denies him with a fine save."
+        },
+        {
+            "gameTime": "1 - 37:02",
+            "label": "",
+            "description": "A clumsy foul by Diego Rico (Leganes) and Alfonso Alvarez blows his whistle."
+        },
+        {
+            "gameTime": "1 - 34:00",
+            "label": "soccer-ball",
+            "description": "Luciano (Leganes) scores from the corner kick. The ball slipped through the box to Luciano (Leganes) and he slotted it past the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 33:30",
+            "label": "corner",
+            "description": "Alexander Szymanowski (Leganes) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "1 - 32:52",
+            "label": "",
+            "description": "Lucas (Real Madrid) dances his way past two defending players and gets to the edge of the box from where he unleashes a shot that goes well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 31:35",
+            "label": "soccer-ball",
+            "description": "Goal! Gabriel (Leganes) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 1:3."
+        },
+        {
+            "gameTime": "1 - 30:14",
+            "label": "",
+            "description": "Danilo (Real Madrid) robs an opponent of the ball and explodes in anger when Alfonso Alvarez blows for a foul."
+        },
+        {
+            "gameTime": "1 - 27:17",
+            "label": "",
+            "description": "Tito (Leganes) is afforded space inside the box after collecting a pass, but the chance is wasted as his shot goes harmlessly over the crossbar."
+        },
+        {
+            "gameTime": "1 - 25:07",
+            "label": "",
+            "description": "Real Madrid are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+        },
+        {
+            "gameTime": "1 - 22:54",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Superb finishing from Alvaro Morata (Real Madrid). Mateo Kovacic plays a through ball and finds Alvaro Morata (Real Madrid), who reacts quickly to get in front of the goalpeeper and fire a close range shot into the top right corner. It's now 0:3."
+        },
+        {
+            "gameTime": "1 - 20:29",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the right post!"
+        },
+        {
+            "gameTime": "1 - 17:56",
+            "label": "soccer-ball",
+            "description": "GOAL! Nacho connects with a delightful cross and heads it towards Alvaro Morata (Real Madrid), whose header goes past Iago Herrerin. 0:2."
+        },
+        {
+            "gameTime": "1 - 17:30",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 17:08",
+            "label": "",
+            "description": "Danilo (Real Madrid) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball onto the right post. Nice run, but unlucky finish!"
+        },
+        {
+            "gameTime": "1 - 14:54",
+            "label": "soccer-ball",
+            "description": "Goal 0:1! Marco Asensio laid the ball off to James Rodriguez (Real Madrid), who slots it into the back of the net from close range, leaving the goalkeeper helpless."
+        },
+        {
+            "gameTime": "1 - 14:27",
+            "label": "",
+            "description": "Alexander Szymanowski (Leganes) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "1 - 09:59",
+            "label": "",
+            "description": "Luciano (Leganes) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 03:43",
+            "label": "",
+            "description": "Alfonso Alvarez couldn't ignore the rough tackle by Luciano (Leganes) and blew his whistle."
+        },
+        {
+            "gameTime": "1 - 02:55",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) starts an individual run, not looking to pass to a teammate, and easily weaves through the defence to get deep inside the box. He shoots low, but misses the goal by a whisker!"
+        },
+        {
+            "gameTime": "1 - 02:11",
+            "label": "",
+            "description": "Diego Rico (Leganes) clutches his head after wasting a good opportunity. He expertly collected the ball from a rebound and fired from long range, but his effort wasn't accurate at all and the ball went miles over the crossbar."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Real Madrid will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Alfonso Alvarez."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Cristiano Ronaldo has already scored 19 goals and he is the top goal scorer for Real Madrid in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Leganes have 3 draws in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "05/04/2017 - 22:30",
+    "gameHomeTeam": "Leganes",
+    "gameScore": "2 - 4"
+}

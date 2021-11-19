@@ -1,0 +1,405 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2016-10-26 - 21-45 Sassuolo 1 - 3 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. An impressive display from the visitors, they had the better of it. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks, while the away team played possession football."
+        },
+        {
+            "gameTime": "2 - 49:58",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 48:28",
+            "label": "",
+            "description": "A cross from a mid range free kick, taken by Sassuolo, is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 47:41",
+            "label": "",
+            "description": "Antonio Rudiger (AS Roma) tackles a bit over zealously and Antonio Damato blows for a foul. Sassuolo win a free kick."
+        },
+        {
+            "gameTime": "2 - 45:28",
+            "label": "",
+            "description": "Lorenzo Pellegrini (Sassuolo) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "5 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:37",
+            "label": "corner",
+            "description": "Lorenzo Pellegrini (Sassuolo) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "2 - 43:51",
+            "label": "",
+            "description": "Federico Ricci (Sassuolo) collects a pass and has an effort from distance which is blocked. The ball is out of play. A goal scoring opportunity from a corner for Sassuolo."
+        },
+        {
+            "gameTime": "2 - 39:45",
+            "label": "corner",
+            "description": "The corner from Mohamed Salah (AS Roma) is intercepted by the defence."
+        },
+        {
+            "gameTime": "2 - 39:18",
+            "label": "substitution",
+            "description": "Problems for Luciano Spalletti as Alessandro Florenzi is not able to play anymore. His injury is too serious and Francesco Totti (AS Roma) replaces him."
+        },
+        {
+            "gameTime": "2 - 36:26",
+            "label": "injury",
+            "description": "Alessandro Florenzi (AS Roma) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 33:51",
+            "label": "substitution",
+            "description": "Here is a change. Stephan El Shaarawy is going off and Luciano Spalletti gives the last tactical orders to Antonio Rudiger (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 33:50",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Federico Ricci (Sassuolo) coming on for Claud Adjapong."
+        },
+        {
+            "gameTime": "2 - 32:59",
+            "label": "soccer-ball",
+            "description": "Goal! Radja Nainggolan (AS Roma) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the middle of the net. It's 1:3."
+        },
+        {
+            "gameTime": "2 - 32:50",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Andrea Consigli is alert and denies him."
+        },
+        {
+            "gameTime": "2 - 30:47",
+            "label": "soccer-ball",
+            "description": "Edin Dzeko (AS Roma) fires the penalty inside the left post."
+        },
+        {
+            "gameTime": "2 - 30:40",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) is going to take the penalty!"
+        },
+        {
+            "gameTime": "2 - 29:53",
+            "label": "penalty",
+            "description": "Pol Lirola (Sassuolo) jumps into a tackle and Antonio Damato blows his whistle for a foul. PENALTY! One of the players from AS Roma is about to take a penalty kick. Let's see how this ends."
+        },
+        {
+            "gameTime": "2 - 29:50",
+            "label": "y-card",
+            "description": "It's a yellow card for Pol Lirola (Sassuolo)."
+        },
+        {
+            "gameTime": "2 - 27:25",
+            "label": "substitution",
+            "description": "Eusebio Di Francesco has decided to introduce fresh legs, with Pol Lirola (Sassuolo) replacing Marcello Gazzola."
+        },
+        {
+            "gameTime": "2 - 27:15",
+            "label": "",
+            "description": "Leandro Paredes (AS Roma) took a mid range free kick and failed to find the target. The goalkeeper didn't need to react at all as his attempt went miles wide of the left post."
+        },
+        {
+            "gameTime": "2 - 26:53",
+            "label": "y-card",
+            "description": "The referee demonstrates he won't tolerate this behaviour. Lorenzo Pellegrini (Sassuolo) is given a yellow card."
+        },
+        {
+            "gameTime": "2 - 26:34",
+            "label": "",
+            "description": "Referee Antonio Damato sees the trip by Lorenzo Pellegrini (Sassuolo) and doesn't hesitate to blow his whistle. AS Roma are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 23:56",
+            "label": "substitution",
+            "description": "Luciano Spalletti prepares a substitution. Kevin Strootman is replaced by Leandro Paredes (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 22:33",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) blasts the ball high over the crossbar."
+        },
+        {
+            "gameTime": "2 - 20:10",
+            "label": "",
+            "description": "Daniele De Rossi (AS Roma) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "2 - 18:47",
+            "label": "injury",
+            "description": "The game is interrupted now, Daniele De Rossi (AS Roma) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 17:56",
+            "label": "substitution",
+            "description": "Alessandro Matri will be replaced by Davide Biondini (Sassuolo)."
+        },
+        {
+            "gameTime": "2 - 17:24",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) shoots from inside the box after his amazing individual effort. He beats the goalkeeper, but hits one of the defending players and it bounces away."
+        },
+        {
+            "gameTime": "2 - 16:21",
+            "label": "corner",
+            "description": "Matteo Politano (Sassuolo) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "2 - 15:48",
+            "label": "",
+            "description": "Gregoire Defrel (Sassuolo) unleashes a powerful shot towards goal, but it is bravely blocked by a self sacrificing defender. Sassuolo have a corner."
+        },
+        {
+            "gameTime": "2 - 11:41",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Superb finishing from Edin Dzeko (AS Roma). Mohamed Salah plays a fantastic through ball and finds Edin Dzeko (AS Roma), who reacts quickly to get in front of the goalkeeper and fire a close range shot into the bottom right corner. 1:1."
+        },
+        {
+            "gameTime": "2 - 06:32",
+            "label": "",
+            "description": "Marcello Gazzola (Sassuolo) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+        },
+        {
+            "gameTime": "2 - 05:50",
+            "label": "",
+            "description": "Paolo Cannavaro (Sassuolo) is able to continue to play."
+        },
+        {
+            "gameTime": "2 - 04:04",
+            "label": "injury",
+            "description": "Paolo Cannavaro (Sassuolo) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half time break is over and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Both sides have been very active in the first half, providing the fans with an exciting show. It's difficult to say if one side enjoyed any superiority over the other in the first half. The home team's main weapon is fast counter attacks, while the away side attempts to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "1 - 46:54",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 46:02",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Emerson (AS Roma). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:32",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 43:18",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) sends the ball into the box from the side of the pitch, but his cross is blocked. The ball goes out of play and AS Roma have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 42:58",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 42:33",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) expertly controls a neat clever pass inside the box, but his effort crashes against the crossbar! What an opportunity that was!"
+        },
+        {
+            "gameTime": "1 - 41:50",
+            "label": "",
+            "description": "Claud Adjapong (Sassuolo) strikes a shot towards goal from the edge of the penalty box, but it flies just wide of the left post."
+        },
+        {
+            "gameTime": "1 - 39:50",
+            "label": "",
+            "description": "What a chance that is! Mohamed Salah (AS Roma) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post."
+        },
+        {
+            "gameTime": "1 - 39:36",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) works the corner short."
+        },
+        {
+            "gameTime": "1 - 39:16",
+            "label": "",
+            "description": "A lofted cross from Edin Dzeko (AS Roma) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes out for a corner. AS Roma can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 38:01",
+            "label": "",
+            "description": "What a chance that is! Claud Adjapong (Sassuolo) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 35:02",
+            "label": "",
+            "description": "Federico Fazio (AS Roma) outjumps the defence to meet the resulting corner and heads the ball towards the middle of the goal. The long range header is not powerful enough, and the keeper comfortably makes a save."
+        },
+        {
+            "gameTime": "1 - 34:27",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "1 - 34:07",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) wastes a good opportunity as his pass into the box is blocked by the defence. The linesman points to the corner flag, AS Roma are going to take it."
+        },
+        {
+            "gameTime": "1 - 29:35",
+            "label": "y-card",
+            "description": "Luca Mazzitelli (Sassuolo) is booked by the referee."
+        },
+        {
+            "gameTime": "1 - 27:24",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) fires a brilliant shot in from 25 metres out, but the effort rattles the crossbar! It could have been a superb goal."
+        },
+        {
+            "gameTime": "1 - 22:00",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) had a golden opportunity. He volleyed from point blank range towards the bottom right corner, but Andrea Consigli was alert and made an amazing save!"
+        },
+        {
+            "gameTime": "1 - 21:03",
+            "label": "corner",
+            "description": "Lorenzo Pellegrini (Sassuolo) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 20:44",
+            "label": "",
+            "description": "Daniele De Rossi (AS Roma) collects an inch perfect pass and strikes the ball from far out, but his shot is blocked. AS Roma have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 17:34",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) gets on the end of a pass on the edge of the box but his shot is blocked."
+        },
+        {
+            "gameTime": "1 - 14:38",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 14:15",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) is unable to control an accurate defence splitting pass properly and one of the defending players reacts well to rob him of the ball. AS Roma have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 11:55",
+            "label": "soccer-ball",
+            "description": "A perfect lofted pass from Matteo Politano finds Paolo Cannavaro (Sassuolo), who jumps highest and steers a close range header straight into the bottom right corner. His effort was both strong and precise, and Wojciech Szczesny had no chance of stopping that. 0:0."
+        },
+        {
+            "gameTime": "1 - 11:54",
+            "label": "corner",
+            "description": "Alessandro Florenzi (AS Roma) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 11:52",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players. AS Roma will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 11:35",
+            "label": "corner",
+            "description": "Alessandro Florenzi (AS Roma) prepares to take a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:54",
+            "label": "corner",
+            "description": "The corner from Mohamed Salah (AS Roma) is hurriedly cleared. Now AS Roma have a corner."
+        },
+        {
+            "gameTime": "1 - 10:09",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) takes the corner, but the opposition's defence is ready and clears the ball to safety. AS Roma force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 06:20",
+            "label": "corner",
+            "description": "Matteo Politano (Sassuolo) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "1 - 05:48",
+            "label": "corner",
+            "description": "Lorenzo Pellegrini (Sassuolo) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. Sassuolo will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 05:09",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 04:59",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Antonio Damato was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "3 The amount of games AS Roma have won in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Edin Dzeko is the leading goal scorer for AS Roma with 12 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sassuolo have celebrated at least one goal in each of their last 7 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Gregoire Defrel have rippled the net 6x and is the top scorer for Sassuolo this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. An impressive display from the visitors, they had the better of it. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks, while the away team played possession football."
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "26/10/2016 - 21:45",
+    "gameHomeTeam": "Sassuolo",
+    "gameScore": "1 - 3"
+}

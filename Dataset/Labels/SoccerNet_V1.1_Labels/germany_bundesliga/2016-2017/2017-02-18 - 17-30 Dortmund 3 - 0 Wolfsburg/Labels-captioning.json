@@ -1,0 +1,470 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2017-02-18 - 17-30 Dortmund 3 - 0 Wolfsburg/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:06",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 46:14",
+            "label": "funfact",
+            "description": "The total shots for both teams statistics \u2013 24:6."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:51",
+            "label": "",
+            "description": "Paul Ntep de Madiba (Wolfsburg) is caught offside by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "gameTime": "2 - 44:00",
+            "label": "y-card",
+            "description": "The game is interrupted because of a yellow card that is shown to Andre Schurrle (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 43:56",
+            "label": "",
+            "description": "Matthias Ginter (Dortmund) finds himself behind the opposition's defence, but the game is stopped for offside."
+        },
+        {
+            "gameTime": "2 - 43:52",
+            "label": "y-card",
+            "description": "Booking. Jeffrey Bruma (Wolfsburg) receives a caution from the referee."
+        },
+        {
+            "gameTime": "2 - 43:25",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close range effort lacks pace and Diego Benaglio makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 42:15",
+            "label": "corner",
+            "description": "The resulting corner from Christian Pulisic (Dortmund) is cleared by the defence."
+        },
+        {
+            "gameTime": "2 - 40:42",
+            "label": "",
+            "description": "Luiz Gustavo (Wolfsburg) is able to continue to play."
+        },
+        {
+            "gameTime": "2 - 37:01",
+            "label": "injury",
+            "description": "Luiz Gustavo (Wolfsburg) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "2 - 35:25",
+            "label": "substitution",
+            "description": "Thomas Tuchel has decided to make a change. Mikel Merino (Dortmund) replaces Julian Weigl."
+        },
+        {
+            "gameTime": "2 - 35:10",
+            "label": "attendance",
+            "description": "The attendance is 56903."
+        },
+        {
+            "gameTime": "2 - 34:21",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) tests the keeper from the free kick on the edge of the box. His decent effort goes a whisker wide of the left post."
+        },
+        {
+            "gameTime": "2 - 33:47",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Yunus Malli (Wolfsburg). Gunter Perl saw the sliding tackle and blows for a foul. A free kick is awarded to Dortmund."
+        },
+        {
+            "gameTime": "2 - 33:16",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) works the corner short."
+        },
+        {
+            "gameTime": "2 - 33:05",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee and one of his assistants signal for a corner kick to Dortmund."
+        },
+        {
+            "gameTime": "2 - 31:02",
+            "label": "",
+            "description": "Gooal! No wait, it's been ruled out for offside. Pierre Emerick Aubameyang (Dortmund) disagrees, but the linesman is sure about his call."
+        },
+        {
+            "gameTime": "2 - 30:00",
+            "label": "substitution",
+            "description": "Substitution. Vieirinha walks off the pitch and Jakub Blaszczykowski (Wolfsburg) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 29:55",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 29:50",
+            "label": "",
+            "description": "Marc Bartra (Dortmund) connects with a pass but sees his shot from the edge of the box blocked. Dortmund earn a corner."
+        },
+        {
+            "gameTime": "2 - 28:44",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "2 - 28:00",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Shinji Kagawa (Dortmund) coming on for Ousmane Dembele."
+        },
+        {
+            "gameTime": "2 - 27:39",
+            "label": "",
+            "description": "Jeffrey Bruma (Wolfsburg) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar."
+        },
+        {
+            "gameTime": "2 - 27:06",
+            "label": "corner",
+            "description": "Yunus Malli (Wolfsburg) steps up to send the ball in."
+        },
+        {
+            "gameTime": "2 - 27:00",
+            "label": "",
+            "description": "Wolfsburg have a corner. Daniel Didavi (Wolfsburg) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the right post. Roman Burki is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "2 - 25:33",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 25:11",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) plays a long ball to Andre Schurrle, but the defence is well organised and manages to get it clear. The ball is out of play. Dortmund will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 22:52",
+            "label": "corner",
+            "description": "The corner kick from Ricardo Rodriguez (Wolfsburg) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 22:28",
+            "label": "",
+            "description": "Paul Ntep de Madiba (Wolfsburg) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety. It will be a corner kick for Wolfsburg."
+        },
+        {
+            "gameTime": "2 - 21:34",
+            "label": "substitution",
+            "description": "Here is a change. Ousmane Dembele is going off and Thomas Tuchel gives the last tactical orders to Christian Pulisic (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 20:04",
+            "label": "",
+            "description": "Maximilian Arnold (Wolfsburg) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark."
+        },
+        {
+            "gameTime": "2 - 16:19",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "substitution",
+            "description": "The game has come to an end for Mario Gomez. He has contributed as much as he could today. He will be replaced by the fresh legs of Paul Ntep de Madiba (Wolfsburg)."
+        },
+        {
+            "gameTime": "2 - 14:00",
+            "label": "soccer-ball",
+            "description": "It's a goal! Ousmane Dembele (Dortmund) makes it 3:0. He jumped highest to connect with a perfect cross from Lukasz Piszczek and planted his close range header into the top right corner. Diego Benaglio was helpless."
+        },
+        {
+            "gameTime": "2 - 12:58",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "2 - 09:17",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) fashions a shot from the edge of the box after receiving an accurate pass. Diego Benaglio makes a stunning save to stop the effort from flying into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 08:00",
+            "label": "y-card",
+            "description": "Julian Weigl (Dortmund) has tested the patience of referee Gunter Perl and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 07:00",
+            "label": "",
+            "description": "Matthias Ginter (Dortmund) is clearly in an offside position after the ball is played through to him and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 06:00",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) accepts a sweet pass on the edge of the box and unleashes a shot towards the goal, but he only hits the left post! What an unlucky moment for him."
+        },
+        {
+            "gameTime": "2 - 04:41",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 03:52",
+            "label": "",
+            "description": "One of the Wolfsburg players tripped an opponent and conceded a foul. Dortmund earn a free kick."
+        },
+        {
+            "gameTime": "2 - 03:00",
+            "label": "soccer-ball",
+            "description": "Goal! Matthias Ginter finds Lukasz Piszczek (Dortmund) with a headed pass and the latter glances a header past the goalkeeper to make it 2:0."
+        },
+        {
+            "gameTime": "2 - 02:46",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) will take the free kick."
+        },
+        {
+            "gameTime": "2 - 02:39",
+            "label": "",
+            "description": "Vieirinha (Wolfsburg) commits a rough challenge and Gunter Perl blows his whistle for a foul. Dortmund have been awarded a free kick."
+        },
+        {
+            "gameTime": "2 - 01:49",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) crosses the ball from the free kick, but it goes out of play."
+        },
+        {
+            "gameTime": "2 - 01:39",
+            "label": "",
+            "description": "Wolfsburg concede a free kick following a bad challenge. Dortmund have a free kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half time break is over and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 47:13",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Gunter Perl has ended it."
+        },
+        {
+            "gameTime": "1 - 45:23",
+            "label": "",
+            "description": "Yunus Malli (Wolfsburg) gets a precise pass from the edge of the box and swiftly strikes, but his shot misses to the left of the target."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 41:40",
+            "label": "",
+            "description": "The free kick from the edge of the box is taken by Andre Schurrle (Dortmund), who fires in a direct effort just wide of the left post. What a chance!"
+        },
+        {
+            "gameTime": "1 - 40:59",
+            "label": "",
+            "description": "Maximilian Arnold (Wolfsburg) pulls the jersey of one of the opposition players and Gunter Perl blows his whistle for a foul. That's a free kick to Dortmund."
+        },
+        {
+            "gameTime": "1 - 37:18",
+            "label": "",
+            "description": "The linesman raises his flag. Marco Reus (Dortmund) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 36:14",
+            "label": "",
+            "description": "Mario Gomez (Wolfsburg) is deemed to be in an offside position by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "gameTime": "1 - 34:37",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) tries to find Marco Reus, but he puts too much power on the pass."
+        },
+        {
+            "gameTime": "1 - 33:25",
+            "label": "substitution",
+            "description": "Valerien Ismael is forced to make a change. Paul Seguin is unable to continue due to injury, Daniel Didavi (Wolfsburg) comes on."
+        },
+        {
+            "gameTime": "1 - 31:36",
+            "label": "injury",
+            "description": "Looks like Paul Seguin (Wolfsburg) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "1 - 30:01",
+            "label": "",
+            "description": "Paul Seguin (Wolfsburg) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 29:02",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 26:29",
+            "label": "",
+            "description": "Marco Reus (Dortmund) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 25:18",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Diego Benaglio is alert and denies him."
+        },
+        {
+            "gameTime": "1 - 23:37",
+            "label": "",
+            "description": "The foul by Maximilian Arnold (Wolfsburg) was seen by Gunter Perl who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 21:29",
+            "label": "",
+            "description": "The free kick is delivered by Ricardo Rodriguez (Wolfsburg) but it's not one of his best and is easily cleared."
+        },
+        {
+            "gameTime": "1 - 21:13",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) brings his opponent down with a tackle and Gunter Perl blows his whistle for a foul. Wolfsburg will take a free kick near the side line."
+        },
+        {
+            "gameTime": "1 - 20:00",
+            "label": "soccer-ball-own",
+            "description": "Jeffrey Bruma (Wolfsburg) attempts to head the ball away after a cross into the penalty area, but instead he accidentally sends it past his own goalkeeper."
+        },
+        {
+            "gameTime": "1 - 19:11",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Marco Reus (Dortmund) takes it short."
+        },
+        {
+            "gameTime": "1 - 18:11",
+            "label": "",
+            "description": "Yannick Gerhardt (Wolfsburg) sends a teasing cross into the area, but Roman Burki intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 17:19",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 17:11",
+            "label": "",
+            "description": "A player from Wolfsburg takes his opponent down, the referee blows his whistle for a foul. It's a free kick to Dortmund, but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "1 - 15:57",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "1 - 13:37",
+            "label": "",
+            "description": "A pass by Marco Reus (Dortmund) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 11:39",
+            "label": "",
+            "description": "Gonzalo Castro (Dortmund) fails to deliver a cross from the free kick as his attempt is thwarted by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 11:24",
+            "label": "",
+            "description": "Gunter Perl blows for a foul after Yannick Gerhardt (Wolfsburg) was too aggressive in the battle for the ball. There is a free kick near the sideline to Dortmund."
+        },
+        {
+            "gameTime": "1 - 09:52",
+            "label": "",
+            "description": "Ricardo Rodriguez (Wolfsburg) fails to deliver a decent cross from a long range free kick. The opposition's defence intercepts the effort."
+        },
+        {
+            "gameTime": "1 - 09:43",
+            "label": "",
+            "description": "A player from Dortmund commits a rough challenge. Gunter Perl blows for a foul and keeps the game under control. A free kick to Wolfsburg."
+        },
+        {
+            "gameTime": "1 - 08:53",
+            "label": "",
+            "description": "Great solo effort by Marco Reus (Dortmund) as he beats two defenders before firing in a drive from just outside of the box towards the roof of the net. The goalkeeper is ready and makes an amazing save."
+        },
+        {
+            "gameTime": "1 - 06:24",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) wastes a great scoring opportunity! He receives a precise lofted cross inside the box and sends a quick low shot towards the middle of the goal. His effort lacks pace and that allows Diego Benaglio to make a comfortable save."
+        },
+        {
+            "gameTime": "1 - 04:27",
+            "label": "",
+            "description": "Dortmund are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+        },
+        {
+            "gameTime": "1 - 03:22",
+            "label": "",
+            "description": "CHANCE! Marc Bartra (Dortmund) connects with a cross but he cannot direct his shot on target."
+        },
+        {
+            "gameTime": "1 - 02:36",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes a short corner kick."
+        },
+        {
+            "gameTime": "1 - 02:22",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The referee points to the corner flag and Dortmund will take a corner."
+        },
+        {
+            "gameTime": "1 - 01:59",
+            "label": "",
+            "description": "Marco Reus (Dortmund) tries to slide the ball through to a teammate but it's well blocked by a defender. Dortmund have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Wolfsburg will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Gunter Perl."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dortmund are still unbeaten at home this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Yunus Malli from Wolfsburg is in good form this season, he's assisted in a goal 7 times."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang looks sharp as he's the top goal scorer for Dortmund with 23 goals in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        }
+    ],
+    "gameAwayTeam": "Wolfsburg",
+    "gameDate": "18/02/2017 - 17:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "3 - 0"
+}

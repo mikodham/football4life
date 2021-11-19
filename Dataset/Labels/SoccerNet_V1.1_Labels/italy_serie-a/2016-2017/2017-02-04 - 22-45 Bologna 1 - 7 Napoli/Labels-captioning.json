@@ -1,0 +1,310 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 45:09",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 44:39",
+            "label": "soccer-ball",
+            "description": "Goal! Allan plays in Dries Mertens (Napoli), who shows great determination to get to the ball before a couple of defenders and from inside the box slots it into the bottom left corner 1:7."
+        },
+        {
+            "gameTime": "2 - 40:39",
+            "label": "",
+            "description": "Bruno Petkovic (Bologna) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty."
+        },
+        {
+            "gameTime": "2 - 40:12",
+            "label": "corner",
+            "description": "Simone Verdi (Bologna) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "2 - 40:04",
+            "label": "",
+            "description": "Simone Verdi (Bologna) tries to send a pass but it's blocked. The referee points to the corner flag and Bologna will take a corner."
+        },
+        {
+            "gameTime": "2 - 39:28",
+            "label": "",
+            "description": "Davide Massa blows his whistle as Arkadiusz Milik (Napoli) used excessive force in the tackle during an attack."
+        },
+        {
+            "gameTime": "2 - 38:10",
+            "label": "",
+            "description": "Erick Pulgar (Bologna) probably spotted the goalkeeper off his line, but his long range effort flew just a few inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 37:40",
+            "label": "",
+            "description": "Erick Pulgar (Bologna) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "2 - 34:57",
+            "label": "substitution",
+            "description": "Roberto Donadoni decides to make a substitution. Antonio Mirante will be replaced by Angelo da Costa (Bologna)."
+        },
+        {
+            "gameTime": "2 - 34:36",
+            "label": "substitution",
+            "description": "Substitution. Lorenzo Insigne makes his way off the pitch and Marko Rog (Napoli) comes on as his replacement."
+        },
+        {
+            "gameTime": "2 - 32:34",
+            "label": "",
+            "description": "Adam Nagy (Bologna) swings a cross into the box, but it's far too close to Pepe Reina, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 30:48",
+            "label": "",
+            "description": "Simone Verdi (Bologna) fails to convert the free kick from the edge of the box. His shot goes right into the stands. High, wide and not at all handsome."
+        },
+        {
+            "gameTime": "2 - 29:55",
+            "label": "y-card",
+            "description": "Elseid Hysaj (Napoli) sees a yellow card from Davide Massa after he sent one of the opposing players to the ground. Bologna are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "gameTime": "2 - 28:52",
+            "label": "soccer-ball",
+            "description": "A wonderful pass found its target. Marek Hamsik (Napoli) received it well and shot from about 22 metres out. He did really well to send the ball past the goalkeeper and into the top right corner."
+        },
+        {
+            "gameTime": "2 - 27:55",
+            "label": "substitution",
+            "description": "Here comes a substitution. Emanuele Giaccherini (Napoli) is brought on as a substitute for ."
+        },
+        {
+            "gameTime": "2 - 24:55",
+            "label": "soccer-ball",
+            "description": "Goal 1:5! Marek Hamsik (Napoli) gets a shot away from the edge of the box and scores into the top right corner. Dries Mertens provided an assist for the goal."
+        },
+        {
+            "gameTime": "2 - 21:56",
+            "label": "",
+            "description": "Simone Verdi (Bologna) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "gameTime": "2 - 21:55",
+            "label": "substitution",
+            "description": "Roberto Donadoni has decided to introduce fresh legs, with Bruno Petkovic (Bologna) replacing Mattia Destro."
+        },
+        {
+            "gameTime": "2 - 16:55",
+            "label": "substitution",
+            "description": "The game has come to an end for Amadou Diawara. He has contributed as much as he could today. He will be replaced by the fresh legs of Allan (Napoli)."
+        },
+        {
+            "gameTime": "2 - 15:55",
+            "label": "y-card",
+            "description": "It's a yellow card for Domenico Maietta (Bologna)."
+        },
+        {
+            "gameTime": "2 - 13:12",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) with a wonderful solo effort. He blasted from long range, but the shot towards the right side of the goal was thwarted by Angelo da Costa."
+        },
+        {
+            "gameTime": "2 - 10:31",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 07:11",
+            "label": "",
+            "description": "Erick Pulgar (Bologna) produces a long range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Pepe Reina and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 04:20",
+            "label": "",
+            "description": "The ball is cleared after Vassilios Torosidis (Bologna) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "The teams are back out for the second half and here is a change on the pitch. Roberto Donadoni gives a chance to Simone Verdi (Bologna) and Luca Rizzo is off."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 47:11",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 46:19",
+            "label": "",
+            "description": "Blerim Dzemaili (Bologna) decides to keep the ball to himself and weaves through the defence into the box. From there he takes a shot which goes narrowly wide of the target."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:15",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Superb finishing from Dries Mertens (Napoli). plays a fantastic through ball and finds Dries Mertens (Napoli), who reacts quickly to get in front of the goalkeeper and fire a close range shot into the bottom left corner. 1:4."
+        },
+        {
+            "gameTime": "1 - 41:16",
+            "label": "",
+            "description": "Blerim Dzemaili (Bologna) collects a pass on the edge of the box and unleashes a low drive to the middle, but Pepe Reina makes a save."
+        },
+        {
+            "gameTime": "1 - 35:44",
+            "label": "soccer-ball",
+            "description": "Vassilios Torosidis (Bologna) gets to the rebound in the goalmouth and plants a header home."
+        },
+        {
+            "gameTime": "1 - 35:40",
+            "label": "",
+            "description": "Ladislav Krejci (Bologna) makes a good run inside the box to meet a precise cross. He latches on to it and shoots, but the goalkeeper pulls off an excellent save."
+        },
+        {
+            "gameTime": "1 - 32:55",
+            "label": "soccer-ball",
+            "description": "Dries Mertens (Napoli) smashes the ball from the resulting free kick and it sails into the top right corner. The goalkeeper merely turned his head. Absolutely amazing."
+        },
+        {
+            "gameTime": "1 - 31:40",
+            "label": "r-card",
+            "description": "Adam Masina (Bologna) makes an awful challenge on his opponent and is sent off by the referee! Napoli are awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 29:34",
+            "label": "",
+            "description": "Blerim Dzemaili (Bologna) receives a pass and unleashes a shot which goes well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 25:55",
+            "label": "r-card",
+            "description": "Jose Callejon (Napoli) receives a red card after his awful challenge. He completely lost his temper and referee Davide Massa sends him off the pitch."
+        },
+        {
+            "gameTime": "1 - 25:31",
+            "label": "penalty-missed",
+            "description": "Mattia Destro (Bologna) places the ball on the penalty spot and sends it towards the right post. His effort isn't powerful enough, allowing Pepe Reina to dive and keep the ball out with an excellent save."
+        },
+        {
+            "gameTime": "1 - 25:21",
+            "label": "",
+            "description": "Mattia Destro (Bologna) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "1 - 24:05",
+            "label": "y-card",
+            "description": "Jose Callejon (Napoli) receives a yellow card."
+        },
+        {
+            "gameTime": "1 - 23:40",
+            "label": "penalty",
+            "description": "Jose Callejon (Napoli) handles the ball inside the penalty area. The referee blows his whistle and awards Bologna a penalty after chaos inside the box."
+        },
+        {
+            "gameTime": "1 - 23:01",
+            "label": "corner",
+            "description": "The resulting corner from Erick Pulgar (Bologna) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 22:38",
+            "label": "",
+            "description": "Jose Callejon (Napoli) receives a lofted pass from out wide and shoots from close range, but the ball flies way past the left hand post."
+        },
+        {
+            "gameTime": "1 - 21:01",
+            "label": "",
+            "description": "Mattia Destro (Bologna) leaps highest in the penalty area to get on the end of a cross from the set piece, and he produces a promising goal bound header towards the middle of the goal, but Pepe Reina pulls off a comfortable save to deny him."
+        },
+        {
+            "gameTime": "1 - 19:51",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Amadou Diawara (Napoli). Davide Massa doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 17:30",
+            "label": "",
+            "description": "Faouzi Ghoulam (Napoli) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 12:57",
+            "label": "",
+            "description": "This shall not pass! Amadou Diawara (Napoli) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 10:19",
+            "label": "y-card",
+            "description": "Erick Pulgar (Bologna) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Davide Massa didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "1 - 09:35",
+            "label": "",
+            "description": "Adam Masina (Bologna) misses a good chance to score. An inch perfect cross into the box finds Adam Masina (Bologna) who rises for a header, but sends the ball well over the bar."
+        },
+        {
+            "gameTime": "1 - 05:55",
+            "label": "soccer-ball",
+            "description": "Brilliant finish! Lorenzo Insigne (Napoli) perfectly collected a pass on the edge of the penalty area from , then produced a nice strike into the right side of the goal. The score is 0:2."
+        },
+        {
+            "gameTime": "1 - 05:30",
+            "label": "corner",
+            "description": "Blerim Dzemaili (Bologna) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "1 - 03:50",
+            "label": "soccer-ball",
+            "description": "Goal! Jose Callejon clips a neat ball into the box in the direction of Marek Hamsik (Napoli), who gets on the end of it and steers a bullet header from the centre of the box into the right side of the goal. Angelo da Costa had no chance of stopping that. 0:1."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The match has just started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bologna will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Davide Massa will referee today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Napoli are unbeaten over their past 11 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "5 That's how many Bologna matches finished with a 1:1 score."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "04/02/2017 - 22:45",
+    "gameHomeTeam": "Bologna",
+    "gameScore": "1 - 7"
+}
