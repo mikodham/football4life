@@ -1,0 +1,280 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:05",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 49:46",
+            "label": "corner",
+            "description": "The resulting set piece from AS Roma is comfortably intercepted by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 49:00",
+            "label": "corner",
+            "description": "AS Roma didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "gameTime": "2 - 48:27",
+            "label": "y-card",
+            "description": "Diego Perotti (AS Roma) is awarded a yellow card. The referee showed him no mercy."
+        },
+        {
+            "gameTime": "2 - 45:19",
+            "label": "corner",
+            "description": "Napoli have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "5 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 44:49",
+            "label": "corner",
+            "description": "Napoli take the corner, but their hopes of scoring a goal end with nice clearance by the defence. The linesman makes the right call and Napoli will have a corner."
+        },
+        {
+            "gameTime": "2 - 43:59",
+            "label": "soccer-ball",
+            "description": "Goal! Kevin Strootman (AS Roma) unleashes a first time shot from inside the box and beats the goalkeeper into the bottom right corner. 1:2."
+        },
+        {
+            "gameTime": "2 - 42:59",
+            "label": "corner",
+            "description": "AS Roma have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "2 - 39:42",
+            "label": "corner",
+            "description": "Napoli take the corner, but their hopes of scoring a goal end with nice clearance by the defence."
+        },
+        {
+            "gameTime": "2 - 37:49",
+            "label": "y-card",
+            "description": "Faouzi Ghoulam (Napoli) is booked after bringing down an opponent. Luca Banti had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 33:46",
+            "label": "substitution",
+            "description": "It will be a substitution. Leandro Paredes (AS Roma) is ready to enter the pitch as Daniele De Rossi walks off."
+        },
+        {
+            "gameTime": "2 - 33:21",
+            "label": "substitution",
+            "description": "Maurizio Sarri has decided to make a change. Arkadiusz Milik (Napoli) replaces Marek Hamsik."
+        },
+        {
+            "gameTime": "2 - 31:36",
+            "label": "corner",
+            "description": "A quickly taken corner by Napoli."
+        },
+        {
+            "gameTime": "2 - 28:52",
+            "label": "substitution",
+            "description": "The substitution is prepared. Piotr Zielinski (Napoli) joins the action as a substitute, replacing Dries Mertens."
+        },
+        {
+            "gameTime": "2 - 27:29",
+            "label": "",
+            "description": "Dries Mertens (Napoli) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "gameTime": "2 - 21:00",
+            "label": "substitution",
+            "description": "Here is a change. Jorginho is going off and Maurizio Sarri gives the last tactical orders to Amadou Diawara (Napoli)."
+        },
+        {
+            "gameTime": "2 - 19:55",
+            "label": "y-card",
+            "description": "Luca Banti shows a yellow card to Daniele De Rossi (AS Roma) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 11:00",
+            "label": "corner",
+            "description": "The corner from Diego Perotti (AS Roma) is cleared away by the defence."
+        },
+        {
+            "gameTime": "2 - 09:00",
+            "label": "corner",
+            "description": "The resulting set piece from Napoli is comfortably intercepted by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 08:37",
+            "label": "corner",
+            "description": "Diego Perotti (AS Roma) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "2 - 07:00",
+            "label": "substitution",
+            "description": "Luciano Spalletti has decided to substitute Federico Fazio and he is replaced by Bruno Peres (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 07:00",
+            "label": "substitution",
+            "description": "Here's the change. Stephan El Shaarawy leaves the pitch and Mohamed Salah (AS Roma) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 04:22",
+            "label": "soccer-ball",
+            "description": "Goal! Dries Mertens (Napoli) finishes from close range with an easy finish and he makes it 0:2. He was ably assisted there by Lorenzo Insigne."
+        },
+        {
+            "gameTime": "2 - 03:00",
+            "label": "corner",
+            "description": "Diego Perotti (AS Roma) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 44:37",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Konstantinos Manolas (AS Roma) was quite harsh and Luca Banti didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 42:01",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) darts into the box and immediately fires a first time effort. He produces a poor shot which goes well over the crossbar."
+        },
+        {
+            "gameTime": "1 - 41:03",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) misses a good chance to score. A perfect cross into the box finds Stephan El Shaarawy (AS Roma) who rises for a header, but he sends the ball well over the bar."
+        },
+        {
+            "gameTime": "1 - 39:00",
+            "label": "",
+            "description": "Goal disallowed! Dries Mertens (Napoli) scores but Luca Banti blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 33:01",
+            "label": "",
+            "description": "Kevin Strootman (AS Roma) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was!"
+        },
+        {
+            "gameTime": "1 - 31:47",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) takes a mid range shot, but it lacks accuracy and it goes way over the bar."
+        },
+        {
+            "gameTime": "1 - 28:28",
+            "label": "",
+            "description": "Faouzi Ghoulam (Napoli) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 25:57",
+            "label": "soccer-ball",
+            "description": "GOAL 0:1! Marek Hamsik found Dries Mertens (Napoli) inside the box, he spotted goalkeeper Wojciech Szczesny off his line and chipped the ball into the net. What a cheeky lob!"
+        },
+        {
+            "gameTime": "1 - 24:00",
+            "label": "",
+            "description": "Handball by Diego Perotti (AS Roma)."
+        },
+        {
+            "gameTime": "1 - 19:05",
+            "label": "",
+            "description": "Napoli are ruled offside."
+        },
+        {
+            "gameTime": "1 - 18:01",
+            "label": "",
+            "description": "A pass by Kevin Strootman (AS Roma) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 16:49",
+            "label": "y-card",
+            "description": "Marko Rog (Napoli) has tested the patience of referee Luca Banti and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "1 - 13:11",
+            "label": "",
+            "description": "Lovely cross from Marek Hamsik to find Dries Mertens (Napoli) deep in the box, but he steers his header well over the bar."
+        },
+        {
+            "gameTime": "1 - 11:16",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) shoots from the edge of the penalty area. The ball travels towards the bottom right corner, but Pepe Reina easily deals with the threat."
+        },
+        {
+            "gameTime": "1 - 09:17",
+            "label": "",
+            "description": "Luca Banti blows his whistle after Daniele De Rossi (AS Roma) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "1 - 08:15",
+            "label": "",
+            "description": "Kevin Strootman (AS Roma) sends a cross into the box, but Pepe Reina comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 05:58",
+            "label": "corner",
+            "description": "Napoli didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "gameTime": "1 - 05:00",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Jose Callejon (Napoli). The referee and one of his assistants signal for a corner kick to Napoli."
+        },
+        {
+            "gameTime": "1 - 01:02",
+            "label": "",
+            "description": "The game is interrupted. Dries Mertens (Napoli) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Napoli will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Luca Banti will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "25 out of the 36 games that Napoli have played so far this season have seen over 2.5 total match goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "AS Roma have a winning streak of 4 matches."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        }
+    ],
+    "gameAwayTeam": "Napoli",
+    "gameDate": "04/03/2017 - 17:00",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "1 - 2"
+}

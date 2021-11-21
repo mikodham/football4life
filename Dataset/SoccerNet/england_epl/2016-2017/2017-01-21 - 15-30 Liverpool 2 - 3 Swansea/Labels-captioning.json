@@ -1,0 +1,515 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:00",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The home side dominated today's game. The home side's strategy was to maintain possession and put the opponent out of the game. While the visitors focused more on defence and catching their opponent on the break."
+        },
+        {
+            "gameTime": "2 - 49:59",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 48:59",
+            "label": "substitution",
+            "description": "The substitution has been made. Joel Matip (Liverpool) has replaced Georginio Wijnaldum."
+        },
+        {
+            "gameTime": "2 - 48:58",
+            "label": "substitution",
+            "description": "Here is a change. Leroy Fer is going off and Paul Clement gives the last tactical orders to Jay Fulton (Swansea)."
+        },
+        {
+            "gameTime": "2 - 48:46",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Liverpool was in an offside position."
+        },
+        {
+            "gameTime": "2 - 47:53",
+            "label": "injury",
+            "description": "Leroy Fer (Swansea) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 47:27",
+            "label": "",
+            "description": "Daniel Sturridge (Liverpool) sends a teasing cross into the area, but Lukasz Fabianski intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 46:54",
+            "label": "",
+            "description": "Ragnar Klavan (Liverpool) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "2 - 46:41",
+            "label": "injury",
+            "description": "The game is interrupted now, Ragnar Klavan (Liverpool) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. We witnessed a quite balanced game. The home side attempted to hold onto the ball for as long as possible. The away team, on the other hand, played long ball football."
+        },
+        {
+            "gameTime": "2 - 44:28",
+            "label": "y-card",
+            "description": "Leroy Fer (Swansea) goes in the referee's notebook after being shown a yellow card."
+        },
+        {
+            "gameTime": "2 - 43:16",
+            "label": "",
+            "description": "Gylfi Sigurdsson (Swansea) sends a cross into the box from the free kick, but his effort lacks accuracy and goes well out of play."
+        },
+        {
+            "gameTime": "2 - 41:27",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) connects with a cross and powers a header goalwards, but his effort goes just over the bar."
+        },
+        {
+            "gameTime": "2 - 41:22",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "gameTime": "2 - 40:00",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Fernando Llorente trots off the pitch and is replaced by Borja Baston (Swansea)."
+        },
+        {
+            "gameTime": "2 - 39:36",
+            "label": "",
+            "description": "Georginio Wijnaldum (Liverpool) should know this behaviour is beyond the rules. He was too careless with his challenge and left Kevin Friend no option but to blow his whistle."
+        },
+        {
+            "gameTime": "2 - 39:12",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 37:36",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "2 - 36:46",
+            "label": "corner",
+            "description": "James Milner (Liverpool) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 36:28",
+            "label": "",
+            "description": "Great solo effort by Dejan Lovren (Liverpool) as he beats two defenders before firing in a drive from just outside of the box towards the roof of the net. The goalkeeper is ready and makes an amazing save. Liverpool force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 34:00",
+            "label": "substitution",
+            "description": "Today's match ends for Martin Olsson who will be replaced by Angel Rangel (Swansea)."
+        },
+        {
+            "gameTime": "2 - 33:26",
+            "label": "",
+            "description": "Martin Olsson (Swansea) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "gameTime": "2 - 31:49",
+            "label": "",
+            "description": "Lukasz Fabianski can hear the fans clapping for his superb goalkeeping after he magnificently stops the close range effort from Divock Origi (Liverpool). The ball would have probably ended up low inside the middle of the net."
+        },
+        {
+            "gameTime": "2 - 31:43",
+            "label": "corner",
+            "description": "James Milner (Liverpool) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 31:19",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by James Milner (Liverpool), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "2 - 31:16",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. It will be a corner kick for Liverpool."
+        },
+        {
+            "gameTime": "2 - 30:58",
+            "label": "",
+            "description": "Daniel Sturridge (Liverpool) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. The referee blows his whistle, Liverpool are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 28:55",
+            "label": "soccer-ball",
+            "description": "Goal! Gylfi Sigurdsson (Swansea) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the right side of the goal. It's 2:3."
+        },
+        {
+            "gameTime": "2 - 28:11",
+            "label": "",
+            "description": "James Milner (Liverpool) receives the ball from the set piece on the edge of the box, but fails to score because his shot is blocked."
+        },
+        {
+            "gameTime": "2 - 27:43",
+            "label": "",
+            "description": "It looks like Wayne Routledge (Swansea) saw red with that tackle. Kevin Friend won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "gameTime": "2 - 27:12",
+            "label": "",
+            "description": "Divock Origi (Liverpool) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 26:42",
+            "label": "",
+            "description": "Jordan Henderson (Liverpool) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort."
+        },
+        {
+            "gameTime": "2 - 24:59",
+            "label": "substitution",
+            "description": "That will be all from Emre Can who is being replaced by the fresh legs of Divock Origi (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 23:55",
+            "label": "soccer-ball",
+            "description": "Goal! Georginio Wijnaldum puts a cross into the box and finds Roberto Firmino (Liverpool), who latches on to it and strikes the ball inside the left post. He makes it 2:2."
+        },
+        {
+            "gameTime": "2 - 23:34",
+            "label": "corner",
+            "description": "James Milner (Liverpool) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "2 - 23:16",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. The ball is out of play. Liverpool will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 21:55",
+            "label": "",
+            "description": "The foul by Emre Can (Liverpool) was seen by Kevin Friend who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 20:46",
+            "label": "",
+            "description": "Alfie Mawson (Swansea) rises above the defence to meet a cross from the corner. His timing is good, but he directs his header just a few inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 20:21",
+            "label": "corner",
+            "description": "Gylfi Sigurdsson (Swansea) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "2 - 20:13",
+            "label": "",
+            "description": "Swansea spell of possession comes to an end after a mistake. Swansea have a corner."
+        },
+        {
+            "gameTime": "2 - 19:28",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 17:05",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "gameTime": "2 - 16:04",
+            "label": "",
+            "description": "Fernando Llorente (Swansea) is able to continue to play."
+        },
+        {
+            "gameTime": "2 - 15:25",
+            "label": "attendance",
+            "description": "The attendance is 53169."
+        },
+        {
+            "gameTime": "2 - 14:54",
+            "label": "injury",
+            "description": "Fernando Llorente (Swansea) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 13:02",
+            "label": "",
+            "description": "A neat pass is well received by Jordan Henderson (Liverpool), who is lurking on the edge of the box and strikes the ball towards the bottom left corner, but the goalkeeper makes an incredible save to block his shot."
+        },
+        {
+            "gameTime": "2 - 12:37",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 11:47",
+            "label": "substitution",
+            "description": "Substitution. Daniel Sturridge (Liverpool) on for Philippe Coutinho."
+        },
+        {
+            "gameTime": "2 - 10:43",
+            "label": "",
+            "description": "Georginio Wijnaldum (Liverpool) commits a foul during an attacking move."
+        },
+        {
+            "gameTime": "2 - 09:45",
+            "label": "soccer-ball",
+            "description": "James Milner produces a beautiful lofted cross into the box, where Roberto Firmino (Liverpool) rises high to head the ball into the bottom left corner and beyond the goalkeeper. He makes it 1:2."
+        },
+        {
+            "gameTime": "2 - 06:44",
+            "label": "soccer-ball",
+            "description": "It's a goal! Fernando Llorente (Swansea) makes it 0:2. He jumped highest to connect with a perfect cross from Thomas Carroll and planted his close range header low into the middle of the goal. Simon Mignolet was helpless."
+        },
+        {
+            "gameTime": "2 - 05:15",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) passes the ball into the box but an opposing player clears."
+        },
+        {
+            "gameTime": "2 - 02:25",
+            "label": "soccer-ball",
+            "description": "Goal! Fernando Llorente (Swansea) pounced on a loose ball inside the box and beats the goalkeeper with a shot inside the left post. He makes it 0:1."
+        },
+        {
+            "gameTime": "2 - 02:23",
+            "label": "corner",
+            "description": "Gylfi Sigurdsson (Swansea) will deliver the corner kick."
+        },
+        {
+            "gameTime": "2 - 02:00",
+            "label": "",
+            "description": "Wayne Routledge (Swansea) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Swansea force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 01:28",
+            "label": "",
+            "description": "Fernando Llorente (Swansea) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 46:00",
+            "label": "",
+            "description": "The game can't be described as attractive. We are hoping against hope that the second half will bring more exciting moments and goal opportunities. The hosts were superior in their performance in the first half. They were more active and precise. The home team tries to prevail using combination football, while the away team adopt a defensive style of play."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 45:52",
+            "label": "",
+            "description": "Kevin Friend blows his whistle for a foul after Fernando Llorente (Swansea) hacks down one of his opponents."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:16",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "gameTime": "1 - 43:25",
+            "label": "",
+            "description": "Wayne Routledge (Swansea) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 42:24",
+            "label": "",
+            "description": "A cross into the box from Adam Lallana (Liverpool) is cleared."
+        },
+        {
+            "gameTime": "1 - 40:52",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 38:51",
+            "label": "",
+            "description": "Dejan Lovren (Liverpool) has an effort on goal, but he misses to the right of the goal."
+        },
+        {
+            "gameTime": "1 - 36:43",
+            "label": "",
+            "description": "Fernando Llorente (Swansea) wins the ball inside the goal area from the resulting set piece and unleashes a shot which sails high over the bar."
+        },
+        {
+            "gameTime": "1 - 35:50",
+            "label": "y-card",
+            "description": "Kevin Friend shows a yellow card to Ragnar Klavan (Liverpool) for his blatant foul."
+        },
+        {
+            "gameTime": "1 - 33:20",
+            "label": "corner",
+            "description": "The resulting corner, taken by James Milner (Liverpool), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 33:02",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his shot towards the right post, but one of the defenders reacted brilliantly to block it. Liverpool force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 29:35",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Adam Lallana (Liverpool) but poses no threat."
+        },
+        {
+            "gameTime": "1 - 27:43",
+            "label": "",
+            "description": "James Milner (Liverpool) commits a rough foul. Kevin Friend stops the game and makes a call."
+        },
+        {
+            "gameTime": "1 - 26:04",
+            "label": "",
+            "description": "James Milner (Liverpool) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "gameTime": "1 - 24:36",
+            "label": "",
+            "description": "Flag goes up against Philippe Coutinho (Liverpool) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 23:31",
+            "label": "",
+            "description": "James Milner (Liverpool) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "1 - 22:29",
+            "label": "",
+            "description": "A pass from Leroy Fer (Swansea) is intercepted by Simon Mignolet and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 20:04",
+            "label": "corner",
+            "description": "Gylfi Sigurdsson (Swansea) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "1 - 19:40",
+            "label": "",
+            "description": "Thomas Carroll (Swansea) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. The linesman makes the right call and Swansea will have a corner."
+        },
+        {
+            "gameTime": "1 - 17:35",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) fails to pick a body out in the box with an over hit cross to the back post."
+        },
+        {
+            "gameTime": "1 - 16:15",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) receives a lofted pass from the flank and shoots from close range, but the ball flies just over the crossbar, almost brushing it."
+        },
+        {
+            "gameTime": "1 - 15:15",
+            "label": "",
+            "description": "The cross into the penalty area from Adam Lallana (Liverpool) needed to be more accurate in order to create a goal scoring opportunity for his team."
+        },
+        {
+            "gameTime": "1 - 13:48",
+            "label": "corner",
+            "description": "James Milner (Liverpool) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "1 - 13:09",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) flights in the cross, but the defender is alert and clears to safety. Liverpool earn a corner."
+        },
+        {
+            "gameTime": "1 - 11:06",
+            "label": "",
+            "description": "Wayne Routledge (Swansea) sends a cross into the box, but Simon Mignolet comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 09:40",
+            "label": "",
+            "description": "Wayne Routledge (Swansea) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 08:15",
+            "label": "",
+            "description": "Emre Can (Liverpool) jumps highest to meet an accurate cross and heads the ball towards the net. His fine header whistles just inches over the crossbar."
+        },
+        {
+            "gameTime": "1 - 06:55",
+            "label": "",
+            "description": "Georginio Wijnaldum (Liverpool) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence."
+        },
+        {
+            "gameTime": "1 - 06:05",
+            "label": "",
+            "description": "The ball is cleared after Adam Lallana (Liverpool) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 03:54",
+            "label": "",
+            "description": "A clumsy foul by James Milner (Liverpool) and Kevin Friend blows his whistle."
+        },
+        {
+            "gameTime": "1 - 02:34",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) fails to pick a body out in the box with an over hit chip pass."
+        },
+        {
+            "gameTime": "1 - 02:02",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) delivers a crossfield pass, but the ball is cut out before it reaches its intended target."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Liverpool will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Kevin Friend will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Swansea have gone 3 consecutive matches without a draw."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Gylfi Sigurdsson has the most assists (13) for Swansea this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sadio Mane looks sharp as he's the top goal scorer for Liverpool with 12 goals in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The home side dominated today's game. The home side's strategy was to maintain possession and put the opponent out of the game. While the visitors focused more on defence and catching their opponent on the break."
+        }
+    ],
+    "gameAwayTeam": "Swansea",
+    "gameDate": "21/01/2017 - 15:30",
+    "gameHomeTeam": "Liverpool",
+    "gameScore": "2 - 3"
+}

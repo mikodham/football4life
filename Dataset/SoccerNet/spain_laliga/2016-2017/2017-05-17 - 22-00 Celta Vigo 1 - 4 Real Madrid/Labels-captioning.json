@@ -1,0 +1,380 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:55",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 47:45",
+            "label": "corner",
+            "description": "Lucas (Real Madrid) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 47:40",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Danilo (Real Madrid). Real Madrid force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 46:49",
+            "label": "corner",
+            "description": "The resulting corner from Daniel Wass (Celta Vigo) comes to nothing."
+        },
+        {
+            "gameTime": "2 - 46:27",
+            "label": "",
+            "description": "Daniel Wass (Celta Vigo) blasts the ball from just outside the box, but his attempt is blocked by the defender. The referee points to the corner flag and Celta Vigo will take a corner."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:26",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Marco Asensio (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 44:04",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The referee signals a corner kick to Real Madrid."
+        },
+        {
+            "gameTime": "2 - 42:49",
+            "label": "soccer-ball",
+            "description": "GOAL! Superb work from Karim Benzema, who plays a vital role in the build up. He squares it to Toni Kroos (Real Madrid), who beats Sergio Alvarez with a brilliant shot into the bottom left corner. 1:4."
+        },
+        {
+            "gameTime": "2 - 40:43",
+            "label": "substitution",
+            "description": "Eduardo Berizzo has decided to substitute John Guidetti and he is replaced by Claudio Beauvue (Celta Vigo)."
+        },
+        {
+            "gameTime": "2 - 39:54",
+            "label": "y-card",
+            "description": "Sergio Ramos (Real Madrid) behaves unsportingly. Caution goes to Sergio Ramos (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 39:46",
+            "label": "y-card",
+            "description": "Unsporting behaviour by Pablo Pedro Hernandez (Celta Vigo). Pablo Pedro Hernandez (Celta Vigo) picks up a yellow card."
+        },
+        {
+            "gameTime": "2 - 38:58",
+            "label": "substitution",
+            "description": "Isco goes off the pitch and Lucas (Real Madrid) comes on."
+        },
+        {
+            "gameTime": "2 - 38:57",
+            "label": "substitution",
+            "description": "That's the end of the game for Cristiano Ronaldo, who is replaced by Marco Asensio (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 35:24",
+            "label": "attendance",
+            "description": "The attendance for today's match is 22838."
+        },
+        {
+            "gameTime": "2 - 34:33",
+            "label": "substitution",
+            "description": "Eduardo Berizzo decides to make a substitution. Pione Sisto will be replaced by Pape Cheikh (Celta Vigo)."
+        },
+        {
+            "gameTime": "2 - 32:13",
+            "label": "",
+            "description": "Luka Modric (Real Madrid) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "2 - 30:55",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 30:45",
+            "label": "",
+            "description": "Isco (Real Madrid) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Sergio Alvarez, who pulls off a superb save to keep the ball out of the net. The referee blows his whistle, Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 29:21",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the left post. The ball is off of the pitch and it's a goal kick for Celta Vigo."
+        },
+        {
+            "gameTime": "2 - 27:28",
+            "label": "y-card",
+            "description": "Hugo Mallo (Celta Vigo) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "2 - 27:27",
+            "label": "",
+            "description": "Hugo Mallo (Celta Vigo) is penalised for holding. Miguel Martinez Munuera signals a set piece."
+        },
+        {
+            "gameTime": "2 - 26:08",
+            "label": "substitution",
+            "description": "Eduardo Berizzo has decided to make a change. Marcelo Diaz (Celta Vigo) replaces Jozabed Sanchez."
+        },
+        {
+            "gameTime": "2 - 25:28",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Mateo Kovacic (Real Madrid) for Casemiro."
+        },
+        {
+            "gameTime": "2 - 24:56",
+            "label": "soccer-ball",
+            "description": "Goal! Karim Benzema (Real Madrid) fires home from very close range after latching on to a pass from Marcelo. The score is 1:3."
+        },
+        {
+            "gameTime": "2 - 23:30",
+            "label": "soccer-ball",
+            "description": "John Guidetti (Celta Vigo) picks it up in space and from the edge of the box lashes in a shot that is deflected past the helpless Keylor Navas. 1:2."
+        },
+        {
+            "gameTime": "2 - 22:45",
+            "label": "corner",
+            "description": "The resulting corner from Hugo Mallo (Celta Vigo) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 22:23",
+            "label": "",
+            "description": "Keylor Navas pulls off a great save to deny Daniel Wass (Celta Vigo), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner."
+        },
+        {
+            "gameTime": "2 - 21:53",
+            "label": "",
+            "description": "Miguel Martinez Munuera blows the whistle, Luka Modric (Real Madrid) is penalised for a foul."
+        },
+        {
+            "gameTime": "2 - 20:37",
+            "label": "y-card",
+            "description": "John Guidetti (Celta Vigo) goes into the book for bad language. His vulgar comments could have made it worse. Luckily for him, it's a yellow card."
+        },
+        {
+            "gameTime": "2 - 18:46",
+            "label": "y-card",
+            "description": "Whoa! Such gestures are commonly penalised and Jonny (Celta Vigo) duly receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 16:53",
+            "label": "yr-card",
+            "description": "Iago Aspas (Celta Vigo) obviously dived. Iago Aspas (Celta Vigo) receives a yellow card! It's his second one today, which means he will be send off!"
+        },
+        {
+            "gameTime": "2 - 16:23",
+            "label": "",
+            "description": "Pione Sisto (Celta Vigo) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "gameTime": "2 - 15:28",
+            "label": "",
+            "description": "Danilo (Real Madrid) forces a pass into the box, but Sergio Alvarez is alert and does a great job to rob him of the ball."
+        },
+        {
+            "gameTime": "2 - 12:44",
+            "label": "",
+            "description": "Real Madrid keep the ball and are displaying some tiki taka style passing at the moment."
+        },
+        {
+            "gameTime": "2 - 09:54",
+            "label": "",
+            "description": "Daniel Wass (Celta Vigo) gives away a foul for a clumsy challenge. Referee Miguel Martinez Munuera saw the whole situation."
+        },
+        {
+            "gameTime": "2 - 05:47",
+            "label": "",
+            "description": "John Guidetti (Celta Vigo) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "2 - 05:27",
+            "label": "corner",
+            "description": "Daniel Wass (Celta Vigo) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 05:04",
+            "label": "",
+            "description": "A long ball forward to Pablo Pedro Hernandez (Celta Vigo) is intercepted. The ball is out of play and Celta Vigo manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 02:40",
+            "label": "soccer-ball",
+            "description": "Isco plays a neat ball into the path of Cristiano Ronaldo (Real Madrid), who makes room for a shot and sends in a low drive which bounces in off the left post! 0:2."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 44:59",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Miguel Martinez Munuera has ended it."
+        },
+        {
+            "gameTime": "1 - 44:36",
+            "label": "",
+            "description": "Sergio Alvarez pulls off a great save to deny Karim Benzema (Real Madrid), who makes himself some space inside the box and unleashes a quick shot towards the top of the net. The ball goes out of play and Celta Vigo will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 41:20",
+            "label": "",
+            "description": "John Guidetti (Celta Vigo) makes a reckless foul in order to win the ball from his opponent. Miguel Martinez Munuera has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 37:41",
+            "label": "y-card",
+            "description": "The referee shows a yellow card to Iago Aspas (Celta Vigo). No wonder. A clear yellow for bad language."
+        },
+        {
+            "gameTime": "1 - 33:33",
+            "label": "",
+            "description": "Excellent touch by Iago Aspas (Celta Vigo)! He latches on to a precise pass on the edge of the box but miskicks and the ball goes well wide of the right post. Poor effort. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 30:55",
+            "label": "",
+            "description": "Flag goes up against Daniel Wass (Celta Vigo) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 30:44",
+            "label": "",
+            "description": "Daniel Wass (Celta Vigo) takes the resulting free kick from the edge of the box, but his effort is straight at Keylor Navas."
+        },
+        {
+            "gameTime": "1 - 29:14",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Casemiro (Real Madrid) was quite harsh and Miguel Martinez Munuera didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 29:12",
+            "label": "",
+            "description": "Casemiro (Real Madrid) trips an opponent with a slide tackle. Miguel Martinez Munuera stops the game and he could give him a card, but eventually decides on just a warning. Celta Vigo earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "1 - 26:45",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "1 - 26:35",
+            "label": "",
+            "description": "Casemiro (Real Madrid) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Real Madrid have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 26:31",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "1 - 26:05",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) tries to send a pass but it's blocked. The ball is out of play. A goal scoring opportunity from a corner for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 25:04",
+            "label": "",
+            "description": "Pione Sisto (Celta Vigo) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar. The ball goes out of play and Real Madrid will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 21:34",
+            "label": "",
+            "description": "Daniel Wass (Celta Vigo) sends a teasing cross into the area, but Keylor Navas intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 17:50",
+            "label": "corner",
+            "description": "Daniel Wass (Celta Vigo) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "1 - 17:40",
+            "label": "",
+            "description": "Pione Sisto (Celta Vigo) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The linesman makes the right call and Celta Vigo will have a corner."
+        },
+        {
+            "gameTime": "1 - 16:43",
+            "label": "",
+            "description": "Daniel Wass (Celta Vigo) sends over a free kick from long range but the defence is alert."
+        },
+        {
+            "gameTime": "1 - 13:32",
+            "label": "",
+            "description": "Jonny (Celta Vigo) creates a yard of space for himself and tries an effort from distance, but it's blocked."
+        },
+        {
+            "gameTime": "1 - 11:46",
+            "label": "",
+            "description": "An accurate cross finds its way to John Guidetti (Celta Vigo) who sends in a bullet header towards the middle of the target from just outside the box, but the goalkeeper makes the save."
+        },
+        {
+            "gameTime": "1 - 09:55",
+            "label": "soccer-ball",
+            "description": "Goal! Cristiano Ronaldo (Real Madrid) picks up the ball from a rebound and from the edge of the box he unleashes a shot inside the right post. It's 0:1."
+        },
+        {
+            "gameTime": "1 - 07:00",
+            "label": "",
+            "description": "John Guidetti (Celta Vigo) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 04:51",
+            "label": "",
+            "description": "The Real Madrid players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "1 - 01:32",
+            "label": "corner",
+            "description": "The corner from Toni Kroos (Real Madrid) is intercepted by the defence."
+        },
+        {
+            "gameTime": "1 - 00:45",
+            "label": "",
+            "description": "Danilo (Real Madrid) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender. Corner kick. Real Madrid will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Miguel Martinez Munuera will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The most prolific goal scorer for Celta Vigo is Iago Aspas with 18 goals in this competition so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "4.4 Average number of goals scored in the last 5 matches between these two teams."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "17/05/2017 - 22:00",
+    "gameHomeTeam": "Celta Vigo",
+    "gameScore": "1 - 4"
+}

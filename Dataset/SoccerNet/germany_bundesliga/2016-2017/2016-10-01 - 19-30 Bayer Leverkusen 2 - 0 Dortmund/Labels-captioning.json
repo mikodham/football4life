@@ -1,0 +1,530 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. The game was quite balanced and neither team had any obvious advantage. The home side were defending patiently to win the ball off the opponent and launch the counter. However, the away side moved the ball around and were waiting for a gap to appear in the home side's defence."
+        },
+        {
+            "gameTime": "2 - 49:20",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 49:09",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 48:55",
+            "label": "",
+            "description": "Shinji Kagawa (Dortmund) connects with a pass but sees his shot from the edge of the box blocked. The ball is out of play and the linesman points at the corner flag. Corner to Dortmund."
+        },
+        {
+            "gameTime": "2 - 48:04",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) brings his opponent down. Manuel Grafe has a clear sight of it and blows his whistle for a foul. A free kick is awarded to Dortmund."
+        },
+        {
+            "gameTime": "2 - 45:08",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) launches a cross from the corner, but Bernd Leno is alert to thwart the effort."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:55",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender. Good work from Dortmund as they win a corner."
+        },
+        {
+            "gameTime": "2 - 44:31",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Julian Baumgartlinger (Bayer Leverkusen) for Aranguiz."
+        },
+        {
+            "gameTime": "2 - 43:00",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Hakan Calhanoglu (Bayer Leverkusen). Manuel Grafe doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 42:02",
+            "label": "",
+            "description": "A goal, which was scored by Pierre Emerick Aubameyang (Dortmund), was disallowed due to offside."
+        },
+        {
+            "gameTime": "2 - 41:19",
+            "label": "",
+            "description": "Nice individual effort by Kevin Volland (Bayer Leverkusen). He gets all the way through to the keeper and hits a low drive to the bottom left corner, but Roman Burki does a good job to anticipate the direction of the ball and keeps it out."
+        },
+        {
+            "gameTime": "2 - 41:07",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) stands over the free kick and opts to take it himself, but it is straight at Bernd Leno."
+        },
+        {
+            "gameTime": "2 - 38:59",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) sends a pass into the penalty area, but the opponent manages to cut it out."
+        },
+        {
+            "gameTime": "2 - 37:46",
+            "label": "corner",
+            "description": "The resulting corner from Raphael Guerreiro (Dortmund) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 37:34",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to Dortmund."
+        },
+        {
+            "gameTime": "2 - 36:35",
+            "label": "attendance",
+            "description": "The attendance for today's match is 30210."
+        },
+        {
+            "gameTime": "2 - 36:08",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 35:22",
+            "label": "",
+            "description": "Shinji Kagawa (Dortmund) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar."
+        },
+        {
+            "gameTime": "2 - 33:47",
+            "label": "soccer-ball",
+            "description": "It's a goal! Hakan Calhanoglu plays a lovely pass into the box and finds Chicharito (Bayer Leverkusen). He tries his luck from close range and coolly strikes the ball into the back of the net. 2:0."
+        },
+        {
+            "gameTime": "2 - 32:27",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) knocks his opponent down with an over the top tackle."
+        },
+        {
+            "gameTime": "2 - 30:08",
+            "label": "",
+            "description": "The referee blows his whistle as Benjamin Henrichs (Bayer Leverkusen) was too aggressive in his challenge."
+        },
+        {
+            "gameTime": "2 - 28:33",
+            "label": "y-card",
+            "description": "Matthias Ginter (Dortmund) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Manuel Grafe didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 27:21",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Bernd Leno guesses his intention and denies him with a fine save."
+        },
+        {
+            "gameTime": "2 - 26:35",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) commits a foul and Manuel Grafe immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 25:40",
+            "label": "substitution",
+            "description": "Thomas Tuchel prepares a substitution. Sebastian Rode is replaced by Shinji Kagawa (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 23:30",
+            "label": "",
+            "description": "The linesman raises his flag. Benjamin Henrichs (Bayer Leverkusen) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 21:54",
+            "label": "substitution",
+            "description": "Substitution. Julian Brandt leaves the pitch and is replaced by Kevin Volland (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 20:03",
+            "label": "",
+            "description": "Half chance! Emre Mor (Dortmund) plays a pass into the box, but Bernd Leno reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "2 - 18:32",
+            "label": "",
+            "description": "Excellent touch by Marcel Schmelzer (Dortmund)! He latches on to a precise pass on the edge of the box but miskicks and the ball goes well wide of the right post. Poor effort."
+        },
+        {
+            "gameTime": "2 - 17:36",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 17:25",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) looks to break free, but an opposing player clears the ball away. The ball is out of play. Dortmund win a corner kick."
+        },
+        {
+            "gameTime": "2 - 16:18",
+            "label": "y-card",
+            "description": "The foul by Omer Toprak (Bayer Leverkusen) is worthy of a card and a yellow is duly shown by Manuel Grafe."
+        },
+        {
+            "gameTime": "2 - 14:12",
+            "label": "",
+            "description": "Half chance! Marcel Schmelzer (Dortmund) plays a pass into the box, but Bernd Leno reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "2 - 12:01",
+            "label": "",
+            "description": "Manuel Grafe blows his whistle for a foul after Benjamin Henrichs (Bayer Leverkusen) hacks down one of his opponents. Dortmund are awarded a free kick."
+        },
+        {
+            "gameTime": "2 - 10:25",
+            "label": "",
+            "description": "Admir Mehmedi (Bayer Leverkusen) sends a teasing cross into the area, but Roman Burki intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 08:28",
+            "label": "",
+            "description": "Admir Mehmedi (Bayer Leverkusen) plays a one two with Chicharito, but the move breaks down."
+        },
+        {
+            "gameTime": "2 - 05:41",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 05:28",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee blows his whistle, Dortmund are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 05:21",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "2 - 05:05",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Dortmund have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 04:40",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) announces himself with a wonderful first time strike from around 22 metres out. He fires the ball towards the bottom left corner, but Roman Burki has a clear sight of the shot and makes a decent save."
+        },
+        {
+            "gameTime": "2 - 02:55",
+            "label": "",
+            "description": "Flag up against Pierre Emerick Aubameyang (Dortmund). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 01:45",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) blows a clear opportunity! He needed only to tap the ball in, but narrowly misses the goal."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "The game is over for Gonzalo Castro. Marcel Schmelzer (Dortmund) comes on for the second half."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "The need to improve in the second half has brought about a change. Christian Pulisic comes off for Emre Mor (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Here is a change after the half time break. Lars Bender is replaced by Wendell (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 48:59",
+            "label": "",
+            "description": "Let's hope the players will show us more in the second half as the first one has been rather ordinary, devoid of goalscoring opportunities. Neither side is enjoying any significant control of the game. The home side is creating their opportunities using lightning fast counter attacks. The tactic of the away side is slow build up play."
+        },
+        {
+            "gameTime": "1 - 48:03",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 46:45",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) runs through on goal, but he is flagged for offside by the linesman after failing to beat the offside trap."
+        },
+        {
+            "gameTime": "1 - 45:43",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) receives a pass and tries his luck with a low shot from 25 metres out. Bernd Leno pulls off a comfortable save to stop the effort going into the middle of the net."
+        },
+        {
+            "gameTime": "1 - 45:22",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) races towards goal but the defender gets back well to make a challenge. It's a throw in for Dortmund."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:26",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang passes to Ousmane Dembele (Dortmund), but he produces a wild shot from the edge of the box which goes high over the bar."
+        },
+        {
+            "gameTime": "1 - 43:31",
+            "label": "",
+            "description": "Aranguiz (Bayer Leverkusen) collects a pass and strikes from about 20 metres out. It's a poor attempt which flies well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 42:27",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Benjamin Henrichs (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "1 - 40:00",
+            "label": "y-card",
+            "description": "Chicharito (Bayer Leverkusen) uses the wrong choice of words while trying to explain something to the referee and receives a yellow card for dissent."
+        },
+        {
+            "gameTime": "1 - 39:25",
+            "label": "",
+            "description": "Manuel Grafe blows the whistle, Kevin Kampl (Bayer Leverkusen) is penalised for a foul."
+        },
+        {
+            "gameTime": "1 - 37:26",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 37:17",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Corner kick. Dortmund will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 36:36",
+            "label": "y-card",
+            "description": "Manuel Grafe shows the yellow card to Kevin Kampl (Bayer Leverkusen) for a heavy challenge."
+        },
+        {
+            "gameTime": "1 - 35:41",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Dortmund will take a throw in."
+        },
+        {
+            "gameTime": "1 - 35:00",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 33:24",
+            "label": "injury",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 31:53",
+            "label": "",
+            "description": "Sokratis (Dortmund) plays a terrific long ball forward to Pierre Emerick Aubameyang, but he can't beat his man and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 31:01",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) gets on the end of a pass on the edge of the area, but he drags his shot just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 30:33",
+            "label": "",
+            "description": "Matthias Ginter (Dortmund) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "1 - 29:03",
+            "label": "injury",
+            "description": "The game is interrupted now, Matthias Ginter (Dortmund) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 28:43",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) makes a slide tackle, but referee Manuel Grafe blows for a foul."
+        },
+        {
+            "gameTime": "1 - 28:02",
+            "label": "",
+            "description": "Aranguiz (Bayer Leverkusen) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention."
+        },
+        {
+            "gameTime": "1 - 26:26",
+            "label": "",
+            "description": "Julian Brandt (Bayer Leverkusen) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 24:37",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Raphael Guerreiro (Dortmund)."
+        },
+        {
+            "gameTime": "1 - 24:22",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Gonzalo Castro (Dortmund), was easily dealt with by one of the defenders. The referee signals a corner kick to Dortmund."
+        },
+        {
+            "gameTime": "1 - 23:38",
+            "label": "",
+            "description": "Poor challenge! Benjamin Henrichs (Bayer Leverkusen) is penalised for tripping and Manuel Grafe blows his whistle. A free kick has been awarded to Dortmund."
+        },
+        {
+            "gameTime": "1 - 23:00",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "1 - 22:42",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) slaloms his way past challenges, but an opposing player does well to get the ball away. Dortmund win a corner."
+        },
+        {
+            "gameTime": "1 - 22:00",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 19:14",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble Bernd Leno."
+        },
+        {
+            "gameTime": "1 - 18:04",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 17:26",
+            "label": "",
+            "description": "That's a well played offside trap. Ousmane Dembele (Dortmund) is flagged for offside, ending the attack."
+        },
+        {
+            "gameTime": "1 - 16:59",
+            "label": "",
+            "description": "A cross from Julian Brandt (Bayer Leverkusen) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "gameTime": "1 - 15:31",
+            "label": "",
+            "description": "Dortmund keep the ball and are displaying some tiki taka style passing at the moment."
+        },
+        {
+            "gameTime": "1 - 13:42",
+            "label": "y-card",
+            "description": "Aranguiz (Bayer Leverkusen) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Manuel Grafe ignores the protests."
+        },
+        {
+            "gameTime": "1 - 12:17",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Bayer Leverkusen."
+        },
+        {
+            "gameTime": "1 - 11:51",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 09:44",
+            "label": "soccer-ball",
+            "description": "Hakan Calhanoglu takes the corner and Admir Mehmedi (Bayer Leverkusen) rises highest near the penalty spot to plant a brilliant header into the left side of the goal. The score is 1:0."
+        },
+        {
+            "gameTime": "1 - 09:12",
+            "label": "corner",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 08:47",
+            "label": "",
+            "description": "What a save from Roman Burki! Chicharito (Bayer Leverkusen) jumps high to meet a cross and glances a promising header from close range towards the bottom right corner, but the goalkeeper pulls off a brilliant save to keep it out. The linesman points to the corner flag, Bayer Leverkusen are going to take it."
+        },
+        {
+            "gameTime": "1 - 07:57",
+            "label": "",
+            "description": "A crossfield pass from Sokratis (Dortmund) fails to find any of his teammates. The referee and the linesman both signal a throw in for Bayer Leverkusen."
+        },
+        {
+            "gameTime": "1 - 06:32",
+            "label": "",
+            "description": "The ball is cleared after Ousmane Dembele (Dortmund) attempted to dribble past an opposing player. The ball has crossed the sideline. Dortmund are taking a throw in."
+        },
+        {
+            "gameTime": "1 - 04:23",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Aranguiz (Bayer Leverkusen). Manuel Grafe saw the sliding tackle and blows for a foul."
+        },
+        {
+            "gameTime": "1 - 02:55",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) takes a shot from a mid range free kick and the ball flies inches wide of the left post! The ball goes out of play and Dortmund will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 02:33",
+            "label": "",
+            "description": "Sokratis (Dortmund) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. Bayer Leverkusen have been awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 02:00",
+            "label": "",
+            "description": "Sokratis (Dortmund) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bayer Leverkusen will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Manuel Grafe."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dortmund will be striving to extend their brilliant 3 match winning run in this competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang have rippled the net 15x and is the top scorer for Dortmund this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The most prolific goal scorer for Bayer Leverkusen is Chicharito with 5 goals in this competition so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. The game was quite balanced and neither team had any obvious advantage. The home side were defending patiently to win the ball off the opponent and launch the counter. However, the away side moved the ball around and were waiting for a gap to appear in the home side's defence."
+        }
+    ],
+    "gameAwayTeam": "Dortmund",
+    "gameDate": "01/10/2016 - 19:30",
+    "gameHomeTeam": "Bayer Leverkusen",
+    "gameScore": "2 - 0"
+}

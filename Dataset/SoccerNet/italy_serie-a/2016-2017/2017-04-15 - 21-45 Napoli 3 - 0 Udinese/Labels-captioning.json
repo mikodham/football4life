@@ -1,0 +1,285 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:04",
+            "label": "whistle",
+            "description": "Davide Massa is looking at his watch and immediately ends this match."
+        },
+        {
+            "gameTime": "2 - 46:52",
+            "label": "corner",
+            "description": "The corner kick from is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 2 min. of added time."
+        },
+        {
+            "gameTime": "2 - 42:48",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 41:06",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Jose Callejon (Napoli)."
+        },
+        {
+            "gameTime": "2 - 35:58",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "2 - 33:21",
+            "label": "substitution",
+            "description": "Substitution. Piotr Zielinski (Napoli) on for Marek Hamsik."
+        },
+        {
+            "gameTime": "2 - 33:00",
+            "label": "substitution",
+            "description": "Luigi Delneri has decided to introduce fresh legs, with Lucas Evangelista (Udinese) replacing Jakub Jankto."
+        },
+        {
+            "gameTime": "2 - 32:35",
+            "label": "substitution",
+            "description": "Substitution. Arkadiusz Milik (Napoli) replaces Dries Mertens."
+        },
+        {
+            "gameTime": "2 - 26:50",
+            "label": "soccer-ball",
+            "description": "After a goalmouth scramble the ball rebounds out to Jose Callejon (Napoli) who buries it from close range into the left side of the goal."
+        },
+        {
+            "gameTime": "2 - 26:49",
+            "label": "",
+            "description": "Dries Mertens (Napoli) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 25:39",
+            "label": "substitution",
+            "description": "Maurizio Sarri prepares a substitution. Allan is replaced by Marko Rog (Napoli)."
+        },
+        {
+            "gameTime": "2 - 24:49",
+            "label": "substitution",
+            "description": "Substitution. Cyril Thereau (Udinese) did his best and is replaced by ."
+        },
+        {
+            "gameTime": "2 - 21:26",
+            "label": "",
+            "description": "Emil Hallfredsson (Udinese) sends an accurate pass to Stipe Perica, who controls the ball with a fine first touch."
+        },
+        {
+            "gameTime": "2 - 17:34",
+            "label": "soccer-ball",
+            "description": "GOAL! Allan (Napoli) gets to the ball on the edge of the box after a huge mistake by an opponent and slams it into the back of the net. He makes it 2:0."
+        },
+        {
+            "gameTime": "2 - 16:45",
+            "label": "",
+            "description": "Duvan Zapata (Udinese) had a good opportunity when he latched on to a cross from the wing, but his header from the six yard box wasn't accurate enough and the ball glanced away off the left post!"
+        },
+        {
+            "gameTime": "2 - 14:32",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark."
+        },
+        {
+            "gameTime": "2 - 14:13",
+            "label": "funfact",
+            "description": "15:2 \u2013 the corner kicks stats."
+        },
+        {
+            "gameTime": "2 - 07:21",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "2 - 07:06",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The ball goes out of play. Napoli are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 05:39",
+            "label": "substitution",
+            "description": "The substitution has been made. Stipe Perica (Udinese) has replaced Rodrigo De Paul."
+        },
+        {
+            "gameTime": "2 - 02:31",
+            "label": "soccer-ball",
+            "description": "It's 1:0! Jorginho feeds Dries Mertens (Napoli) inside the box, who is unmarked and buries the ball in the right side of the net."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "whistle",
+            "description": "Davide Massa has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 45:14",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:43",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "1 - 37:37",
+            "label": "",
+            "description": "Jose Callejon (Napoli) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "1 - 36:28",
+            "label": "corner",
+            "description": "Ivan Strinic (Napoli) takes the corner kick, but Orestis Karnezis reads it well and stops the effort."
+        },
+        {
+            "gameTime": "1 - 35:52",
+            "label": "",
+            "description": "Elseid Hysaj (Napoli) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and Napoli have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 34:37",
+            "label": "corner",
+            "description": "Ivan Strinic (Napoli) works the corner short."
+        },
+        {
+            "gameTime": "1 - 32:38",
+            "label": "funfact",
+            "description": "70:30 \u2013 the ratio of ball possession."
+        },
+        {
+            "gameTime": "1 - 30:16",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Ivan Strinic (Napoli) takes it short."
+        },
+        {
+            "gameTime": "1 - 30:00",
+            "label": "",
+            "description": "Dries Mertens (Napoli) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out. The ball is out of play and the linesman points at the corner flag. Corner to Napoli."
+        },
+        {
+            "gameTime": "1 - 29:36",
+            "label": "corner",
+            "description": "Ivan Strinic (Napoli) takes a short corner kick."
+        },
+        {
+            "gameTime": "1 - 27:59",
+            "label": "corner",
+            "description": "Ivan Strinic (Napoli) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "1 - 27:39",
+            "label": "",
+            "description": "Dries Mertens (Napoli) looks to break free, but an opposing player clears the ball away. Napoli earn a corner."
+        },
+        {
+            "gameTime": "1 - 27:00",
+            "label": "corner",
+            "description": "Ivan Strinic (Napoli) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "1 - 24:56",
+            "label": "corner",
+            "description": "Rodrigo De Paul (Udinese) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "1 - 22:10",
+            "label": "corner",
+            "description": "Ivan Strinic (Napoli) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 21:07",
+            "label": "",
+            "description": "Dries Mertens (Napoli) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence."
+        },
+        {
+            "gameTime": "1 - 15:33",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 11:28",
+            "label": "corner",
+            "description": "The corner from Ivan Strinic (Napoli) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 06:01",
+            "label": "",
+            "description": "Napoli are showcasing great team work and neat passing moves."
+        },
+        {
+            "gameTime": "1 - 01:49",
+            "label": "",
+            "description": "Jose Callejon (Napoli) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 00:48",
+            "label": "y-card",
+            "description": "The foul by Badu (Udinese) is worthy of a card and a yellow is duly shown by Davide Massa."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Napoli will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Davide Massa will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The Udinese players have rippled the net at least once in their last 5 matches."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Udinese haven't lost in their last 5 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dries Mertens from Napoli will look to add to his goal tally, he has netted 20 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "Davide Massa is looking at his watch and immediately ends this match."
+        }
+    ],
+    "gameAwayTeam": "Udinese",
+    "gameDate": "15/04/2017 - 21:45",
+    "gameHomeTeam": "Napoli",
+    "gameScore": "3 - 0"
+}

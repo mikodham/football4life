@@ -1,0 +1,640 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Bayer Leverkusen 1 - 0 Atl. Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "It was an entertaining 90 minutes of football. Both sides had good opportunities. The home side were better today. The tactic of the home side was slow build up play, while the away team played long passes and crosses into the box."
+        },
+        {
+            "gameTime": "2 - 48:12",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 46:50",
+            "label": "y-card",
+            "description": "Pavel Kralovec shows a yellow card to Jesus Gamez (Atl. Madrid) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 46:11",
+            "label": "",
+            "description": "Pavel Kralovec blows his whistle as Stefan Kiessling (Bayer Leverkusen) used excessive force in the tackle during an attack."
+        },
+        {
+            "gameTime": "2 - 45:42",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:23",
+            "label": "y-card",
+            "description": "Stefan Kiessling (Bayer Leverkusen) earns the yellow card."
+        },
+        {
+            "gameTime": "2 - 43:22",
+            "label": "",
+            "description": "Raul Garcia (Atl. Madrid) wasted a great chance as he climbed high to connect with a cross from the free kick inside the penalty area. He produced a header which went a whisker over the bar."
+        },
+        {
+            "gameTime": "2 - 43:22",
+            "label": "y-card",
+            "description": "Fernando Torres (Atl. Madrid) is awarded a yellow card. The referee showed him no mercy."
+        },
+        {
+            "gameTime": "2 - 42:35",
+            "label": "y-card",
+            "description": "Gonzalo Castro (Bayer Leverkusen) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "2 - 42:30",
+            "label": "",
+            "description": "A clumsy foul by Gonzalo Castro (Bayer Leverkusen) and Pavel Kralovec blows his whistle. It's a free kick to Atl. Madrid, but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "2 - 41:41",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Hakan Calhanoglu departs the field of play to be replaced by Julian Brandt (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 41:11",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) plays a one two with Stefan Kiessling, but the move breaks down."
+        },
+        {
+            "gameTime": "2 - 39:54",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates."
+        },
+        {
+            "gameTime": "2 - 39:16",
+            "label": "",
+            "description": "The Bayer Leverkusen players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "gameTime": "2 - 38:03",
+            "label": "",
+            "description": "Raul Garcia (Atl. Madrid) shows too much aggression during an attacking move and ends up fouling his opponent."
+        },
+        {
+            "gameTime": "2 - 37:32",
+            "label": "",
+            "description": "Fernando Torres (Atl. Madrid) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The ball has crossed the sideline. Atl. Madrid are taking a throw in."
+        },
+        {
+            "gameTime": "2 - 36:52",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) trips an opposition player and Pavel Kralovec signals a foul."
+        },
+        {
+            "gameTime": "2 - 34:35",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Stefan Kiessling (Bayer Leverkusen) replaces Josip Drmic."
+        },
+        {
+            "gameTime": "2 - 31:53",
+            "label": "",
+            "description": "Kyriakos Papadopoulos (Bayer Leverkusen) connects with the ball in the six yard box after the resulting free kick and shoots towards the bottom left corner, but Miguel Angel Moya makes a magnificent save!"
+        },
+        {
+            "gameTime": "2 - 31:05",
+            "label": "",
+            "description": "Fernando Torres (Atl. Madrid) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "2 - 30:58",
+            "label": "yr-card",
+            "description": "Tiago (Atl. Madrid) receives a yellow card from the referee, but he is sent off because it's his second one of the match!"
+        },
+        {
+            "gameTime": "2 - 30:36",
+            "label": "corner",
+            "description": "Antoine Griezmann (Atl. Madrid) fails to deliver a decent cross from the corner and the ball goes out of play."
+        },
+        {
+            "gameTime": "2 - 30:09",
+            "label": "",
+            "description": "Raul Garcia (Atl. Madrid) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Atl. Madrid get a corner."
+        },
+        {
+            "gameTime": "2 - 29:39",
+            "label": "",
+            "description": "Josip Drmic (Bayer Leverkusen) produced a promising shot towards the bottom left corner after his wonderful solo run, but Miguel Angel Moya thwarted him with a fabulous save and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 28:38",
+            "label": "",
+            "description": "Fernando Torres (Atl. Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the right post. Bernd Leno is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "2 - 28:22",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Gabi (Atl. Madrid), was easily dealt with by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 27:32",
+            "label": "",
+            "description": "It looks like Roberto Hilbert (Bayer Leverkusen) saw red with that tackle. Pavel Kralovec won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "gameTime": "2 - 27:10",
+            "label": "attendance",
+            "description": "The attendance for today's match is 29079."
+        },
+        {
+            "gameTime": "2 - 26:48",
+            "label": "",
+            "description": "Fernando Torres (Atl. Madrid) sends a chip pass into the box, but Bernd Leno is quickest to intercept the ball."
+        },
+        {
+            "gameTime": "2 - 26:04",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) steps up to take the resulting free kick from 33 metres out. He attempts to send his effort low into the middle of the goal, but Miguel Angel Moya is alert and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 25:05",
+            "label": "",
+            "description": "The referee blows his whistle as Tiago (Atl. Madrid) was too aggressive in his challenge. Bayer Leverkusen have a free kick."
+        },
+        {
+            "gameTime": "2 - 24:19",
+            "label": "",
+            "description": "Pavel Kralovec blows his whistle. Fernando Torres (Atl. Madrid) commits a foul after dangerous play."
+        },
+        {
+            "gameTime": "2 - 23:25",
+            "label": "",
+            "description": "A pass by Simon Rolfes (Bayer Leverkusen) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "2 - 22:01",
+            "label": "substitution",
+            "description": "Roger Schmidt has decided to make a change. Simon Rolfes (Bayer Leverkusen) replaces Lars Bender."
+        },
+        {
+            "gameTime": "2 - 21:10",
+            "label": "",
+            "description": "Gabi (Atl. Madrid) swings a cross into the box, but it's far too close to Bernd Leno, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 18:48",
+            "label": "",
+            "description": "Pavel Kralovec interrupts the game for a tactical foul by Emir Spahic (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 18:48",
+            "label": "substitution",
+            "description": "Substitution. Fernando Torres (Atl. Madrid) replaces Arda Turan."
+        },
+        {
+            "gameTime": "2 - 16:59",
+            "label": "y-card",
+            "description": "Lars Bender (Bayer Leverkusen) goes into the book for a horrible tackle. A yellow card is necessary in this case."
+        },
+        {
+            "gameTime": "2 - 16:44",
+            "label": "",
+            "description": "Heung Min Son (Bayer Leverkusen) gets on the ball and beats an opponent, but his run is stopped by the referee Pavel Kralovec who sees an offensive foul."
+        },
+        {
+            "gameTime": "2 - 16:22",
+            "label": "",
+            "description": "Gonzalo Castro (Bayer Leverkusen) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "gameTime": "2 - 14:54",
+            "label": "y-card",
+            "description": "Pavel Kralovec shows a yellow card to Diego Godin (Atl. Madrid) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 14:50",
+            "label": "",
+            "description": "Diego Godin (Atl. Madrid) brings down his opponent with a very late tackle. Bayer Leverkusen win a free kick."
+        },
+        {
+            "gameTime": "2 - 13:22",
+            "label": "",
+            "description": "Gabi (Atl. Madrid) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "gameTime": "2 - 12:46",
+            "label": "y-card",
+            "description": "Wendell (Bayer Leverkusen) is booked after bringing down an opponent. Pavel Kralovec had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 11:30",
+            "label": "soccer-ball",
+            "description": "Goal! Karim Bellarabi displays great vision and sends a pass to Hakan Calhanoglu (Bayer Leverkusen), who shows brilliant composure inside the box to bury the ball into the top of the net. The score is 1:0."
+        },
+        {
+            "gameTime": "2 - 10:41",
+            "label": "",
+            "description": "A cross is whipped into the box by Arda Turan (Atl. Madrid) and Raul Garcia controls it well. He lines up the ball, but one of the defenders produces a timely intervention."
+        },
+        {
+            "gameTime": "2 - 09:55",
+            "label": "",
+            "description": "Antoine Griezmann (Atl. Madrid) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort."
+        },
+        {
+            "gameTime": "2 - 07:41",
+            "label": "",
+            "description": "Raul Garcia (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Pavel Kralovec has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 06:58",
+            "label": "corner",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play."
+        },
+        {
+            "gameTime": "2 - 06:44",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. Good work from Bayer Leverkusen as they win a corner."
+        },
+        {
+            "gameTime": "2 - 05:19",
+            "label": "",
+            "description": "Good touch by Raul Garcia (Atl. Madrid) as he receives a great pass and attempts to threaten the goalkeeper with his long range strike. Unfortunately for him, the effort misses the net and flies well wide to the right."
+        },
+        {
+            "gameTime": "2 - 03:09",
+            "label": "",
+            "description": "The ball is cleared after Hakan Calhanoglu (Bayer Leverkusen) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 02:35",
+            "label": "",
+            "description": "A player from Bayer Leverkusen commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "2 - 02:09",
+            "label": "",
+            "description": "The resulting free kick from Gabi (Atl. Madrid) ends up in the gloves of the keeper."
+        },
+        {
+            "gameTime": "2 - 01:21",
+            "label": "",
+            "description": "Rough tackle by Emir Spahic (Bayer Leverkusen). The referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 48:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. Neither team has really been able to control the flow of the game. The home team are trying to prevail using combination football, unlike the away side who are attempting to create scoring opportunities mostly with long balls."
+        },
+        {
+            "gameTime": "1 - 48:18",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 47:45",
+            "label": "",
+            "description": "Tiago (Atl. Madrid) makes a yard for himself as he picks up the rebound after chaos in the box and quickly sends a shot towards the right post. The goalkeeper pulls off a remarkable save to keep the ball out. What a save!"
+        },
+        {
+            "gameTime": "1 - 47:22",
+            "label": "corner",
+            "description": "Gabi (Atl. Madrid) whips in a cross from the corner, but Bernd Leno is well positioned and punches the ball away."
+        },
+        {
+            "gameTime": "1 - 47:13",
+            "label": "",
+            "description": "Mario Mandzukic (Atl. Madrid) produces an attempt from the edge of the box which would have most likely endangered the goalkeeper, but one of the defending players blocked it, so we can only speculate about the outcome. The ball goes out for a corner. Atl. Madrid can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 46:42",
+            "label": "corner",
+            "description": "The corner from Hakan Calhanoglu (Bayer Leverkusen) is hurriedly cleared."
+        },
+        {
+            "gameTime": "1 - 46:09",
+            "label": "corner",
+            "description": "The resulting corner comes to nothing as Hakan Calhanoglu (Bayer Leverkusen) sends it out of play. Bayer Leverkusen force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 45:19",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play. Bayer Leverkusen are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 45:06",
+            "label": "",
+            "description": "Atl. Madrid concede a free kick following a bad challenge."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "",
+            "description": "Emir Spahic (Bayer Leverkusen) makes a rough challenge and the referee blows for a foul. Atl. Madrid are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "gameTime": "1 - 44:03",
+            "label": "",
+            "description": "Lars Bender (Bayer Leverkusen) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 43:19",
+            "label": "",
+            "description": "Arda Turan (Atl. Madrid) sends a cross into the box, but Bernd Leno comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 41:59",
+            "label": "substitution",
+            "description": "Saul Niguez is being substituted because of an injury. Diego Simeone sends Raul Garcia (Atl. Madrid) on the pitch."
+        },
+        {
+            "gameTime": "1 - 41:44",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. A free kick has been awarded to Atl. Madrid."
+        },
+        {
+            "gameTime": "1 - 39:45",
+            "label": "",
+            "description": "Wonderful pass from Jesus Gamez (Atl. Madrid) for Antoine Griezmann, but they can't profit from it as Bernd Leno comes off his line to collect."
+        },
+        {
+            "gameTime": "1 - 39:12",
+            "label": "",
+            "description": "Mario Mandzukic (Atl. Madrid) chips a pass over the line of defenders to get the ball to Antoine Griezmann, but his attempt is intercepted and cleared."
+        },
+        {
+            "gameTime": "1 - 37:51",
+            "label": "substitution",
+            "description": "Diego Simeone is forced to make an unplanned substitution as Guilherme Siqueira suffers an injury and Jesus Gamez (Atl. Madrid) comes on."
+        },
+        {
+            "gameTime": "1 - 35:25",
+            "label": "y-card",
+            "description": "Kyriakos Papadopoulos (Bayer Leverkusen) makes a bad challenge on his opponent and is booked by the referee."
+        },
+        {
+            "gameTime": "1 - 34:52",
+            "label": "",
+            "description": "Pavel Kralovec blows for a foul after Emir Spahic (Bayer Leverkusen) was too aggressive in the battle for the ball."
+        },
+        {
+            "gameTime": "1 - 34:09",
+            "label": "",
+            "description": "One of the Bayer Leverkusen players unfairly tackled his opponent and conceded a foul."
+        },
+        {
+            "gameTime": "1 - 33:53",
+            "label": "",
+            "description": "Josip Drmic (Bayer Leverkusen) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 32:43",
+            "label": "",
+            "description": "Gonzalo Castro (Bayer Leverkusen) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!"
+        },
+        {
+            "gameTime": "1 - 31:33",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) didn't hesitate to knock his opponent down with a harsh sliding tackle. Pavel Kralovec could probably show him a yellow, but he only goes with blowing the whistle for a foul. A free kick to Atl. Madrid."
+        },
+        {
+            "gameTime": "1 - 31:15",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence."
+        },
+        {
+            "gameTime": "1 - 30:43",
+            "label": "corner",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 30:23",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) fails to find any of his teammates inside the box as his pass is blocked. The referee points to the corner flag and Bayer Leverkusen will take a corner."
+        },
+        {
+            "gameTime": "1 - 29:43",
+            "label": "",
+            "description": "Roberto Hilbert (Bayer Leverkusen) and Heung Min Son try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move."
+        },
+        {
+            "gameTime": "1 - 28:34",
+            "label": "",
+            "description": "A precise low pass is received by Saul Niguez (Atl. Madrid), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 27:59",
+            "label": "",
+            "description": "Pavel Kralovec blows the whistle, Gonzalo Castro (Bayer Leverkusen) is penalised for a foul."
+        },
+        {
+            "gameTime": "1 - 27:43",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) sends a teasing cross into the area, but Miguel Angel Moya intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 26:24",
+            "label": "",
+            "description": "Gonzalo Castro (Bayer Leverkusen) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 26:07",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Karim Bellarabi (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "1 - 25:20",
+            "label": "",
+            "description": "Saul Niguez (Atl. Madrid) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 25:11",
+            "label": "",
+            "description": "Emir Spahic (Bayer Leverkusen) tries his luck with a shot from long range, and his superb effort rattles the crossbar!"
+        },
+        {
+            "gameTime": "1 - 24:42",
+            "label": "",
+            "description": "A perfect long pass by Hakan Calhanoglu (Bayer Leverkusen) finds Heung Min Son. He latches on to the pass and continues his attacking run."
+        },
+        {
+            "gameTime": "1 - 23:01",
+            "label": "injury",
+            "description": "The game is interrupted now, Saul Niguez (Atl. Madrid) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 21:58",
+            "label": "y-card",
+            "description": "Tiago (Atl. Madrid) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "1 - 21:31",
+            "label": "",
+            "description": "Diego Godin (Atl. Madrid) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "gameTime": "1 - 20:50",
+            "label": "corner",
+            "description": "Antoine Griezmann (Atl. Madrid) launches a cross from the corner, but Bernd Leno is alert to thwart the effort."
+        },
+        {
+            "gameTime": "1 - 20:24",
+            "label": "",
+            "description": "Antoine Griezmann (Atl. Madrid) serves up a nice cross, but the defence clears the danger. The ball goes out of play and Atl. Madrid have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 19:44",
+            "label": "",
+            "description": "Pavel Kralovec interrupts the game. One of the players from Bayer Leverkusen won the ball, but his effort is adjudged unfair."
+        },
+        {
+            "gameTime": "1 - 19:24",
+            "label": "",
+            "description": "Emir Spahic (Bayer Leverkusen) plays a terrific long ball forward to Roberto Hilbert, but he can't beat his man and the move breaks down. The ball goes out of play and Atl. Madrid will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 17:51",
+            "label": "corner",
+            "description": "Juanfran (Atl. Madrid) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "1 - 17:21",
+            "label": "",
+            "description": "Arda Turan (Atl. Madrid) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to Atl. Madrid."
+        },
+        {
+            "gameTime": "1 - 16:02",
+            "label": "",
+            "description": "Gonzalo Castro (Bayer Leverkusen) trips an opponent with a slide tackle. Pavel Kralovec stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "gameTime": "1 - 15:12",
+            "label": "",
+            "description": "Josip Drmi\u0107 (Bayer Leverkusen) is first to the rebound and sends a header goalwards but it's blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "1 - 14:09",
+            "label": "",
+            "description": "Roberto Hilbert (Bayer Leverkusen) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "gameTime": "1 - 13:14",
+            "label": "",
+            "description": "Emir Spahic (Bayer Leverkusen) is the first to arrive to a rebound inside the penalty area and unleashes a quick strike towards the bottom right corner that beats the keeper. One of the defenders, however, makes a goal line clearance."
+        },
+        {
+            "gameTime": "1 - 12:01",
+            "label": "corner",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+        },
+        {
+            "gameTime": "1 - 11:30",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Now Bayer Leverkusen have a corner."
+        },
+        {
+            "gameTime": "1 - 11:23",
+            "label": "",
+            "description": "Hakan Calhanoglu receives a sweet cross inside the box from Heung Min Son (Bayer Leverkusen), but one of the defenders rushes in bravely to intercept the move."
+        },
+        {
+            "gameTime": "1 - 09:31",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) was trying to get to the ball but clattered into the legs of the opponent as well. Pavel Kralovec blows his whistle for an infringement. Atl. Madrid are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "1 - 09:10",
+            "label": "",
+            "description": "Mario Mandzukic (Atl. Madrid) makes a slide tackle, but referee Pavel Kralovec blows for a foul."
+        },
+        {
+            "gameTime": "1 - 08:30",
+            "label": "",
+            "description": "Antoine Griezmann (Atl. Madrid) missed a great opportunity! He finds himself some space near the penalty spot and plants a header goalwards which lacks both power and accuracy. The ball sails well over the bar!"
+        },
+        {
+            "gameTime": "1 - 07:57",
+            "label": "",
+            "description": "Gabi (Atl. Madrid) takes the free kick from a long way out but the defender manages to get it clear."
+        },
+        {
+            "gameTime": "1 - 07:13",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) fouls an opponent. At least that's what referee Pavel Kralovec signals."
+        },
+        {
+            "gameTime": "1 - 06:15",
+            "label": "",
+            "description": "Lars Bender (Bayer Leverkusen) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the left post."
+        },
+        {
+            "gameTime": "1 - 05:47",
+            "label": "",
+            "description": "Juanfran (Atl. Madrid) and Gabi attempt to exchange short two yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 04:33",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "1 - 03:55",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "1 - 02:39",
+            "label": "",
+            "description": "A spell of possession for Bayer Leverkusen in an attempt to control the game."
+        },
+        {
+            "gameTime": "1 - 01:29",
+            "label": "",
+            "description": "Arda Turan (Atl. Madrid) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bayer Leverkusen will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Pavel Kralovec will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was an entertaining 90 minutes of football. Both sides had good opportunities. The home side were better today. The tactic of the home side was slow build up play, while the away team played long passes and crosses into the box."
+        }
+    ],
+    "gameAwayTeam": "Atl. Madrid",
+    "gameDate": "25/02/2015 - 22:45",
+    "gameHomeTeam": "Bayer Leverkusen",
+    "gameScore": "1 - 0"
+}

@@ -1,0 +1,370 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:18",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 47:51",
+            "label": "",
+            "description": "Rough tackle by Luka Modric (Real Madrid). The referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 46:00",
+            "label": "corner",
+            "description": "Real Madrid quickly take a corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 45:11",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) produces a dangerous lofted cross into the box which is intercepted. The ball goes out of play and Real Madrid have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 42:53",
+            "label": "",
+            "description": "Close! Luka Modric (Real Madrid) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 40:33",
+            "label": "soccer-ball",
+            "description": "Goal 3:0! Lucas laid the ball off to Cristiano Ronaldo (Real Madrid), who shot from close range low into the back of the net, leaving the goalkeeper helpless."
+        },
+        {
+            "gameTime": "2 - 37:41",
+            "label": "y-card",
+            "description": "Stefan Savic (Atl. Madrid) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "2 - 35:45",
+            "label": "",
+            "description": "Lucas (Real Madrid) takes a first time shot from inside the box, but his poor effort flies way wide of the right post."
+        },
+        {
+            "gameTime": "2 - 31:59",
+            "label": "substitution",
+            "description": "Today's match ends for Karim Benzema who will be replaced by Lucas (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 27:54",
+            "label": "soccer-ball",
+            "description": "Goal! That was a fantastic finish by Cristiano Ronaldo (Real Madrid) from just outside the box. He wasted little time in getting away a bullet of a shot that flew past the goalkeeper into the left side of the net."
+        },
+        {
+            "gameTime": "2 - 26:31",
+            "label": "",
+            "description": "Stefan Savic (Atl. Madrid) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 23:58",
+            "label": "",
+            "description": "Filipe Luis (Atl. Madrid) makes a reckless foul in order to win the ball from his opponent. Martin Atkinson has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 22:40",
+            "label": "substitution",
+            "description": "Diego Simeone decides to make a substitution. Yannick Carrasco will be replaced by Angel Correa (Atl. Madrid)."
+        },
+        {
+            "gameTime": "2 - 22:05",
+            "label": "substitution",
+            "description": "Isco will be replaced by Marco Asensio (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 17:31",
+            "label": "",
+            "description": "Antoine Griezmann (Atl. Madrid) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "gameTime": "2 - 15:14",
+            "label": "funfact",
+            "description": "8:1 the latest stats for both teams in respect of shots on target."
+        },
+        {
+            "gameTime": "2 - 14:37",
+            "label": "",
+            "description": "Koke (Atl. Madrid) unleashes a shot from 25 metres out but is unable to find the target and it goes well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 12:34",
+            "label": "substitution",
+            "description": "Diego Simeone has decided to make a change. Nicolas Gaitan (Atl. Madrid) replaces Saul Niguez."
+        },
+        {
+            "gameTime": "2 - 11:53",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Kevin Gameiro as he is replaced by Fernando Torres (Atl. Madrid)."
+        },
+        {
+            "gameTime": "2 - 11:40",
+            "label": "",
+            "description": "Yannick Carrasco (Atl. Madrid) gets the ball and drives a shot high over the bar from the edge of the area."
+        },
+        {
+            "gameTime": "2 - 07:30",
+            "label": "y-card",
+            "description": "Martin Atkinson shows a yellow card to Saul Niguez (Atl. Madrid) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 06:09",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 05:37",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 04:43",
+            "label": "",
+            "description": "Sergio Ramos (Real Madrid) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "2 - 02:51",
+            "label": "y-card",
+            "description": "Martin Atkinson shows the yellow card to Isco (Real Madrid) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 02:00",
+            "label": "",
+            "description": "Referee Martin Atkinson sees the trip by Stefan Savic (Atl. Madrid) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Zinedine Zidane is forced to make a change. Daniel Carvajal is unable to continue due to injury, Nacho (Real Madrid) comes on."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 47:04",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:39",
+            "label": "injury",
+            "description": "Looks like Daniel Carvajal (Real Madrid) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:28",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "1 - 44:08",
+            "label": "",
+            "description": "Marcelo (Real Madrid) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag and Real Madrid will take a corner."
+        },
+        {
+            "gameTime": "1 - 42:23",
+            "label": "",
+            "description": "Casemiro (Real Madrid) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 40:23",
+            "label": "injury",
+            "description": "The game is interrupted now, Casemiro (Real Madrid) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 39:50",
+            "label": "corner",
+            "description": "Koke (Atl. Madrid) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 39:22",
+            "label": "corner",
+            "description": "Koke (Atl. Madrid) takes the corner which is cleared by the opposition's defence. The ball is out of play. Atl. Madrid will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 38:58",
+            "label": "",
+            "description": "Yannick Carrasco (Atl. Madrid) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The linesman makes the right call and Atl. Madrid will have a corner."
+        },
+        {
+            "gameTime": "1 - 35:36",
+            "label": "",
+            "description": "The referee blows his whistle as Lucas (Atl. Madrid) was too aggressive in his challenge."
+        },
+        {
+            "gameTime": "1 - 31:29",
+            "label": "",
+            "description": "Diego Godin (Atl. Madrid) wastes a huge opportunity after receiving a fine cross from the free kick, but his close range shot goes well over the crossbar."
+        },
+        {
+            "gameTime": "1 - 30:20",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) trips an opposition player and Martin Atkinson signals a foul. A free kick has been awarded to Atl. Madrid."
+        },
+        {
+            "gameTime": "1 - 28:18",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) missed a big chance! He produces a stunning volley from inside the box, but his effort goes not far wide of the right post."
+        },
+        {
+            "gameTime": "1 - 25:50",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Koke (Atl. Madrid). Martin Atkinson doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 23:41",
+            "label": "",
+            "description": "Luka Modric (Real Madrid) strikes a shot towards goal from the edge of the penalty box, but it flies just wide of the left post."
+        },
+        {
+            "gameTime": "1 - 21:46",
+            "label": "corner",
+            "description": "Koke (Atl. Madrid) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "1 - 21:14",
+            "label": "",
+            "description": "Koke (Atl. Madrid) sends over a free kick from long range but the defence is alert. Atl. Madrid will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 20:38",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) fouls an opponent. At least that's what referee Martin Atkinson signals. Atl. Madrid have a free kick."
+        },
+        {
+            "gameTime": "1 - 17:56",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "1 - 17:17",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) tries to send a pass but it's blocked. Real Madrid have a corner."
+        },
+        {
+            "gameTime": "1 - 16:50",
+            "label": "",
+            "description": "Keylor Navas displays his ability to read the game and clears the danger after Kevin Gameiro (Atl. Madrid) threatened to latch onto a through ball from just outside the box."
+        },
+        {
+            "gameTime": "1 - 16:37",
+            "label": "",
+            "description": "Isco (Real Madrid) unleashes a shot from the edge of the box, but it goes straight at Jan Oblak."
+        },
+        {
+            "gameTime": "1 - 16:11",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "1 - 15:44",
+            "label": "",
+            "description": "Raphael Varane (Real Madrid) jumps inside the box to meet the corner and aims a header towards the right post, but the goalkeeper pulls off an astonishing save to deny him. The referee and one of his assistants signal for a corner kick to Real Madrid."
+        },
+        {
+            "gameTime": "1 - 15:12",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) is about to take a corner kick."
+        },
+        {
+            "gameTime": "1 - 14:58",
+            "label": "",
+            "description": "Marcelo (Real Madrid) sends a cross into the box, but the opposition's defence clears the ball to safety. Good work from Real Madrid as they win a corner."
+        },
+        {
+            "gameTime": "1 - 14:28",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "1 - 14:09",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) crosses the ball into the box, but one of the defending players averts the threat. Real Madrid earn a corner."
+        },
+        {
+            "gameTime": "1 - 09:31",
+            "label": "soccer-ball",
+            "description": "Cristiano Ronaldo (Real Madrid) finds some space inside the box and scores with a crashing header low into the middle of the net, giving the goalkeeper no chance."
+        },
+        {
+            "gameTime": "1 - 08:58",
+            "label": "corner",
+            "description": "The corner from Toni Kroos (Real Madrid) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 08:13",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "gameTime": "1 - 07:46",
+            "label": "",
+            "description": "Martin Atkinson blows his whistle. Lucas (Atl. Madrid) commits a foul after dangerous play. There is a free kick near the sideline to Real Madrid."
+        },
+        {
+            "gameTime": "1 - 06:40",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 06:20",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Jan Oblak guesses his intention and denies him with a fine save. The referee blows his whistle, Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 03:24",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) collects a pass and strikes from about 24 metres out. It's a poor attempt which flies well over the bar."
+        },
+        {
+            "gameTime": "1 - 01:06",
+            "label": "",
+            "description": "Antoine Griezmann (Atl. Madrid) shows too much aggression during an attacking move and ends up fouling his opponent."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Atl. Madrid will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Martin Atkinson will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        }
+    ],
+    "gameAwayTeam": "Atl. Madrid",
+    "gameDate": "02/05/2017 - 21:45",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 0"
+}

@@ -1,0 +1,420 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:06",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 49:39",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by James Rodriguez (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 49:21",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 48:59",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 48:33",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) works the corner short."
+        },
+        {
+            "gameTime": "2 - 47:29",
+            "label": "injury",
+            "description": "Looks like Marco Asensio (Real Madrid) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "2 - 46:55",
+            "label": "y-card",
+            "description": "Akram Afif (Gijon) is punished with the yellow card."
+        },
+        {
+            "gameTime": "2 - 46:52",
+            "label": "substitution",
+            "description": "Joan Rubi has decided to substitute Sergio Alvarez and he is replaced by Akram Afif (Gijon)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:55",
+            "label": "soccer-ball",
+            "description": "Isco (Real Madrid) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 43:50",
+            "label": "substitution",
+            "description": "Today's match ends for Mateo Kovacic who will be replaced by Casemiro (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 43:29",
+            "label": "y-card",
+            "description": "Alvaro Morata (Real Madrid) receives a yellow card for talking out of turn to the referee."
+        },
+        {
+            "gameTime": "2 - 42:56",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but James Rodriguez (Real Madrid) takes it short."
+        },
+        {
+            "gameTime": "2 - 42:42",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal. The ball is out of play and Real Madrid manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 41:23",
+            "label": "y-card",
+            "description": "Nacho Cases (Gijon) has tested the patience of referee David Fernandez Borbalan and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 40:37",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) fails to produce a decent enough free kick for a player of his ability and the only target that he finds is the wall of defenders in front of him."
+        },
+        {
+            "gameTime": "2 - 40:13",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) is going to send the ball in from the free kick."
+        },
+        {
+            "gameTime": "2 - 39:52",
+            "label": "",
+            "description": "David Fernandez Borbalan interrupts the game for a tactical foul by Dani Ndi (Gijon). Real Madrid win a free kick."
+        },
+        {
+            "gameTime": "2 - 37:41",
+            "label": "",
+            "description": "Sergio Ramos (Real Madrid) reacts well and displays good awareness inside the box to get on the end of the resulting corner kick. He fails to direct the ball into the net as it flies narrowly wide of the right post. The ball is off of the pitch and it's a goal kick for Gijon."
+        },
+        {
+            "gameTime": "2 - 37:24",
+            "label": "corner",
+            "description": "Isco (Real Madrid) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "2 - 37:09",
+            "label": "",
+            "description": "A lofted cross from James Rodriguez (Real Madrid) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. Real Madrid force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 35:57",
+            "label": "",
+            "description": "Mariano Diaz (Real Madrid) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar. The ball is off of the pitch and it's a goal kick for Gijon."
+        },
+        {
+            "gameTime": "2 - 35:55",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "2 - 35:48",
+            "label": "",
+            "description": "Marcelo (Real Madrid) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence. The referee blows his whistle, Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 33:57",
+            "label": "substitution",
+            "description": "Here is a change. Duje Cop is going off and Joan Rubi gives the last tactical orders to Dani Ndi (Gijon)."
+        },
+        {
+            "gameTime": "2 - 33:17",
+            "label": "y-card",
+            "description": "David Fernandez Borbalan shows a yellow card to Ismael Lopez Blanco (Gijon) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 31:01",
+            "label": "corner",
+            "description": "Carlos Carmona (Gijon) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "2 - 30:44",
+            "label": "",
+            "description": "Ismael Lopez Blanco (Gijon) races towards goal but the defender gets back well to make a challenge. The referee and one of his assistants signal for a corner kick to Gijon."
+        },
+        {
+            "gameTime": "2 - 28:31",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the left post. The ball goes out of play and Gijon will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 26:55",
+            "label": "corner",
+            "description": "Marco Asensio (Real Madrid) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 26:50",
+            "label": "",
+            "description": "Marcelo (Real Madrid) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. Real Madrid get a corner."
+        },
+        {
+            "gameTime": "2 - 26:31",
+            "label": "",
+            "description": "Danilo (Real Madrid) delivers a promising cross into the box, but it's cleared."
+        },
+        {
+            "gameTime": "2 - 25:31",
+            "label": "substitution",
+            "description": "Zinedine Zidane has decided to make a change. Mariano Diaz (Real Madrid) replaces Lucas."
+        },
+        {
+            "gameTime": "2 - 23:39",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Moi Gomez as he is replaced by Nacho Cases (Gijon)."
+        },
+        {
+            "gameTime": "2 - 23:15",
+            "label": "",
+            "description": "Isco (Real Madrid) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 21:52",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Marco Asensio (Real Madrid). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "gameTime": "2 - 21:31",
+            "label": "",
+            "description": "Marcelo (Real Madrid) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 18:33",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) is caught offside after the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 17:57",
+            "label": "corner",
+            "description": "Carlos Carmona (Gijon) launches a cross from the corner, but Francisco Casilla is alert to thwart the effort."
+        },
+        {
+            "gameTime": "2 - 17:27",
+            "label": "",
+            "description": "Ismael Lopez Blanco (Gijon) creates a good chance for himself and goes for goal from mid range, but he misses the right post by a whisker. The ball goes out of play and Real Madrid will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 16:55",
+            "label": "",
+            "description": "What a chance that is! Danilo (Real Madrid) displays good awareness near the penalty spot to get on the end of a cross from the free kick, but he steers his header narrowly wide of the left post. The ball goes out of play and Gijon will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 16:46",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) will take the free kick."
+        },
+        {
+            "gameTime": "2 - 15:50",
+            "label": "y-card",
+            "description": "Lillo Castellano (Gijon) is booked after bringing down an opponent. David Fernandez Borbalan had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 15:03",
+            "label": "attendance",
+            "description": "The attendance is 23745."
+        },
+        {
+            "gameTime": "2 - 13:36",
+            "label": "soccer-ball",
+            "description": "A perfect lofted pass from Danilo finds Alvaro Morata (Real Madrid), who jumps highest and steers a close range header straight into the bottom right corner. His effort was both strong and precise, and Ivan Cuellar had no chance of stopping that. 2:2."
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) clips a neat ball into the box in the direction of Alvaro Morata, but he can't get on the end of the pass."
+        },
+        {
+            "gameTime": "2 - 11:56",
+            "label": "substitution",
+            "description": "Zinedine Zidane has decided to introduce fresh legs, with Marcelo (Real Madrid) replacing Fabio Coentrao."
+        },
+        {
+            "gameTime": "2 - 11:14",
+            "label": "",
+            "description": "Lucas (Real Madrid) swings a cross into the box, but it's far too close to Ivan Cuellar, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 10:06",
+            "label": "",
+            "description": "Mateo Kovacic (Real Madrid) sends a long ball forward to Isco, but he put too much power and the chance is gone."
+        },
+        {
+            "gameTime": "2 - 08:13",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Ivan Cuellar pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "2 - 04:26",
+            "label": "soccer-ball",
+            "description": "Goal! Mikel Vesga (Gijon) meets a headed pass from Jean Sylvain Babin and puts the ball into the net with a powerful header. He makes it 2:1."
+        },
+        {
+            "gameTime": "2 - 02:53",
+            "label": "",
+            "description": "Nacho (Real Madrid) wasted a big chance to finish after the resulting free kick! He latched on to a well placed cross deep inside the box and produced a fine header towards the net!"
+        },
+        {
+            "gameTime": "2 - 01:57",
+            "label": "",
+            "description": "Moi Gomez (Gijon) gives away a foul for a clumsy challenge. Referee David Fernandez Borbalan saw the whole situation. Real Madrid are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 44:59",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 43:46",
+            "label": "corner",
+            "description": "The resulting corner from James Rodriguez (Real Madrid) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "1 - 43:29",
+            "label": "",
+            "description": "So close! James Rodriguez (Real Madrid) delivers a cross into the box, it almost finds the head of one of his teammates, but one of the defenders is quickest to the ball and coolly deals with the threat. Real Madrid will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 42:39",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) will take a free kick. Is he going to strike the ball directly at the goal? Let's find out!"
+        },
+        {
+            "gameTime": "1 - 42:27",
+            "label": "",
+            "description": "Ismael Lopez Blanco (Gijon) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision! Real Madrid will take a free kick."
+        },
+        {
+            "gameTime": "1 - 41:03",
+            "label": "",
+            "description": "Fabio Coentrao (Real Madrid) tries to find James Rodriguez, but he puts too much power on the pass."
+        },
+        {
+            "gameTime": "1 - 38:42",
+            "label": "corner",
+            "description": "Francisco Casilla leaps to intercept the corner kick from Carlos Carmona (Gijon)."
+        },
+        {
+            "gameTime": "1 - 36:11",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) was all set to receive a beautiful pass into a promising position. However, one of the defenders makes a timely clearance."
+        },
+        {
+            "gameTime": "1 - 33:12",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Sergio Alvarez (Gijon) was quite harsh and David Fernandez Borbalan didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 28:51",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) fails to beat the offside trap. The flag goes up and the referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 26:29",
+            "label": "",
+            "description": "Lucas (Real Madrid) climbs high to connect with a cross near the penalty spot but plants a header high over the bar. The ball is off of the pitch and it's a goal kick for Gijon."
+        },
+        {
+            "gameTime": "1 - 25:30",
+            "label": "corner",
+            "description": "Carlos Carmona (Gijon) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "1 - 23:00",
+            "label": "",
+            "description": "Fabio Coentrao (Real Madrid) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "gameTime": "1 - 19:07",
+            "label": "",
+            "description": "What a chance that is! Lillo Castellano (Gijon) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 16:29",
+            "label": "soccer-ball",
+            "description": "Isco (Real Madrid) jinks his way past a couple of defenders and unleashes a bullet of a strike that goes into the top left corner."
+        },
+        {
+            "gameTime": "1 - 13:12",
+            "label": "soccer-ball",
+            "description": "Duje Cop (Gijon) meets a perfect cross from Mikel Vesga deep inside the box and controls it with a nice first touch. He produces an accurate strike into the bottom left corner. The score is 1:0."
+        },
+        {
+            "gameTime": "1 - 12:34",
+            "label": "",
+            "description": "What a chance! Lucas (Real Madrid) squanders a promising opportunity as he latches on to a perfect cross from the wing. He produces a bullet header from around the penalty spot which goes just wide of the right post! The ball goes out of play and Gijon will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 07:25",
+            "label": "",
+            "description": "CHANCE! Carlos Carmona (Gijon) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 06:05",
+            "label": "",
+            "description": "A cross is whipped into the box by Danilo (Real Madrid) and Lucas controls it well. He lines up the ball, but one of the defenders produces a timely intervention."
+        },
+        {
+            "gameTime": "1 - 02:45",
+            "label": "",
+            "description": "Lucas (Real Madrid) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's referee will be David Fernandez Borbalan."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid are unbeaten over their past 8 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "9 that's the number of matches that Gijon have lost at home so far this season, while they have lost 9x away."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "15/04/2017 - 17:15",
+    "gameHomeTeam": "Gijon",
+    "gameScore": "2 - 3"
+}

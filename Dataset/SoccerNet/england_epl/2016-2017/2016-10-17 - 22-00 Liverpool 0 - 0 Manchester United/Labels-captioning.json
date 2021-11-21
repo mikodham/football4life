@@ -1,0 +1,460 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2016-10-17 - 22-00 Liverpool 0 - 0 Manchester United/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. Both teams tried unsuccessfully to control the game. Their overall performances were more or less even. The home team tried to prevail using combination football, while the away side adopted a defensive style of play."
+        },
+        {
+            "gameTime": "2 - 48:09",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 46:51",
+            "label": "substitution",
+            "description": "Here's the change. Ashley Young leaves the pitch and Luke Shaw (Manchester United) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 45:19",
+            "label": "y-card",
+            "description": "Marouane Fellaini (Manchester United) gets booked for the first time in this match."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 44:38",
+            "label": "y-card",
+            "description": "Zlatan Ibrahimovic (Manchester United) is booked after bringing down an opponent. Anthony Taylor had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 40:36",
+            "label": "substitution",
+            "description": "Jurgen Klopp prepares a substitution. James Milner is replaced by Alberto Moreno (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 39:56",
+            "label": "substitution",
+            "description": "Substitution. Roberto Firmino will be replaced by Divock Origi (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 38:23",
+            "label": "",
+            "description": "Roberto Firmino nearly gets in a one on one with the goalkeeper after a defence splitting pass from Philippe Coutinho (Liverpool), but one of the defenders makes a clearance to snuff out the chance."
+        },
+        {
+            "gameTime": "2 - 37:41",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 36:01",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) connects with the corner kick around the penalty spot, but steers his header just wide of the right post."
+        },
+        {
+            "gameTime": "2 - 35:49",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "2 - 35:30",
+            "label": "",
+            "description": "Antonio Valencia (Manchester United) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out. Manchester United force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 34:51",
+            "label": "funfact",
+            "description": "65:35 \u2013 this is the current ball possession ratio."
+        },
+        {
+            "gameTime": "2 - 32:49",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Nathaniel Clyne (Liverpool). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "gameTime": "2 - 31:54",
+            "label": "substitution",
+            "description": "Jose Mourinho has decided to introduce fresh legs, with Wayne Rooney (Manchester United) replacing Marcus Rashford."
+        },
+        {
+            "gameTime": "2 - 31:31",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 30:38",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) is caught offside, but it was a really close call."
+        },
+        {
+            "gameTime": "2 - 30:14",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "gameTime": "2 - 29:40",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "gameTime": "2 - 27:43",
+            "label": "",
+            "description": "James Milner (Liverpool) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "2 - 26:56",
+            "label": "injury",
+            "description": "James Milner (Liverpool) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "2 - 26:39",
+            "label": "corner",
+            "description": "Philippe Coutinho (Liverpool) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 25:58",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) receives a pass and tries his luck with a shot from 28 metres out. David de Gea pulls off a decent save to stop the effort going into the top right corner. The referee points to the corner flag and Liverpool will take a corner."
+        },
+        {
+            "gameTime": "2 - 23:25",
+            "label": "",
+            "description": "Daley Blind (Manchester United) was too fierce in his attempt to get the ball from his opponent and Anthony Taylor blows for a foul."
+        },
+        {
+            "gameTime": "2 - 22:45",
+            "label": "",
+            "description": "Anthony Taylor couldn't ignore the rough tackle by James Milner (Liverpool) and blew his whistle."
+        },
+        {
+            "gameTime": "2 - 21:18",
+            "label": "",
+            "description": "The foul by Roberto Firmino (Liverpool) was seen by Anthony Taylor who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 21:06",
+            "label": "corner",
+            "description": "James Milner (Liverpool) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 20:38",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) and Adam Lallana attempt to exchange short two yard passes, but the opposition's defence intercepts the ball. The ball goes out for a corner. Liverpool can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 17:39",
+            "label": "",
+            "description": "Anthony Taylor blows his whistle as Philippe Coutinho (Liverpool) used excessive force in the tackle during an attack."
+        },
+        {
+            "gameTime": "2 - 16:46",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post."
+        },
+        {
+            "gameTime": "2 - 16:32",
+            "label": "",
+            "description": "Paul Pogba (Manchester United) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "gameTime": "2 - 15:50",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 14:52",
+            "label": "",
+            "description": "Emre Can (Liverpool) makes a reckless foul in order to win the ball from his opponent. Anthony Taylor has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 14:20",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Adam Lallana (Liverpool) coming on for Daniel Sturridge."
+        },
+        {
+            "gameTime": "2 - 13:17",
+            "label": "",
+            "description": "David de Gea pulls off a great save to deny Emre Can (Liverpool), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 12:14",
+            "label": "",
+            "description": "The free kick from Philippe Coutinho (Liverpool) failed to provide any scoring opportunity, as one of the defenders did a good job and knocked it out."
+        },
+        {
+            "gameTime": "2 - 11:31",
+            "label": "",
+            "description": "Anthony Taylor blows his whistle and signals a foul after Ander Herrera (Manchester United) brought his opponent down. A free kick to Liverpool."
+        },
+        {
+            "gameTime": "2 - 09:18",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) meets a cross from Paul Pogba, but he cannot keep his header on target. It goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 08:30",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 07:09",
+            "label": "",
+            "description": "Ander Herrera (Manchester United) fails to pick a body out in the box with an over hit chip pass."
+        },
+        {
+            "gameTime": "2 - 05:46",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) commits a foul and Anthony Taylor immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 05:03",
+            "label": "",
+            "description": "Daniel Sturridge (Liverpool) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "gameTime": "2 - 03:42",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) is caught offside by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "gameTime": "2 - 01:25",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Antonio Valencia (Manchester United), is intercepted by the opposition's defence."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Although it hasn't been the most inspiring of performances so far, both teams have had their moments, and we might very well witness some thrilling football in the second half. Neither side is enjoying any significant control of the game. Both sides are using combination football to try and gain the upper hand."
+        },
+        {
+            "gameTime": "1 - 46:17",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 45:50",
+            "label": "y-card",
+            "description": "Ashley Young (Manchester United) kept talking out of turn to the referee until Anthony Taylor lost patience and pulled out a yellow card."
+        },
+        {
+            "gameTime": "1 - 45:45",
+            "label": "",
+            "description": "Jordan Henderson (Liverpool) brings down his opponent with a very late tackle."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:50",
+            "label": "",
+            "description": "Flag goes up against Marcus Rashford (Manchester United) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 44:11",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) whips a long ball in from the free kick which is intercepted by David de Gea."
+        },
+        {
+            "gameTime": "1 - 43:38",
+            "label": "y-card",
+            "description": "The foul by Eric Bertrand Bailly (Manchester United) is worthy of a card and a yellow is duly shown by Anthony Taylor."
+        },
+        {
+            "gameTime": "1 - 36:02",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 35:39",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) unleashes a powerful shot towards goal, but it is bravely blocked by a self sacrificing defender."
+        },
+        {
+            "gameTime": "1 - 34:57",
+            "label": "corner",
+            "description": "The resulting corner from Jordan Henderson (Liverpool) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "1 - 34:28",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes behind for a corner. Liverpool will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 32:02",
+            "label": "",
+            "description": "James Milner (Liverpool) whips a long ball in from the free kick which is intercepted by David de Gea."
+        },
+        {
+            "gameTime": "1 - 30:05",
+            "label": "",
+            "description": "A clumsy foul by Antonio Valencia (Manchester United) and Anthony Taylor blows his whistle."
+        },
+        {
+            "gameTime": "1 - 29:16",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by David de Gea. This effort really didn't trouble him."
+        },
+        {
+            "gameTime": "1 - 28:40",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "gameTime": "1 - 25:47",
+            "label": "",
+            "description": "Ander Herrera (Manchester United) is penalised after knocking an opponent down."
+        },
+        {
+            "gameTime": "1 - 24:46",
+            "label": "",
+            "description": "A pass from Marcus Rashford (Manchester United) is intercepted by Loris Karius and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 23:40",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) should know this behaviour is beyond the rules. He was too careless with his challenge and left Anthony Taylor no option but to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 22:35",
+            "label": "",
+            "description": "Emre Can (Liverpool) receives a pass and tries his luck with a long range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar."
+        },
+        {
+            "gameTime": "1 - 21:04",
+            "label": "",
+            "description": "Good movement by Daley Blind (Manchester United), but he can't find any of his teammates as the cross is poor."
+        },
+        {
+            "gameTime": "1 - 17:13",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) receives a pass and tries his luck with a shot from 20 metres out. Loris Karius pulls off a comfortable save to stop the effort going into the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 16:42",
+            "label": "",
+            "description": "Anthony Taylor blows his whistle for a foul after Philippe Coutinho (Liverpool) hacks down one of his opponents."
+        },
+        {
+            "gameTime": "1 - 15:26",
+            "label": "",
+            "description": "Paul Pogba (Manchester United) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 13:54",
+            "label": "",
+            "description": "Paul Pogba (Manchester United) collects a pass and strikes from about 35 metres out. It's a poor attempt which flies well over the bar."
+        },
+        {
+            "gameTime": "1 - 11:00",
+            "label": "",
+            "description": "The linesman raises his flag. Marouane Fellaini (Manchester United) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 10:24",
+            "label": "",
+            "description": "Dejan Lovren (Liverpool) brings his opponent down. Anthony Taylor has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 08:55",
+            "label": "",
+            "description": "A pass by James Milner (Liverpool) ends up in no man's land, and the attacking effort comes to an end. The ball goes out of play and Manchester United will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 07:19",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "gameTime": "1 - 05:59",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Manchester United) strikes the ball harmlessly from a long range free kick and it goes high over the bar. It's not easy to score from a distance like that."
+        },
+        {
+            "gameTime": "1 - 05:26",
+            "label": "",
+            "description": "Joel Matip (Liverpool) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. That's a free kick to Manchester United."
+        },
+        {
+            "gameTime": "1 - 03:32",
+            "label": "",
+            "description": "Daniel Sturridge (Liverpool) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 01:29",
+            "label": "",
+            "description": "Marcus Rashford (Manchester United) jumps into a tackle and Anthony Taylor blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Manchester United will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Anthony Taylor got the nomination for today's game and will try his best to be a fair judge and not make any mistakes."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Manchester United scored at least one goal in each of their last 13 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The top scorer of Manchester United is Zlatan Ibrahimovic with 8 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Liverpool haven't lost in their last 11 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "8 The number of away wins for Liverpool."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sadio Mane have rippled the net 7x and is the top scorer for Liverpool this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. Both teams tried unsuccessfully to control the game. Their overall performances were more or less even. The home team tried to prevail using combination football, while the away side adopted a defensive style of play."
+        }
+    ],
+    "gameAwayTeam": "Manchester United",
+    "gameDate": "17/10/2016 - 22:00",
+    "gameHomeTeam": "Liverpool",
+    "gameScore": "0 - 0"
+}

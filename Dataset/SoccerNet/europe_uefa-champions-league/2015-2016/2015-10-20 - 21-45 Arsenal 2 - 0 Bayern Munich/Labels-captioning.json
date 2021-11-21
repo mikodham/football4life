@@ -1,0 +1,535 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "The players of both teams deserve praise from their managers and supporters for their performance on the pitch. If they carry on playing this exciting brand of football in future games, then the fans will surely be right behind them. A very even game was seen on the pitch today. The hosts defended well and were deadly on the counter attack. The away side displayed some nice build up play using a lot of passes."
+        },
+        {
+            "gameTime": "2 - 49:27",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 48:14",
+            "label": "soccer-ball",
+            "description": "Goal! Hector Bellerin displays great vision and sends a pass to Mesut Ozil (Arsenal), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 2:0."
+        },
+        {
+            "gameTime": "2 - 47:45",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:57",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) tries his luck with a long range effort after receiving a precise pass, but Petr Cech has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 43:27",
+            "label": "",
+            "description": "Alex Oxlade Chamberlain (Arsenal) is caught offside!"
+        },
+        {
+            "gameTime": "2 - 42:16",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Joshua Kimmich (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 42:01",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) swings in a cross from the corner, but Petr Cech reads it well and gathers the ball. The referee blows his whistle, Bayern Munich are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 41:06",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) sends a lofted cross into the box which is headed clear. The referee and his assistant both point at the corner flag. Bayern Munich will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 39:03",
+            "label": "",
+            "description": "This shall not pass! Douglas Costa (Bayern Munich) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 38:19",
+            "label": "y-card",
+            "description": "Olivier Giroud (Arsenal) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Cuneyt Cakir didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 37:54",
+            "label": "",
+            "description": "Olivier Giroud (Arsenal) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 37:36",
+            "label": "corner",
+            "description": "Santi Cazorla (Arsenal) is about to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 37:21",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) passes the ball into the box but an opposing player clears. The ball is out of play. Arsenal will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 36:59",
+            "label": "substitution",
+            "description": "Substitution. Alexis Sanchez is replaced by Kieran Gibbs (Arsenal)."
+        },
+        {
+            "gameTime": "2 - 35:57",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) sends in a lofted cross from a long range free kick, but his poor effort goes out of play. The ball goes out of play and Arsenal will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 35:46",
+            "label": "",
+            "description": "A free kick has been awarded to Bayern Munich."
+        },
+        {
+            "gameTime": "2 - 35:22",
+            "label": "",
+            "description": "The ball spins up and hits the hand of Olivier Giroud (Arsenal) after he fails to control it and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 31:54",
+            "label": "soccer-ball",
+            "description": "Goal! Olivier Giroud (Arsenal) is gifted a chance inside the box and makes no mistake putting the ball into the net with a fine header. 1:0."
+        },
+        {
+            "gameTime": "2 - 31:53",
+            "label": "",
+            "description": "Santi Cazorla (Arsenal) will take the free kick."
+        },
+        {
+            "gameTime": "2 - 31:52",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) gives away a foul for a clumsy challenge. Referee Cuneyt Cakir saw the whole situation. Arsenal earn a free kick."
+        },
+        {
+            "gameTime": "2 - 30:32",
+            "label": "",
+            "description": "That was close by Thomas Muller (Bayern Munich)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 29:41",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Joshua Kimmich (Bayern Munich) takes it short."
+        },
+        {
+            "gameTime": "2 - 29:16",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Petr Cech guesses his intention and denies him with a fine save. Bayern Munich have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 28:27",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Theo Walcott as he is replaced by Olivier Giroud (Arsenal)."
+        },
+        {
+            "gameTime": "2 - 26:59",
+            "label": "corner",
+            "description": "Santi Cazorla (Arsenal) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "2 - 26:51",
+            "label": "",
+            "description": "Alex Oxlade Chamberlain (Arsenal) looks to break free, but an opposing player clears the ball away. The ball goes behind for a corner. Arsenal will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 25:08",
+            "label": "substitution",
+            "description": "Pep Guardiola has decided to make a change. Rafinha (Bayern Munich) replaces Arturo Vidal."
+        },
+        {
+            "gameTime": "2 - 25:07",
+            "label": "substitution",
+            "description": "Xabi Alonso goes off the pitch and Joshua Kimmich (Bayern Munich) comes on."
+        },
+        {
+            "gameTime": "2 - 24:09",
+            "label": "",
+            "description": "The Bayern Munich players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "2 - 23:12",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Manuel Neuer."
+        },
+        {
+            "gameTime": "2 - 22:44",
+            "label": "funfact",
+            "description": "Total attempts \u2013 13:19."
+        },
+        {
+            "gameTime": "2 - 21:02",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) attempted to pick out a free teammate inside the box, but Manuel Neuer comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "2 - 18:30",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) brings his opponent down. Cuneyt Cakir has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 16:51",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball has crossed the sideline. Arsenal are taking a throw in."
+        },
+        {
+            "gameTime": "2 - 14:58",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self sacrificing defender. Xabi Alonso (Bayern Munich) gets the ball from a rebound and shoots from long range, but sends the ball miles wide of the left post. The goalkeeper doesn't have to worry about this one. Very poor attempt."
+        },
+        {
+            "gameTime": "2 - 13:21",
+            "label": "",
+            "description": "Francis Coquelin (Arsenal) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 11:37",
+            "label": "substitution",
+            "description": "Aaron Ramsey is being substituted because of an injury. Arsene Wenger sends Alex Oxlade Chamberlain (Arsenal) on the pitch."
+        },
+        {
+            "gameTime": "2 - 10:58",
+            "label": "injury",
+            "description": "Aaron Ramsey (Arsenal) picks up an injury."
+        },
+        {
+            "gameTime": "2 - 09:51",
+            "label": "corner",
+            "description": "Xabi Alonso (Bayern Munich) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 09:50",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) tries his luck with a low long range effort after receiving a precise pass, but Petr Cech has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 08:55",
+            "label": "",
+            "description": "Petr Cech gets a well deserved ovation! Robert Lewandowski (Bayern Munich) produces a decent first time strike towards the roof of the net, but the goalkeeper is positioned well to block it. Nice goalkeeping skills. The referee and one of his assistants signal for a corner kick to Bayern Munich."
+        },
+        {
+            "gameTime": "2 - 07:05",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "gameTime": "2 - 05:15",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) creates a good chance for himself and goes for goal from mid range, but it's just a bit too high and misses the bar by a whisker."
+        },
+        {
+            "gameTime": "2 - 03:57",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) receives a reproachful look from his teammates after he attempted to surprise the goalkeeper with a shot from long distance. The ball flew far wide of the right post."
+        },
+        {
+            "gameTime": "2 - 03:30",
+            "label": "",
+            "description": "Flag up against Theo Walcott (Arsenal). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 02:25",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) works the corner short."
+        },
+        {
+            "gameTime": "2 - 02:08",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) tries to send the ball in front of the goal, but the opposition's defence averts the threat. It will be a corner kick for Bayern Munich."
+        },
+        {
+            "gameTime": "2 - 01:30",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Both sides have been very active in the first half, providing the fans with an exciting show. It's difficult to say if one side enjoyed any superiority over the other in the first half. The home players attempt to beat the opposition's defence using mostly counter attacks. The away team tries to prevail using combination football."
+        },
+        {
+            "gameTime": "1 - 45:08",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 43:14",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 42:53",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 42:41",
+            "label": "corner",
+            "description": "Xabi Alonso (Bayern Munich) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety. Bayern Munich have a corner."
+        },
+        {
+            "gameTime": "1 - 41:52",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) is unlucky with a goal bound effort from the edge of the box. A brilliant save by Petr Cech stops the ball from going into the top of the net. Good work from Bayern Munich as they win a corner."
+        },
+        {
+            "gameTime": "1 - 40:59",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "gameTime": "1 - 40:47",
+            "label": "funfact",
+            "description": "The ball possession at the moment is 32:68."
+        },
+        {
+            "gameTime": "1 - 39:59",
+            "label": "",
+            "description": "Bayern Munich are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block."
+        },
+        {
+            "gameTime": "1 - 36:58",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) picks up a pass and hits the ball towards the bottom right corner, but he can't generate enough power to trouble Manuel Neuer."
+        },
+        {
+            "gameTime": "1 - 36:40",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Laurent Koscielny (Arsenal) heads on."
+        },
+        {
+            "gameTime": "1 - 36:32",
+            "label": "corner",
+            "description": "Santi Cazorla (Arsenal) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 35:17",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Now Arsenal have a corner."
+        },
+        {
+            "gameTime": "1 - 34:04",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) fails to beat the offside trap. The flag goes up and the referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 33:30",
+            "label": "",
+            "description": "The game is interrupted as Nacho Monreal (Arsenal) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 32:55",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) attempts to convert a lofted cross as he jumps high and heads the ball to the middle of the goal. Manuel Neuer shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net."
+        },
+        {
+            "gameTime": "1 - 30:09",
+            "label": "",
+            "description": "Alexis Sanchez (Arsenal) gets to the ball from the resulting corner but blazes it well over the bar."
+        },
+        {
+            "gameTime": "1 - 29:51",
+            "label": "corner",
+            "description": "Santi Cazorla (Arsenal) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "1 - 29:30",
+            "label": "",
+            "description": "Manuel Neuer (Bayern Munich) sends in a pass which fails to reach any of his teammates. The referee signals a corner kick to Arsenal."
+        },
+        {
+            "gameTime": "1 - 29:20",
+            "label": "",
+            "description": "Alexis Sanchez passes to Theo Walcott (Arsenal), but he produces a wild shot from the edge of the box which goes high over the bar."
+        },
+        {
+            "gameTime": "1 - 27:51",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) receives a low pass just outside the box and unleashes a fine strike towards the left post. Petr Cech pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "1 - 26:33",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) is able to continue to play."
+        },
+        {
+            "gameTime": "1 - 26:00",
+            "label": "injury",
+            "description": "Looks like Arturo Vidal (Bayern Munich) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "1 - 24:10",
+            "label": "",
+            "description": "That's a well taken pass by Robert Lewandowski (Bayern Munich). He unleashes a strike from the edge of the box, but blazes it high over the bar."
+        },
+        {
+            "gameTime": "1 - 22:07",
+            "label": "",
+            "description": "That didn't go as planned! Theo Walcott (Arsenal) tried his luck from the edge of the box, but his effort towards the middle of the goal was too weak to get past Manuel Neuer, who easily kept it out."
+        },
+        {
+            "gameTime": "1 - 21:26",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) fails to pick a body out in the box with an over hit cross to the back post. The ball is behind the touchline and Arsenal will take a throw in."
+        },
+        {
+            "gameTime": "1 - 19:57",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Santi Cazorla (Arsenal), was easily dealt with by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 19:33",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) makes an overly aggressive challenge and Cuneyt Cakir blows his whistle for a foul. Arsenal are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "gameTime": "1 - 19:13",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 18:30",
+            "label": "",
+            "description": "Nice individual effort by Douglas Costa (Bayern Munich). He gets all the way through to the keeper and hits a shot to the left side of the goal, but Petr Cech does a good job to anticipate the direction of the ball and keeps it out. Bayern Munich have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 15:42",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "1 - 15:25",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out of play and Bayern Munich have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 14:03",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) sends in a lofted cross from a mid range free kick. His effort, however, goes out of play. The ball is off of the pitch and it's a goal kick for Arsenal."
+        },
+        {
+            "gameTime": "1 - 13:45",
+            "label": "",
+            "description": "Laurent Koscielny (Arsenal) was too forceful with his tackle and Cuneyt Cakir interrupted the game to signal a free kick. That's a free kick to Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 13:05",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "1 - 12:59",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) creates a yard of space for himself and tries an effort from distance, but it's blocked. Bayern Munich get a corner."
+        },
+        {
+            "gameTime": "1 - 10:48",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) gets on the end of a pass and produces a promising first time shot at goal. His effort is blocked by Petr Cech with a brilliant diving save!"
+        },
+        {
+            "gameTime": "1 - 09:53",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Douglas Costa (Bayern Munich)."
+        },
+        {
+            "gameTime": "1 - 08:35",
+            "label": "",
+            "description": "Philipp Lahm (Bayern Munich) swings a cross into the box, but it's far too close to Petr Cech, who smothers the ball."
+        },
+        {
+            "gameTime": "1 - 07:29",
+            "label": "corner",
+            "description": "Santi Cazorla (Arsenal) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 07:18",
+            "label": "",
+            "description": "Theo Walcott (Arsenal) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The ball is out of play and the linesman points at the corner flag. Corner to Arsenal."
+        },
+        {
+            "gameTime": "1 - 06:47",
+            "label": "",
+            "description": "Mesut Ozil (Arsenal) latches on to a precise pass and finds himself one on one with the keeper. He fires a low shot towards the left side of the net, but Manuel Neuer leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "1 - 04:07",
+            "label": "corner",
+            "description": "The resulting corner, taken by Xabi Alonso (Bayern Munich), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 03:54",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The linesman points to the corner flag, Bayern Munich are going to take it."
+        },
+        {
+            "gameTime": "1 - 03:21",
+            "label": "",
+            "description": "Cuneyt Cakir interrupts the game for a tactical foul by Hector Bellerin (Arsenal)."
+        },
+        {
+            "gameTime": "1 - 02:29",
+            "label": "",
+            "description": "Hector Bellerin (Arsenal) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 00:58",
+            "label": "",
+            "description": "The referee blows his whistle as Juan Bernat (Bayern Munich) was too aggressive in his challenge."
+        },
+        {
+            "gameTime": "1 - 00:27",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Arsenal will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Cuneyt Cakir will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players of both teams deserve praise from their managers and supporters for their performance on the pitch. If they carry on playing this exciting brand of football in future games, then the fans will surely be right behind them. A very even game was seen on the pitch today. The hosts defended well and were deadly on the counter attack. The away side displayed some nice build up play using a lot of passes."
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "20/10/2015 - 21:45",
+    "gameHomeTeam": "Arsenal",
+    "gameScore": "2 - 0"
+}

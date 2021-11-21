@@ -1,0 +1,295 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/france_ligue-1/2016-2017/2017-04-14 - 21-45 Angers 0 - 2 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:07",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:14",
+            "label": "substitution",
+            "description": "Unai Emery Etxegoien prepares a substitution. Angel Di Maria is replaced by Goncalo Guedes (Paris SG)."
+        },
+        {
+            "gameTime": "2 - 41:31",
+            "label": "",
+            "description": "The players claim that Edinson Cavani (Paris SG) handled the ball and it seems they are right."
+        },
+        {
+            "gameTime": "2 - 38:40",
+            "label": "soccer-ball",
+            "description": "Angel Di Maria (Paris SG) has acres of space after latching on to a precise pass into the box. He doesn't hesitate to unleash a great effort which ends up in the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 36:13",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Kevin Berigaud (Angers) replaces Famara Diedhiou."
+        },
+        {
+            "gameTime": "2 - 34:57",
+            "label": "",
+            "description": "Referee Tony Chapron sees the trip by Baptiste Santamaria (Angers) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "2 - 32:53",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) handles the ball and everyone in the stadium shouts 'handball'."
+        },
+        {
+            "gameTime": "2 - 31:40",
+            "label": "substitution",
+            "description": "Unai Emery Etxegoien has decided to make a change. Thiago Motta (Paris SG) replaces Blaise Matuidi."
+        },
+        {
+            "gameTime": "2 - 30:43",
+            "label": "corner",
+            "description": "Thomas Mangani (Angers) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "2 - 30:39",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Jonathan Bamba (Angers) comes onto the pitch so that Nicolas Pepe can be given a rest."
+        },
+        {
+            "gameTime": "2 - 30:03",
+            "label": "",
+            "description": "Vincent Manceau (Angers) fails to find any of his teammates inside the box as his pass is blocked. Angers have a corner."
+        },
+        {
+            "gameTime": "2 - 28:03",
+            "label": "corner",
+            "description": "Thomas Mangani (Angers) swings in a cross from the corner, but Kevin Trapp reads it well and gathers the ball."
+        },
+        {
+            "gameTime": "2 - 27:49",
+            "label": "",
+            "description": "Karl Toko Ekambi (Angers) crosses the ball into the box, but one of the defending players averts the threat. Now Angers have a corner."
+        },
+        {
+            "gameTime": "2 - 26:37",
+            "label": "",
+            "description": "Thomas Mangani (Angers) decides to have a shot at goal from the free kick, but it hits the defensive wall."
+        },
+        {
+            "gameTime": "2 - 25:11",
+            "label": "",
+            "description": "Adrien Rabiot (Paris SG) probably handled the ball. Angers will take a free kick."
+        },
+        {
+            "gameTime": "2 - 24:18",
+            "label": "",
+            "description": "Marquinhos (Paris SG) brings his opponent down with a tackle and Tony Chapron blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 23:18",
+            "label": "substitution",
+            "description": "Substitution. Javier Pastore did his best and is replaced by Lucas (Paris SG)."
+        },
+        {
+            "gameTime": "2 - 21:09",
+            "label": "",
+            "description": "Baptiste Santamaria (Angers) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the right post!"
+        },
+        {
+            "gameTime": "2 - 16:24",
+            "label": "",
+            "description": "A clumsy foul by Marco Verratti (Paris SG) and Tony Chapron blows his whistle."
+        },
+        {
+            "gameTime": "2 - 14:54",
+            "label": "",
+            "description": "Thomas Mangani (Angers) tested Kevin Trapp with a strike from just outside the box, but the effort is saved."
+        },
+        {
+            "gameTime": "2 - 13:00",
+            "label": "y-card",
+            "description": "Famara Diedhiou (Angers) commits a nasty foul by bringing down his opponent."
+        },
+        {
+            "gameTime": "2 - 09:25",
+            "label": "corner",
+            "description": "Thomas Mangani (Angers) sends over a poor, overhit cross from the corner kick and the ball goes out of play."
+        },
+        {
+            "gameTime": "2 - 09:05",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Cheikh N'Doye (Angers), is intercepted by the opposition's defence. Angers force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 07:19",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) makes a slide tackle, but referee Tony Chapron blows for a foul."
+        },
+        {
+            "gameTime": "2 - 06:29",
+            "label": "",
+            "description": "Famara Diedhiou (Angers) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards over the bar."
+        },
+        {
+            "gameTime": "2 - 06:05",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) sends a cross into the box, but the opposition's defence quickly intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 01:41",
+            "label": "",
+            "description": "Cheikh N'Doye (Angers) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half gets underway."
+        },
+        {
+            "gameTime": "1 - 46:03",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 43:54",
+            "label": "",
+            "description": "Tony Chapron blows the whistle, Famara Diedhiou (Angers) is penalised for a foul."
+        },
+        {
+            "gameTime": "1 - 42:53",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 41:15",
+            "label": "",
+            "description": "Goal disallowed! Karl Toko Ekambi (Angers) scores but Tony Chapron blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 37:08",
+            "label": "",
+            "description": "Baptiste Santamaria (Angers) is unlucky with a goal bound effort from the edge of the box. Some classy goalkeeping by Kevin Trapp stops the ball out of the bottom right corner."
+        },
+        {
+            "gameTime": "1 - 35:00",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar."
+        },
+        {
+            "gameTime": "1 - 32:20",
+            "label": "",
+            "description": "Karl Toko Ekambi (Angers) unleashes a shot, but his effort is poor and floats high over the bar."
+        },
+        {
+            "gameTime": "1 - 27:54",
+            "label": "soccer-ball",
+            "description": "Brilliant goal! Angel Di Maria (Paris SG) gets on the scoresheet with a perfectly taken free kick. The ball goes inside the right post."
+        },
+        {
+            "gameTime": "1 - 26:53",
+            "label": "",
+            "description": "Thomas Mangani (Angers) brings his opponent down. Tony Chapron has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 26:11",
+            "label": "",
+            "description": "Cheikh N'Doye (Angers) jumps for a cross and produces a fine header from near the penalty spot, but it goes narrowly wide of the left post!"
+        },
+        {
+            "gameTime": "1 - 21:54",
+            "label": "",
+            "description": "Foul! Cheikh N'Doye (Angers) is penalised for pulling back his opponent."
+        },
+        {
+            "gameTime": "1 - 17:54",
+            "label": "",
+            "description": "Famara Diedhiou (Angers) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation."
+        },
+        {
+            "gameTime": "1 - 17:16",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) brings an opponent down and Tony Chapron interrupts the game."
+        },
+        {
+            "gameTime": "1 - 16:29",
+            "label": "",
+            "description": "It looked like the long range shot by Angel Di Maria (Paris SG) would end up in the net, but the effort went painfully wide of the left post. The goalkeeper was quite lucky this time."
+        },
+        {
+            "gameTime": "1 - 11:58",
+            "label": "y-card",
+            "description": "Tony Chapron shows a yellow card to Romain Thomas (Angers) for his blatant foul."
+        },
+        {
+            "gameTime": "1 - 11:57",
+            "label": "y-card",
+            "description": "The referee can't ignore those comments and Marco Verratti (Paris SG) sees a yellow card for bad language."
+        },
+        {
+            "gameTime": "1 - 11:41",
+            "label": "corner",
+            "description": "The goalkeeper punched the ball away after Thomas Mangani (Angers) took the corner."
+        },
+        {
+            "gameTime": "1 - 11:03",
+            "label": "corner",
+            "description": "Angers didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat. The linesman points to the corner flag, Angers are going to take it."
+        },
+        {
+            "gameTime": "1 - 10:10",
+            "label": "",
+            "description": "Nicolas Pepe (Angers) shoots from the edge of the penalty area. The ball travels towards the target, but Kevin Trapp easily deals with the threat. Angers win a corner."
+        },
+        {
+            "gameTime": "1 - 09:01",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 08:28",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The referee and his assistant both point at the corner flag. Paris SG will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 07:29",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) is caught offside after the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 05:07",
+            "label": "",
+            "description": "Paris SG seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Tony Chapron got the nomination for today's game and will try his best to be a fair judge and not make any mistakes."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "14/04/2017 - 21:45",
+    "gameHomeTeam": "Angers",
+    "gameScore": "0 - 2"
+}

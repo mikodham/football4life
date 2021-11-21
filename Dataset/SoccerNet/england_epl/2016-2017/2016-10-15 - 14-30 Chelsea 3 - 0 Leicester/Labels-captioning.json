@@ -1,0 +1,535 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. Chelsea were better today and displayed masterful control and movement. The tactic of the home side was slow build up play and the away side was creating their opportunities using lightning fast counter attacks."
+        },
+        {
+            "gameTime": "2 - 48:02",
+            "label": "whistle",
+            "description": "That's it for today, Andre Marriner has blown his whistle and the game is over."
+        },
+        {
+            "gameTime": "2 - 46:30",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) tries to take the opposition by surprise with a quick free kick into the box."
+        },
+        {
+            "gameTime": "2 - 46:20",
+            "label": "",
+            "description": "Marcos Alonso (Chelsea) is penalised for holding. Andre Marriner signals a set piece. Leicester have a free kick."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:20",
+            "label": "",
+            "description": "Excellent touch by Marcos Alonso (Chelsea)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post."
+        },
+        {
+            "gameTime": "2 - 43:37",
+            "label": "",
+            "description": "Luis Hernandez (Leicester) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "gameTime": "2 - 42:54",
+            "label": "funfact",
+            "description": "6:0 \u2013 this is the current number of shots on target."
+        },
+        {
+            "gameTime": "2 - 40:13",
+            "label": "",
+            "description": "Christian Fuchs (Leicester) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "gameTime": "2 - 40:01",
+            "label": "corner",
+            "description": "Riyad Mahrez (Leicester) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "2 - 39:42",
+            "label": "corner",
+            "description": "Riyad Mahrez (Leicester) floats the ball in from the corner but it's intercepted. Leicester have a corner."
+        },
+        {
+            "gameTime": "2 - 39:24",
+            "label": "",
+            "description": "Daniel Drinkwater (Leicester) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The linesman makes the right call and Leicester will have a corner."
+        },
+        {
+            "gameTime": "2 - 38:44",
+            "label": "",
+            "description": "Christian Fuchs (Leicester) serves up a nice cross, but Thibaut Courtois punches the ball away."
+        },
+        {
+            "gameTime": "2 - 37:35",
+            "label": "",
+            "description": "Andy King (Leicester) latches on to a precise pass and one on one with the keeper slams the ball towards the right hand post. Thibaut Courtois is alert, though, and leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "2 - 36:41",
+            "label": "substitution",
+            "description": "Substitution. Ola Aina (Chelsea) has come on for Victor Moses."
+        },
+        {
+            "gameTime": "2 - 36:25",
+            "label": "substitution",
+            "description": "Antonio Conte has decided to substitute Eden Hazard and he is replaced by Ruben Loftus Cheek (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 34:49",
+            "label": "soccer-ball",
+            "description": "Goal! Nathaniel Chalobah plays in Victor Moses (Chelsea), who shows great determination to get to the ball before a couple of defenders. He shoots from inside the box into the right side of the net! Great finish 3:0."
+        },
+        {
+            "gameTime": "2 - 33:38",
+            "label": "corner",
+            "description": "Victor Moses (Chelsea) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 33:23",
+            "label": "corner",
+            "description": "Victor Moses (Chelsea) takes the corner, but one of the defenders reacts well and rises highest to head the ball away. Chelsea have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 32:46",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) wasted a huge opportunity! The fans already began to celebrate as he produced a shot from the edge of the box after a brilliant solo effort. The ball went towards the right side of the goal, but Kasper Schmeichel made an astonishing save! Chelsea earn a corner."
+        },
+        {
+            "gameTime": "2 - 31:21",
+            "label": "",
+            "description": "A crossfield pass from Daniel Drinkwater (Leicester) fails to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 28:44",
+            "label": "substitution",
+            "description": "Substitution. Andy King (Leicester) receives a signal from the referee and is now allowed to enter the pitch as Marc Albrighton walks off."
+        },
+        {
+            "gameTime": "2 - 28:31",
+            "label": "",
+            "description": "Diego Costa (Chelsea) tries his luck with a shot from long distance after receiving a good pass. His poorly placed effort flies miles wide of the right post."
+        },
+        {
+            "gameTime": "2 - 28:06",
+            "label": "corner",
+            "description": "Eden Hazard (Chelsea) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "2 - 27:39",
+            "label": "",
+            "description": "Diego Costa (Chelsea) produces a lovely chip pass into the box, but one of the opposition players cuts it out. N'Golo Kante (Chelsea) is the first to arrive to a rebound inside the penalty area and unleashes a quick strike towards the right side of the target that beats the keeper. One of the defenders, however, makes a goal line clearance. The referee signals a corner kick to Chelsea."
+        },
+        {
+            "gameTime": "2 - 26:56",
+            "label": "funfact",
+            "description": "We can have a look at the statistics now, shots on target are 6:0."
+        },
+        {
+            "gameTime": "2 - 25:15",
+            "label": "",
+            "description": "Eden Hazard (Chelsea) and Diego Costa try to prise open the opposition with a series of short passes, but one of the defenders steps in and puts an end to the move."
+        },
+        {
+            "gameTime": "2 - 24:52",
+            "label": "",
+            "description": "The Leicester players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "2 - 22:55",
+            "label": "substitution",
+            "description": "Substitution. Nathaniel Chalobah (Chelsea) in, Pedro out."
+        },
+        {
+            "gameTime": "2 - 21:55",
+            "label": "substitution",
+            "description": "Substitution. Riyad Mahrez (Leicester) replaces Jeffery Schlupp."
+        },
+        {
+            "gameTime": "2 - 21:54",
+            "label": "substitution",
+            "description": "Claudio Ranieri has decided to make a change. Islam Slimani (Leicester) replaces Ahmed Musa."
+        },
+        {
+            "gameTime": "2 - 20:38",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort."
+        },
+        {
+            "gameTime": "2 - 17:27",
+            "label": "",
+            "description": "Luis Hernandez (Leicester) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "2 - 16:20",
+            "label": "",
+            "description": "Jeffery Schlupp (Leicester) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 13:19",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "2 - 11:47",
+            "label": "",
+            "description": "Victor Moses (Chelsea) produces a ferocious strike from the edge of the box. His dangerous effort towards the left post is blocked by Kasper Schmeichel, who pulls off a superb save to keep the ball out of the net."
+        },
+        {
+            "gameTime": "2 - 11:19",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Marc Albrighton (Leicester), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "2 - 11:09",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Leicester will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "2 - 10:11",
+            "label": "",
+            "description": "A through ball from Ahmed Musa (Leicester) fails to reach Jamie Vardy as one of the defending players reacts brilliantly to intercept the effort. If the pass had been produced a little bit earlier, Jamie Vardy could have got into a promising position."
+        },
+        {
+            "gameTime": "2 - 09:25",
+            "label": "",
+            "description": "Marcos Alonso (Chelsea) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "gameTime": "2 - 07:51",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort! The ball is off of the pitch and it's a goal kick for Chelsea."
+        },
+        {
+            "gameTime": "2 - 06:20",
+            "label": "",
+            "description": "Daniel Drinkwater (Leicester) fails to deliver a decent cross from a long range free kick. The opposition's defence intercepts the effort. Ahmed Musa (Leicester) holds his head in his hands after missing a big chance. He latches on to a rebound, creates some space from himself and fires the ball from the edge of the box well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 05:57",
+            "label": "y-card",
+            "description": "Cesar Azpilicueta (Chelsea) has tested the patience of referee Andre Marriner and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 03:18",
+            "label": "",
+            "description": "Jeffery Schlupp (Leicester) skips past his man but can't keep the ball in play."
+        },
+        {
+            "gameTime": "2 - 02:18",
+            "label": "",
+            "description": "Cesar Azpilicueta (Chelsea) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 01:56",
+            "label": "",
+            "description": "Ahmed Musa (Leicester) gets on the ball and beats an opponent, but his run is stopped by the referee Andre Marriner who sees an offensive foul. A free kick has been awarded to Chelsea."
+        },
+        {
+            "gameTime": "2 - 00:17",
+            "label": "",
+            "description": "Pedro (Chelsea) latches on to a cross on the edge of the box and fires a shot at goal, but his effort was blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "This is how football should be full of action, thrilling moments and spectacular opportunities. And we have only had the first 45 minutes, so the expectations for the second half are high. The home team were mostly in control in the first half. The home side attempts to hold onto the ball for as long as possible, while the away team's main weapon is fast counter attacks."
+        },
+        {
+            "gameTime": "1 - 46:15",
+            "label": "whistle",
+            "description": "Andre Marriner has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 46:04",
+            "label": "",
+            "description": "The ball is cleared after Victor Moses (Chelsea) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:33",
+            "label": "",
+            "description": "Ahmed Musa (Leicester) climbs high to meet a cross on the edge of the box, but it's a poor header and goes well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 42:17",
+            "label": "",
+            "description": "Eden Hazard (Chelsea) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort."
+        },
+        {
+            "gameTime": "1 - 40:15",
+            "label": "",
+            "description": "David Luiz (Chelsea) strikes the ball towards goal from the free kick, but it goes straight at the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 39:44",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) trips an opposition player and Andre Marriner signals a foul. Chelsea have a free kick."
+        },
+        {
+            "gameTime": "1 - 38:42",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) swings in a cross from the corner, but Thibaut Courtois reads it well and gathers the ball."
+        },
+        {
+            "gameTime": "1 - 38:18",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) takes the corner but it's cleared. Leicester have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 38:00",
+            "label": "",
+            "description": "Jeffery Schlupp (Leicester) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball is out of play. Leicester win a corner kick."
+        },
+        {
+            "gameTime": "1 - 37:28",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) receives a sweet pass inside the box, but his effort on goal is blocked by the defender."
+        },
+        {
+            "gameTime": "1 - 36:00",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Leicester was in an offside position."
+        },
+        {
+            "gameTime": "1 - 35:39",
+            "label": "funfact",
+            "description": "We can have a look at the statistics now, particularly the total attempts \u2013 16:5."
+        },
+        {
+            "gameTime": "1 - 34:23",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) takes a short free kick."
+        },
+        {
+            "gameTime": "1 - 34:02",
+            "label": "",
+            "description": "Andre Marriner has a clear sight and sees a foul from Marcos Alonso (Chelsea). Leicester win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "gameTime": "1 - 32:44",
+            "label": "soccer-ball",
+            "description": "Eden Hazard (Chelsea) receives a killer pass, finds himself one on one with the goalkeeper and coolly sends the ball into the back of the net."
+        },
+        {
+            "gameTime": "1 - 31:51",
+            "label": "",
+            "description": "Robert Huth (Leicester) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him."
+        },
+        {
+            "gameTime": "1 - 30:45",
+            "label": "",
+            "description": "The free kick into the penalty area from Marcos Alonso (Chelsea) is cleared."
+        },
+        {
+            "gameTime": "1 - 30:11",
+            "label": "",
+            "description": "Wes Morgan (Leicester) tackles a bit over zealously and Andre Marriner blows for a foul. Chelsea will take a free kick."
+        },
+        {
+            "gameTime": "1 - 29:06",
+            "label": "",
+            "description": "Corner kick falls to Gary Cahill (Chelsea), who shows his quick reaction with a snap shot. The ball, however, goes well over the bar."
+        },
+        {
+            "gameTime": "1 - 28:40",
+            "label": "corner",
+            "description": "Corner kick. Pedro (Chelsea) is ready to send the ball into the box."
+        },
+        {
+            "gameTime": "1 - 28:27",
+            "label": "corner",
+            "description": "Eden Hazard (Chelsea) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. The ball goes out of play. Chelsea are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 28:13",
+            "label": "",
+            "description": "Pedro (Chelsea) fails to find any of his teammates inside the box as his pass is blocked. The ball is out of play. A goal scoring opportunity from a corner for Chelsea."
+        },
+        {
+            "gameTime": "1 - 27:53",
+            "label": "",
+            "description": "David Luiz (Chelsea) lashes in a mid range free kick and his effort crashes against the left post. That was an excellent shot, but unfortunately for him it didn't end up in the back of the net."
+        },
+        {
+            "gameTime": "1 - 26:40",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Robert Huth (Leicester) was quite harsh and Andre Marriner didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 25:38",
+            "label": "",
+            "description": "Eden Hazard (Chelsea) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 24:22",
+            "label": "",
+            "description": "Gary Cahill (Chelsea) sends a long ball forward to Victor Moses, but he put too much power and the chance is gone. The ball goes out of play and Leicester will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 22:17",
+            "label": "",
+            "description": "Daniel Drinkwater (Leicester) picks out Ahmed Musa with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range."
+        },
+        {
+            "gameTime": "1 - 19:17",
+            "label": "",
+            "description": "Ahmed Musa (Leicester) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 18:29",
+            "label": "",
+            "description": "CHANCE! Eden Hazard (Chelsea) connects with a cross but he cannot direct his shot on target."
+        },
+        {
+            "gameTime": "1 - 16:37",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) sends a teasing cross into the area, but Thibaut Courtois intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 16:00",
+            "label": "",
+            "description": "Daniel Drinkwater (Leicester) decides to speed play up by quickly sending the free kick into the box."
+        },
+        {
+            "gameTime": "1 - 15:44",
+            "label": "",
+            "description": "David Luiz (Chelsea) was too forceful with his tackle and Andre Marriner interrupted the game to signal a free kick. A free kick is awarded to Leicester."
+        },
+        {
+            "gameTime": "1 - 14:18",
+            "label": "",
+            "description": "Chelsea seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "gameTime": "1 - 12:29",
+            "label": "corner",
+            "description": "Pedro (Chelsea) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 12:13",
+            "label": "",
+            "description": "Marcos Alonso (Chelsea) fails to send a pass into the box as his effort is cut out. The ball goes out for a corner. Chelsea can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 11:50",
+            "label": "",
+            "description": "Marcos Alonso (Chelsea) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball is behind the touchline and Chelsea will take a throw in."
+        },
+        {
+            "gameTime": "1 - 09:43",
+            "label": "corner",
+            "description": "The resulting corner from Eden Hazard (Chelsea) comes to nothing."
+        },
+        {
+            "gameTime": "1 - 09:27",
+            "label": "",
+            "description": "Diego Costa (Chelsea) swings in a cross, but the ball is cleared to safety by one of the defending players. The referee blows his whistle, Chelsea are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 06:54",
+            "label": "soccer-ball",
+            "description": "The ball slips through the box from the corner and Diego Costa (Chelsea) is standing in the right place to hit it with an accurate shot inside the left post."
+        },
+        {
+            "gameTime": "1 - 06:08",
+            "label": "corner",
+            "description": "There's an opportunity for Eden Hazard (Chelsea) to deliver the ball into the box from a corner."
+        },
+        {
+            "gameTime": "1 - 06:07",
+            "label": "",
+            "description": "Victor Moses (Chelsea) picks up a pass and hits the ball towards the bottom right corner, but he can't generate enough power to trouble Kasper Schmeichel. Chelsea get a corner."
+        },
+        {
+            "gameTime": "1 - 05:04",
+            "label": "",
+            "description": "Eden Hazard (Chelsea) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards wide of the right post. The ball is off of the pitch and it's a goal kick for Leicester."
+        },
+        {
+            "gameTime": "1 - 03:44",
+            "label": "",
+            "description": "Eden Hazard (Chelsea) and Diego Costa attempt to exchange short two yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 02:17",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "gameTime": "1 - 00:44",
+            "label": "",
+            "description": "Thibaut Courtois (Chelsea) sends over a free kick from long range but the defence is alert."
+        },
+        {
+            "gameTime": "1 - 00:30",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball. Chelsea are awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Leicester will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's referee will be Andre Marriner."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "630 Christian Fuchs has played more minutes than anyone in this Leicester team."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The worst defeat of the season for Chelsea was 0:3 against Arsenal on 24.9.."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Diego Costa have rippled the net 11x and is the top scorer for Chelsea this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. Chelsea were better today and displayed masterful control and movement. The tactic of the home side was slow build up play and the away side was creating their opportunities using lightning fast counter attacks."
+        }
+    ],
+    "gameAwayTeam": "Leicester",
+    "gameDate": "15/10/2016 - 14:30",
+    "gameHomeTeam": "Chelsea",
+    "gameScore": "3 - 0"
+}

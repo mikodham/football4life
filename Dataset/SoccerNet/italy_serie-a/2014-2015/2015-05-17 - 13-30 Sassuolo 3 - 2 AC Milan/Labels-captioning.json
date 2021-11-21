@@ -1,0 +1,420 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 55:59",
+            "label": "",
+            "description": "This is what football should look like. Full of action, thrilling moments and spectacular opportunities. The expectations for the next games will be high. We saw a very balanced game over the 90 minutes. The home team's main weapon was fast counter attacks, while the away side attempted to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "2 - 50:03",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        },
+        {
+            "gameTime": "2 - 48:27",
+            "label": "r-card",
+            "description": "Suso (AC Milan) receives a red card after his horrific challenge and is sent off!"
+        },
+        {
+            "gameTime": "2 - 47:51",
+            "label": "",
+            "description": "Matteo Brighi (Sassuolo) delivers a low pass into the box which is intercepted."
+        },
+        {
+            "gameTime": "2 - 46:05",
+            "label": "",
+            "description": "Stephan El Shaarawy (AC Milan) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 43:04",
+            "label": "",
+            "description": "Sassuolo enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "2 - 40:57",
+            "label": "y-card",
+            "description": "Gabriel Paletta (AC Milan) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+        },
+        {
+            "gameTime": "2 - 38:04",
+            "label": "y-card",
+            "description": "Stephan El Shaarawy (AC Milan) is punished with a yellow card for violating the rules."
+        },
+        {
+            "gameTime": "2 - 37:42",
+            "label": "",
+            "description": "Suso (AC Milan) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar."
+        },
+        {
+            "gameTime": "2 - 36:10",
+            "label": "",
+            "description": "Simone Zaza (Sassuolo) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "2 - 32:23",
+            "label": "substitution",
+            "description": "Here is a change. Keisuke Honda is going off and Filippo Inzaghi gives the last tactical orders to Stephan El Shaarawy (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 31:21",
+            "label": "soccer-ball",
+            "description": "Goal 2:2! Domenico Berardi (Sassuolo) receives a precise pass inside the box from Simone Zaza and he beats the goalkeeper with a neat finish into the bottom right corner."
+        },
+        {
+            "gameTime": "2 - 30:10",
+            "label": "",
+            "description": "Flag goes up against Domenico Berardi (Sassuolo) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 28:57",
+            "label": "",
+            "description": "The referee blows his whistle for a foul after Simone Zaza (Sassuolo) overruns the ball during an attack and makes an aggressive challenge on his opponent."
+        },
+        {
+            "gameTime": "2 - 28:33",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Francesco Magnanelli (Sassuolo) replaces Leonardo Fontanesi."
+        },
+        {
+            "gameTime": "2 - 26:43",
+            "label": "y-card",
+            "description": "Keisuke Honda (AC Milan) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "2 - 26:27",
+            "label": "y-card",
+            "description": "The main referee, Marco Guida, is apparently not going to tolerate any discussions. Andrea Consigli (Sassuolo) is given a yellow card for dissent."
+        },
+        {
+            "gameTime": "2 - 25:20",
+            "label": "corner",
+            "description": "Sassuolo work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "gameTime": "2 - 25:17",
+            "label": "",
+            "description": "Diego Lopez can hear the fans clapping for his superb goalkeeping after he magnificently stops the close range effort from Domenico Berardi (Sassuolo). The ball would have probably ended up in the middle of the net. The ball is out of play. Sassuolo win a corner kick."
+        },
+        {
+            "gameTime": "2 - 23:40",
+            "label": "substitution",
+            "description": "Eusebio Di Francesco has decided to introduce fresh legs, with Antonio Floro Flores (Sassuolo) replacing Nicola Sansone."
+        },
+        {
+            "gameTime": "2 - 22:20",
+            "label": "substitution",
+            "description": "It is time for a substitution. Giampaolo Pazzini (AC Milan) is on for Mattia Destro."
+        },
+        {
+            "gameTime": "2 - 21:00",
+            "label": "",
+            "description": "Domenico Berardi (Sassuolo) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 19:03",
+            "label": "corner",
+            "description": "Suso (AC Milan) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 18:50",
+            "label": "",
+            "description": "Andrea Poli (AC Milan) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. AC Milan win a corner."
+        },
+        {
+            "gameTime": "2 - 15:24",
+            "label": "substitution",
+            "description": "Substitution. Matteo Brighi (Sassuolo) has come on for Saphir Taider."
+        },
+        {
+            "gameTime": "2 - 13:46",
+            "label": "corner",
+            "description": "Domenico Berardi (Sassuolo) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "2 - 13:07",
+            "label": "",
+            "description": "Nicola Sansone (Sassuolo) latches on to a precise defence splitting pass and fires a nice strike from a promising distance towards the roof of the net. Diego Lopez has a clear sight of it and makes a comfortable save. The linesman points to the corner flag, Sassuolo are going to take it."
+        },
+        {
+            "gameTime": "2 - 11:04",
+            "label": "yr-card",
+            "description": "Giacomo Bonaventura (AC Milan) is sent off! After seeing a second yellow and consequently a red card, he must leave the pitch and take an early bath."
+        },
+        {
+            "gameTime": "2 - 09:01",
+            "label": "",
+            "description": "An attempted cross from Andrea Poli (AC Milan) is cleared."
+        },
+        {
+            "gameTime": "2 - 05:37",
+            "label": "soccer-ball",
+            "description": "A perfect lofted pass from Suso finds Alex (AC Milan), who jumps highest and steers a close range header in the countermovement of the goalkeeper. His effort was both strong and precise, and Andrea Consigli had no chance of stopping that. 2:1."
+        },
+        {
+            "gameTime": "2 - 04:56",
+            "label": "corner",
+            "description": "Suso (AC Milan) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 04:52",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort. The ball is out of play. AC Milan will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 04:04",
+            "label": "",
+            "description": "Andrea Poli (AC Milan) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "2 - 02:12",
+            "label": "",
+            "description": "Leonardo Fontanesi (Sassuolo) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 00:12",
+            "label": "substitution",
+            "description": "The teams are back out for the second half and here is a change on the pitch. Filippo Inzaghi gives a chance to Suso (AC Milan) and Ignazio Abate is off."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "There was certainly plenty of action during that opening 45 minutes. Even first half from both sides, and they've both had chances. The home team tries to find the weakness in the opposition's defence, especially with rapid counter attacks, while the away team play possession football."
+        },
+        {
+            "gameTime": "1 - 47:04",
+            "label": "whistle",
+            "description": "Marco Guida has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 46:35",
+            "label": "",
+            "description": "Alex (AC Milan) takes a mid range free kick, but his miskick goes way wide to the right. Poor shot!"
+        },
+        {
+            "gameTime": "1 - 46:29",
+            "label": "",
+            "description": "AC Milan win a direct free kick in a dangerous mid range position."
+        },
+        {
+            "gameTime": "1 - 46:00",
+            "label": "y-card",
+            "description": "Marco Guida shows a yellow card to Simone Missiroli (Sassuolo), who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:18",
+            "label": "",
+            "description": "Simone Zaza (Sassuolo) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 43:36",
+            "label": "",
+            "description": "Marco van Ginkel (AC Milan) jumps into a tackle and Marco Guida blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 42:17",
+            "label": "injury",
+            "description": "Simone Zaza (Sassuolo) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 41:47",
+            "label": "",
+            "description": "The ball is cleared after Marco van Ginkel (AC Milan) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 39:17",
+            "label": "",
+            "description": "Domenico Berardi (Sassuolo) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "gameTime": "1 - 38:18",
+            "label": "y-card",
+            "description": "Daniele Bonera (AC Milan) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Marco Guida ignores the protests."
+        },
+        {
+            "gameTime": "1 - 37:21",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) tries to create a chance, but puts too much weight on his pass."
+        },
+        {
+            "gameTime": "1 - 36:20",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 35:59",
+            "label": "",
+            "description": "Mattia Destro (AC Milan) is furious with himself as he misses a golden opportunity from inside the six yard box. He sends a rebound a few inches wide of the left post."
+        },
+        {
+            "gameTime": "1 - 35:27",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) shoots from the edge of the penalty area. The ball travels towards the right side of the target, but Andrea Consigli easily deals with the threat."
+        },
+        {
+            "gameTime": "1 - 34:20",
+            "label": "",
+            "description": "Simone Zaza (Sassuolo) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 32:59",
+            "label": "soccer-ball",
+            "description": "Goal! Ignazio Abate produces a great pass that finds Giacomo Bonaventura (AC Milan) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom left corner. 2:0."
+        },
+        {
+            "gameTime": "1 - 32:15",
+            "label": "corner",
+            "description": "Keisuke Honda (AC Milan) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 32:10",
+            "label": "",
+            "description": "Wow, what an escape. Marco van Ginkel (AC Milan) has an effort from inside the box but it's brilliantly blocked. AC Milan have a corner."
+        },
+        {
+            "gameTime": "1 - 30:32",
+            "label": "soccer-ball",
+            "description": "Goal Domenico Berardi (Sassuolo)! Domenico Berardi (Sassuolo) was put through by Simone Missiroli and he showed brilliant composure inside the box to fire into the left side of the net. 2:0."
+        },
+        {
+            "gameTime": "1 - 29:56",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from AC Milan."
+        },
+        {
+            "gameTime": "1 - 27:59",
+            "label": "",
+            "description": "Francesco Acerbi (Sassuolo) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 26:32",
+            "label": "",
+            "description": "Daniele Bonera (AC Milan) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "gameTime": "1 - 24:13",
+            "label": "",
+            "description": "Andrea Poli (AC Milan) was trying to get to the ball but clattered into the legs of the opponent as well. Marco Guida blows his whistle for an infringement. Sassuolo will take a free kick."
+        },
+        {
+            "gameTime": "1 - 22:14",
+            "label": "",
+            "description": "Ambitious effort from Marco van Ginkel (AC Milan). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 19:33",
+            "label": "corner",
+            "description": "Domenico Berardi (Sassuolo) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "1 - 19:17",
+            "label": "",
+            "description": "Saphir Taider (Sassuolo) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Sassuolo have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 18:51",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Keisuke Honda (AC Milan) takes it short."
+        },
+        {
+            "gameTime": "1 - 18:29",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) fails to find any of his teammates inside the box as his pass is blocked. Corner kick. AC Milan will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 18:06",
+            "label": "",
+            "description": "Nicola Sansone (Sassuolo) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 15:29",
+            "label": "y-card",
+            "description": "Marco Guida shows the yellow card to Giacomo Bonaventura (AC Milan) for a heavy challenge."
+        },
+        {
+            "gameTime": "1 - 12:08",
+            "label": "soccer-ball",
+            "description": "Domenico Berardi (Sassuolo) receives an accurate pass and attempts to score from long range. He unleashes a low drive which ends up in the middle of the net. The goalkeeper should have done better. He hangs his head in shame and rightly so a school boy error."
+        },
+        {
+            "gameTime": "1 - 10:03",
+            "label": "",
+            "description": "Marco Guida blows his whistle and signals a foul after Gabriel Paletta (AC Milan) brought his opponent down."
+        },
+        {
+            "gameTime": "1 - 07:55",
+            "label": "",
+            "description": "Mattia Destro (AC Milan) gets the ball and drives a shot high over the bar from the edge of the area."
+        },
+        {
+            "gameTime": "1 - 06:39",
+            "label": "",
+            "description": "Domenico Berardi (Sassuolo) is penalised for a foul. Marco Guida had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 05:45",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "gameTime": "1 - 02:59",
+            "label": "",
+            "description": "Keisuke Honda (AC Milan) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 01:01",
+            "label": "",
+            "description": "The linesman raises his flag. Ignazio Abate (AC Milan) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and AC Milan will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Marco Guida was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "This is what football should look like. Full of action, thrilling moments and spectacular opportunities. The expectations for the next games will be high. We saw a very balanced game over the 90 minutes. The home team's main weapon was fast counter attacks, while the away side attempted to hold onto the ball for as long as possible."
+        }
+    ],
+    "gameAwayTeam": "AC Milan",
+    "gameDate": "17/05/2015 - 13:30",
+    "gameHomeTeam": "Sassuolo",
+    "gameScore": "3 - 2"
+}

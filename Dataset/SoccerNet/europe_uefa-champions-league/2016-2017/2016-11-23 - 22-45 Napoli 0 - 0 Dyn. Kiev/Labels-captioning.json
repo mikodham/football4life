@@ -1,0 +1,590 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Napoli 0 - 0 Dyn. Kiev/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "The fans could demand a bit more entertainment for their money. This game was average. The host team were superior on the pitch today. The home side gave the opposition a hard time by closing them down quickly and aggressively. The away team's main priority was maintaining a flawless defence."
+        },
+        {
+            "gameTime": "2 - 48:10",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 46:07",
+            "label": "",
+            "description": "Pavel Orihovsky (Dynamo Kiev) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:36",
+            "label": "",
+            "description": "Domagoj Vida (Dynamo Kiev) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "2 - 42:05",
+            "label": "",
+            "description": "Manolo Gabbiadini (Napoli) is caught offside!"
+        },
+        {
+            "gameTime": "2 - 41:00",
+            "label": "substitution",
+            "description": "Substitution. Dries Mertens makes way for Emanuele Giaccherini (Napoli)."
+        },
+        {
+            "gameTime": "2 - 40:33",
+            "label": "",
+            "description": "Ovidiu Hategan blows his whistle and it's Domagoj Vida (Dynamo Kiev) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "2 - 39:04",
+            "label": "",
+            "description": "Sergiy Rybalka (Dynamo Kiev) attempts to put the ball in from a rebound with his long range shot, but it isn't accurate enough, and the ball goes high over the crossbar. The ball goes out of play and Napoli will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 38:10",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from Napoli."
+        },
+        {
+            "gameTime": "2 - 37:20",
+            "label": "funfact",
+            "description": "The statistic for corner kicks \u2013 17:2."
+        },
+        {
+            "gameTime": "2 - 36:00",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Artem Besiedin as he is replaced by Junior Moraes (Dynamo Kiev)."
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "",
+            "description": "Kalidou Koulibaly (Napoli) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 34:55",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "2 - 34:52",
+            "label": "",
+            "description": "Kalidou Koulibaly (Napoli) rises high to connect with a lofted pass inside the box, but one of his opponents is in the right place at the right time to thwart him. Napoli will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "2 - 34:50",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 34:20",
+            "label": "",
+            "description": "Raul Albiol (Napoli) fires a powerful shot which is blocked. The ball goes out of play and Napoli have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 33:00",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Allan (Napoli) will replace ."
+        },
+        {
+            "gameTime": "2 - 32:13",
+            "label": "corner",
+            "description": "Sergiy Rybalka (Dynamo Kiev) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "2 - 31:49",
+            "label": "corner",
+            "description": "Sergiy Rybalka (Dynamo Kiev) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort. The referee signals a corner kick to Dyn. Kiev."
+        },
+        {
+            "gameTime": "2 - 31:31",
+            "label": "",
+            "description": "Artem Besedin (Dynamo Kiev) slaloms his way past challenges, but an opposing player does well to get the ball away. Dyn. Kiev have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 30:33",
+            "label": "",
+            "description": "Dyn. Kiev restart play with a quick free kick."
+        },
+        {
+            "gameTime": "2 - 29:37",
+            "label": "y-card",
+            "description": "Kalidou Koulibaly (Napoli) is booked after bringing down an opponent. Ovidiu Hategan had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 29:11",
+            "label": "",
+            "description": "Manolo Gabbiadini (Napoli) had a good chance to change the score. He ran towards the goal and unleashed a low shot from long range which went towards the middle of the goal, but Artur Rudko was ready and made a save."
+        },
+        {
+            "gameTime": "2 - 28:22",
+            "label": "",
+            "description": "Manolo Gabbiadini (Napoli) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 26:49",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) fails to produce a decent cross from the corner kick. The ball goes well out of play."
+        },
+        {
+            "gameTime": "2 - 26:00",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) sends the corner into the box, but Artur Rudko intercepts it and averts the threat. Napoli have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 25:59",
+            "label": "",
+            "description": "Manolo Gabbiadini (Napoli) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The ball is out of play. Napoli win a corner kick."
+        },
+        {
+            "gameTime": "2 - 25:42",
+            "label": "",
+            "description": "Manolo Gabbiadini (Napoli) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall."
+        },
+        {
+            "gameTime": "2 - 24:40",
+            "label": "",
+            "description": "Ovidiu Hategan couldn't ignore the rough tackle by Denys Garmash (Dynamo Kiev) and blew his whistle. Napoli earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "2 - 24:16",
+            "label": "",
+            "description": "Pavel Orihovsky (Dynamo Kiev) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 21:46",
+            "label": "substitution",
+            "description": "Sergiy Rebrov prepares a substitution. Serhij Sydorcuk is replaced by Pavel Orihovsky (Dynamo Kiev)."
+        },
+        {
+            "gameTime": "2 - 21:02",
+            "label": "",
+            "description": "Raul Albiol (Napoli) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 21:00",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the corner."
+        },
+        {
+            "gameTime": "2 - 20:55",
+            "label": "substitution",
+            "description": "The referee signals a substitution. Manolo Gabbiadini (Napoli) is brought on as a substitute for Lorenzo Insigne."
+        },
+        {
+            "gameTime": "2 - 20:20",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) fashions a shot from the edge of the box after receiving an accurate pass. Artur Rudko makes a stunning save to stop the effort from flying into the left side of the goal. The ball goes out of play. Napoli are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 19:52",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "2 - 19:23",
+            "label": "",
+            "description": "Faouzi Ghoulam (Napoli) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Napoli will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 17:39",
+            "label": "",
+            "description": "Andriy Yarmolenko (Dynamo Kiev) is caught offside after the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 16:59",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) fashions a shot from the edge of the box after receiving an accurate pass. Artur Rudko makes a stunning save to stop the effort from flying into the bottom right corner."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "substitution",
+            "description": "Here comes a substitution. Viktor Tsygankov is given a rest as he is replaced by Derlis Gonzalez (Dynamo Kiev)."
+        },
+        {
+            "gameTime": "2 - 14:46",
+            "label": "",
+            "description": "The flag is raised and Lorenzo Insigne (Napoli) is offside again, not for the first time today."
+        },
+        {
+            "gameTime": "2 - 14:22",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 13:44",
+            "label": "",
+            "description": "A pass into the penalty area from Jose Callejon (Napoli) is intercepted by the defence. The referee and one of his assistants signal for a corner kick to Napoli."
+        },
+        {
+            "gameTime": "2 - 13:00",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Dries Mertens (Napoli), was easily dealt with by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 12:48",
+            "label": "",
+            "description": "Artem Besedin (Dynamo Kiev) makes a strong challenge and Ovidiu Hategan blows for a foul. Napoli win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "gameTime": "2 - 11:42",
+            "label": "",
+            "description": "Jose Callejon (Napoli) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 10:13",
+            "label": "",
+            "description": "CHANCE! Sergiy Sydorchuk (Dynamo Kiev) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top."
+        },
+        {
+            "gameTime": "2 - 08:29",
+            "label": "",
+            "description": "Artur Rudko makes a brilliant save! Lorenzo Insigne (Napoli) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes straight under the crossbar but is saved by the keeper!"
+        },
+        {
+            "gameTime": "2 - 08:05",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) plays a one two with Dries Mertens, but the move breaks down."
+        },
+        {
+            "gameTime": "2 - 06:42",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 06:32",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "2 - 05:53",
+            "label": "",
+            "description": "A cross into the box from Jose Callejon (Napoli) is cleared."
+        },
+        {
+            "gameTime": "2 - 05:42",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Jose Callejon (Napoli)."
+        },
+        {
+            "gameTime": "2 - 05:23",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee blows his whistle, Napoli are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 04:31",
+            "label": "",
+            "description": "What a chance! Marek Hamsik (Napoli) squanders a promising opportunity as he latches on to a perfect cross from the wing. He produces a bullet header from around the penalty spot which goes just wide of the right post!"
+        },
+        {
+            "gameTime": "2 - 04:25",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 04:10",
+            "label": "",
+            "description": "Faouzi Ghoulam (Napoli) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. Napoli will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 02:00",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Jose Callejon (Napoli) but poses no threat. The ball goes out of play and Dyn. Kiev will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 00:52",
+            "label": "",
+            "description": "Elseid Hysaj (Napoli) sends a cross into the box, but Artur Rudko comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 00:27",
+            "label": "",
+            "description": "Ovidiu Hategan blows his whistle. Elseid Hysaj (Napoli) commits a foul after dangerous play."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Ovidiu Hategan blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Not a lot happening in the first half, it hasn't been the best game so far in terms of quality. The home fans will be really pleased with what they've seen from their players so far. The home team press a lot which puts the away team under pressure and means they really focus on an organized defence."
+        },
+        {
+            "gameTime": "1 - 45:06",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 44:18",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) is repeatedly being caught offside, but this is to be expected given that he always plays on the shoulder of the last defender."
+        },
+        {
+            "gameTime": "1 - 42:36",
+            "label": "",
+            "description": "Raul Albiol (Napoli) tries to find Elseid Hysaj, but he puts too much power on the through ball. The ball is behind the touchline and Dyn. Kiev will take a throw in."
+        },
+        {
+            "gameTime": "1 - 40:12",
+            "label": "",
+            "description": "Dries Mertens (Napoli) attempts to feed Marek Hamsik with a chip pass, but Artur Rudko reacts well and comes off his line to intercept."
+        },
+        {
+            "gameTime": "1 - 38:43",
+            "label": "",
+            "description": "Jose Callejon (Napoli) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 37:13",
+            "label": "corner",
+            "description": "The resulting corner, taken by Jose Callejon (Napoli), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 36:41",
+            "label": "",
+            "description": "Faouzi Ghoulam (Napoli) wastes a good opportunity as his pass into the box is blocked by the defence. Napoli force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 36:11",
+            "label": "",
+            "description": "Viktor Tsygankov (Dynamo Kiev) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 34:03",
+            "label": "",
+            "description": "Kalidou Koulibaly (Napoli) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "gameTime": "1 - 32:27",
+            "label": "",
+            "description": "Napoli take the free kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 32:19",
+            "label": "",
+            "description": "Sergiy Rybalka (Dynamo Kiev) was too forceful with his tackle and Ovidiu Hategan interrupted the game to signal a free kick. Napoli are awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 31:21",
+            "label": "",
+            "description": "Viktor Tsygankov (Dynamo Kiev) whips in the resulting set piece but it's cleared."
+        },
+        {
+            "gameTime": "1 - 30:11",
+            "label": "",
+            "description": "Kalidou Koulibaly (Napoli) commits a rough challenge and Ovidiu Hategan blows his whistle for an infringement. That's a free kick to Dyn. Kiev."
+        },
+        {
+            "gameTime": "1 - 29:03",
+            "label": "",
+            "description": "The cross into the penalty area from Elseid Hysaj (Napoli) needed to be more accurate in order to create a goal scoring opportunity for his team."
+        },
+        {
+            "gameTime": "1 - 28:07",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball into the stands. Nice run, but poor finish! The ball goes out of play and Dyn. Kiev will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 26:43",
+            "label": "",
+            "description": "Denys Garmash (Dynamo Kiev) gets a shot away from distance, but wasn't really set to take it and fires high and wide. The ball goes out of play and Napoli will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 26:13",
+            "label": "",
+            "description": "The flag goes up and the referee blows his whistle another offside by Lorenzo Insigne (Napoli), who has already been caught several times today."
+        },
+        {
+            "gameTime": "1 - 24:55",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Artur Rudko pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "1 - 23:38",
+            "label": "",
+            "description": "Ovidiu Hategan blows his whistle as used excessive force in the tackle during an attack."
+        },
+        {
+            "gameTime": "1 - 22:44",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) skips past his man but can't keep the ball in play."
+        },
+        {
+            "gameTime": "1 - 22:06",
+            "label": "",
+            "description": "Sergiy Rybalka (Dynamo Kiev) latches onto a lofted pass on the edge of the penalty box and unleashes a volley towards goal, but it goes high over the crossbar. The ball goes out of play and Napoli will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 20:47",
+            "label": "",
+            "description": "A lofted cross from Andriy Yarmolenko (Dynamo Kiev) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "1 - 18:50",
+            "label": "y-card",
+            "description": "Sergiy Sydorchuk (Dynamo Kiev) is very lucky to stay on the pitch after using excessive force to bring down his opponent with a two footed challenge."
+        },
+        {
+            "gameTime": "1 - 17:06",
+            "label": "",
+            "description": "Dries Mertens (Napoli) dribbles into the box, but Artur Rudko is quick enough to come off his line and stop him."
+        },
+        {
+            "gameTime": "1 - 16:27",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) jumps for a header from the corner kick, but fails to steer the ball into the goal as it flies high over the bar. The ball goes out of play and Dyn. Kiev will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 16:20",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 15:40",
+            "label": "",
+            "description": "Jose Callejon (Napoli) tries to send a pass but it's blocked. Corner kick. Napoli will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 15:19",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "1 - 14:57",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) unleashes a powerful shot towards goal, but it is bravely blocked by a self sacrificing defender. Napoli earn a corner."
+        },
+        {
+            "gameTime": "1 - 14:40",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the corner, but he overhits it and none of his teammates are able to reach the ball."
+        },
+        {
+            "gameTime": "1 - 14:13",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) swings in a cross from the corner, but Artur Rudko reads it well and gathers the ball. The ball is out of play. A goal scoring opportunity from a corner for Napoli."
+        },
+        {
+            "gameTime": "1 - 14:02",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) takes the corner which is cleared by the opposition's defence. Napoli force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 13:19",
+            "label": "",
+            "description": "The ball is cleared after Dries Mertens (Napoli) attempted to dribble past an opposing player. The referee and his assistant both point at the corner flag. Napoli will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 12:36",
+            "label": "",
+            "description": "The free kick is taken by Amadou Diawara (Napoli), but ball is cleared."
+        },
+        {
+            "gameTime": "1 - 12:24",
+            "label": "",
+            "description": "Viktor Tsygankov (Dynamo Kiev) robs an opponent of the ball and explodes in anger when Ovidiu Hategan blows for a foul. Napoli will take a free kick."
+        },
+        {
+            "gameTime": "1 - 10:39",
+            "label": "",
+            "description": "Andriy Yarmolenko (Dynamo Kiev) swings in a cross, but the ball is cleared to safety by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 09:26",
+            "label": "",
+            "description": "Flag goes up against Artem Besedin (Dynamo Kiev) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 08:36",
+            "label": "",
+            "description": "Dries Mertens (Napoli) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 07:56",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "1 - 07:20",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out for a corner. Napoli can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 05:46",
+            "label": "",
+            "description": "Sergiy Sydorchuk (Dynamo Kiev) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 05:17",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) is flagged offside and it's not the first time today."
+        },
+        {
+            "gameTime": "1 - 04:24",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) dribbles into the box, but Artur Rudko is quick enough to come off his line and stop him."
+        },
+        {
+            "gameTime": "1 - 03:24",
+            "label": "",
+            "description": "Mykola Morozyuk (Dynamo Kiev) tries to find Sergiy Rybalka, but he puts too much power on the through ball. The ball is off of the pitch and it's a goal kick for Napoli."
+        },
+        {
+            "gameTime": "1 - 02:23",
+            "label": "",
+            "description": "Lorenzo Insigne (Napoli) is caught offside, but it was a really close call."
+        },
+        {
+            "gameTime": "1 - 01:48",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Faouzi Ghoulam (Napoli), is intercepted by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 01:06",
+            "label": "",
+            "description": "Sergiy Rybalka (Dynamo Kiev) breaks past challenges inside the box, but puts too much pace on his pass to Mykola Morozyuk. The ball has crossed the sideline. Napoli are taking a throw in."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dyn. Kiev will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Ovidiu Hategan will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans could demand a bit more entertainment for their money. This game was average. The host team were superior on the pitch today. The home side gave the opposition a hard time by closing them down quickly and aggressively. The away team's main priority was maintaining a flawless defence."
+        }
+    ],
+    "gameAwayTeam": "Dyn. Kiev",
+    "gameDate": "23/11/2016 - 22:45",
+    "gameHomeTeam": "Napoli",
+    "gameScore": "0 - 0"
+}

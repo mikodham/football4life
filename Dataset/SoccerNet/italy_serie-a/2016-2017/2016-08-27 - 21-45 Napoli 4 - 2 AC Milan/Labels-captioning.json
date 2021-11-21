@@ -1,0 +1,525 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. The hosts were largely in control of the game today. Both sides tried to prevail using combination football."
+        },
+        {
+            "gameTime": "2 - 49:45",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 48:48",
+            "label": "y-card",
+            "description": "Booking. Alessio Romagnoli (AC Milan) receives a caution from the referee."
+        },
+        {
+            "gameTime": "2 - 48:39",
+            "label": "soccer-ball",
+            "description": "Goal! Jose Callejon (Napoli) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 4:2."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 44:55",
+            "label": "y-card",
+            "description": "The game is interrupted. is given a yellow card. He has to be more careful now."
+        },
+        {
+            "gameTime": "2 - 43:53",
+            "label": "substitution",
+            "description": "Maurizio Sarri decides to make a substitution. Raul Albiol will be replaced by Vlad Chiriches (Napoli)."
+        },
+        {
+            "gameTime": "2 - 42:29",
+            "label": "yr-card",
+            "description": "M'Baye Niang (AC Milan) sees a yellow card in the hand of Paolo Valeri. And as it's a second one this game, a red follows and M'Baye Niang (AC Milan) is sent from the pitch."
+        },
+        {
+            "gameTime": "2 - 40:55",
+            "label": "y-card",
+            "description": "Raul Albiol (Napoli) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision."
+        },
+        {
+            "gameTime": "2 - 40:42",
+            "label": "substitution",
+            "description": "Substitution. Gianluca Lapadula (AC Milan) replaces Suso."
+        },
+        {
+            "gameTime": "2 - 39:55",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Jorginho (Napoli). Paolo Valeri doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 39:03",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 38:40",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Faouzi Ghoulam (Napoli). Napoli have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 38:03",
+            "label": "",
+            "description": "Suso (AC Milan) sends a cross into the box, but Pepe Reina comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "substitution",
+            "description": "Vincenzo Montella has decided to introduce fresh legs, with Davide Calabria (AC Milan) replacing Ignazio Abate."
+        },
+        {
+            "gameTime": "2 - 34:55",
+            "label": "substitution",
+            "description": "Jose Sosa (AC Milan) joins the action as a substitute, replacing Carlos Bacca."
+        },
+        {
+            "gameTime": "2 - 34:22",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "2 - 34:04",
+            "label": "",
+            "description": "Jorginho (Napoli) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. It will be a corner kick for Napoli."
+        },
+        {
+            "gameTime": "2 - 31:55",
+            "label": "substitution",
+            "description": "Substitution. Dries Mertens will be replaced by Roberto Insigne (Napoli)."
+        },
+        {
+            "gameTime": "2 - 31:50",
+            "label": "r-card",
+            "description": "The referee shows a red card! Juraj Kucka (AC Milan) has to leave the pitch."
+        },
+        {
+            "gameTime": "2 - 31:45",
+            "label": "y-card",
+            "description": "Paolo Valeri shows a yellow card to Juraj Kucka (AC Milan) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 28:32",
+            "label": "soccer-ball",
+            "description": "One of the defending players blocks a shot inside the box, but Jose Callejon (Napoli) pounces on the rebound and gives the goalkeeper no chance with a shot inside the net."
+        },
+        {
+            "gameTime": "2 - 28:25",
+            "label": "",
+            "description": "Dries Mertens (Napoli) receives a low pass just outside the box and unleashes a fine strike towards the right post. Gianluigi Donnarumma pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "2 - 27:35",
+            "label": "",
+            "description": "A pass from Arkadiusz Milik (Napoli) is intercepted by Gianluigi Donnarumma and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 26:55",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Allan (Napoli) departs the field of play to be replaced by ."
+        },
+        {
+            "gameTime": "2 - 26:47",
+            "label": "",
+            "description": "Suso (AC Milan) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 26:04",
+            "label": "corner",
+            "description": "Suso (AC Milan) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "gameTime": "2 - 25:56",
+            "label": "",
+            "description": "Suso (AC Milan) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. The referee blows his whistle, AC Milan are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 24:41",
+            "label": "y-card",
+            "description": "Paolo Valeri shows the yellow card to Elseid Hysaj (Napoli) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 23:59",
+            "label": "",
+            "description": "Jose Callejon (Napoli) produces a dangerous lofted cross into the box which is intercepted."
+        },
+        {
+            "gameTime": "2 - 20:53",
+            "label": "",
+            "description": "Jorginho (Napoli) delivers a cross into the box from the free kick, but the effort is over hit and the ball goes out of play."
+        },
+        {
+            "gameTime": "2 - 20:29",
+            "label": "y-card",
+            "description": "The foul by Suso (AC Milan) is worthy of a card and a yellow is duly shown by Paolo Valeri. Napoli are awarded a free kick."
+        },
+        {
+            "gameTime": "2 - 19:44",
+            "label": "corner",
+            "description": "Suso (AC Milan) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 19:21",
+            "label": "",
+            "description": "Suso (AC Milan) goes on a weaving run through the defence and gets within shooting range but his effort is blocked. AC Milan win a corner."
+        },
+        {
+            "gameTime": "2 - 16:24",
+            "label": "",
+            "description": "The resulting free kick from 20 metres out taken by Dries Mertens (Napoli) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 15:55",
+            "label": "y-card",
+            "description": "Gustavo Gomez (AC Milan) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Paolo Valeri didn't think twice about pulling it out of his pocket. Napoli get a free kick."
+        },
+        {
+            "gameTime": "2 - 15:09",
+            "label": "corner",
+            "description": "The resulting corner from Jose Callejon (Napoli) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 14:52",
+            "label": "",
+            "description": "Dries Mertens (Napoli) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out of play. Napoli are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 14:12",
+            "label": "corner",
+            "description": "Faouzi Ghoulam (Napoli) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "2 - 13:51",
+            "label": "",
+            "description": "A lofted cross from Jose Callejon (Napoli) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes behind for a corner. Napoli will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 13:28",
+            "label": "",
+            "description": "Jorginho (Napoli) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 13:03",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "2 - 12:48",
+            "label": "",
+            "description": "Dries Mertens (Napoli) delivers a low pass into the box which is intercepted. The ball goes out for a corner. Napoli can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 09:56",
+            "label": "y-card",
+            "description": "Caution goes to Kalidou Koulibaly (Napoli)."
+        },
+        {
+            "gameTime": "2 - 09:47",
+            "label": "soccer-ball",
+            "description": "Goal! Suso (AC Milan) picks up the ball from a rebound and from the edge of the box he unleashes a shot into the top left corner. 2:2."
+        },
+        {
+            "gameTime": "2 - 08:42",
+            "label": "",
+            "description": "Juraj Kucka (AC Milan) attempted to pick out a free teammate inside the box, but Pepe Reina comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "2 - 07:48",
+            "label": "y-card",
+            "description": "Today's referee Paolo Valeri rightly decides to book M'Baye Niang (AC Milan) for his harsh tackle."
+        },
+        {
+            "gameTime": "2 - 05:55",
+            "label": "soccer-ball",
+            "description": "M'Baye Niang (AC Milan) makes a great solo run and pulls the trigger from inside the box, beating Pepe Reina with a strike into the bottom right corner. He makes it 2:1."
+        },
+        {
+            "gameTime": "2 - 04:30",
+            "label": "",
+            "description": "Jorginho (Napoli) tries his luck with a shot from long distance after receiving a good pass. His poorly placed effort flies miles wide of the right post."
+        },
+        {
+            "gameTime": "2 - 03:10",
+            "label": "",
+            "description": "Carlos Bacca (AC Milan) makes a slide tackle, but referee Paolo Valeri blows for a foul."
+        },
+        {
+            "gameTime": "2 - 02:07",
+            "label": "",
+            "description": "Close! M'Baye Niang (AC Milan) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 01:13",
+            "label": "",
+            "description": "Pepe Reina was in the right place at the right time to intercept a cross from a free kick by Giacomo Bonaventura (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 00:17",
+            "label": "",
+            "description": "Paolo Valeri interrupts the game. One of the players from Napoli won the ball, but his effort is adjudged unfair. A free kick has been awarded to AC Milan."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Both sides have been very active in the first half, providing the fans with an exciting show. The home side were more active and dominant in the first half. The opposition found it tough to keep up. Both teams are attempting to play possession football."
+        },
+        {
+            "gameTime": "1 - 46:31",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:04",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) is obviously not following the Golden Rule: \u201eTreat others as you want to be treated.\u201c He makes a bad challenge and leaves Paolo Valeri with no other option than to blow for a foul."
+        },
+        {
+            "gameTime": "1 - 43:04",
+            "label": "",
+            "description": "Elseid Hysaj (Napoli) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "gameTime": "1 - 40:57",
+            "label": "",
+            "description": "Paolo Valeri blows for a foul after Jose Callejon (Napoli) was too aggressive in the battle for the ball."
+        },
+        {
+            "gameTime": "1 - 40:31",
+            "label": "",
+            "description": "The game is interrupted as Alessio Romagnoli (AC Milan) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 39:43",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Giacomo Bonaventura (AC Milan) takes it short."
+        },
+        {
+            "gameTime": "1 - 39:32",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball goes out of play and AC Milan have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 38:29",
+            "label": "",
+            "description": "Flag up against Arkadiusz Milik (Napoli). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "1 - 38:14",
+            "label": "",
+            "description": "Dries Mertens (Napoli) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+        },
+        {
+            "gameTime": "1 - 34:50",
+            "label": "",
+            "description": "Paolo Valeri blows his whistle after Faouzi Ghoulam (Napoli) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "gameTime": "1 - 32:55",
+            "label": "soccer-ball",
+            "description": "Goal! Jose Callejon launched the corner kick and superbly found the head of Arkadiusz Milik (Napoli), whose accurate effort from near the penalty spot went into the top right corner. It's 2:0."
+        },
+        {
+            "gameTime": "1 - 32:44",
+            "label": "corner",
+            "description": "Jose Callejon (Napoli) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "1 - 32:40",
+            "label": "",
+            "description": "Arkadiusz Milik (Napoli) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The ball is out of play and Napoli manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 32:32",
+            "label": "",
+            "description": "Dries Mertens (Napoli) receives a low pass just outside the box and unleashes a fine strike towards the left post. Gianluigi Donnarumma pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "1 - 31:22",
+            "label": "",
+            "description": "Juraj Kucka (AC Milan) gives away a foul for a clumsy challenge. Referee Paolo Valeri saw the whole situation."
+        },
+        {
+            "gameTime": "1 - 29:41",
+            "label": "",
+            "description": "Jorginho (Napoli) receives a pass and tries his luck with a shot from 20 metres out. Gianluigi Donnarumma pulls off a comfortable save to stop the effort going into the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 29:29",
+            "label": "corner",
+            "description": "The resulting corner from Jose Callejon (Napoli) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 29:11",
+            "label": "",
+            "description": "Dries Mertens (Napoli) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. Corner kick. Napoli will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 27:21",
+            "label": "corner",
+            "description": "The corner from Faouzi Ghoulam (Napoli) is hurriedly cleared."
+        },
+        {
+            "gameTime": "1 - 26:40",
+            "label": "",
+            "description": "Dries Mertens (Napoli) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant shot to the roof of the net, but is thwarted by a great save from Gianluigi Donnarumma. The referee and one of his assistants signal for a corner kick to Napoli."
+        },
+        {
+            "gameTime": "1 - 25:31",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) commits a rough foul. Paolo Valeri stops the game and makes a call."
+        },
+        {
+            "gameTime": "1 - 25:14",
+            "label": "",
+            "description": "Carlos Bacca (AC Milan) latches on to a pin point through ball, but one of the defending players dispossess him. Brilliant defending."
+        },
+        {
+            "gameTime": "1 - 21:55",
+            "label": "",
+            "description": "Jorginho (Napoli) produces a poor cross from the free kick which is easily turned away."
+        },
+        {
+            "gameTime": "1 - 21:16",
+            "label": "",
+            "description": "Poor challenge! Giacomo Bonaventura (AC Milan) is penalised for tripping and Paolo Valeri blows his whistle. That's a free kick to Napoli."
+        },
+        {
+            "gameTime": "1 - 17:59",
+            "label": "soccer-ball",
+            "description": "Goal 1:0! Arkadiusz Milik (Napoli) taps home from close range after the rebound fell kindly into his path."
+        },
+        {
+            "gameTime": "1 - 17:50",
+            "label": "",
+            "description": "Dries Mertens (Napoli) expertly controls a neat clever pass on the edge of the penalty area, but his effort smashes against the right post! What a shot that was!"
+        },
+        {
+            "gameTime": "1 - 17:15",
+            "label": "",
+            "description": "Marek Hamsik (Napoli) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 16:05",
+            "label": "",
+            "description": "Mattia De Sciglio (AC Milan) is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 14:24",
+            "label": "",
+            "description": "Alessio Romagnoli (AC Milan) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "1 - 14:00",
+            "label": "",
+            "description": "Suso (AC Milan) sends a lofted cross into the box which is headed clear."
+        },
+        {
+            "gameTime": "1 - 13:53",
+            "label": "corner",
+            "description": "Giacomo Bonaventura (AC Milan) takes a short corner kick."
+        },
+        {
+            "gameTime": "1 - 13:26",
+            "label": "",
+            "description": "Suso (AC Milan) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The ball is out of play. AC Milan win a corner kick."
+        },
+        {
+            "gameTime": "1 - 07:33",
+            "label": "",
+            "description": "CHANCE! Ignazio Abate (AC Milan) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top."
+        },
+        {
+            "gameTime": "1 - 05:25",
+            "label": "",
+            "description": "Suso (AC Milan) pulls the jersey of one of the opposition players and Paolo Valeri blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 03:00",
+            "label": "",
+            "description": "Pepe Reina makes a brilliant save! M'Baye Niang (AC Milan) easily weaves through the defence and fires the ball from mid range. His low shot goes towards the middle of the goal but is saved by the keeper!"
+        },
+        {
+            "gameTime": "1 - 02:26",
+            "label": "corner",
+            "description": "The resulting corner from Jose Callejon (Napoli) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 01:55",
+            "label": "",
+            "description": "Faouzi Ghoulam (Napoli) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes out of play. Napoli are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 01:06",
+            "label": "",
+            "description": "Allan (Napoli) trips an opposition player and Paolo Valeri signals a foul."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Napoli will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Paolo Valeri was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Carlos Bacca have rippled the net 6x and is the top scorer for AC Milan this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There is an average of 2.8 goals per game between these two sides over the last 5 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Napoli will miss the presence of Pepe Reina (Calf Injury), Raul Albiol (Head Injury), Raul Albiol (Muscle Injury), Raul Albiol (Yellow Cards), Marek Hamsik (Foot Injury), Jose Callejon (Red Card), Dries Mertens (Yellow Cards), Mario Rui (Knee Injury), Mario Rui (Calf Injury), Kalidou Koulibaly (Knee Injury), Kalidou Koulibaly (National selection), Kalidou Koulibaly (Yellow Cards), Nikola Maksimovic (Foot Injury), Emanuele Giaccherini (Injury), Faouzi Ghoulam (Groin Injury), Faouzi Ghoulam (National selection), Lorenzo Tonelli (Knee Injury), Leonardo Pavoletti (Knee Injury), Elseid Hysaj (Illness), Elseid Hysaj (Yellow Cards), Elseid Hysaj (Red Card), Adam Ounas (Yellow Cards), Adam Ounas (Thigh Injury), Adam Ounas (Red Card), Adam Ounas (Injury)."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. The hosts were largely in control of the game today. Both sides tried to prevail using combination football."
+        }
+    ],
+    "gameAwayTeam": "AC Milan",
+    "gameDate": "27/08/2016 - 21:45",
+    "gameHomeTeam": "Napoli",
+    "gameScore": "4 - 2"
+}

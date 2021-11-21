@@ -1,0 +1,580 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2015-2016/2015-09-26 - 19-15 Real Madrid 0 - 0 Malaga/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The game was controlled by the home side. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter attacking."
+        },
+        {
+            "gameTime": "2 - 49:17",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 48:59",
+            "label": "y-card",
+            "description": "Cristiano Ronaldo (Real Madrid) infringed the rules and goes into the book. Jose Luis Gonzalez pulls out a yellow card."
+        },
+        {
+            "gameTime": "2 - 47:12",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) does well to meet a cross from Marcelo, but he directs his shot just over the crossbar."
+        },
+        {
+            "gameTime": "2 - 45:50",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Recio (Malaga) takes it short."
+        },
+        {
+            "gameTime": "2 - 45:32",
+            "label": "",
+            "description": "Ricardo Horta (Malaga) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender. The referee and one of his assistants signal for a corner kick to Malaga."
+        },
+        {
+            "gameTime": "2 - 45:07",
+            "label": "",
+            "description": "The linesman signals that Luka Modric (Real Madrid) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:20",
+            "label": "",
+            "description": "Flag up against Luka Modric (Real Madrid). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 43:46",
+            "label": "y-card",
+            "description": "Daniel Carvajal (Real Madrid) sees a yellow! His tackle wasn't that harsh, but he probably talked himself into Jose Luis Gonzalez's book."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "y-card",
+            "description": "Juanpi (Malaga) picks up a yellow card."
+        },
+        {
+            "gameTime": "2 - 41:16",
+            "label": "corner",
+            "description": "Juanpi (Malaga) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "2 - 40:47",
+            "label": "",
+            "description": "Roberto Rosales (Malaga) flights in the cross, but the defender is alert and clears to safety. The ball is out of play and the linesman points at the corner flag. Corner to Malaga."
+        },
+        {
+            "gameTime": "2 - 39:30",
+            "label": "",
+            "description": "Raphael Varane (Real Madrid) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball goes well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 39:19",
+            "label": "corner",
+            "description": "Luka Modric (Real Madrid) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 39:10",
+            "label": "",
+            "description": "Marcelo (Real Madrid) sends a cross into the box, but the opposition's defence clears the ball to safety. The linesman makes the right call and Real Madrid will have a corner."
+        },
+        {
+            "gameTime": "2 - 38:41",
+            "label": "corner",
+            "description": "Marcelo (Real Madrid) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 38:33",
+            "label": "",
+            "description": "Marcelo (Real Madrid) produces a dangerous lofted cross into the box which is intercepted. Real Madrid have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 37:13",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) receives a well played pass inside the penalty area and shoots. He sends the ball into orbit."
+        },
+        {
+            "gameTime": "2 - 36:02",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) collects a pass and has an effort from 20 metres out, but it flies just over the crossbar."
+        },
+        {
+            "gameTime": "2 - 34:49",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Pablo Fornals leaves the pitch and Ricardo Horta (Malaga) comes on."
+        },
+        {
+            "gameTime": "2 - 33:20",
+            "label": "funfact",
+            "description": "We can have a look at the statistics now, particularly the total attempts \u2013 31:12."
+        },
+        {
+            "gameTime": "2 - 31:33",
+            "label": "r-card",
+            "description": "We have witnessed a sending off! Nordin Amrabat (Malaga) is given a red card for his dangerous challenge. Jose Luis Gonzalez's decision is final."
+        },
+        {
+            "gameTime": "2 - 31:10",
+            "label": "",
+            "description": "Isco (Real Madrid) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "2 - 31:05",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a shot in the direction of the left post. Idriss Carlos Kameni is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "2 - 29:30",
+            "label": "",
+            "description": "Juan Carlos (Malaga) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "2 - 26:04",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) spurned a good chance! He gets a shot away from inside the penalty box, but it goes inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 25:14",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) latches on to a precise pass and finds himself one on one with the keeper. He fires a low shot towards the left side of the net, but Idriss Carlos Kameni leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "2 - 24:49",
+            "label": "substitution",
+            "description": "Here's the change. Adnane Tighadouini leaves the pitch and Juanpi (Malaga) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 23:41",
+            "label": "attendance",
+            "description": "The attendance for today's match is 75361."
+        },
+        {
+            "gameTime": "2 - 21:47",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "2 - 20:29",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Recio (Malaga). Jose Luis Gonzalez doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 19:43",
+            "label": "",
+            "description": "What a big chance! Cristiano Ronaldo (Real Madrid) picks up an inch perfect pass inside the box and fires the ball a whisker wide of the right post."
+        },
+        {
+            "gameTime": "2 - 18:00",
+            "label": "",
+            "description": "Luka Modric (Real Madrid) receives a precise low pass inside the box, controls the ball and drills it towards the right post. Unfortunately for him, Idriss Carlos Kameni makes a great save to stop his effort."
+        },
+        {
+            "gameTime": "2 - 15:56",
+            "label": "corner",
+            "description": "The resulting corner from Luka Modric (Real Madrid) is cleared."
+        },
+        {
+            "gameTime": "2 - 15:39",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee points to the corner flag. It's a corner to Real Madrid."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Mateo Kovacic (Real Madrid) is coming onto the pitch as Jese cannot continue after picking up an injury."
+        },
+        {
+            "gameTime": "2 - 14:11",
+            "label": "injury",
+            "description": "Jese (Real Madrid) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "2 - 13:34",
+            "label": "",
+            "description": "Jese (Real Madrid) blows a big chance to score! He slammed the ball from deep inside the box towards the net, but his aim was off and it went narrowly over the crossbar."
+        },
+        {
+            "gameTime": "2 - 13:06",
+            "label": "corner",
+            "description": "Luka Modric (Real Madrid) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 12:46",
+            "label": "",
+            "description": "A long ball forward to Cristiano Ronaldo (Real Madrid) is intercepted. The referee signals a corner kick to Real Madrid."
+        },
+        {
+            "gameTime": "2 - 11:53",
+            "label": "",
+            "description": "Marcos Angeleri (Malaga) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went way over the bar."
+        },
+        {
+            "gameTime": "2 - 11:35",
+            "label": "corner",
+            "description": "Corner kick. Adnane Tighadouini (Malaga) is ready to send the ball into the box."
+        },
+        {
+            "gameTime": "2 - 11:16",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) is picked out by one of his teammates with a brilliant long range cross, but he doesn't control the ball well and the defence eliminates the danger without any problem. Malaga force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 10:25",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the right hand post, but Idriss Carlos Kameni was alert and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 09:38",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) comes close to scoring! He meets a lovely lofted pass from Cristiano Ronaldo, but sends his close range header way wide of the left post."
+        },
+        {
+            "gameTime": "2 - 09:20",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 07:00",
+            "label": "y-card",
+            "description": "Today's referee Jose Luis Gonzalez rightly decides to book Nacho (Real Madrid) for his harsh tackle."
+        },
+        {
+            "gameTime": "2 - 04:46",
+            "label": "",
+            "description": "Close! Cristiano Ronaldo (Real Madrid) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 03:14",
+            "label": "",
+            "description": "Juan Carlos (Malaga) releases a promising shot from the free kick from around 18 metres out. The ball goes towards the top left corner, but the goalkeeper makes a decent save and denies him."
+        },
+        {
+            "gameTime": "2 - 02:31",
+            "label": "",
+            "description": "Malaga have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "2 - 02:30",
+            "label": "y-card",
+            "description": "Jose Luis Gonzalez shows a yellow card to Raphael Varane (Real Madrid) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 02:05",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) hammers a powerful first time shot from close range, sending the ball towards the right side of the target, but the goalkeeper stops it with a miraculous save."
+        },
+        {
+            "gameTime": "2 - 00:50",
+            "label": "",
+            "description": "Luka Modric (Real Madrid) sends a cross into the box, but Idriss Carlos Kameni comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "We are seeing a great game so far, let's hope the players will be able to sustain their level of performance and keep entertaining the fans in such a fabulous way. The hosts were superior in their performance in the first half. They were more active and precise. The home side attempts to hold onto the ball for as long as possible, while the away team's main weapon is fast counter attacks."
+        },
+        {
+            "gameTime": "1 - 46:08",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Jose Luis Gonzalez has ended it."
+        },
+        {
+            "gameTime": "1 - 45:47",
+            "label": "",
+            "description": "Isco (Real Madrid) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "gameTime": "1 - 45:40",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 44:52",
+            "label": "",
+            "description": "Isco (Real Madrid) gets on the end of a cross from Marcelo, but his shot goes a whisker wide of the left post."
+        },
+        {
+            "gameTime": "1 - 43:21",
+            "label": "",
+            "description": "What a chance for Cristiano Ronaldo (Real Madrid) as he produced a stunning snap shot from the edge of the box! The goalkeeper was a bit lucky as the ball went just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 43:01",
+            "label": "",
+            "description": "Juan Carlos (Malaga) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 41:56",
+            "label": "injury",
+            "description": "Juan Carlos (Malaga) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "gameTime": "1 - 41:08",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) attempts to find Juan Carlos, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 40:26",
+            "label": "corner",
+            "description": "Idriss Carlos Kameni leaps to intercept the corner kick from Toni Kroos (Real Madrid)."
+        },
+        {
+            "gameTime": "1 - 40:08",
+            "label": "",
+            "description": "Jese (Real Madrid) races towards goal but the defender gets back well to make a challenge. Real Madrid earn a corner."
+        },
+        {
+            "gameTime": "1 - 38:27",
+            "label": "",
+            "description": "Idriss Carlos Kameni doesn't have to worry about that one. Jese puts a cross in towards Cristiano Ronaldo (Real Madrid), who is unable to keep his header on target from the centre of the box. He sends the ball high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 36:42",
+            "label": "",
+            "description": "Juan Carlos (Malaga) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+        },
+        {
+            "gameTime": "1 - 35:09",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "1 - 34:46",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) meets a pass on the edge of the penalty area and shoots towards right side of the goal. He didn't put enough power into the effort, though, and Idriss Carlos Kameni pulls off an easy save. The ball goes out of play. Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 33:31",
+            "label": "corner",
+            "description": "Isco (Real Madrid) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 33:13",
+            "label": "",
+            "description": "A cross following the corner kick finds its way to Jese (Real Madrid) inside the box and he manages to steer it to the right side of the target. He is about to start celebrating a goal, but Idriss Carlos Kameni makes a save in the nick of time and maintains the current score. The linesman points to the corner flag, Real Madrid are going to take it."
+        },
+        {
+            "gameTime": "1 - 33:09",
+            "label": "corner",
+            "description": "Isco (Real Madrid) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "1 - 32:25",
+            "label": "",
+            "description": "Idriss Carlos Kameni can hear the fans clapping for his superb goalkeeping after he magnificently stops the close range effort from Isco (Real Madrid). The ball would have probably ended up inside the right post. The referee and his assistant both point at the corner flag. Real Madrid will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 31:58",
+            "label": "",
+            "description": "Nordin Amrabat sprays a pass out to Juan Carlos (Malaga), but he produces a poor effort from inside the box which goes well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 30:49",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "1 - 30:02",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 29:39",
+            "label": "",
+            "description": "Jese (Real Madrid) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Corner kick. Real Madrid will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 29:06",
+            "label": "",
+            "description": "Lovely cross from Daniel Carvajal to find Cristiano Ronaldo (Real Madrid) deep in the box, but he steers his header well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 26:55",
+            "label": "y-card",
+            "description": "Miguel Torres (Malaga) kept talking out of turn to the referee until Jose Luis Gonzalez lost patience and pulled out a yellow card."
+        },
+        {
+            "gameTime": "1 - 25:48",
+            "label": "",
+            "description": "Juan Carlos (Malaga) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "gameTime": "1 - 22:57",
+            "label": "",
+            "description": "Jese (Real Madrid) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "gameTime": "1 - 19:20",
+            "label": "",
+            "description": "Flag goes up against Cristiano Ronaldo (Real Madrid) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 18:41",
+            "label": "corner",
+            "description": "Isco (Real Madrid) takes the corner kick, but Idriss Carlos Kameni reads it well and stops the effort."
+        },
+        {
+            "gameTime": "1 - 18:23",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) creates a yard of space for himself and tries an effort from distance, but it's blocked. Real Madrid win a corner."
+        },
+        {
+            "gameTime": "1 - 17:45",
+            "label": "",
+            "description": "Nordin Amrabat (Malaga) hammers the ball from far out, but his shot is blocked by an opposition player."
+        },
+        {
+            "gameTime": "1 - 15:30",
+            "label": "corner",
+            "description": "Juan Carlos (Malaga) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "1 - 15:11",
+            "label": "",
+            "description": "An attempted cross from Adnane Tighadouini (Malaga) is cleared. Now Malaga have a corner."
+        },
+        {
+            "gameTime": "1 - 14:10",
+            "label": "",
+            "description": "Isco (Real Madrid) receives a pass and tries his luck with a long range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar."
+        },
+        {
+            "gameTime": "1 - 12:54",
+            "label": "",
+            "description": "Chance! Isco (Real Madrid) comes within inches of scoring after picking up a pass from Marcelo, but his shot from inside the box flashes just over the bar."
+        },
+        {
+            "gameTime": "1 - 12:13",
+            "label": "",
+            "description": "Juan Carlos (Malaga) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 10:33",
+            "label": "corner",
+            "description": "Juan Carlos (Malaga) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "gameTime": "1 - 10:13",
+            "label": "",
+            "description": "Wow, what an escape. Nordin Amrabat (Malaga) has an effort from inside the box but it's brilliantly blocked. The ball goes out of play and Malaga have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 09:14",
+            "label": "",
+            "description": "Chance! Marcelo sends a brilliant curling cross into the heart of the defence and into the path of Cristiano Ronaldo (Real Madrid), whose header from the centre of the box goes a whisker over the bar."
+        },
+        {
+            "gameTime": "1 - 07:11",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "1 - 06:34",
+            "label": "",
+            "description": "Recio (Malaga) outjumps the defence to meet the resulting corner and heads the ball towards the top of the net. The long range header is not powerful enough, and the keeper comfortably makes a save."
+        },
+        {
+            "gameTime": "1 - 06:14",
+            "label": "corner",
+            "description": "Adnane Tighadouini (Malaga) takes the corner."
+        },
+        {
+            "gameTime": "1 - 06:01",
+            "label": "",
+            "description": "Adnane Tighadouini (Malaga) gets on the end of a pass on the edge of the box but his shot is blocked. The ball is out of play. Malaga will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 05:08",
+            "label": "",
+            "description": "Marcelo slides a brilliant pass into Cristiano Ronaldo (Real Madrid), but his shot from inside the box goes a whisker over the crossbar."
+        },
+        {
+            "gameTime": "1 - 04:32",
+            "label": "corner",
+            "description": "The corner kick from Luka Modric (Real Madrid) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 04:16",
+            "label": "",
+            "description": "Jese (Real Madrid) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 02:14",
+            "label": "corner",
+            "description": "The resulting corner from Luka Modric (Real Madrid) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 01:55",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. Real Madrid will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 01:10",
+            "label": "",
+            "description": "The game is interrupted. Karim Benzema (Real Madrid) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Malaga will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's referee will be Jose Luis Gonzalez."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "5x that's the number of matches that Malaga have lost at home so far this season, while they have lost 9x away."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid's biggest win of the season is 10:2 against Rayo Vallecano on 20.12.."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid's top scorer is Cristiano Ronaldo with 35 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. The game was controlled by the home side. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was counter attacking."
+        }
+    ],
+    "gameAwayTeam": "Malaga",
+    "gameDate": "26/09/2015 - 19:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "0 - 0"
+}

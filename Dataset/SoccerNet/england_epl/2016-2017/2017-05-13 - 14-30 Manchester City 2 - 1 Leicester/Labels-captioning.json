@@ -1,0 +1,425 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 54:38",
+            "label": "whistle",
+            "description": "The match has just finished."
+        },
+        {
+            "gameTime": "2 - 54:06",
+            "label": "",
+            "description": "The resulting free kick from Riyad Mahrez (Leicester) ends up in the gloves of the keeper."
+        },
+        {
+            "gameTime": "2 - 53:28",
+            "label": "y-card",
+            "description": "It's like he was asking for a caution. David Silva (Manchester City) receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 48:50",
+            "label": "substitution",
+            "description": "Substitution. Gabriel Jesus is replaced by Jesus Navas (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 47:10",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "2 - 45:44",
+            "label": "injury",
+            "description": "The game is interrupted now, Nicolas Otamendi (Manchester City) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 7 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:24",
+            "label": "corner",
+            "description": "Riyad Mahrez (Leicester) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "2 - 43:12",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The linesman makes the right call and Leicester will have a corner."
+        },
+        {
+            "gameTime": "2 - 41:30",
+            "label": "attendance",
+            "description": "The attendance for today's match is 54407."
+        },
+        {
+            "gameTime": "2 - 39:55",
+            "label": "",
+            "description": "What a big chance! Jamie Vardy (Leicester) picks up an inch perfect pass inside the box and fires the ball a whisker wide of the right post."
+        },
+        {
+            "gameTime": "2 - 38:55",
+            "label": "y-card",
+            "description": "Sergio Aguero (Manchester City) receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 37:51",
+            "label": "",
+            "description": "Vincent Kompany (Manchester City) misses a good chance to score. A perfect cross into the box finds Vincent Kompany (Manchester City) who rises for a header, but he sends the ball well over the bar."
+        },
+        {
+            "gameTime": "2 - 37:34",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from David Silva (Manchester City) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "2 - 37:13",
+            "label": "",
+            "description": "The ball is cleared after Sergio Aguero (Manchester City) attempted to dribble past an opposing player. Manchester City force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 36:42",
+            "label": "substitution",
+            "description": "That will be all from Kevin De Bruyne who is being replaced by the fresh legs of Pablo Zabaleta (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 34:41",
+            "label": "substitution",
+            "description": "Craig Shakespeare has decided to substitute Marc Albrighton and he is replaced by Demarai Gray (Leicester)."
+        },
+        {
+            "gameTime": "2 - 33:55",
+            "label": "y-card",
+            "description": "Marc Albrighton (Leicester) receives a yellow card from the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "2 - 32:55",
+            "label": "substitution",
+            "description": "Substitution. Sergio Aguero (Manchester City) in, Raheem Sterling out."
+        },
+        {
+            "gameTime": "2 - 31:55",
+            "label": "penalty-missed",
+            "description": "We have witnessed a penalty fail, with Riyad Mahrez (Leicester) the one who can hold his head in shame."
+        },
+        {
+            "gameTime": "2 - 31:29",
+            "label": "",
+            "description": "Riyad Mahrez (Leicester) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "2 - 30:56",
+            "label": "penalty",
+            "description": "Robert Madley blows his whistle for a foul after Gael Clichy (Manchester City) hacks down one of his opponents. That is a penalty kick for Leicester."
+        },
+        {
+            "gameTime": "2 - 28:29",
+            "label": "",
+            "description": "Gabriel Jesus (Manchester City) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "2 - 28:19",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 27:55",
+            "label": "substitution",
+            "description": "Substitution. Shinji Okazaki walks off the pitch and Islam Slimani (Leicester) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 26:45",
+            "label": "injury",
+            "description": "Gabriel Jesus (Manchester City) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 26:35",
+            "label": "y-card",
+            "description": "Christian Fuchs (Leicester) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well."
+        },
+        {
+            "gameTime": "2 - 25:49",
+            "label": "corner",
+            "description": "There's an opportunity for Raheem Sterling (Manchester City) to deliver the ball into the box from a corner."
+        },
+        {
+            "gameTime": "2 - 24:17",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Kasper Schmeichel pulls off an easy save."
+        },
+        {
+            "gameTime": "2 - 22:33",
+            "label": "substitution",
+            "description": "Craig Shakespeare is forced to make a change. Andy King is unable to continue due to injury, Daniel Amartey (Leicester) comes on."
+        },
+        {
+            "gameTime": "2 - 21:14",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) is able to continue to play."
+        },
+        {
+            "gameTime": "2 - 19:20",
+            "label": "injury",
+            "description": "The game is interrupted now, Marc Albrighton (Leicester) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 18:31",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 12:15",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) takes the corner."
+        },
+        {
+            "gameTime": "2 - 11:45",
+            "label": "",
+            "description": "Shinji Okazaki (Leicester) tries to send a pass but it's blocked. The ball goes behind for a corner. Leicester will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 11:14",
+            "label": "",
+            "description": "The foul by Raheem Sterling (Manchester City) was seen by Robert Madley who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 09:25",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "2 - 07:25",
+            "label": "injury",
+            "description": "Marc Albrighton (Leicester) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 04:46",
+            "label": "y-card",
+            "description": "What was Vincent Kompany (Manchester City) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "gameTime": "2 - 01:39",
+            "label": "",
+            "description": "It's a weak and poor shot by Marc Albrighton (Leicester) as he flashes a first time shot from the edge of the box. The ball flies well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 47:10",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:14",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) got the ball on the edge of the box and fired in a first time shot on goal, but his effort floated well over the bar. High, wide and not at all handsome."
+        },
+        {
+            "gameTime": "1 - 41:33",
+            "label": "soccer-ball",
+            "description": "Shinji Okazaki (Leicester) fires in a first time projectile from about 13 metres out. Wilfredo Caballero stretches but the ball is out of his reach and ends up in the roof of the net."
+        },
+        {
+            "gameTime": "1 - 35:45",
+            "label": "soccer-ball",
+            "description": "Gabriel Jesus (Manchester City) gives no chance to the keeper and converts the penalty with a sharp low drive into the left side of the net."
+        },
+        {
+            "gameTime": "1 - 35:29",
+            "label": "",
+            "description": "Gabriel Jesus (Manchester City) is going to take the penalty!"
+        },
+        {
+            "gameTime": "1 - 34:55",
+            "label": "y-card",
+            "description": "Yohan Benalouane (Leicester) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent."
+        },
+        {
+            "gameTime": "1 - 34:42",
+            "label": "penalty",
+            "description": "An opponent rises to his feet after being downed by Yohan Benalouane (Leicester). Robert Madley saw the sliding tackle and blows for a foul. Manchester City are awarded a penalty. What an opportunity to score!"
+        },
+        {
+            "gameTime": "1 - 32:42",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "1 - 32:28",
+            "label": "",
+            "description": "Leroy Sane (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Manchester City have a corner."
+        },
+        {
+            "gameTime": "1 - 28:55",
+            "label": "soccer-ball",
+            "description": "Goal! Leroy Sane produces a great pass that finds David Silva (Manchester City) inside the penalty area, who takes advantage of the situation to rifle a shot into the bottom right corner. 1:0."
+        },
+        {
+            "gameTime": "1 - 27:00",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) overhits the corner kick and none of his teammates can their head on it."
+        },
+        {
+            "gameTime": "1 - 26:42",
+            "label": "",
+            "description": "Leroy Sane (Manchester City) collects a pass from the flank, looks up and fires in a goal bound shot from the edge of the box which canons off a defender to safety. It will be a corner kick for Manchester City."
+        },
+        {
+            "gameTime": "1 - 24:31",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 24:15",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. Good work from Manchester City as they win a corner."
+        },
+        {
+            "gameTime": "1 - 22:50",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "1 - 22:38",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot. Manchester City earn a corner."
+        },
+        {
+            "gameTime": "1 - 20:29",
+            "label": "",
+            "description": "The free kick is delivered by Marc Albrighton (Leicester) but it's not one of his best and is easily cleared."
+        },
+        {
+            "gameTime": "1 - 19:50",
+            "label": "",
+            "description": "Robert Madley blows his whistle after Gael Clichy (Manchester City) brings one of his opponents down with a strong tackle. Leicester earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "1 - 19:10",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "1 - 18:47",
+            "label": "",
+            "description": "A defender unwittingly blocks the ball on the line after a snap shot from Leroy Sane (Manchester City) inside the box following a slide rule pass. Manchester City will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 18:11",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 17:56",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Gael Clichy (Manchester City), is intercepted by the opposition's defence. Manchester City have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 13:58",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) fouls an opponent. At least that's what referee Robert Madley signals."
+        },
+        {
+            "gameTime": "1 - 10:31",
+            "label": "",
+            "description": "Marc Albrighton (Leicester) hits a stunning volley from about 21 metres out towards the middle of the goal, but Wilfredo Caballero is alert and makes a save."
+        },
+        {
+            "gameTime": "1 - 08:35",
+            "label": "",
+            "description": "Wilfred Ndidi (Leicester) finds enough space to climb high and plants a header way over the bar. What a poor effort."
+        },
+        {
+            "gameTime": "1 - 08:15",
+            "label": "corner",
+            "description": "Marc Albrighton (Leicester) steps up to send the ball in."
+        },
+        {
+            "gameTime": "1 - 07:55",
+            "label": "",
+            "description": "Benjamin Chilwell (Leicester) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Leicester win a corner kick."
+        },
+        {
+            "gameTime": "1 - 07:35",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) sends a teasing cross into the area, but Kasper Schmeichel intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 04:16",
+            "label": "",
+            "description": "Jamie Vardy (Leicester) collects a pass on the edge of the box and unleashes a low drive to the middle, but Wilfredo Caballero makes a save."
+        },
+        {
+            "gameTime": "1 - 03:29",
+            "label": "",
+            "description": "Fernandinho (Manchester City) was the quickest one to orientate himself inside the box and leaps to connect with a cross from the corner kick. He produces a fine header, but it flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 03:15",
+            "label": "corner",
+            "description": "Leroy Sane (Manchester City) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "1 - 03:06",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Leroy Sane (Manchester City). Manchester City get a corner."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Leicester will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Robert Madley was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There has been over 2.5 goals in 23 out of the 36 games that Leicester have played so far this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "In the 36 games that Manchester City have played so far this season, 25 have had over 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Manchester City will be looking to keep their unbeaten run of 5 matches."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The match has just finished."
+        }
+    ],
+    "gameAwayTeam": "Leicester",
+    "gameDate": "13/05/2017 - 14:30",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "2 - 1"
+}

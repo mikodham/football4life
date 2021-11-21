@@ -1,0 +1,570 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2016-02-07 - 19-00 Chelsea 1 - 1 Manchester United/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 51:14",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. It was a very tight match, with not much between the two teams. The home team tried to prevail using combination football, while the away side adopted a defensive style of play."
+        },
+        {
+            "gameTime": "2 - 51:13",
+            "label": "whistle",
+            "description": "That's it for today, Michael Oliver has blown his whistle and the game is over."
+        },
+        {
+            "gameTime": "2 - 50:50",
+            "label": "corner",
+            "description": "Willian (Chelsea) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "2 - 50:49",
+            "label": "",
+            "description": "Diego Costa (Chelsea) skips past a few defenders in the penalty area and strikes a low shot towards the left side of the goal, but the goalkeeper denies his effort with a superb save. The referee and one of his assistants signal for a corner kick to Chelsea."
+        },
+        {
+            "gameTime": "2 - 49:38",
+            "label": "substitution",
+            "description": "Substitution. Juan Manuel Mata did his best and is replaced by Ander Herrera (Manchester United)."
+        },
+        {
+            "gameTime": "2 - 48:11",
+            "label": "",
+            "description": "Willian (Chelsea) sends a cross into the box from the free kick, but David de Gea leaps into the air and clears the danger."
+        },
+        {
+            "gameTime": "2 - 47:54",
+            "label": "",
+            "description": "Morgan Schneiderlin (Manchester United) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul. Chelsea have a free kick."
+        },
+        {
+            "gameTime": "2 - 46:00",
+            "label": "soccer-ball",
+            "description": "Diego Costa (Chelsea) receives a great chance inside the box and finds the back of the net with a low drive that goes into the middle of the net."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 43:56",
+            "label": "",
+            "description": "Diego Costa (Chelsea) leaps high deep inside the box to meet a beautiful cross from the resultant free kick. He glances a header goalwards, but it's not accurate and goes narrowly over the bar."
+        },
+        {
+            "gameTime": "2 - 43:44",
+            "label": "",
+            "description": "Willian (Chelsea) takes a direct free kick."
+        },
+        {
+            "gameTime": "2 - 43:34",
+            "label": "",
+            "description": "Dangerous play by Matteo Darmian (Manchester United). Michael Oliver blows his whistle for a foul. That's a free kick to Chelsea."
+        },
+        {
+            "gameTime": "2 - 41:03",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Jesse Lingard leaves the pitch and Memphis Depay (Manchester United) comes on."
+        },
+        {
+            "gameTime": "2 - 40:16",
+            "label": "",
+            "description": "Pedro (Chelsea) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 39:28",
+            "label": "attendance",
+            "description": "The attendance for today's match is 41434."
+        },
+        {
+            "gameTime": "2 - 38:25",
+            "label": "corner",
+            "description": "Willian (Chelsea) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "2 - 38:14",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from John Terry (Chelsea). Chelsea have a corner."
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "",
+            "description": "The free kick from Willian (Chelsea) is cleared away from danger by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 37:30",
+            "label": "y-card",
+            "description": "Chris Smalling (Manchester United) receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 35:30",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Manchester United was in an offside position."
+        },
+        {
+            "gameTime": "2 - 34:18",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "2 - 33:53",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Jesse Lingard (Manchester United) was quite harsh and Michael Oliver didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "2 - 33:09",
+            "label": "substitution",
+            "description": "The referee signals a substitution. Morgan Schneiderlin (Manchester United) is brought on as a substitute for Marouane Fellaini."
+        },
+        {
+            "gameTime": "2 - 32:28",
+            "label": "",
+            "description": "Diego Costa (Chelsea) breaks past challenges inside the box, but puts too much pace on his pass to Eden Hazard."
+        },
+        {
+            "gameTime": "2 - 28:01",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) receives a lofted pass from the flank and shoots from close range, but the ball flies slightly wide, almost brushing the right hand post."
+        },
+        {
+            "gameTime": "2 - 27:46",
+            "label": "corner",
+            "description": "Cesc Fabregas (Chelsea) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "2 - 26:52",
+            "label": "",
+            "description": "Superb touch by Cesc Fabregas (Chelsea) as he receives a precise pass into the box. He finds the keeper prepared as he unleashes his shot towards the top right corner. Wonderful save! The referee blows his whistle, Chelsea are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 25:35",
+            "label": "corner",
+            "description": "Nothing comes of the resulting corner from Willian (Chelsea). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "2 - 24:56",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Willian (Chelsea) is cleared to safety by the defence. The referee and his assistant both point at the corner flag. Chelsea will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 24:55",
+            "label": "",
+            "description": "Pedro (Chelsea) sends a pass into the penalty area, but the opponent manages to cut it out. Chelsea have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 23:25",
+            "label": "",
+            "description": "Willian (Chelsea) sends a teasing cross into the area, but David de Gea intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 23:05",
+            "label": "corner",
+            "description": "Willian (Chelsea) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 22:43",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) gets to a rebound in front of goal and sends the ball towards the top left corner. However, he couldn't beat David de Gea, who shows his superb goalkeeping ability by pulling off a great save. The referee points to the corner flag and Chelsea will take a corner."
+        },
+        {
+            "gameTime": "2 - 21:44",
+            "label": "substitution",
+            "description": "Substitution. Pedro (Chelsea) has come on for Nemanja Matic."
+        },
+        {
+            "gameTime": "2 - 19:53",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) receives a pass and unleashes a shot which goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 19:34",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) attempted to pick out a free teammate inside the box, but Thibaut Courtois comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "2 - 18:59",
+            "label": "corner",
+            "description": "The resulting corner from Cesc Fabregas (Chelsea) is cleared."
+        },
+        {
+            "gameTime": "2 - 18:17",
+            "label": "",
+            "description": "Willian (Chelsea) delivers a poor cross from a free kick as one of the defenders comfortably clears it away. The ball is out of play. Chelsea win a corner kick."
+        },
+        {
+            "gameTime": "2 - 17:02",
+            "label": "y-card",
+            "description": "Yellow card. Daley Blind (Manchester United) goes into the book for a bad tackle on his opponent."
+        },
+        {
+            "gameTime": "2 - 15:26",
+            "label": "soccer-ball",
+            "description": "Fantastic team goal! Jesse Lingard (Manchester United) was set free in the area by Wayne Rooney and made no mistake with a lovely finish into the top right corner. 0:1."
+        },
+        {
+            "gameTime": "2 - 13:44",
+            "label": "substitution",
+            "description": "The manager has been forced to make a substitution and the injured Kurt Zouma leaves the pitch to be replaced by Gary Cahill (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 10:00",
+            "label": "injury",
+            "description": "Kurt Zouma (Chelsea) is writhing in pain and can now receive medical treatment after the referee decides to stop play."
+        },
+        {
+            "gameTime": "2 - 09:01",
+            "label": "substitution",
+            "description": "Oscar comes off the pitch to be replaced by Eden Hazard (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 08:35",
+            "label": "corner",
+            "description": "The resulting corner, taken by Daley Blind (Manchester United), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 08:17",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) picks up the rebound and shoots. The goalkeeper was ready and denies his effort with a fine save. The ball is out of play. Manchester United will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 07:48",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) receives a low pass just outside the box and unleashes a fine strike towards the right post. Thibaut Courtois pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "2 - 06:28",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "gameTime": "2 - 05:25",
+            "label": "",
+            "description": "What a huge chance for Anthony Martial (Manchester United). He collects a precise pass inside the box and slices a shot that goes a whisker wide of the left post."
+        },
+        {
+            "gameTime": "2 - 04:15",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) fashions a shot from the edge of the box after receiving an accurate pass. Thibaut Courtois makes a stunning save to stop the effort from flying into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 02:57",
+            "label": "",
+            "description": "Kurt Zouma (Chelsea) creates a good chance for himself and goes for goal from mid range, but the effort is well over the bar."
+        },
+        {
+            "gameTime": "2 - 01:45",
+            "label": "",
+            "description": "Wayne Rooney (Manchester United) after a cross wins the header inside the box and steers it goalwards, but Thibaut Courtois produces a wonderful reflex save."
+        },
+        {
+            "gameTime": "2 - 00:29",
+            "label": "",
+            "description": "Willian (Chelsea) attempted to pick out a free teammate inside the box, but David de Gea comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Michael Oliver blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 46:17",
+            "label": "",
+            "description": "The opening 45 minutes weren't very eventful and the game could be described as an average one. The visiting team dominated the first half in most aspects of the game, but the hosts will surely attempt to turn the situation in their favour. Both teams are attempting to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "1 - 46:16",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 46:00",
+            "label": "corner",
+            "description": "Willian (Chelsea) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "1 - 45:51",
+            "label": "",
+            "description": "John Terry (Chelsea) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 44:51",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "gameTime": "1 - 42:56",
+            "label": "",
+            "description": "The ball is cleared after Diego Costa (Chelsea) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 40:28",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) finds enough space to climb high and plants a header well wide of the left post. What a poor effort."
+        },
+        {
+            "gameTime": "1 - 39:45",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) steps up to send the ball in."
+        },
+        {
+            "gameTime": "1 - 39:19",
+            "label": "",
+            "description": "Jesse Lingard (Manchester United) races towards goal but the defender gets back well to make a challenge. The linesman points to the corner flag, Manchester United are going to take it."
+        },
+        {
+            "gameTime": "1 - 37:38",
+            "label": "",
+            "description": "Michael Oliver blows for a foul after Diego Costa (Chelsea) was too aggressive in the battle for the ball."
+        },
+        {
+            "gameTime": "1 - 36:25",
+            "label": "",
+            "description": "Oscar (Chelsea) was too forceful with his tackle and Michael Oliver interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "1 - 34:50",
+            "label": "",
+            "description": "Willian (Chelsea) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "1 - 32:30",
+            "label": "",
+            "description": "Oscar (Chelsea) latched on to an accurate pass deep into the box and attempted to fire the ball past the keeper, but the shot is way off target. What a miskick!"
+        },
+        {
+            "gameTime": "1 - 31:16",
+            "label": "",
+            "description": "Golden chance! Diego Costa (Chelsea) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post."
+        },
+        {
+            "gameTime": "1 - 30:15",
+            "label": "",
+            "description": "Cesc Fabregas (Chelsea) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 28:42",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) outjumps the defence to meet the resulting corner and heads the ball towards the left side of the goal. The long range header is not powerful enough, and the keeper comfortably makes a save."
+        },
+        {
+            "gameTime": "1 - 28:26",
+            "label": "corner",
+            "description": "Willian (Chelsea) goes over to take a corner kick after one of the defenders makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 28:10",
+            "label": "",
+            "description": "Branislav Ivanovic (Chelsea) tries to send a pass but it's blocked. Chelsea will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 26:02",
+            "label": "",
+            "description": "Diego Costa (Chelsea) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 25:42",
+            "label": "corner",
+            "description": "Willian (Chelsea) takes the corner."
+        },
+        {
+            "gameTime": "1 - 25:20",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) wastes a good opportunity as his pass into the box is blocked by the defence. The ball is out of play and the linesman points at the corner flag. Corner to Chelsea."
+        },
+        {
+            "gameTime": "1 - 24:43",
+            "label": "funfact",
+            "description": "The current number of corner kicks is 10:11."
+        },
+        {
+            "gameTime": "1 - 24:05",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "1 - 23:42",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Jesse Lingard (Manchester United). Manchester United get a corner."
+        },
+        {
+            "gameTime": "1 - 23:21",
+            "label": "",
+            "description": "Chris Smalling (Manchester United) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "1 - 23:09",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "1 - 22:36",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The ball goes out of play. Manchester United are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 22:25",
+            "label": "",
+            "description": "Anthony Martial (Manchester United) tries to send a low pass into the box, but it's blocked and cleared. The ball is out of play and Manchester United manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 21:45",
+            "label": "",
+            "description": "Anthony Martial (Manchester United) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "1 - 20:50",
+            "label": "",
+            "description": "A pass by Willian (Chelsea) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 19:47",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Willian (Chelsea) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "1 - 18:50",
+            "label": "",
+            "description": "Diego Costa (Chelsea) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 17:17",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Daley Blind (Manchester United), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "1 - 17:07",
+            "label": "",
+            "description": "Anthony Martial (Manchester United) produces a ferocious strike from the edge of the box. His dangerous effort towards the top right corner is blocked by Thibaut Courtois, who pulls off a superb save to keep the ball out of the net. Manchester United will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 15:25",
+            "label": "",
+            "description": "Oscar (Chelsea) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "gameTime": "1 - 12:47",
+            "label": "",
+            "description": "Michael Carrick (Manchester United) tries his luck with a long range effort after receiving a precise pass. It goes to the bottom right corner, but Thibaut Courtois has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "1 - 12:06",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "1 - 11:52",
+            "label": "",
+            "description": "Cameron Borthwick Jackson (Manchester United) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The linesman makes the right call and Manchester United will have a corner."
+        },
+        {
+            "gameTime": "1 - 10:38",
+            "label": "",
+            "description": "A pass by Oscar (Chelsea) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 10:20",
+            "label": "funfact",
+            "description": "The actual number of corner kicks in this match \u2013 10:11."
+        },
+        {
+            "gameTime": "1 - 09:04",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Daley Blind (Manchester United)."
+        },
+        {
+            "gameTime": "1 - 08:51",
+            "label": "",
+            "description": "Matteo Darmian (Manchester United) fails to find any of his teammates inside the box as his pass is blocked. Now Manchester United have a corner."
+        },
+        {
+            "gameTime": "1 - 07:40",
+            "label": "",
+            "description": "Cameron Borthwick Jackson (Manchester United) gets to the rebound outside the penalty box and unleashes a low shot from long range towards the middle of the net, but Thibaut Courtois makes a comfortable save to stop the effort."
+        },
+        {
+            "gameTime": "1 - 07:23",
+            "label": "corner",
+            "description": "The corner from Daley Blind (Manchester United) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 07:01",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Corner kick. Manchester United will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 06:33",
+            "label": "",
+            "description": "Manchester United keep the ball well and push forward with purpose, but here comes an interception from the opposition. Manchester United have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 05:07",
+            "label": "",
+            "description": "Nemanja Matic (Chelsea) makes a reckless foul in order to win the ball from his opponent. Michael Oliver has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 03:38",
+            "label": "corner",
+            "description": "Daley Blind (Manchester United) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "1 - 03:11",
+            "label": "",
+            "description": "Cameron Borthwick Jackson (Manchester United) sends a pass into the box, but his attempt is thwarted and cleared. Manchester United have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 02:49",
+            "label": "",
+            "description": "Marouane Fellaini (Manchester United) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 01:24",
+            "label": "",
+            "description": "Matteo Darmian (Manchester United) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 00:53",
+            "label": "",
+            "description": "The Manchester United players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Chelsea will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Michael Oliver will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was an attractive offensive game and the fans have no reason to be upset. It was a very tight match, with not much between the two teams. The home team tried to prevail using combination football, while the away side adopted a defensive style of play."
+        }
+    ],
+    "gameAwayTeam": "Manchester United",
+    "gameDate": "07/02/2016 - 19:00",
+    "gameHomeTeam": "Chelsea",
+    "gameScore": "1 - 1"
+}

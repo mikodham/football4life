@@ -1,0 +1,390 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "We can only hope that the managers will be able to motivate the players and spark them into life in the next games. The football on offer today has been disappointing. Neither of the teams had any obvious superiority in this game. Long balls and crosses were the main weapons of the home team. The away team tried to find the weakness in the opposition's defence especially with rapid counter attacks."
+        },
+        {
+            "gameTime": "2 - 48:04",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:26",
+            "label": "y-card",
+            "description": "Caution goes to Alessandro Diamanti (Palermo)."
+        },
+        {
+            "gameTime": "2 - 42:21",
+            "label": "",
+            "description": "Robin Quaison (Palermo) robs an opponent of the ball and explodes in anger when Paolo Mazzoleni blows for a foul."
+        },
+        {
+            "gameTime": "2 - 39:33",
+            "label": "substitution",
+            "description": "Roberto De Zerbi has decided to substitute Oscar Hiljemark and he is replaced by Robin Quaison (Palermo)."
+        },
+        {
+            "gameTime": "2 - 36:44",
+            "label": "soccer-ball",
+            "description": "Goal! Gianluca Lapadula (AC Milan) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the bottom left corner. He makes it 1:2."
+        },
+        {
+            "gameTime": "2 - 36:10",
+            "label": "corner",
+            "description": "Giacomo Bonaventura (AC Milan) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "2 - 36:05",
+            "label": "",
+            "description": "Suso (AC Milan) fires the ball to the top left corner, but Josip Posavec saves it. The referee points to the corner flag. It's a corner to AC Milan."
+        },
+        {
+            "gameTime": "2 - 34:57",
+            "label": "",
+            "description": "Ilija Nestorovski (Palermo) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 33:55",
+            "label": "substitution",
+            "description": "Substitution. Carlos Bacca is replaced by Gianluca Lapadula (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 33:24",
+            "label": "",
+            "description": "Paolo Mazzoleni blows his whistle. Thiago Rangel Cionek (Palermo) commits a foul after dangerous play."
+        },
+        {
+            "gameTime": "2 - 31:43",
+            "label": "corner",
+            "description": "Giacomo Bonaventura (AC Milan) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "2 - 29:39",
+            "label": "corner",
+            "description": "The resulting set piece from AC Milan is comfortably intercepted by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 26:23",
+            "label": "substitution",
+            "description": "Substitution. Juraj Kucka makes his way off the pitch and Andrea Poli (AC Milan) comes on as his replacement."
+        },
+        {
+            "gameTime": "2 - 25:31",
+            "label": "soccer-ball",
+            "description": "Ilija Nestorovski (Palermo) collects a delightful pass inside the box and nets with a perfect low drive into the middle of the goal. What a clinical finish!"
+        },
+        {
+            "gameTime": "2 - 23:59",
+            "label": "",
+            "description": "AC Milan enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "2 - 19:05",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from AC Milan was in an offside position."
+        },
+        {
+            "gameTime": "2 - 18:31",
+            "label": "y-card",
+            "description": "The foul by Thiago Rangel Cionek (Palermo) is worthy of a card and a yellow is duly shown by Paolo Mazzoleni."
+        },
+        {
+            "gameTime": "2 - 17:50",
+            "label": "substitution",
+            "description": "Mario Pasalic comes off the pitch to be replaced by Matias Fernandez (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 15:11",
+            "label": "",
+            "description": "Bruno Henrique (Palermo) has a shot blocked from inside the box."
+        },
+        {
+            "gameTime": "2 - 14:45",
+            "label": "",
+            "description": "AC Milan restart play with a quick free kick."
+        },
+        {
+            "gameTime": "2 - 14:38",
+            "label": "",
+            "description": "Paolo Mazzoleni interrupts the game. One of the players from Palermo won the ball, but his effort is adjudged unfair."
+        },
+        {
+            "gameTime": "2 - 13:17",
+            "label": "",
+            "description": "Bruno Henrique (Palermo) reacts well and displays good awareness inside the box to get on the end of the corner kick. He fails to direct the ball into the net as it flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 11:55",
+            "label": "substitution",
+            "description": "Roberto De Zerbi has decided to introduce fresh legs, with Simone Lo Faso (Palermo) replacing Carlos Embalo."
+        },
+        {
+            "gameTime": "2 - 11:29",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Alessandro Diamanti (Palermo) coming on for Roland Sallai."
+        },
+        {
+            "gameTime": "2 - 11:05",
+            "label": "corner",
+            "description": "Palermo have a corner."
+        },
+        {
+            "gameTime": "2 - 10:52",
+            "label": "",
+            "description": "Bruno Henrique (Palermo) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 08:07",
+            "label": "",
+            "description": "Carlos Embalo (Palermo) is the one to unleash a good effort towards the right post. His shot, however, is saved by the goalkeeper. What a save!"
+        },
+        {
+            "gameTime": "2 - 06:41",
+            "label": "",
+            "description": "Thiago Rangel Cionek (Palermo) should know this behaviour is beyond the rules. He was too careless with his challenge and left Paolo Mazzoleni no option but to blow his whistle."
+        },
+        {
+            "gameTime": "2 - 04:22",
+            "label": "corner",
+            "description": "Palermo have a chance to score from a corner kick, but the ball is cleared by a defender."
+        },
+        {
+            "gameTime": "2 - 04:02",
+            "label": "",
+            "description": "Thiago Rangel Cionek (Palermo) sends a sweet pass into the penalty area, but one of the defenders averts the danger. Now Palermo have a corner."
+        },
+        {
+            "gameTime": "2 - 02:27",
+            "label": "",
+            "description": "Oscar Hiljemark (Palermo) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 02:19",
+            "label": "",
+            "description": "A player from AC Milan commits a rough challenge. Paolo Mazzoleni blows for a foul and keeps the game under control."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Paolo Mazzoleni blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. We are witnessing quite a balanced game with both teams struggling to prevail. Long balls and crosses are the strongest weapons of the home team, while their opponents favour possession football."
+        },
+        {
+            "gameTime": "1 - 46:03",
+            "label": "whistle",
+            "description": "The end of the first half."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 43:01",
+            "label": "corner",
+            "description": "AC Milan take the corner, but their hopes of scoring a goal end with nice clearance by the defence."
+        },
+        {
+            "gameTime": "1 - 42:05",
+            "label": "",
+            "description": "A player from Palermo commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 38:04",
+            "label": "",
+            "description": "Josip Posavec (Palermo) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "1 - 37:11",
+            "label": "injury",
+            "description": "Josip Posavec (Palermo) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 35:45",
+            "label": "corner",
+            "description": "Roland Sallai (Palermo) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 35:23",
+            "label": "",
+            "description": "Oscar Hiljemark (Palermo) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The ball goes out of play and Palermo have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 31:38",
+            "label": "corner",
+            "description": "A corner kick by Palermo is thwarted by the well prepared Gianluigi Donnarumma (AC Milan)."
+        },
+        {
+            "gameTime": "1 - 31:10",
+            "label": "",
+            "description": "Alessandro Gazzi (Palermo) shoots from outside the box, but his effort is blocked. The ball is out of play. Palermo win a corner kick."
+        },
+        {
+            "gameTime": "1 - 27:40",
+            "label": "corner",
+            "description": "The corner from Giacomo Bonaventura (AC Milan) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 25:40",
+            "label": "y-card",
+            "description": "Mattia De Sciglio (AC Milan) is awarded a yellow card for his behaviour."
+        },
+        {
+            "gameTime": "1 - 23:50",
+            "label": "",
+            "description": "Thiago Rangel Cionek (Palermo) rises above the defence to meet the corner. His timing is good, but he directs his header just a few inches over the bar."
+        },
+        {
+            "gameTime": "1 - 23:46",
+            "label": "corner",
+            "description": "Good work from Palermo as they win a corner."
+        },
+        {
+            "gameTime": "1 - 22:38",
+            "label": "",
+            "description": "Josip Posavec hears the fans clapping his superb goalkeeping. Carlos Bacca (AC Milan) shoots from the edge of the box towards the left side of the goal, but the goalkeeper makes a magnificent save."
+        },
+        {
+            "gameTime": "1 - 20:02",
+            "label": "",
+            "description": "Gianluigi Donnarumma reacts well to deny a long range free kick from Carlos Embalo (Palermo) towards the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 19:07",
+            "label": "",
+            "description": "Juraj Kucka (AC Milan) makes a rough challenge and the referee blows for a foul."
+        },
+        {
+            "gameTime": "1 - 18:53",
+            "label": "corner",
+            "description": "Palermo didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "gameTime": "1 - 18:36",
+            "label": "",
+            "description": "Roland Sallai (Palermo) fails to send a pass into the box as his effort is cut out. The referee signals a corner kick to Palermo."
+        },
+        {
+            "gameTime": "1 - 14:07",
+            "label": "soccer-ball",
+            "description": "Suso (AC Milan) struck from medium range. He smashed the ball inside the left post. What a hit! Pure magic."
+        },
+        {
+            "gameTime": "1 - 13:51",
+            "label": "",
+            "description": "Palermo couldn't find the way to score from a mid range free kick as Gianluigi Donnarumma (AC Milan) leaped high and intercepted the cross."
+        },
+        {
+            "gameTime": "1 - 13:09",
+            "label": "",
+            "description": "One of the AC Milan players unfairly tackled his opponent and conceded a foul."
+        },
+        {
+            "gameTime": "1 - 12:14",
+            "label": "",
+            "description": "A brilliant individual effort! Giacomo Bonaventura (AC Milan) tricks his way past challenges into the box and drags his shot narrowly wide of the right post."
+        },
+        {
+            "gameTime": "1 - 10:58",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) misses a great opportunity to convert the free kick from the edge of the penalty box after firing the ball high over the crossbar of the goal."
+        },
+        {
+            "gameTime": "1 - 10:03",
+            "label": "",
+            "description": "Thiago Rangel Cionek (Palermo) tackles a bit over zealously and Paolo Mazzoleni blows for a foul. AC Milan are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "1 - 09:19",
+            "label": "",
+            "description": "Mario Pasalic (AC Milan) sends a long ball across the pitch, but it misses its target. The ball goes out of play and Palermo will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 09:10",
+            "label": "",
+            "description": "AC Milan continue the game with a quickly taken free kick."
+        },
+        {
+            "gameTime": "1 - 08:17",
+            "label": "",
+            "description": "Palermo are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block."
+        },
+        {
+            "gameTime": "1 - 04:10",
+            "label": "",
+            "description": "Flag goes up against Carlos Bacca (AC Milan) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 03:53",
+            "label": "",
+            "description": "Oscar Hiljemark (Palermo) knocks his opponent down with an over the top tackle."
+        },
+        {
+            "gameTime": "1 - 03:12",
+            "label": "",
+            "description": "A cross from a mid range free kick, taken by AC Milan, is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 02:27",
+            "label": "",
+            "description": "Thiago Rangel Cionek (Palermo) trips an opponent with a slide tackle. Paolo Mazzoleni stops the game and he could give him a card, but eventually decides on just a warning. Free kick. AC Milan will probably just try to cross the ball in from here."
+        },
+        {
+            "gameTime": "1 - 01:22",
+            "label": "",
+            "description": "Manuel Locatelli (AC Milan) sends over a cross, but he can't find any teammate inside the box. Poor delivery."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Paolo Mazzoleni."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Carlos Bacca from AC Milan will look to add to his goal tally, he has netted 6 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Palermo have not tasted victory over their past 6 matches."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We can only hope that the managers will be able to motivate the players and spark them into life in the next games. The football on offer today has been disappointing. Neither of the teams had any obvious superiority in this game. Long balls and crosses were the main weapons of the home team. The away team tried to find the weakness in the opposition's defence especially with rapid counter attacks."
+        }
+    ],
+    "gameAwayTeam": "AC Milan",
+    "gameDate": "06/11/2016 - 17:00",
+    "gameHomeTeam": "Palermo",
+    "gameScore": "1 - 2"
+}

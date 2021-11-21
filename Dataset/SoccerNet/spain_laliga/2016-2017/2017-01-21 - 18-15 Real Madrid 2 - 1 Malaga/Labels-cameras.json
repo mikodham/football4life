@@ -1,0 +1,5279 @@
+{
+    "UrlLocal": "spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 00:00",
+            "label": "Spider camera",
+            "position": "803",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 00:45",
+            "label": "Main camera center",
+            "position": "45183",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 00:46",
+            "label": "Close-up player or field referee",
+            "position": "46640",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 00:56",
+            "label": "Main camera center",
+            "position": "56846",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 00:59",
+            "label": "Close-up player or field referee",
+            "position": "59163",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 01:01",
+            "label": "Close-up player or field referee",
+            "position": "61194",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 01:06",
+            "label": "Close-up side staff",
+            "position": "66516",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 01:09",
+            "label": "Main camera center",
+            "position": "69463",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 01:11",
+            "label": "Close-up player or field referee",
+            "position": "71948",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 01:46",
+            "label": "Main camera center",
+            "position": "106107",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 01:47",
+            "label": "Close-up player or field referee",
+            "position": "107866",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 01:51",
+            "label": "Close-up player or field referee",
+            "position": "111223",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 01:56",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "102388",
+                "team": "away",
+                "time": "01:42",
+                "visibility": "visible"
+            },
+            "position": "116929",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 02:03",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "102388",
+                "team": "away",
+                "time": "01:42",
+                "visibility": "visible"
+            },
+            "position": "123018",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 02:09",
+            "label": "Main camera center",
+            "position": "129547",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 02:18",
+            "label": "Close-up player or field referee",
+            "position": "138058",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 03:00",
+            "label": "Main camera center",
+            "position": "180569",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 03:02",
+            "label": "Close-up player or field referee",
+            "position": "182942",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 03:07",
+            "label": "Close-up side staff",
+            "position": "187594",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 03:14",
+            "label": "Main camera center",
+            "position": "194869",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 03:17",
+            "label": "Close-up player or field referee",
+            "position": "197661",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 03:46",
+            "label": "Main camera center",
+            "position": "226888",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 03:49",
+            "label": "Close-up player or field referee",
+            "position": "229196",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 04:03",
+            "label": "Main camera center",
+            "position": "243876",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:05",
+            "label": "Close-up player or field referee",
+            "position": "245719",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 04:15",
+            "label": "Main camera center",
+            "position": "255173",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:20",
+            "label": "Close-up player or field referee",
+            "position": "260370",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:22",
+            "label": "Close-up side staff",
+            "position": "262124",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:25",
+            "label": "Public",
+            "position": "265762",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:29",
+            "label": "Main camera center",
+            "position": "269032",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:31",
+            "label": "Close-up player or field referee",
+            "position": "271561",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 04:59",
+            "label": "Main camera center",
+            "position": "299226",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 05:02",
+            "label": "Close-up player or field referee",
+            "position": "302284",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 05:58",
+            "label": "Main camera center",
+            "position": "358678",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 06:00",
+            "label": "Close-up player or field referee",
+            "position": "360380",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 06:02",
+            "label": "Close-up player or field referee",
+            "position": "362654",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 06:11",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "357422",
+                "team": "not applicable",
+                "time": "05:57",
+                "visibility": "visible"
+            },
+            "position": "371483",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 06:22",
+            "label": "Main camera center",
+            "position": "382834",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 06:25",
+            "label": "Close-up player or field referee",
+            "position": "385229",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 06:26",
+            "label": "Close-up player or field referee",
+            "position": "386502",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 06:37",
+            "label": "Main camera center",
+            "position": "397790",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 06:41",
+            "label": "Close-up player or field referee",
+            "position": "401341",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 06:47",
+            "label": "Main camera center",
+            "position": "407172",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 06:48",
+            "label": "Close-up player or field referee",
+            "position": "408534",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 07:17",
+            "label": "Main camera center",
+            "position": "437129",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 07:19",
+            "label": "Close-up player or field referee",
+            "position": "439553",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 07:58",
+            "label": "Main camera center",
+            "position": "478484",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 07:59",
+            "label": "Close-up player or field referee",
+            "position": "479548",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 08:01",
+            "label": "Close-up player or field referee",
+            "position": "481939",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:09",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Offside",
+                "position": "473664",
+                "team": "home",
+                "time": "07:53",
+                "visibility": "visible"
+            },
+            "position": "489129",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:15",
+            "label": "Close-up player or field referee",
+            "position": "495624",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 08:20",
+            "label": "Close-up player or field referee",
+            "position": "500050",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:22",
+            "label": "Main camera center",
+            "position": "502447",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:25",
+            "label": "Close-up player or field referee",
+            "position": "505237",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:26",
+            "label": "Close-up player or field referee",
+            "position": "506308",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 08:40",
+            "label": "Main camera center",
+            "position": "520756",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:53",
+            "label": "Close-up player or field referee",
+            "position": "533847",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 08:57",
+            "label": "Main camera center",
+            "position": "537558",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 08:59",
+            "label": "Close-up player or field referee",
+            "position": "539766",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 09:02",
+            "label": "Close-up player or field referee",
+            "position": "542027",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 09:04",
+            "label": "Close-up player or field referee",
+            "position": "544146",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 09:19",
+            "label": "Main camera center",
+            "position": "559925",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 09:22",
+            "label": "Close-up player or field referee",
+            "position": "562043",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 09:31",
+            "label": "Main camera center",
+            "position": "571634",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 09:34",
+            "label": "Close-up player or field referee",
+            "position": "574878",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 09:45",
+            "label": "Main camera center",
+            "position": "585283",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 09:48",
+            "label": "Close-up player or field referee",
+            "position": "588546",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 10:05",
+            "label": "Main camera center",
+            "position": "605800",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 10:07",
+            "label": "Close-up player or field referee",
+            "position": "607511",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 10:23",
+            "label": "Main camera center",
+            "position": "623534",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 10:25",
+            "label": "Close-up player or field referee",
+            "position": "625296",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 10:29",
+            "label": "Main camera center",
+            "position": "629561",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 10:32",
+            "label": "Close-up player or field referee",
+            "position": "632068",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 10:37",
+            "label": "Close-up player or field referee",
+            "position": "637724",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 10:40",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "627876",
+                "team": "not applicable",
+                "time": "10:27",
+                "visibility": "visible"
+            },
+            "position": "640898",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 10:55",
+            "label": "Other",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "627876",
+                "team": "not applicable",
+                "time": "10:27",
+                "visibility": "visible"
+            },
+            "position": "655944",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 11:06",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "664564",
+                "team": "not applicable",
+                "time": "11:04",
+                "visibility": "not shown"
+            },
+            "position": "666142",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 12:01",
+            "label": "Main camera center",
+            "position": "721949",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 12:06",
+            "label": "Close-up player or field referee",
+            "position": "726859",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 12:31",
+            "label": "Main camera center",
+            "position": "751648",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 12:35",
+            "label": "Close-up player or field referee",
+            "position": "755310",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 12:44",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "677592",
+                "team": "home",
+                "time": "11:17",
+                "visibility": "visible"
+            },
+            "position": "764638",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 13:16",
+            "label": "Main camera center",
+            "position": "796093",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 13:17",
+            "label": "Close-up player or field referee",
+            "position": "797176",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 13:21",
+            "label": "Main camera center",
+            "position": "801958",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 13:24",
+            "label": "Close-up player or field referee",
+            "position": "804269",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 13:27",
+            "label": "Close-up player or field referee",
+            "position": "807232",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 13:33",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Offside",
+                "position": "798567",
+                "team": "home",
+                "time": "13:18",
+                "visibility": "visible"
+            },
+            "position": "813790",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 13:41",
+            "label": "Spider camera",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "677592",
+                "team": "home",
+                "time": "11:17",
+                "visibility": "visible"
+            },
+            "position": "821179",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 13:50",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "677592",
+                "team": "home",
+                "time": "11:17",
+                "visibility": "visible"
+            },
+            "position": "830332",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 13:53",
+            "label": "Close-up player or field referee",
+            "position": "833966",
+            "replay": "other"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 14:03",
+            "label": "Main camera center",
+            "position": "843423",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 14:04",
+            "label": "Close-up player or field referee",
+            "position": "844685",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 14:07",
+            "label": "Close-up player or field referee",
+            "position": "847040",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 14:25",
+            "label": "Main camera center",
+            "position": "865739",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 14:27",
+            "label": "Close-up player or field referee",
+            "position": "867241",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 14:32",
+            "label": "Main camera center",
+            "position": "872841",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 14:35",
+            "label": "Close-up player or field referee",
+            "position": "875171",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 14:37",
+            "label": "Close-up side staff",
+            "position": "877687",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 14:46",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "872267",
+                "team": "not applicable",
+                "time": "14:32",
+                "visibility": "visible"
+            },
+            "position": "886232",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 14:50",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "872267",
+                "team": "not applicable",
+                "time": "14:32",
+                "visibility": "visible"
+            },
+            "position": "890601",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 14:59",
+            "label": "Close-up player or field referee",
+            "position": "899175",
+            "replay": "other"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 15:18",
+            "label": "Main camera center",
+            "position": "918076",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 15:20",
+            "label": "Close-up player or field referee",
+            "position": "920447",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 15:38",
+            "label": "Main camera center",
+            "position": "938645",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 15:40",
+            "label": "Close-up player or field referee",
+            "position": "940347",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 15:42",
+            "label": "Close-up player or field referee",
+            "position": "942653",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 15:54",
+            "label": "Main camera center",
+            "position": "954884",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 15:59",
+            "label": "Main behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "952227",
+                "team": "not applicable",
+                "time": "15:52",
+                "visibility": "visible"
+            },
+            "position": "959739",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 16:05",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "936486",
+                "team": "not applicable",
+                "time": "15:36",
+                "visibility": "visible"
+            },
+            "position": "965159",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 16:17",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "936486",
+                "team": "not applicable",
+                "time": "15:36",
+                "visibility": "visible"
+            },
+            "position": "977144",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 16:21",
+            "label": "Inside the goal",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "936486",
+                "team": "not applicable",
+                "time": "15:36",
+                "visibility": "visible"
+            },
+            "position": "981256",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 17:11",
+            "label": "Main camera center",
+            "position": "1031195",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 17:12",
+            "label": "Close-up player or field referee",
+            "position": "1032944",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 17:22",
+            "label": "Main camera center",
+            "position": "1042648",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 17:25",
+            "label": "Close-up player or field referee",
+            "position": "1045374",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 17:32",
+            "label": "Spider camera",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1037032",
+                "team": "away",
+                "time": "17:17",
+                "visibility": "visible"
+            },
+            "position": "1052035",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 17:51",
+            "label": "Main camera center",
+            "position": "1071280",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 17:56",
+            "label": "Close-up player or field referee",
+            "position": "1076186",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 18:00",
+            "label": "Main camera center",
+            "position": "1080135",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 18:03",
+            "label": "Close-up side staff",
+            "position": "1083493",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 18:27",
+            "label": "Main camera center",
+            "position": "1107155",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 18:29",
+            "label": "Close-up player or field referee",
+            "position": "1109407",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 18:54",
+            "label": "Main camera center",
+            "position": "1134847",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 18:57",
+            "label": "Close-up player or field referee",
+            "position": "1137308",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 19:15",
+            "label": "Main camera center",
+            "position": "1155867",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 19:17",
+            "label": "Close-up player or field referee",
+            "position": "1157473",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 19:22",
+            "label": "Main behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1104330",
+                "team": "away",
+                "time": "18:24",
+                "visibility": "visible"
+            },
+            "position": "1162697",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 19:28",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1104330",
+                "team": "away",
+                "time": "18:24",
+                "visibility": "visible"
+            },
+            "position": "1168632",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 19:34",
+            "label": "Main camera center",
+            "position": "1174680",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 19:36",
+            "label": "Close-up player or field referee",
+            "position": "1176967",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 19:39",
+            "label": "Main camera center",
+            "position": "1179839",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 19:43",
+            "label": "Close-up player or field referee",
+            "position": "1183042",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 20:10",
+            "label": "Main camera center",
+            "position": "1210444",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 20:12",
+            "label": "Close-up player or field referee",
+            "position": "1212397",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 20:17",
+            "label": "Main camera center",
+            "position": "1217267",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 20:24",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1104330",
+                "team": "away",
+                "time": "18:24",
+                "visibility": "visible"
+            },
+            "position": "1224131",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 20:27",
+            "label": "Inside the goal",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1104330",
+                "team": "away",
+                "time": "18:24",
+                "visibility": "visible"
+            },
+            "position": "1227169",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 20:29",
+            "label": "Close-up player or field referee",
+            "position": "1229694",
+            "replay": "other"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 20:56",
+            "label": "Main camera center",
+            "position": "1256811",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 21:01",
+            "label": "Close-up player or field referee",
+            "position": "1261131",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 21:21",
+            "label": "Main camera center",
+            "position": "1281231",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 21:22",
+            "label": "Close-up player or field referee",
+            "position": "1282967",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 21:26",
+            "label": "Main camera center",
+            "position": "1286605",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 21:29",
+            "label": "Close-up player or field referee",
+            "position": "1289020",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 21:30",
+            "label": "Close-up player or field referee",
+            "position": "1290936",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 21:36",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "1281698",
+                "team": "away",
+                "time": "21:21",
+                "visibility": "visible"
+            },
+            "position": "1296747",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 21:51",
+            "label": "Main camera center",
+            "position": "1311122",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 21:53",
+            "label": "Close-up player or field referee",
+            "position": "1313346",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 22:15",
+            "label": "Main camera center",
+            "position": "1335400",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 22:17",
+            "label": "Close-up player or field referee",
+            "position": "1337537",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 22:31",
+            "label": "Main camera center",
+            "position": "1351564",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 22:37",
+            "label": "Close-up player or field referee",
+            "position": "1357993",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 22:42",
+            "label": "Close-up side staff",
+            "position": "1362825",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 22:45",
+            "label": "Close-up player or field referee",
+            "position": "1365945",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 22:49",
+            "label": "Public",
+            "position": "1369320",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 22:56",
+            "label": "Close-up player or field referee",
+            "position": "1376847",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 23:01",
+            "label": "Main camera center",
+            "position": "1381140",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 23:05",
+            "label": "Close-up side staff",
+            "position": "1385997",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 23:11",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "1281698",
+                "team": "away",
+                "time": "21:21",
+                "visibility": "visible"
+            },
+            "position": "1391709",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 23:18",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "1281698",
+                "team": "away",
+                "time": "21:21",
+                "visibility": "visible"
+            },
+            "position": "1398659",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 23:20",
+            "label": "Main camera center",
+            "position": "1400242",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 23:26",
+            "label": "Close-up player or field referee",
+            "position": "1406573",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 23:43",
+            "label": "Main camera center",
+            "position": "1423090",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 23:44",
+            "label": "Close-up player or field referee",
+            "position": "1424825",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 24:02",
+            "label": "Main camera center",
+            "position": "1442733",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 24:08",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1426149",
+                "team": "home",
+                "time": "23:46",
+                "visibility": "visible"
+            },
+            "position": "1448585",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 24:16",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Shots on target",
+                "position": "1426149",
+                "team": "home",
+                "time": "23:46",
+                "visibility": "visible"
+            },
+            "position": "1456467",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 24:31",
+            "label": "Main camera center",
+            "position": "1471755",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 24:34",
+            "label": "Close-up player or field referee",
+            "position": "1474254",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 24:40",
+            "label": "Main camera right",
+            "link": {
+                "half": "1",
+                "label": "Offside",
+                "position": "1465658",
+                "team": "away",
+                "time": "24:25",
+                "visibility": "visible"
+            },
+            "position": "1480524",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 24:42",
+            "label": "Main camera center",
+            "position": "1482429",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 24:46",
+            "label": "Close-up player or field referee",
+            "position": "1486315",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 24:48",
+            "label": "Close-up player or field referee",
+            "position": "1488893",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 24:51",
+            "label": "Public",
+            "position": "1491485",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 24:55",
+            "label": "Close-up side staff",
+            "position": "1495117",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 24:58",
+            "label": "Main camera center",
+            "position": "1498737",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 25:04",
+            "label": "Close-up side staff",
+            "position": "1504999",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 25:37",
+            "label": "Main camera center",
+            "position": "1537954",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 25:41",
+            "label": "Close-up player or field referee",
+            "position": "1541985",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 25:44",
+            "label": "Public",
+            "position": "1544152",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 25:49",
+            "label": "Main behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "1535149",
+                "team": "not applicable",
+                "time": "25:35",
+                "visibility": "visible"
+            },
+            "position": "1549323",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 25:55",
+            "label": "Main camera center",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "1554552",
+                "team": "not applicable",
+                "time": "25:54",
+                "visibility": "not shown"
+            },
+            "position": "1555671",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 26:00",
+            "label": "Main camera center",
+            "position": "1560319",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 26:06",
+            "label": "Close-up side staff",
+            "position": "1566367",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 26:10",
+            "label": "Public",
+            "position": "1570079",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 27:20",
+            "label": "Main camera center",
+            "position": "1640637",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 27:22",
+            "label": "Close-up player or field referee",
+            "position": "1642153",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:21",
+            "label": "Main camera center",
+            "position": "1701737",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 28:23",
+            "label": "Close-up side staff",
+            "position": "1703591",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:30",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "1281698",
+                "team": "away",
+                "time": "21:21",
+                "visibility": "visible"
+            },
+            "position": "1710173",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:33",
+            "label": "Close-up side staff",
+            "position": "1713351",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 28:38",
+            "label": "Close-up player or field referee",
+            "position": "1718310",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:44",
+            "label": "Main camera center",
+            "position": "1724653",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:48",
+            "label": "Close-up player or field referee",
+            "position": "1728624",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:53",
+            "label": "Main camera center",
+            "position": "1733191",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 28:59",
+            "label": "Inside the goal",
+            "position": "1739685",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 29:04",
+            "label": "Main camera center",
+            "position": "1744382",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:09",
+            "label": "Close-up player or field referee",
+            "position": "1749615",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:19",
+            "label": "Main camera center",
+            "position": "1759069",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:21",
+            "label": "Close-up player or field referee",
+            "position": "1761088",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 29:24",
+            "label": "Close-up player or field referee",
+            "position": "1764619",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 29:30",
+            "label": "Inside the goal",
+            "position": "1770305",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 29:34",
+            "label": "Close-up player or field referee",
+            "position": "1774459",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 29:39",
+            "label": "Inside the goal",
+            "position": "1779709",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:44",
+            "label": "Spider camera",
+            "position": "1784208",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 29:46",
+            "label": "Close-up corner",
+            "position": "1786834",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:49",
+            "label": "Inside the goal",
+            "position": "1789030",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:50",
+            "label": "Close-up player or field referee",
+            "position": "1790193",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 29:57",
+            "label": "Main camera center",
+            "position": "1797262",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 30:01",
+            "label": "Close-up player or field referee",
+            "position": "1801283",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 30:03",
+            "label": "Close-up player or field referee",
+            "position": "1803549",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 30:05",
+            "label": "Main camera center",
+            "position": "1805394",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 30:11",
+            "label": "Spider camera",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "1793606",
+                "team": "not applicable",
+                "time": "29:53",
+                "visibility": "visible"
+            },
+            "position": "1811032",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 30:15",
+            "label": "Inside the goal",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "1793606",
+                "team": "not applicable",
+                "time": "29:53",
+                "visibility": "visible"
+            },
+            "position": "1815396",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 30:50",
+            "label": "Main camera center",
+            "position": "1850706",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 30:52",
+            "label": "Close-up player or field referee",
+            "position": "1852657",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 31:03",
+            "label": "Main camera center",
+            "position": "1863636",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 31:05",
+            "label": "Close-up player or field referee",
+            "position": "1865990",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 31:09",
+            "label": "Main camera center",
+            "position": "1869382",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 31:11",
+            "label": "Close-up player or field referee",
+            "position": "1871983",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 31:13",
+            "label": "Close-up player or field referee",
+            "position": "1873971",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 31:20",
+            "label": "Main camera center",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "1867681",
+                "team": "not applicable",
+                "time": "31:07",
+                "visibility": "visible"
+            },
+            "position": "1880245",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 31:23",
+            "label": "Main camera center",
+            "position": "1883688",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 31:27",
+            "label": "Inside the goal",
+            "position": "1887133",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 31:28",
+            "label": "Close-up player or field referee",
+            "position": "1888829",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 31:53",
+            "label": "Main camera center",
+            "position": "1913672",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 31:55",
+            "label": "Close-up player or field referee",
+            "position": "1915386",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 31:58",
+            "label": "Close-up player or field referee",
+            "position": "1918329",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:02",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "1910383",
+                "team": "away",
+                "time": "31:50",
+                "visibility": "visible"
+            },
+            "position": "1922128",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:09",
+            "label": "Close-up player or field referee",
+            "position": "1929073",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 32:13",
+            "label": "Close-up side staff",
+            "position": "1933012",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:42",
+            "label": "Main camera center",
+            "position": "1962294",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:44",
+            "label": "Close-up player or field referee",
+            "position": "1964122",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:48",
+            "label": "Close-up player or field referee",
+            "position": "1968682",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 32:50",
+            "label": "Close-up player or field referee",
+            "position": "1970593",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:54",
+            "label": "Main camera center",
+            "position": "1974469",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 32:56",
+            "label": "Close-up player or field referee",
+            "position": "1976822",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 32:58",
+            "label": "Close-up player or field referee",
+            "position": "1978317",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 33:01",
+            "label": "Close-up player or field referee",
+            "position": "1981313",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:11",
+            "label": "Main camera center",
+            "position": "1991954",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:14",
+            "label": "Close-up player or field referee",
+            "position": "1994548",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 33:21",
+            "label": "Main camera center",
+            "position": "2001971",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:28",
+            "label": "Close-up player or field referee",
+            "position": "2008780",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:32",
+            "label": "Main camera center",
+            "position": "2012574",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 33:36",
+            "label": "Close-up side staff",
+            "position": "2016805",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 33:39",
+            "label": "Close-up player or field referee",
+            "position": "2019109",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:43",
+            "label": "Close-up player or field referee",
+            "position": "2023877",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:46",
+            "label": "Close-up player or field referee",
+            "position": "2026572",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 33:56",
+            "label": "Main camera center",
+            "position": "2036062",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 33:57",
+            "label": "Close-up player or field referee",
+            "position": "2037350",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 34:27",
+            "label": "Main camera center",
+            "position": "2067228",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 34:30",
+            "label": "Close-up player or field referee",
+            "position": "2070312",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 34:38",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Ball out of play",
+                "position": "2062610",
+                "team": "not applicable",
+                "time": "34:22",
+                "visibility": "visible"
+            },
+            "position": "2078561",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 34:41",
+            "label": "Main camera center",
+            "position": "2081982",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 34:44",
+            "label": "Close-up player or field referee",
+            "position": "2084945",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 34:47",
+            "label": "Close-up player or field referee",
+            "position": "2087047",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 34:54",
+            "label": "Main camera center",
+            "position": "2094455",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 34:57",
+            "label": "Close-up player or field referee",
+            "position": "2097670",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 34:59",
+            "label": "Public",
+            "position": "2099433",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 35:01",
+            "label": "Close-up player or field referee",
+            "position": "2101951",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:06",
+            "label": "Public",
+            "position": "2106698",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 35:14",
+            "label": "Close-up player or field referee",
+            "position": "2114785",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:17",
+            "label": "Public",
+            "position": "2117489",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:21",
+            "label": "Close-up player or field referee",
+            "position": "2121091",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 35:26",
+            "label": "Close-up player or field referee",
+            "position": "2126996",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:33",
+            "label": "Spider camera",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2133266",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:38",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2138497",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:43",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2143265",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 35:47",
+            "label": "Inside the goal",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2147719",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 35:55",
+            "label": "Close-up player or field referee",
+            "position": "2155970",
+            "replay": "other"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 36:31",
+            "label": "Main camera center",
+            "position": "2191032",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 36:38",
+            "label": "Close-up player or field referee",
+            "position": "2198356",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 36:42",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "2186336",
+                "team": "home",
+                "time": "36:26",
+                "visibility": "visible"
+            },
+            "position": "2202084",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 36:47",
+            "label": "Main camera center",
+            "position": "2207569",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 36:49",
+            "label": "Close-up player or field referee",
+            "position": "2209856",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 36:54",
+            "label": "Close-up player or field referee",
+            "position": "2214164",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 36:57",
+            "label": "Inside the goal",
+            "position": "2217364",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 37:13",
+            "label": "Main camera center",
+            "position": "2233515",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 37:16",
+            "label": "Close-up player or field referee",
+            "position": "2236198",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 37:20",
+            "label": "Main camera center",
+            "position": "2240292",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "other",
+            "gameTime": "1 - 37:26",
+            "label": "Close-up side staff",
+            "position": "2246217",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 37:46",
+            "label": "Main camera center",
+            "position": "2266585",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 37:48",
+            "label": "Close-up player or field referee",
+            "position": "2268908",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 37:53",
+            "label": "Close-up player or field referee",
+            "position": "2273342",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 38:16",
+            "label": "Main camera center",
+            "position": "2296705",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 38:21",
+            "label": "Close-up player or field referee",
+            "position": "2301783",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 38:24",
+            "label": "Close-up player or field referee",
+            "position": "2304082",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 38:28",
+            "label": "Close-up player or field referee",
+            "position": "2308802",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 38:35",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "2291530",
+                "team": "away",
+                "time": "38:11",
+                "visibility": "visible"
+            },
+            "position": "2315168",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 38:39",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "2291530",
+                "team": "away",
+                "time": "38:11",
+                "visibility": "visible"
+            },
+            "position": "2319247",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 38:41",
+            "label": "Main camera center",
+            "position": "2321515",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 38:47",
+            "label": "Close-up behind the goal",
+            "position": "2327520",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 38:48",
+            "label": "Close-up player or field referee",
+            "position": "2328484",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 38:51",
+            "label": "Close-up player or field referee",
+            "position": "2331747",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:00",
+            "label": "Main camera center",
+            "position": "2340648",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 39:04",
+            "label": "Close-up player or field referee",
+            "position": "2344438",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 39:09",
+            "label": "Close-up side staff",
+            "position": "2349035",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 39:15",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Offside",
+                "position": "2337590",
+                "team": "home",
+                "time": "38:57",
+                "visibility": "visible"
+            },
+            "position": "2355592",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:18",
+            "label": "Main camera center",
+            "position": "2358536",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:20",
+            "label": "Close-up player or field referee",
+            "position": "2360563",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:22",
+            "label": "Close-up player or field referee",
+            "position": "2362039",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 39:27",
+            "label": "Main camera center",
+            "position": "2367470",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 39:30",
+            "label": "Close-up player or field referee",
+            "position": "2370798",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 39:37",
+            "label": "Main camera center",
+            "position": "2377626",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:44",
+            "label": "Main behind the goal",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2384252",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:48",
+            "label": "Main camera center",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2388768",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 39:55",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "2395612",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 40:00",
+            "label": "Close-up player or field referee",
+            "position": "2400557",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 40:07",
+            "label": "Close-up player or field referee",
+            "position": "2407149",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 40:11",
+            "label": "Main camera center",
+            "position": "2411993",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 40:15",
+            "label": "Close-up player or field referee",
+            "position": "2415360",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 40:20",
+            "label": "Main camera center",
+            "position": "2420252",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 40:21",
+            "label": "Close-up player or field referee",
+            "position": "2421424",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 40:32",
+            "label": "Main camera center",
+            "position": "2432233",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 40:35",
+            "label": "Close-up player or field referee",
+            "position": "2435132",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 40:37",
+            "label": "Main camera center",
+            "position": "2437414",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 40:39",
+            "label": "Close-up player or field referee",
+            "position": "2439617",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 40:41",
+            "label": "Close-up player or field referee",
+            "position": "2441258",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:04",
+            "label": "Main camera center",
+            "position": "2464584",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:10",
+            "label": "Close-up player or field referee",
+            "position": "2470811",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:12",
+            "label": "Close-up side staff",
+            "position": "2472536",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 41:14",
+            "label": "Close-up player or field referee",
+            "position": "2474693",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 41:16",
+            "label": "Public",
+            "position": "2476047",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 41:20",
+            "label": "Close-up player or field referee",
+            "position": "2480500",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:33",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "2427790",
+                "team": "away",
+                "time": "40:27",
+                "visibility": "visible"
+            },
+            "position": "2493280",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:42",
+            "label": "Close-up player or field referee",
+            "position": "2502391",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 41:46",
+            "label": "Close-up player or field referee",
+            "position": "2506761",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:49",
+            "label": "Main camera center",
+            "position": "2509006",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 41:54",
+            "label": "Close-up behind the goal",
+            "position": "2514865",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 42:03",
+            "label": "Close-up player or field referee",
+            "position": "2523563",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 42:08",
+            "label": "Main camera center",
+            "position": "2528646",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 42:16",
+            "label": "Close-up player or field referee",
+            "position": "2536057",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 42:18",
+            "label": "Close-up player or field referee",
+            "position": "2538685",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 42:21",
+            "label": "Public",
+            "position": "2541326",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 42:28",
+            "label": "Close-up player or field referee",
+            "position": "2548633",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 42:35",
+            "label": "Close-up player or field referee",
+            "position": "2555136",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 42:40",
+            "label": "Spider camera",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2526142",
+                "team": "home",
+                "time": "42:06",
+                "visibility": "visible"
+            },
+            "position": "2560695",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 42:47",
+            "label": "Other",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2526142",
+                "team": "home",
+                "time": "42:06",
+                "visibility": "visible"
+            },
+            "position": "2567294",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 42:52",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2526142",
+                "team": "home",
+                "time": "42:06",
+                "visibility": "visible"
+            },
+            "position": "2572476",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 43:08",
+            "label": "Other",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2526142",
+                "team": "home",
+                "time": "42:06",
+                "visibility": "visible"
+            },
+            "position": "2588554",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 43:13",
+            "label": "Close-up player or field referee",
+            "position": "2593645",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 43:17",
+            "label": "Main camera center",
+            "position": "2597374",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 43:19",
+            "label": "Close-up player or field referee",
+            "position": "2599493",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 43:26",
+            "label": "Close-up player or field referee",
+            "position": "2606277",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "1 - 43:33",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "1",
+                "label": "Foul",
+                "position": "2593976",
+                "team": "away",
+                "time": "43:13",
+                "visibility": "visible"
+            },
+            "position": "2613840",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 43:56",
+            "label": "Main camera center",
+            "position": "2636960",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 43:58",
+            "label": "Close-up player or field referee",
+            "position": "2638646",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 44:44",
+            "label": "Main camera center",
+            "position": "2684269",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "1 - 44:45",
+            "label": "Close-up player or field referee",
+            "position": "2685775",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 44:48",
+            "label": "Close-up player or field referee",
+            "position": "2688661",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 44:50",
+            "label": "Close-up player or field referee",
+            "position": "2690694",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "1 - 45:00",
+            "label": "Main camera center",
+            "position": "2700003",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 00:00",
+            "label": "Spider camera",
+            "position": "806",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 00:11",
+            "label": "Main camera center",
+            "position": "11676",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 00:14",
+            "label": "Close-up player or field referee",
+            "position": "14133",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 00:16",
+            "label": "Main camera center",
+            "position": "16289",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 00:21",
+            "label": "Close-up player or field referee",
+            "position": "21106",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 00:25",
+            "label": "Close-up player or field referee",
+            "position": "25985",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 00:32",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "9144",
+                "team": "not applicable",
+                "time": "00:09",
+                "visibility": "visible"
+            },
+            "position": "32728",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 00:36",
+            "label": "Main camera center",
+            "position": "36153",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 00:37",
+            "label": "Close-up player or field referee",
+            "position": "37633",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 00:42",
+            "label": "Main camera center",
+            "position": "42469",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 00:49",
+            "label": "Close-up player or field referee",
+            "position": "49624",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 00:59",
+            "label": "Main camera left",
+            "link": {
+                "half": "1",
+                "label": "Offside",
+                "position": "2337590",
+                "team": "home",
+                "time": "38:57",
+                "visibility": "visible"
+            },
+            "position": "59224",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 01:10",
+            "label": "Main camera center",
+            "position": "70457",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 01:12",
+            "label": "Close-up player or field referee",
+            "position": "72537",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 01:15",
+            "label": "Close-up player or field referee",
+            "position": "75313",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 01:20",
+            "label": "Close-up side staff",
+            "position": "80502",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 01:27",
+            "label": "Close-up player or field referee",
+            "position": "87491",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 01:32",
+            "label": "Close-up player or field referee",
+            "position": "92469",
+            "replay": "other"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 02:14",
+            "label": "Main camera center",
+            "position": "134386",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 02:18",
+            "label": "Close-up player or field referee",
+            "position": "138305",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 02:20",
+            "label": "Close-up side staff",
+            "position": "140222",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 02:38",
+            "label": "Main camera center",
+            "position": "158441",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 02:41",
+            "label": "Close-up player or field referee",
+            "position": "161650",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 02:48",
+            "label": "Close-up player or field referee",
+            "position": "168308",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 02:56",
+            "label": "Main camera right",
+            "link": {
+                "half": "2",
+                "label": "Offside",
+                "position": "156107",
+                "team": "home",
+                "time": "02:36",
+                "visibility": "visible"
+            },
+            "position": "176546",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 03:50",
+            "label": "Main camera center",
+            "position": "230420",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 03:52",
+            "label": "Close-up player or field referee",
+            "position": "232651",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 04:01",
+            "label": "Main camera center",
+            "position": "241006",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 04:02",
+            "label": "Close-up player or field referee",
+            "position": "242528",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 04:38",
+            "label": "Main camera center",
+            "position": "278282",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 04:40",
+            "label": "Close-up player or field referee",
+            "position": "280590",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:08",
+            "label": "Main camera center",
+            "position": "308439",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:12",
+            "label": "Close-up player or field referee",
+            "position": "312920",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:14",
+            "label": "Close-up player or field referee",
+            "position": "314411",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 05:17",
+            "label": "Close-up player or field referee",
+            "position": "317415",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 05:20",
+            "label": "Close-up side staff",
+            "position": "320074",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 05:23",
+            "label": "Close-up side staff",
+            "position": "323270",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:25",
+            "label": "Close-up player or field referee",
+            "position": "325453",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 05:32",
+            "label": "Main camera center",
+            "position": "332505",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:35",
+            "label": "Close-up player or field referee",
+            "position": "335470",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 05:40",
+            "label": "Main camera center",
+            "position": "340469",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 05:46",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "326670",
+                "team": "away",
+                "time": "05:26",
+                "visibility": "visible"
+            },
+            "position": "346075",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:50",
+            "label": "Main camera center",
+            "position": "350090",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 05:54",
+            "label": "Close-up player or field referee",
+            "position": "354229",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 05:56",
+            "label": "Inside the goal",
+            "position": "356748",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 05:59",
+            "label": "Close-up player or field referee",
+            "position": "359193",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 06:00",
+            "label": "Close-up player or field referee",
+            "position": "360781",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 06:06",
+            "label": "Close-up player or field referee",
+            "position": "366935",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 06:15",
+            "label": "Main camera center",
+            "position": "375896",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 06:18",
+            "label": "Close-up player or field referee",
+            "position": "378364",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 06:20",
+            "label": "Close-up player or field referee",
+            "position": "380027",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 06:22",
+            "label": "Close-up player or field referee",
+            "position": "382732",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 06:29",
+            "label": "Main camera right",
+            "link": {
+                "half": "2",
+                "label": "Offside",
+                "position": "372034",
+                "team": "home",
+                "time": "06:12",
+                "visibility": "visible"
+            },
+            "position": "389477",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 06:49",
+            "label": "Main camera center",
+            "position": "409412",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 06:50",
+            "label": "Close-up player or field referee",
+            "position": "410533",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 06:54",
+            "label": "Close-up player or field referee",
+            "position": "414545",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 07:32",
+            "label": "Main camera center",
+            "position": "452983",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 07:34",
+            "label": "Close-up player or field referee",
+            "position": "454310",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 08:02",
+            "label": "Main camera center",
+            "position": "482572",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 08:05",
+            "label": "Close-up player or field referee",
+            "position": "485545",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 08:07",
+            "label": "Close-up player or field referee",
+            "position": "487492",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 08:48",
+            "label": "Main camera center",
+            "position": "528226",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 08:49",
+            "label": "Close-up player or field referee",
+            "position": "529910",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 09:37",
+            "label": "Main camera center",
+            "position": "577328",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 09:38",
+            "label": "Close-up player or field referee",
+            "position": "578757",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 09:43",
+            "label": "Close-up player or field referee",
+            "position": "583539",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 09:59",
+            "label": "Main camera center",
+            "position": "599731",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 10:02",
+            "label": "Close-up player or field referee",
+            "position": "602334",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 10:15",
+            "label": "Main camera center",
+            "position": "615547",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 10:16",
+            "label": "Close-up player or field referee",
+            "position": "616857",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 10:22",
+            "label": "Close-up player or field referee",
+            "position": "622371",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 10:27",
+            "label": "Main camera center",
+            "position": "627217",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 10:29",
+            "label": "Close-up player or field referee",
+            "position": "629734",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 10:48",
+            "label": "Main camera center",
+            "position": "648325",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 10:49",
+            "label": "Close-up player or field referee",
+            "position": "649609",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 11:53",
+            "label": "Main camera center",
+            "position": "713222",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 11:54",
+            "label": "Close-up player or field referee",
+            "position": "714563",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 12:21",
+            "label": "Main camera center",
+            "position": "741971",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 12:24",
+            "label": "Close-up player or field referee",
+            "position": "744495",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 12:51",
+            "label": "Main camera center",
+            "position": "771473",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 12:52",
+            "label": "Close-up player or field referee",
+            "position": "772373",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 12:55",
+            "label": "Close-up player or field referee",
+            "position": "775593",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:00",
+            "label": "Other",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2091960",
+                "team": "home",
+                "time": "34:51",
+                "visibility": "visible"
+            },
+            "position": "780914",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:06",
+            "label": "Close-up player or field referee",
+            "position": "786509",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:11",
+            "label": "Main camera center",
+            "link": {
+                "half": "1",
+                "label": "Goal",
+                "position": "2526142",
+                "team": "home",
+                "time": "42:06",
+                "visibility": "visible"
+            },
+            "position": "791111",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 13:14",
+            "label": "Close-up player or field referee",
+            "position": "794844",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:18",
+            "label": "Main camera center",
+            "position": "798283",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 13:19",
+            "label": "Close-up player or field referee",
+            "position": "799707",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:23",
+            "label": "Close-up player or field referee",
+            "position": "803179",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:27",
+            "label": "Main camera center",
+            "position": "807628",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 13:29",
+            "label": "Close-up player or field referee",
+            "position": "809603",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 13:45",
+            "label": "Main camera center",
+            "position": "825722",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 13:46",
+            "label": "Close-up player or field referee",
+            "position": "826978",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 13:49",
+            "label": "Close-up player or field referee",
+            "position": "829747",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 13:57",
+            "label": "Main camera right",
+            "link": {
+                "half": "2",
+                "label": "Offside",
+                "position": "822197",
+                "team": "home",
+                "time": "13:42",
+                "visibility": "visible"
+            },
+            "position": "837298",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:00",
+            "label": "Main camera center",
+            "position": "840964",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:05",
+            "label": "Close-up player or field referee",
+            "position": "845427",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 14:08",
+            "label": "Close-up player or field referee",
+            "position": "848028",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:12",
+            "label": "Main camera center",
+            "position": "852113",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:14",
+            "label": "Close-up player or field referee",
+            "position": "854521",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:28",
+            "label": "Main camera center",
+            "position": "868126",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:29",
+            "label": "Close-up player or field referee",
+            "position": "869702",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 14:34",
+            "label": "Main camera center",
+            "position": "874027",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "other",
+            "gameTime": "2 - 14:37",
+            "label": "Close-up player or field referee",
+            "position": "877586",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 14:39",
+            "label": "Close-up player or field referee",
+            "position": "879285",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:02",
+            "label": "Main camera center",
+            "position": "902523",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:04",
+            "label": "Close-up player or field referee",
+            "position": "904142",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:32",
+            "label": "Main camera center",
+            "position": "932002",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 15:34",
+            "label": "Close-up player or field referee",
+            "position": "934887",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 15:41",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "931387",
+                "team": "not applicable",
+                "time": "15:31",
+                "visibility": "visible"
+            },
+            "position": "941132",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:48",
+            "label": "Main camera center",
+            "position": "948210",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:51",
+            "label": "Close-up player or field referee",
+            "position": "951640",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:53",
+            "label": "Main camera center",
+            "position": "953412",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 15:57",
+            "label": "Inside the goal",
+            "position": "957670",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 16:01",
+            "label": "Close-up player or field referee",
+            "position": "961511",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 16:04",
+            "label": "Close-up behind the goal",
+            "position": "964472",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 16:27",
+            "label": "Main camera center",
+            "position": "987425",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 16:29",
+            "label": "Close-up player or field referee",
+            "position": "989437",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 16:31",
+            "label": "Close-up player or field referee",
+            "position": "991962",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 16:35",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "983594",
+                "team": "home",
+                "time": "16:23",
+                "visibility": "visible"
+            },
+            "position": "995735",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 17:21",
+            "label": "Main camera center",
+            "position": "1041725",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 17:24",
+            "label": "Close-up player or field referee",
+            "position": "1044769",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 17:27",
+            "label": "Close-up player or field referee",
+            "position": "1047844",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 17:47",
+            "label": "Main camera center",
+            "position": "1067961",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 17:50",
+            "label": "Close-up player or field referee",
+            "position": "1070731",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 17:53",
+            "label": "Close-up side staff",
+            "position": "1073088",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 17:57",
+            "label": "Close-up player or field referee",
+            "position": "1077365",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 18:01",
+            "label": "Public",
+            "position": "1081598",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 18:13",
+            "label": "Main camera left",
+            "link": {
+                "half": "2",
+                "label": "Goal",
+                "position": "1063228",
+                "team": "away",
+                "time": "17:43",
+                "visibility": "visible"
+            },
+            "position": "1093034",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 18:18",
+            "label": "Main behind the goal",
+            "link": {
+                "half": "2",
+                "label": "Goal",
+                "position": "1063228",
+                "team": "away",
+                "time": "17:43",
+                "visibility": "visible"
+            },
+            "position": "1098842",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 18:24",
+            "label": "Inside the goal",
+            "link": {
+                "half": "2",
+                "label": "Goal",
+                "position": "1063228",
+                "team": "away",
+                "time": "17:43",
+                "visibility": "visible"
+            },
+            "position": "1104937",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 18:29",
+            "label": "Close-up side staff",
+            "position": "1109816",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 18:36",
+            "label": "Main camera center",
+            "position": "1116229",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 18:40",
+            "label": "Close-up player or field referee",
+            "position": "1120724",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 18:42",
+            "label": "Close-up player or field referee",
+            "position": "1122683",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 18:48",
+            "label": "Main camera left",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "1114602",
+                "team": "not applicable",
+                "time": "18:34",
+                "visibility": "visible"
+            },
+            "position": "1128689",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 18:52",
+            "label": "Main camera center",
+            "position": "1132951",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 18:56",
+            "label": "Close-up player or field referee",
+            "position": "1136381",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 19:10",
+            "label": "Main camera center",
+            "position": "1150126",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 19:11",
+            "label": "Close-up player or field referee",
+            "position": "1151968",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 19:23",
+            "label": "Main camera center",
+            "position": "1163204",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 19:24",
+            "label": "Close-up player or field referee",
+            "position": "1164993",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 19:38",
+            "label": "Main camera center",
+            "position": "1178815",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 19:45",
+            "label": "Close-up player or field referee",
+            "position": "1185359",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 19:54",
+            "label": "Close-up player or field referee",
+            "position": "1194202",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 20:01",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "1114602",
+                "team": "not applicable",
+                "time": "18:34",
+                "visibility": "visible"
+            },
+            "position": "1201926",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 20:09",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "1114602",
+                "team": "not applicable",
+                "time": "18:34",
+                "visibility": "visible"
+            },
+            "position": "1209317",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 20:12",
+            "label": "Main camera center",
+            "position": "1212328",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 20:15",
+            "label": "Close-up player or field referee",
+            "position": "1215593",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 20:20",
+            "label": "Close-up side staff",
+            "position": "1220874",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 20:23",
+            "label": "Close-up player or field referee",
+            "position": "1223883",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 20:27",
+            "label": "Close-up side staff",
+            "position": "1227806",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 20:31",
+            "label": "Close-up side staff",
+            "position": "1231122",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 20:40",
+            "label": "Other",
+            "position": "1240669",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 20:51",
+            "label": "Main camera center",
+            "position": "1251736",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 20:58",
+            "label": "Close-up player or field referee",
+            "position": "1258834",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 21:05",
+            "label": "Main camera center",
+            "position": "1265699",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 21:10",
+            "label": "Close-up player or field referee",
+            "position": "1270522",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 21:17",
+            "label": "Close-up side staff",
+            "position": "1277498",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 21:39",
+            "label": "Main camera center",
+            "position": "1299878",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 21:43",
+            "label": "Close-up player or field referee",
+            "position": "1303874",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 22:09",
+            "label": "Main camera center",
+            "position": "1329363",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 22:10",
+            "label": "Close-up player or field referee",
+            "position": "1330091",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 22:12",
+            "label": "Close-up player or field referee",
+            "position": "1332751",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 22:18",
+            "label": "Spider camera",
+            "position": "1338689",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 22:23",
+            "label": "Close-up player or field referee",
+            "position": "1343342",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 22:32",
+            "label": "Main camera center",
+            "position": "1352444",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 22:36",
+            "label": "Close-up player or field referee",
+            "position": "1356183",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 22:40",
+            "label": "Close-up side staff",
+            "position": "1360029",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 22:43",
+            "label": "Main camera center",
+            "position": "1363375",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 22:45",
+            "label": "Close-up player or field referee",
+            "position": "1365414",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 23:02",
+            "label": "Main camera center",
+            "position": "1382758",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 23:05",
+            "label": "Close-up player or field referee",
+            "position": "1385803",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 23:09",
+            "label": "Main camera center",
+            "position": "1389586",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 23:17",
+            "label": "Close-up side staff",
+            "position": "1397849",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 23:48",
+            "label": "Main camera center",
+            "position": "1428730",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 23:50",
+            "label": "Close-up player or field referee",
+            "position": "1430848",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 23:53",
+            "label": "Close-up player or field referee",
+            "position": "1433263",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 25:16",
+            "label": "Main camera center",
+            "position": "1516064",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 25:21",
+            "label": "Close-up player or field referee",
+            "position": "1521793",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 25:28",
+            "label": "Close-up side staff",
+            "position": "1528360",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 25:42",
+            "label": "Main camera center",
+            "position": "1542093",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 25:47",
+            "label": "Close-up player or field referee",
+            "position": "1547174",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 25:50",
+            "label": "Close-up side staff",
+            "position": "1550616",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 26:20",
+            "label": "Main camera center",
+            "position": "1580046",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 26:23",
+            "label": "Close-up player or field referee",
+            "position": "1583609",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 26:39",
+            "label": "Close-up player or field referee",
+            "position": "1599564",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 26:44",
+            "label": "Main camera center",
+            "position": "1604288",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 26:45",
+            "label": "Close-up player or field referee",
+            "position": "1605564",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 26:50",
+            "label": "Close-up player or field referee",
+            "position": "1610220",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 26:54",
+            "label": "Close-up side staff",
+            "position": "1614142",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 27:11",
+            "label": "Close-up player or field referee",
+            "position": "1631370",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 27:15",
+            "label": "Close-up side staff",
+            "position": "1635948",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 27:20",
+            "label": "Public",
+            "position": "1640201",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 27:22",
+            "label": "Close-up player or field referee",
+            "position": "1642275",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 27:27",
+            "label": "Main camera center",
+            "position": "1647530",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 27:50",
+            "label": "Close-up side staff",
+            "position": "1670439",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 28:23",
+            "label": "Main camera center",
+            "position": "1703870",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 28:25",
+            "label": "Close-up player or field referee",
+            "position": "1705242",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 28:28",
+            "label": "Close-up player or field referee",
+            "position": "1708235",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 28:38",
+            "label": "Main camera right",
+            "position": "1718578",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 28:47",
+            "label": "Inside the goal",
+            "position": "1727038",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 28:49",
+            "label": "Main camera center",
+            "position": "1729265",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 28:53",
+            "label": "Close-up corner",
+            "position": "1733516",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 28:57",
+            "label": "Close-up player or field referee",
+            "position": "1737733",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 29:10",
+            "label": "Main camera center",
+            "position": "1750917",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 29:15",
+            "label": "Close-up player or field referee",
+            "position": "1755800",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 29:21",
+            "label": "Main camera right",
+            "link": {
+                "half": "2",
+                "label": "Shots on target",
+                "position": "1746140",
+                "team": "home",
+                "time": "29:06",
+                "visibility": "visible"
+            },
+            "position": "1761833",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 29:54",
+            "label": "Main camera center",
+            "position": "1794026",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 29:57",
+            "label": "Close-up player or field referee",
+            "position": "1797990",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 30:01",
+            "label": "Close-up player or field referee",
+            "position": "1801136",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 30:04",
+            "label": "Public",
+            "position": "1804286",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 30:39",
+            "label": "Main camera center",
+            "position": "1839880",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 30:44",
+            "label": "Close-up player or field referee",
+            "position": "1844339",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 30:48",
+            "label": "Main camera center",
+            "position": "1848780",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 30:55",
+            "label": "Close-up player or field referee",
+            "position": "1855110",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 31:01",
+            "label": "Main camera center",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "1795258",
+                "team": "not applicable",
+                "time": "29:55",
+                "visibility": "not shown"
+            },
+            "position": "1861383",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 31:10",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Ball out of play",
+                "position": "1795258",
+                "team": "not applicable",
+                "time": "29:55",
+                "visibility": "not shown"
+            },
+            "position": "1870470",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 31:14",
+            "label": "Public",
+            "position": "1874766",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 31:17",
+            "label": "Close-up player or field referee",
+            "position": "1877923",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 31:22",
+            "label": "Close-up player or field referee",
+            "position": "1882870",
+            "replay": "other"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 32:01",
+            "label": "Main camera center",
+            "position": "1921924",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 32:03",
+            "label": "Close-up player or field referee",
+            "position": "1923475",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 32:10",
+            "label": "Close-up player or field referee",
+            "position": "1930771",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 32:17",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "1917661",
+                "team": "away",
+                "time": "31:57",
+                "visibility": "visible"
+            },
+            "position": "1937235",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 32:19",
+            "label": "Main camera center",
+            "position": "1939756",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 32:24",
+            "label": "Close-up side staff",
+            "position": "1944469",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 32:30",
+            "label": "Close-up player or field referee",
+            "position": "1950219",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 32:36",
+            "label": "Spider camera",
+            "position": "1956706",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 32:38",
+            "label": "Public",
+            "position": "1958475",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 32:40",
+            "label": "Public",
+            "position": "1960785",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 32:43",
+            "label": "Close-up player or field referee",
+            "position": "1963045",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 32:48",
+            "label": "Close-up player or field referee",
+            "position": "1968219",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 32:54",
+            "label": "Main camera center",
+            "position": "1974994",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 32:59",
+            "label": "Close-up player or field referee",
+            "position": "1979726",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 33:03",
+            "label": "Close-up side staff",
+            "position": "1983836",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 33:07",
+            "label": "Close-up player or field referee",
+            "position": "1987082",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 33:18",
+            "label": "Main camera center",
+            "position": "1998570",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 33:21",
+            "label": "Close-up player or field referee",
+            "position": "2001697",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 33:33",
+            "label": "Close-up behind the goal",
+            "link": {
+                "half": "2",
+                "label": "Goal",
+                "position": "1063228",
+                "team": "away",
+                "time": "17:43",
+                "visibility": "visible"
+            },
+            "position": "2013808",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 33:39",
+            "label": "Close-up player or field referee",
+            "position": "2019749",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 34:36",
+            "label": "Main camera center",
+            "position": "2076612",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 34:41",
+            "label": "Close-up player or field referee",
+            "position": "2081467",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 34:43",
+            "label": "Close-up side staff",
+            "position": "2083418",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 35:33",
+            "label": "Main camera center",
+            "position": "2133737",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 35:37",
+            "label": "Close-up player or field referee",
+            "position": "2137834",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 35:57",
+            "label": "Main camera center",
+            "position": "2157146",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 35:59",
+            "label": "Close-up player or field referee",
+            "position": "2159515",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:07",
+            "label": "Spider camera",
+            "link": {
+                "half": "2",
+                "label": "Shots on target",
+                "position": "2150909",
+                "team": "home",
+                "time": "35:50",
+                "visibility": "visible"
+            },
+            "position": "2167328",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:15",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Shots on target",
+                "position": "2150909",
+                "team": "home",
+                "time": "35:50",
+                "visibility": "visible"
+            },
+            "position": "2175499",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 36:20",
+            "label": "Close-up player or field referee",
+            "position": "2180917",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:23",
+            "label": "Main camera center",
+            "position": "2183483",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 36:25",
+            "label": "Close-up player or field referee",
+            "position": "2185955",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:29",
+            "label": "Public",
+            "position": "2189090",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:31",
+            "label": "Spider camera",
+            "position": "2191835",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:35",
+            "label": "Public",
+            "position": "2195051",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:37",
+            "label": "Public",
+            "position": "2197578",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 36:45",
+            "label": "Close-up player or field referee",
+            "position": "2205894",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 36:48",
+            "label": "Close-up player or field referee",
+            "position": "2208646",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 38:03",
+            "label": "Main camera center",
+            "position": "2283070",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 38:04",
+            "label": "Close-up player or field referee",
+            "position": "2284200",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 39:14",
+            "label": "Main camera center",
+            "position": "2354634",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 39:16",
+            "label": "Close-up player or field referee",
+            "position": "2356478",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 39:29",
+            "label": "Close-up player or field referee",
+            "position": "2369977",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 39:36",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "2350082",
+                "team": "away",
+                "time": "39:10",
+                "visibility": "visible"
+            },
+            "position": "2376930",
+            "replay": "replay"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 39:41",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Yellow card",
+                "position": "2354580",
+                "team": "away",
+                "time": "39:14",
+                "visibility": "visible"
+            },
+            "position": "2381586",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 39:43",
+            "label": "Main camera center",
+            "position": "2383746",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 39:56",
+            "label": "Close-up player or field referee",
+            "position": "2396540",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 40:03",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "2342162",
+                "team": "home",
+                "time": "39:02",
+                "visibility": "visible"
+            },
+            "position": "2403902",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:21",
+            "label": "Main camera center",
+            "position": "2421023",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:23",
+            "label": "Close-up player or field referee",
+            "position": "2423620",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:29",
+            "label": "Main camera center",
+            "position": "2429652",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:34",
+            "label": "Close-up player or field referee",
+            "position": "2434758",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 40:41",
+            "label": "Inside the goal",
+            "position": "2441934",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:45",
+            "label": "Main camera center",
+            "position": "2445017",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 40:50",
+            "label": "Close-up player or field referee",
+            "position": "2450371",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:53",
+            "label": "Spider camera",
+            "position": "2453498",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 40:58",
+            "label": "Close-up player or field referee",
+            "position": "2458217",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 41:20",
+            "label": "Main camera center",
+            "position": "2480111",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 41:22",
+            "label": "Close-up player or field referee",
+            "position": "2482841",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 41:25",
+            "label": "Close-up player or field referee",
+            "position": "2485664",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 41:32",
+            "label": "Main camera right",
+            "link": {
+                "half": "2",
+                "label": "Offside",
+                "position": "2478744",
+                "team": "home",
+                "time": "41:18",
+                "visibility": "visible"
+            },
+            "position": "2492469",
+            "replay": "replay"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 41:53",
+            "label": "Main camera center",
+            "position": "2513670",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 41:54",
+            "label": "Close-up player or field referee",
+            "position": "2514542",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 42:25",
+            "label": "Main camera center",
+            "position": "2545445",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 42:29",
+            "label": "Spider camera",
+            "position": "2549786",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 42:33",
+            "label": "Close-up player or field referee",
+            "position": "2553718",
+            "replay": "other"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 42:39",
+            "label": "Main camera right",
+            "position": "2559101",
+            "replay": "other"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 42:55",
+            "label": "Main camera center",
+            "position": "2575806",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 42:57",
+            "label": "Close-up player or field referee",
+            "position": "2577560",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 43:01",
+            "label": "Close-up player or field referee",
+            "position": "2581295",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 43:26",
+            "label": "Main camera center",
+            "position": "2606666",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 43:31",
+            "label": "Close-up player or field referee",
+            "position": "2611317",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 43:48",
+            "label": "Main camera center",
+            "position": "2628740",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 43:51",
+            "label": "Close-up player or field referee",
+            "position": "2631877",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 43:55",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "2623255",
+                "team": "away",
+                "time": "43:43",
+                "visibility": "visible"
+            },
+            "position": "2635923",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 43:59",
+            "label": "Main camera center",
+            "position": "2639766",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 44:03",
+            "label": "Close-up player or field referee",
+            "position": "2643948",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 44:08",
+            "label": "Main camera center",
+            "position": "2648767",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 44:14",
+            "label": "Close-up player or field referee",
+            "position": "2654171",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 44:15",
+            "label": "Close-up player or field referee",
+            "position": "2655776",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 44:32",
+            "label": "Main camera center",
+            "position": "2672693",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "smooth",
+            "gameTime": "2 - 44:37",
+            "label": "Close-up player or field referee",
+            "position": "2677005",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 44:42",
+            "label": "Close-up side staff",
+            "position": "2682326",
+            "replay": "real-time"
+        },
+        {
+            "change_type": "logo",
+            "gameTime": "2 - 44:49",
+            "label": "Close-up player or field referee",
+            "link": {
+                "half": "2",
+                "label": "Foul",
+                "position": "2668373",
+                "team": "away",
+                "time": "44:28",
+                "visibility": "visible"
+            },
+            "position": "2689766",
+            "replay": "replay"
+        },
+        {
+            "change_type": "abrupt",
+            "gameTime": "2 - 45:00",
+            "label": "Main camera center",
+            "position": "2700003",
+            "replay": "real-time"
+        }
+    ],
+    "gameAwayTeam": "Malaga",
+    "gameDate": "21/01/2017 - 18:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "2 - 1"
+}

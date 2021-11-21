@@ -1,0 +1,400 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2016-12-19 - 23-00 Everton 0 - 1 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 54:59",
+            "label": "",
+            "description": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The away team was superior on the pitch today. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks. On the other hand, long balls and crosses were the main weapons of the away team."
+        },
+        {
+            "gameTime": "2 - 54:35",
+            "label": "whistle",
+            "description": "The match has just finished."
+        },
+        {
+            "gameTime": "2 - 53:13",
+            "label": "corner",
+            "description": "James Milner (Liverpool) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 52:13",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Lucas Leiva (Liverpool) replaces Sadio Mane."
+        },
+        {
+            "gameTime": "2 - 52:06",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort."
+        },
+        {
+            "gameTime": "2 - 48:55",
+            "label": "soccer-ball",
+            "description": "Goal! Sadio Mane (Liverpool) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 0:1."
+        },
+        {
+            "gameTime": "2 - 48:25",
+            "label": "",
+            "description": "What a great touch by Daniel Sturridge (Liverpool)! He picks up a precise pass on the edge of the box and immediately unleashes a shot on goal. His effort, however, only rattles the right post. What an unlucky moment for him."
+        },
+        {
+            "gameTime": "2 - 48:23",
+            "label": "",
+            "description": "Romelu Lukaku (Everton) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "8 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:10",
+            "label": "corner",
+            "description": "James Milner (Liverpool) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 44:00",
+            "label": "",
+            "description": "James Milner (Liverpool) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball is out of play and the linesman points at the corner flag. Corner to Liverpool."
+        },
+        {
+            "gameTime": "2 - 41:20",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 39:47",
+            "label": "y-card",
+            "description": "Idrissa Gueye (Everton) is shown a yellow card after a horrible tackle."
+        },
+        {
+            "gameTime": "2 - 38:18",
+            "label": "",
+            "description": "Romelu Lukaku (Everton) robs an opponent of the ball and explodes in anger when Michael Dean blows for a foul."
+        },
+        {
+            "gameTime": "2 - 37:00",
+            "label": "substitution",
+            "description": "Substitution. Divock Origi leaves the pitch and is replaced by Daniel Sturridge (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 36:59",
+            "label": "substitution",
+            "description": "Jurgen Klopp has decided to introduce fresh legs, with Emre Can (Liverpool) replacing Adam Lallana."
+        },
+        {
+            "gameTime": "2 - 35:45",
+            "label": "corner",
+            "description": "James Milner (Liverpool) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) produces a dangerous lofted cross into the box which is intercepted. Liverpool have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 33:07",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark."
+        },
+        {
+            "gameTime": "2 - 30:54",
+            "label": "corner",
+            "description": "The corner from James Milner (Liverpool) is cleared away by the defence."
+        },
+        {
+            "gameTime": "2 - 30:30",
+            "label": "",
+            "description": "James Milner (Liverpool) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence."
+        },
+        {
+            "gameTime": "2 - 29:51",
+            "label": "",
+            "description": "Divock Origi (Liverpool) misses a good chance to score. An inch perfect cross into the box finds Divock Origi (Liverpool) who rises for a header, but sends the ball well over the bar. Liverpool have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 29:23",
+            "label": "",
+            "description": "Ashley Williams (Everton) displays brilliant awareness inside the six yard box and leaps high to meet the free kick. He tries to put his header into the middle of the target, but Simon Mignolet keeps the ball out."
+        },
+        {
+            "gameTime": "2 - 27:53",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Dominic Calvert Lewin (Everton) will replace Enner Valencia."
+        },
+        {
+            "gameTime": "2 - 23:35",
+            "label": "y-card",
+            "description": "Seamus Coleman (Everton) has received a yellow card for his foul."
+        },
+        {
+            "gameTime": "2 - 22:49",
+            "label": "y-card",
+            "description": "Ross Barkley (Everton) has tested the patience of referee Michael Dean and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 18:25",
+            "label": "substitution",
+            "description": "Ronald Koeman is forced to make a change. Maarten Stekelenburg is not able to carry on due to injury. He is replaced by Joel Robles (Everton)."
+        },
+        {
+            "gameTime": "2 - 13:26",
+            "label": "injury",
+            "description": "Maarten Stekelenburg (Everton) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "2 - 12:24",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) attempts to whip a quick pass into the box, but Sadio Mane was not able to dribble past the opponent's defence and loses the ball."
+        },
+        {
+            "gameTime": "2 - 10:34",
+            "label": "y-card",
+            "description": "Michael Dean shows a yellow card to Dejan Lovren (Liverpool) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 08:20",
+            "label": "",
+            "description": "Romelu Lukaku (Everton) jumps for a cross and produces a fine header from near the penalty spot, but it goes a whisker over the bar! What a huge opportunity!"
+        },
+        {
+            "gameTime": "2 - 07:23",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "2 - 06:50",
+            "label": "",
+            "description": "Georginio Wijnaldum (Liverpool) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "gameTime": "2 - 05:35",
+            "label": "corner",
+            "description": "James Milner (Liverpool) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "2 - 04:41",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) receives a precise pass and is given time inside the box to send a promising strike towards the middle of the goal. Maarten Stekelenburg guesses his intention and denies him with a fine save."
+        },
+        {
+            "gameTime": "2 - 03:26",
+            "label": "corner",
+            "description": "Jordan Henderson (Liverpool) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "2 - 02:48",
+            "label": "",
+            "description": "Good movement by James Milner (Liverpool), but he can't find any of his teammates as the cross is poor. Liverpool will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 00:26",
+            "label": "substitution",
+            "description": "There will be a change on the pitch for the second half. Ronald Koeman probably wasn't satisfied with the performance of James McCarthy. He is replaced by Gareth Barry (Everton)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The whistle blows and Michael Dean starts the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "In the previous 45 minutes, we have witnessed a rather boring football match with almost no goalscoring opportunities nor exciting moments on either side. Neither side is enjoying any significant control of the game. Long balls and crosses are the strongest weapons of the home team, while their opponents favour possession football."
+        },
+        {
+            "gameTime": "1 - 46:06",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 45:23",
+            "label": "",
+            "description": "James Milner (Liverpool) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:48",
+            "label": "",
+            "description": "Poor challenge! Ross Barkley (Everton) is penalised for tripping and Michael Dean blows his whistle. Liverpool get a free kick."
+        },
+        {
+            "gameTime": "1 - 43:35",
+            "label": "",
+            "description": "Ramiro Mori (Everton) climbs high to connect with a perfect cross and produces a header that goes not far wide of the right post."
+        },
+        {
+            "gameTime": "1 - 43:17",
+            "label": "corner",
+            "description": "Corner kick. Ross Barkley (Everton) is ready to send the ball into the box."
+        },
+        {
+            "gameTime": "1 - 43:14",
+            "label": "",
+            "description": "Enner Valencia (Everton) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Everton earn a corner."
+        },
+        {
+            "gameTime": "1 - 41:44",
+            "label": "",
+            "description": "A pass by Sadio Mane (Liverpool) ends up in no man's land, and the attacking effort comes to an end. The ball is off of the pitch and it's a goal kick for Everton."
+        },
+        {
+            "gameTime": "1 - 40:54",
+            "label": "",
+            "description": "James McCarthy (Everton) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "1 - 39:04",
+            "label": "injury",
+            "description": "James McCarthy (Everton) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 38:28",
+            "label": "",
+            "description": "Seamus Coleman (Everton) swings it in and Romelu Lukaku gets on the end of it, but Simon Mignolet shows good awareness and comes off his line to thwart the move."
+        },
+        {
+            "gameTime": "1 - 36:34",
+            "label": "",
+            "description": "CHANCE! Divock Origi (Liverpool) picks up a pass inside the box and has a sight of goal, but he blazes his shot well over the top."
+        },
+        {
+            "gameTime": "1 - 36:07",
+            "label": "",
+            "description": "A cross into the box from Seamus Coleman (Everton) is cleared."
+        },
+        {
+            "gameTime": "1 - 31:06",
+            "label": "",
+            "description": "Georginio Wijnaldum (Liverpool) shoots from the edge of the penalty area. The ball travels towards the left side of the target, but Maarten Stekelenburg easily deals with the threat."
+        },
+        {
+            "gameTime": "1 - 28:28",
+            "label": "",
+            "description": "James Milner (Liverpool) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 26:42",
+            "label": "",
+            "description": "That's a well taken pass by Georginio Wijnaldum (Liverpool). He unleashes a strike from the edge of the box, but blazes it high over the bar."
+        },
+        {
+            "gameTime": "1 - 23:04",
+            "label": "",
+            "description": "Ross Barkley (Everton) creates a good chance for himself and goes for goal from mid range, but he misses the left post by a whisker."
+        },
+        {
+            "gameTime": "1 - 22:21",
+            "label": "",
+            "description": "Aaron Lennon (Everton) passes the ball onto Romelu Lukaku, but one of the defenders dispossesses him."
+        },
+        {
+            "gameTime": "1 - 19:56",
+            "label": "",
+            "description": "Seamus Coleman (Everton) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+        },
+        {
+            "gameTime": "1 - 18:06",
+            "label": "",
+            "description": "A cross is whipped into the box by Seamus Coleman (Everton) and Romelu Lukaku controls it well. He lines up the ball, but one of the defenders produces a timely intervention."
+        },
+        {
+            "gameTime": "1 - 16:18",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) attempts to find Simon Mignolet, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 12:28",
+            "label": "",
+            "description": "Enner Valencia (Everton) attempted to curl the ball over the defensive wall from the free kick, but with no success."
+        },
+        {
+            "gameTime": "1 - 11:18",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) tackles a bit over zealously and Michael Dean blows for a foul. Another situation results in a direct free kick for Everton."
+        },
+        {
+            "gameTime": "1 - 10:42",
+            "label": "",
+            "description": "Dejan Lovren (Liverpool) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender."
+        },
+        {
+            "gameTime": "1 - 08:14",
+            "label": "",
+            "description": "Romelu Lukaku is not given a chance to finish after receiving a sweet pass by Ross Barkley (Everton)."
+        },
+        {
+            "gameTime": "1 - 07:05",
+            "label": "",
+            "description": "Michael Dean couldn't ignore the rough tackle by Sadio Mane (Liverpool) and blew his whistle."
+        },
+        {
+            "gameTime": "1 - 06:06",
+            "label": "",
+            "description": "Romelu Lukaku (Everton) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it."
+        },
+        {
+            "gameTime": "1 - 03:31",
+            "label": "",
+            "description": "Romelu Lukaku receives a sweet cross inside the box from Seamus Coleman (Everton), but one of the defenders rushes in bravely to intercept the move."
+        },
+        {
+            "gameTime": "1 - 03:17",
+            "label": "",
+            "description": "A lofted cross from James McCarthy (Everton) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Liverpool will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Michael Dean."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "40 the number of times Liverpool have found the back of the net this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Georginio Wijnaldum has the most assists (8) for Liverpool this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Romelu Lukaku have rippled the net 9x and is the top scorer for Everton this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. The away team was superior on the pitch today. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks. On the other hand, long balls and crosses were the main weapons of the away team."
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "19/12/2016 - 23:00",
+    "gameHomeTeam": "Everton",
+    "gameScore": "0 - 1"
+}

@@ -1,0 +1,325 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2017-03-17 - 22-30 Dortmund 1 - 0 Ingolstadt/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:26",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 47:31",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) makes a slide tackle, but referee Daniel Siebert blows for a foul."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:50",
+            "label": "substitution",
+            "description": "We are about to witness a substitution. Lukas Hinterseer (Ingolstadt) is replacing Alfredo Morales."
+        },
+        {
+            "gameTime": "2 - 44:40",
+            "label": "y-card",
+            "description": "Marcel Schmelzer (Dortmund) is punished with a yellow card for violating the rules."
+        },
+        {
+            "gameTime": "2 - 42:42",
+            "label": "",
+            "description": "Marvin Matip (Ingolstadt) has a great chance to score from deep inside the box! He finds some space for the shot, but sends it errantly way past the left post. Very poor attempt."
+        },
+        {
+            "gameTime": "2 - 37:59",
+            "label": "substitution",
+            "description": "Here is a change. Almog Cohen is going off and Maik Walpurgis gives the last tactical orders to Maurice Multhaup (Ingolstadt)."
+        },
+        {
+            "gameTime": "2 - 37:48",
+            "label": "substitution",
+            "description": "Substitution. Gonzalo Castro makes way for Mikel Merino (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 35:57",
+            "label": "y-card",
+            "description": "Markus Suttner (Ingolstadt) is yellow carded."
+        },
+        {
+            "gameTime": "2 - 32:43",
+            "label": "",
+            "description": "The game is interrupted. One of the players from Dortmund is cautioned for aggressive play."
+        },
+        {
+            "gameTime": "2 - 31:59",
+            "label": "substitution",
+            "description": "Thomas Tuchel decides to make a substitution. Christian Pulisic will be replaced by Andre Schurrle (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 31:02",
+            "label": "",
+            "description": "Alfredo Morales (Ingolstadt) runs through on goal, but he is flagged for offside by the linesman after failing to beat the offside trap."
+        },
+        {
+            "gameTime": "2 - 30:07",
+            "label": "",
+            "description": "Sokratis (Dortmund) was too fierce in his attempt to get the ball from his opponent and Daniel Siebert blows for a foul."
+        },
+        {
+            "gameTime": "2 - 29:37",
+            "label": "substitution",
+            "description": "It will be a substitution. Pascal Gross (Ingolstadt) is ready to enter the pitch as Sonny Kittel walks off."
+        },
+        {
+            "gameTime": "2 - 29:17",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Gonzalo Castro (Dortmund) takes it short."
+        },
+        {
+            "gameTime": "2 - 24:48",
+            "label": "",
+            "description": "A player from Ingolstadt commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "2 - 20:53",
+            "label": "",
+            "description": "Lukasz Piszczek (Dortmund) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again."
+        },
+        {
+            "gameTime": "2 - 15:37",
+            "label": "injury",
+            "description": "Almog Cohen (Ingolstadt) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 14:28",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) tackles a bit over zealously and Daniel Siebert blows for a foul."
+        },
+        {
+            "gameTime": "2 - 11:00",
+            "label": "substitution",
+            "description": "Substitution. Raphael Guerreiro makes his way off the pitch and Julian Weigl (Dortmund) comes on as his replacement."
+        },
+        {
+            "gameTime": "2 - 10:38",
+            "label": "",
+            "description": "Sokratis (Dortmund) brings his opponent down with a tackle and Daniel Siebert blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 08:58",
+            "label": "y-card",
+            "description": "The referee shows the yellow card to Florent Hadergjonaj (Ingolstadt)."
+        },
+        {
+            "gameTime": "2 - 08:23",
+            "label": "",
+            "description": "Sokratis (Dortmund) wasted a chance to score! He pinged a fine header from deep inside the box towards the net, but his aim was off and it flew narrowly wide of the right post."
+        },
+        {
+            "gameTime": "2 - 08:20",
+            "label": "corner",
+            "description": "Dortmund force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 04:55",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 00:51",
+            "label": "",
+            "description": "Mathew Leckie (Ingolstadt) squandered a huge opportunity from inside the 6 yard box. He blazed it high over the bar."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:12",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 45:02",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) attempts to surprise the keeper with a nice shot, but the ball goes narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 38:40",
+            "label": "",
+            "description": "What a wasted opportunity by Sonny Kittel (Ingolstadt)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the bottom right corner, but Roman Burki makes an astonishing save to thwart him."
+        },
+        {
+            "gameTime": "1 - 36:39",
+            "label": "",
+            "description": "The referee stops play as the linesman flags Sonny Kittel (Ingolstadt) offside."
+        },
+        {
+            "gameTime": "1 - 34:52",
+            "label": "y-card",
+            "description": "The referee gives a yellow card to Dario Lezcano (Ingolstadt)."
+        },
+        {
+            "gameTime": "1 - 33:31",
+            "label": "",
+            "description": "Mathew Leckie (Ingolstadt) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar."
+        },
+        {
+            "gameTime": "1 - 31:52",
+            "label": "corner",
+            "description": "The referee signals a corner kick to Ingolstadt."
+        },
+        {
+            "gameTime": "1 - 31:39",
+            "label": "",
+            "description": "Mathew Leckie (Ingolstadt) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Ingolstadt have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 29:00",
+            "label": "",
+            "description": "My grandmother could have scored that! Erik Durm (Dortmund) blazed the ball just over the bar from close range!"
+        },
+        {
+            "gameTime": "1 - 26:34",
+            "label": "",
+            "description": "Mathew Leckie (Ingolstadt) wasted a chance to score! He pinged a fine header from deep inside the box towards the net, but his aim was off and it flew narrowly wide of the right post."
+        },
+        {
+            "gameTime": "1 - 19:20",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) brings his opponent down. Daniel Siebert has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 18:20",
+            "label": "",
+            "description": "Marvin Matip (Ingolstadt) attempts to convert a lofted cross as he jumps high and heads the ball down to the middle of the goal. Roman Burki shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net."
+        },
+        {
+            "gameTime": "1 - 18:09",
+            "label": "corner",
+            "description": "Ingolstadt will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 17:49",
+            "label": "",
+            "description": "Sonny Kittel (Ingolstadt) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. Ingolstadt get a corner."
+        },
+        {
+            "gameTime": "1 - 13:52",
+            "label": "soccer-ball",
+            "description": "It's 1:0! Marcel Schmelzer feeds Pierre Emerick Aubameyang (Dortmund) inside the box, who is unmarked and buries the ball in the bottom left corner."
+        },
+        {
+            "gameTime": "1 - 13:07",
+            "label": "",
+            "description": "Poor challenge! Almog Cohen (Ingolstadt) is penalised for tripping and Daniel Siebert blows his whistle."
+        },
+        {
+            "gameTime": "1 - 09:23",
+            "label": "",
+            "description": "Martin Hansen pulls off a great save to block a header from Sokratis (Dortmund) after a nice lofted cross."
+        },
+        {
+            "gameTime": "1 - 08:42",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "1 - 08:24",
+            "label": "",
+            "description": "The ball is cleared after Erik Durm (Dortmund) attempted to dribble past an opposing player. The ball is out of play and Dortmund manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 08:06",
+            "label": "",
+            "description": "Referee Daniel Siebert sees the trip by Marvin Matip (Ingolstadt) and doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 06:27",
+            "label": "",
+            "description": "Daniel Siebert interrupts the game. One of the players from Ingolstadt won the ball, but his effort is adjudged unfair."
+        },
+        {
+            "gameTime": "1 - 04:45",
+            "label": "",
+            "description": "A player from Dortmund commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 02:32",
+            "label": "corner",
+            "description": "Dortmund take a short corner kick."
+        },
+        {
+            "gameTime": "1 - 02:11",
+            "label": "",
+            "description": "Marcel Schmelzer (Dortmund) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. Dortmund have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 01:28",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Ingolstadt was in an offside position."
+        },
+        {
+            "gameTime": "1 - 01:03",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) brings an opponent down and Daniel Siebert interrupts the game."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Ingolstadt will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Daniel Siebert was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Ingolstadt haven't won for 3 matches in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The Dortmund players have rippled the net at least once in their last 15 matches."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dortmund are still unbeaten at home this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ],
+    "gameAwayTeam": "Ingolstadt",
+    "gameDate": "17/03/2017 - 22:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "1 - 0"
+}

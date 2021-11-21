@@ -1,0 +1,355 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:20",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 48:10",
+            "label": "corner",
+            "description": "Paris SG take a short corner kick."
+        },
+        {
+            "gameTime": "2 - 48:00",
+            "label": "",
+            "description": "Lucas (Paris SG) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "gameTime": "2 - 47:50",
+            "label": "corner",
+            "description": "The resulting corner, taken by Nabil Fekir (Lyon), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 47:49",
+            "label": "",
+            "description": "Maxwel Cornet (Lyon) sends a lofted cross into the box which is headed clear. Lyon earn a corner."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:59",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Thiago Motta (Paris SG) will replace Marco Verratti."
+        },
+        {
+            "gameTime": "2 - 43:36",
+            "label": "",
+            "description": "Lucas (Paris SG) tries to find Edinson Cavani, but he puts too much power on the pass."
+        },
+        {
+            "gameTime": "2 - 37:03",
+            "label": "corner",
+            "description": "Nabil Fekir (Lyon) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 36:41",
+            "label": "",
+            "description": "Rachid Ghezzal (Lyon) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Now Lyon have a corner."
+        },
+        {
+            "gameTime": "2 - 33:43",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "2 - 33:33",
+            "label": "",
+            "description": "Javier Pastore (Paris SG) crosses the ball into the box, but one of the defending players averts the threat. Paris SG have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 33:32",
+            "label": "substitution",
+            "description": "Here is a change. Javier Pastore is going off and Unai Emery Etxegoien gives the last tactical orders to Lucas (Paris SG)."
+        },
+        {
+            "gameTime": "2 - 31:25",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Maxwel Cornet (Lyon) for Memphis Depay."
+        },
+        {
+            "gameTime": "2 - 29:11",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) takes the chance to have an effort at goal from inside the box but misses to the right of the target."
+        },
+        {
+            "gameTime": "2 - 24:29",
+            "label": "corner",
+            "description": "Nabil Fekir (Lyon) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 22:51",
+            "label": "",
+            "description": "Memphis Depay (Lyon) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Lyon win a corner kick."
+        },
+        {
+            "gameTime": "2 - 21:25",
+            "label": "corner",
+            "description": "Paris SG quickly take a corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 21:16",
+            "label": "",
+            "description": "Javier Pastore (Paris SG) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The referee signals a corner kick to Paris SG."
+        },
+        {
+            "gameTime": "2 - 18:47",
+            "label": "substitution",
+            "description": "A substitution has been made. Mathieu Valbuena is replaced by Rachid Ghezzal (Lyon)."
+        },
+        {
+            "gameTime": "2 - 18:22",
+            "label": "y-card",
+            "description": "What was Maxime Gonalons (Lyon) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "gameTime": "2 - 16:30",
+            "label": "",
+            "description": "Edinson Cavani (Paris SG) finds some space inside the box and produces a first time shot that goes high over the bar. High, wide and not at all pretty."
+        },
+        {
+            "gameTime": "2 - 13:02",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) pulls the jersey of one of the opposition players and Clement Turpin blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 10:18",
+            "label": "",
+            "description": "Nabil Fekir (Lyon) is in a clear offside position and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 08:55",
+            "label": "corner",
+            "description": "The resulting corner from Mathieu Valbuena (Lyon) is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "2 - 08:36",
+            "label": "substitution",
+            "description": "Unai Emery has decided to introduce fresh legs, with Blaise Matuidi (Paris SG) replacing Julian Draxler."
+        },
+        {
+            "gameTime": "2 - 08:02",
+            "label": "",
+            "description": "Rafael (Lyon) flights in the cross, but the defender is alert and clears to safety. The ball goes out of play. Lyon are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 06:44",
+            "label": "substitution",
+            "description": "Substitution. Alexandre Lacazette leaves the pitch and is replaced by Sergi Darder (Lyon)."
+        },
+        {
+            "gameTime": "2 - 04:32",
+            "label": "",
+            "description": "Nabil Fekir (Lyon) misses a golden opportunity to score from inside the six yard box after firing the ball over the crossbar."
+        },
+        {
+            "gameTime": "2 - 02:48",
+            "label": "",
+            "description": "Nabil Fekir (Lyon) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The half time break is over and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:12",
+            "label": "whistle",
+            "description": "Clement Turpin has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:42",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) sends in a lofted cross from a long range free kick, but his poor effort goes out of play."
+        },
+        {
+            "gameTime": "1 - 42:53",
+            "label": "",
+            "description": "Mouctar Diakhaby (Lyon) jumps into a tackle and Clement Turpin blows his whistle for a foul. It's a free kick to Paris SG, but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "1 - 41:39",
+            "label": "corner",
+            "description": "The resulting corner from Mathieu Valbuena (Lyon) comes to nothing."
+        },
+        {
+            "gameTime": "1 - 41:12",
+            "label": "",
+            "description": "Mathieu Valbuena (Lyon) looks to break free, but an opposing player clears the ball away. Lyon get a corner."
+        },
+        {
+            "gameTime": "1 - 39:48",
+            "label": "soccer-ball",
+            "description": "Julian Draxler (Paris SG) connects with a pass inside the box and slams home into the bottom right corner. The goalkeeper was helpless."
+        },
+        {
+            "gameTime": "1 - 38:31",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "gameTime": "1 - 37:00",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) is unlucky with a goal bound effort from the edge of the box. A brilliant save by Anthony Lopes stops the ball from going inside the left post. The ball is out of play. Paris SG will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 33:34",
+            "label": "soccer-ball",
+            "description": "Adrien Rabiot (Paris SG) receives the ball inside the box, reacts quickly and without any problems fires the ball into the back of the net."
+        },
+        {
+            "gameTime": "1 - 31:44",
+            "label": "corner",
+            "description": "Anthony Lopes leaps to collect the ball from the corner which was sent over by Angel Di Maria (Paris SG)."
+        },
+        {
+            "gameTime": "1 - 31:33",
+            "label": "",
+            "description": "Angel Di Maria (Paris SG) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball goes out of play. Paris SG are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 30:25",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "1 - 29:00",
+            "label": "",
+            "description": "Maxwell (Paris SG) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Good work from Paris SG as they win a corner."
+        },
+        {
+            "gameTime": "1 - 28:44",
+            "label": "corner",
+            "description": "Paris SG work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "gameTime": "1 - 28:39",
+            "label": "",
+            "description": "Serge Aurier (Paris SG) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball is out of play. A goal scoring opportunity from a corner for Paris SG."
+        },
+        {
+            "gameTime": "1 - 24:51",
+            "label": "corner",
+            "description": "Mathieu Valbuena (Lyon) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "1 - 23:33",
+            "label": "",
+            "description": "Nabil Fekir (Lyon) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball goes out of play and Lyon have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 19:55",
+            "label": "y-card",
+            "description": "Edinson Cavani (Paris SG) receives a yellow card for talking out of turn to the referee."
+        },
+        {
+            "gameTime": "1 - 19:27",
+            "label": "corner",
+            "description": "Angel Di Maria (Paris SG) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "1 - 18:51",
+            "label": "",
+            "description": "Serge Aurier (Paris SG) delivers a promising cross into the box, but it's cleared. Paris SG force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 15:26",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Adrien Rabiot (Paris SG) was quite harsh and Clement Turpin didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 14:41",
+            "label": "corner",
+            "description": "Mathieu Valbuena (Lyon) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "1 - 12:46",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Mathieu Valbuena (Lyon). Lyon have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 11:59",
+            "label": "corner",
+            "description": "Mathieu Valbuena (Lyon) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 11:54",
+            "label": "",
+            "description": "Jeremy Morel (Lyon) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee blows his whistle, Lyon are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:11",
+            "label": "corner",
+            "description": "A corner kick by Lyon is thwarted by the well prepared Kevin Trapp (Paris SG)."
+        },
+        {
+            "gameTime": "1 - 09:32",
+            "label": "",
+            "description": "Jeremy Morel (Lyon) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Lyon win a corner."
+        },
+        {
+            "gameTime": "1 - 05:59",
+            "label": "soccer-ball",
+            "description": "Alexandre Lacazette (Lyon) rises high to head the corner in the net and beyond the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 05:51",
+            "label": "corner",
+            "description": "Lyon have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 05:50",
+            "label": "",
+            "description": "A lofted cross from Nabil Fekir (Lyon) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "1 - 04:41",
+            "label": "",
+            "description": "Nabil Fekir (Lyon) trips an opponent with a slide tackle. Clement Turpin stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "gameTime": "1 - 01:38",
+            "label": "",
+            "description": "Julian Draxler (Paris SG) is unlucky with a goal bound effort from the edge of the box. A fortuitous save from Anthony Lopes stops the ball from going into the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Clement Turpin will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Lyon",
+    "gameDate": "19/03/2017 - 23:00",
+    "gameHomeTeam": "Paris SG",
+    "gameScore": "2 - 1"
+}

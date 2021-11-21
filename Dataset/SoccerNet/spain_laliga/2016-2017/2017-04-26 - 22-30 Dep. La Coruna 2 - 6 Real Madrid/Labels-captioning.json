@@ -1,0 +1,430 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:55",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        },
+        {
+            "gameTime": "2 - 47:34",
+            "label": "y-card",
+            "description": "Emre Colak (Dep. La Coruna) receives a yellow card for talking out of turn to the referee."
+        },
+        {
+            "gameTime": "2 - 47:10",
+            "label": "",
+            "description": "Florin Andone (Dep. La Coruna) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "2 - 46:28",
+            "label": "y-card",
+            "description": "Martinez Sanchez shows a yellow card to Joselu (Dep. La Coruna) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:45",
+            "label": "",
+            "description": "Mariano Diaz (Real Madrid) wins himself enough space to connect with a cross inside the box, but his fine header goes narrowly over the crossbar! The ball goes out of play and Dep. La Coruna will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 44:21",
+            "label": "",
+            "description": "The defence successfully catches Mariano Diaz (Real Madrid) in the offside trap, but it was close!"
+        },
+        {
+            "gameTime": "2 - 42:10",
+            "label": "substitution",
+            "description": "Substitution. Raphael Varane is replaced by Alvaro Tejero (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 41:45",
+            "label": "soccer-ball",
+            "description": "Mariano Diaz passes to Casemiro (Real Madrid), who collects the ball and unleashes a terrific shot from the edge of the box. His effort goes into the bottom left corner. Fabulous goal! The score is 2:6."
+        },
+        {
+            "gameTime": "2 - 41:00",
+            "label": "",
+            "description": "Mariano Diaz (Real Madrid) dribbles into the box, but Przemyslaw Tyton is quick enough to come off his line and stop him."
+        },
+        {
+            "gameTime": "2 - 38:32",
+            "label": "soccer-ball",
+            "description": "A perfect lofted pass from Florin Andone finds Joselu (Dep. La Coruna), who jumps highest and steers a close range header straight into the bottom right corner. His effort was both strong and precise, and Francisco Casilla had no chance of stopping that. 2:5."
+        },
+        {
+            "gameTime": "2 - 36:04",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) runs through on goal, but he is flagged for offside by the linesman after failing to beat the offside trap."
+        },
+        {
+            "gameTime": "2 - 34:40",
+            "label": "",
+            "description": "Mariano Diaz (Real Madrid) pulls the jersey of one of the opposition players and Martinez Sanchez blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 33:38",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Mariano Diaz (Real Madrid) will replace Marco Asensio."
+        },
+        {
+            "gameTime": "2 - 33:08",
+            "label": "substitution",
+            "description": "Zinedine Zidane has decided to substitute Isco and he is replaced by Casemiro (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "soccer-ball",
+            "description": "Isco (Real Madrid) receives a precise pass inside the box from Lucas and he beats the goalkeeper with a neat finish into the left side of the net. 1:5."
+        },
+        {
+            "gameTime": "2 - 31:20",
+            "label": "",
+            "description": "Sidnei (Dep. La Coruna) wastes an opportunity to score with a header from inside the 18 yard box. His effort floats over the bar by a whisker! The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "2 - 30:16",
+            "label": "corner",
+            "description": "Emre Colak (Dep. La Coruna) is about to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 30:14",
+            "label": "",
+            "description": "Luisinho (Dep. La Coruna) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. Dep. La Coruna win a corner."
+        },
+        {
+            "gameTime": "2 - 29:46",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post. The ball is off of the pitch and it's a goal kick for Dep. La Coruna."
+        },
+        {
+            "gameTime": "2 - 29:23",
+            "label": "corner",
+            "description": "The resulting corner, taken by Juanfran (Dep. La Coruna), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 29:13",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Guilherme (Dep. La Coruna). The referee blows his whistle, Dep. La Coruna are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 25:57",
+            "label": "",
+            "description": "Alex Bergantinos (Dep. La Coruna) fouls an opponent. At least that's what referee Martinez Sanchez signals."
+        },
+        {
+            "gameTime": "2 - 22:16",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Isco (Real Madrid) was quite harsh and Martinez Sanchez didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "2 - 21:05",
+            "label": "y-card",
+            "description": "Alejandro Arribas (Dep. La Coruna) is shown the yellow card for talking out of turn to the referee. It could have been worse!"
+        },
+        {
+            "gameTime": "2 - 20:14",
+            "label": "soccer-ball",
+            "description": "Fantastic team goal! James Rodriguez (Real Madrid) was set free in the area by Alvaro Morata and made no mistake with a lovely finish into the bottom right corner. 1:4."
+        },
+        {
+            "gameTime": "2 - 19:02",
+            "label": "",
+            "description": "Danilo (Real Madrid) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark. The ball goes out of play and Dep. La Coruna will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 18:11",
+            "label": "",
+            "description": "Francisco Casilla makes a superb save to deny a header which was nodded by Joselu (Dep. La Coruna) after a cross from the side."
+        },
+        {
+            "gameTime": "2 - 16:46",
+            "label": "",
+            "description": "Raphael Varane (Real Madrid) connects with the corner kick around the penalty spot, but steers his header just wide of the left post. The ball is off of the pitch and it's a goal kick for Dep. La Coruna."
+        },
+        {
+            "gameTime": "2 - 16:35",
+            "label": "corner",
+            "description": "Isco (Real Madrid) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "2 - 16:19",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) drills a low shot from the edge of the box after a brilliant solo effort. The ball heads towards the right post, but the goalkeeper denies him with a fantastic save. Real Madrid force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 13:52",
+            "label": "",
+            "description": "CHANCE! Marco Asensio finds Lucas (Real Madrid) with a sweet pass, but he can't find the target as his effort from inside the box goes just wide of the right post! The ball goes out of play and Dep. La Coruna will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 12:33",
+            "label": "",
+            "description": "Guilherme (Dep. La Coruna) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "2 - 11:41",
+            "label": "substitution",
+            "description": "Joselu (Dep. La Coruna) comes onto the pitch because Carles Gil simply cannot continue any longer after picking up an injury."
+        },
+        {
+            "gameTime": "2 - 11:17",
+            "label": "injury",
+            "description": "Carles Gil (Dep. La Coruna) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 10:56",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Alvaro Morata (Real Madrid). Martinez Sanchez saw the sliding tackle and blows for a foul."
+        },
+        {
+            "gameTime": "2 - 08:44",
+            "label": "attendance",
+            "description": "The attendance for today's match is 26735."
+        },
+        {
+            "gameTime": "2 - 07:40",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "2 - 07:35",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Marco Asensio (Real Madrid), is intercepted by the opposition's defence. Real Madrid force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 06:55",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Isco (Real Madrid) takes it short."
+        },
+        {
+            "gameTime": "2 - 06:54",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The linesman points to the corner flag, Real Madrid are going to take it."
+        },
+        {
+            "gameTime": "2 - 00:23",
+            "label": "substitution",
+            "description": "Pepe Mel has decided to make a substitution during the half time break. Przemyslaw Tyton (Dep. La Coruna) comes on the pitch for German Lux."
+        },
+        {
+            "gameTime": "2 - 00:12",
+            "label": "substitution",
+            "description": "It will be a substitution. Fernando Navarro (Dep. La Coruna) is ready to enter the pitch as Gael Kakuta walks off."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Martinez Sanchez blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 45:11",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 43:15",
+            "label": "soccer-ball",
+            "description": "Goal! Lucas (Real Madrid) fires the rebound low into the middle of the goal after the ball breaks to him in the box. The score is 1:3."
+        },
+        {
+            "gameTime": "1 - 42:19",
+            "label": "corner",
+            "description": "Emre Colak (Dep. La Coruna) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 41:51",
+            "label": "",
+            "description": "Carles Gil (Dep. La Coruna) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball goes out for a corner. Dep. La Coruna can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 40:02",
+            "label": "",
+            "description": "Luisinho (Dep. La Coruna) makes an overly aggressive challenge and Martinez Sanchez blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 39:35",
+            "label": "corner",
+            "description": "Emre Colak (Dep. La Coruna) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 39:12",
+            "label": "",
+            "description": "Florin Andone (Dep. La Coruna) takes a shot from the edge of the box after a brilliant solo effort. The ball heads towards the left post, but the goalkeeper denies him with a fantastic save. Dep. La Coruna force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 36:38",
+            "label": "",
+            "description": "Dangerous play by Luisinho (Dep. La Coruna). Martinez Sanchez blows his whistle for a foul. A free kick has been awarded to Real Madrid."
+        },
+        {
+            "gameTime": "1 - 34:33",
+            "label": "soccer-ball",
+            "description": "Goal! Gael Kakuta provides Florin Andone (Dep. La Coruna) with a nice pass inside the box. It allows him to finish with a precise effort into the top right corner. 1:2."
+        },
+        {
+            "gameTime": "1 - 32:43",
+            "label": "",
+            "description": "German Lux (Dep. La Coruna) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 32:12",
+            "label": "injury",
+            "description": "German Lux (Dep. La Coruna) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 31:35",
+            "label": "",
+            "description": "Przemyslaw Tyton was forced into action to thwart Alvaro Morata (Real Madrid). He found himself some space after picking up a pass and unleashed a shot to the left post but couldn't beat the keeper."
+        },
+        {
+            "gameTime": "1 - 29:45",
+            "label": "",
+            "description": "What an opportunity! Carles Gil (Dep. La Coruna) picked the ball up and fired a projectile of a shot from long range which threatened the goalkeeper. The shot went painfully close to the right post! The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 26:41",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) connects with the corner kick around the penalty spot, but steers his header inches over the bar. The ball goes out of play and Dep. La Coruna will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 26:31",
+            "label": "corner",
+            "description": "Isco (Real Madrid) steps up to send the ball in."
+        },
+        {
+            "gameTime": "1 - 25:53",
+            "label": "",
+            "description": "Lucas (Real Madrid) came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at Przemyslaw Tyton. The ball goes out of play. Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 25:27",
+            "label": "",
+            "description": "Carles Gil (Dep. La Coruna) is caught offside after the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 23:45",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Guilherme (Dep. La Coruna), whose instinctive shot towards goal flashes inches wide of the right post. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 22:04",
+            "label": "",
+            "description": "Francisco Casilla makes a brilliant save! Carles Gil (Dep. La Coruna) easily weaves through the defence and fires the ball from mid range. His low shot goes towards the middle of the goal but is saved by the keeper!"
+        },
+        {
+            "gameTime": "1 - 21:02",
+            "label": "",
+            "description": "James Rodriguez (Real Madrid) is caught offside by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "gameTime": "1 - 18:42",
+            "label": "corner",
+            "description": "The corner from Marco Asensio (Real Madrid) is hurriedly cleared."
+        },
+        {
+            "gameTime": "1 - 18:19",
+            "label": "",
+            "description": "Isco (Real Madrid) takes the free kick from the edge of the box, but the goalkeeper perfectly sets up the defensive wall and his effort is thwarted. Real Madrid get a corner."
+        },
+        {
+            "gameTime": "1 - 17:45",
+            "label": "",
+            "description": "Isco (Real Madrid) will take a free kick. Is he going to strike the ball directly at the goal? Let's find out!"
+        },
+        {
+            "gameTime": "1 - 17:23",
+            "label": "",
+            "description": "Martinez Sanchez blows his whistle for a foul after Emre Colak (Dep. La Coruna) hacks down one of his opponents. Real Madrid win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 16:17",
+            "label": "",
+            "description": "Marcelo (Real Madrid) couldn't beat the offside trap and the flag goes up. The assistant referee quickly made a difficult call as it was a really tight offside."
+        },
+        {
+            "gameTime": "1 - 13:46",
+            "label": "soccer-ball",
+            "description": "Goal! Lucas displays great vision and sends a pass to James Rodriguez (Real Madrid), who shows brilliant composure inside the box to bury the ball into the top of the net. The score is 0:2."
+        },
+        {
+            "gameTime": "1 - 12:49",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) decided to surprise the goalkeeper with a quick shot from the edge of the box, but his effort came back off the right post! The ball is off of the pitch and it's a goal kick for Dep. La Coruna."
+        },
+        {
+            "gameTime": "1 - 10:52",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) must feel embarrassed now. He received a killer pass, but his shot from the six yard box was a disaster. He miskicked and made it very easy for Przemyslaw Tyton to get hold of the ball."
+        },
+        {
+            "gameTime": "1 - 06:43",
+            "label": "",
+            "description": "Isco (Real Madrid) gets on the end of a pass on the edge of the area, but he drags his shot just wide of the right post. The ball goes out of play and Dep. La Coruna will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 04:45",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) takes the ball, nicely zig zags through the defence, but his low drive to the middle of the goal is smartly dealt with by Przemyslaw Tyton."
+        },
+        {
+            "gameTime": "1 - 04:25",
+            "label": "",
+            "description": "Great solo effort by Juanfran (Dep. La Coruna) as he beats two defenders before firing in a drive from just outside of the box towards the middle of the goal. The goalkeeper is ready and makes an amazing save."
+        },
+        {
+            "gameTime": "1 - 00:30",
+            "label": "soccer-ball",
+            "description": "GOAL! Superb work from Isco, who plays a vital role in the build up. He squares it to Alvaro Morata (Real Madrid), who beats Przemyslaw Tyton with a brilliant shot into the right side of the net. 0:1."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The match has just started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Martinez Sanchez will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "11 The number of away wins for Real Madrid."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "18 The number of Dep. La Coruna matches with less than 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "26/04/2017 - 22:30",
+    "gameHomeTeam": "Dep. La Coruna",
+    "gameScore": "2 - 6"
+}
