@@ -45,11 +45,8 @@ if __name__ == "__main__":
     year = '2014-2015'
     match = '2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal'  #'2015-02-21 - 18-00 Chelsea 1 - 1 Burnley'
 
-    if len(sys.argv) == 4:
-        league, year, match = sys.argv[1:]
-    # leagues_list = os.listdir(labels_dir / 'SoccerNet_V1.1_Labels')
-    # years_list = os.listdir(labels_dir / 'SoccerNet_V1.1_Labels' / league)
-    # matches_list = os.listdir(labels_dir / 'SoccerNet_V1.1_Labels' / league / year)
+    if len(sys.argv) >= 4:
+        league, year, match = sys.argv[1], sys.argv[2], " ".join(sys.argv[3:])
 
     match_dir = video_dir / league / year / match
     class_dir = labels_dir / league / year / match
@@ -95,7 +92,7 @@ if __name__ == "__main__":
         # Modify the tolerance!
         start_time, end_time = event_time - 15 + kickoff, event_time + 15+ kickoff
         filename = label['gameTime'].replace(":", "_")
-        print(full_match_dir, start_time, end_time, saved_dir / (filename + '.mp4'))
+        print(full_match_dir, start_time, end_time, saved_dir / (filename + '.mkv'))
         ffmpeg_extract_subclip(full_match_dir, start_time, end_time, targetname=saved_dir / (filename + '.mkv') )
 # ffmpeg -progress pipe:1 -hide_banner -i /path/to/file.mkv -map 0:v
 # -map 0:a -map 0:s -c:a aac -c:v copy -c:s mov_text /path/to/outfile.mp4
