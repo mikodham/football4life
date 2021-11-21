@@ -1,0 +1,410 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:59",
+            "label": "",
+            "description": "Let's hope the players will show us more in future games as today's one was rather average, without many exciting moments. This has been a real cat and mouse game, with the hosts coming out on top. Both teams attempted to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "2 - 50:38",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 49:55",
+            "label": "",
+            "description": "Gianluca Lapadula (AC Milan) attempts to threaten the goalkeeper from the free kick on the edge of the box. He produces a stunning blast which only flies inches over the crossbar. It could have been a beautiful goal!"
+        },
+        {
+            "gameTime": "2 - 49:10",
+            "label": "",
+            "description": "Gianluca Lapadula (AC Milan) is going to send the ball in from the free kick."
+        },
+        {
+            "gameTime": "2 - 48:48",
+            "label": "r-card",
+            "description": "Bruno Alves (Cagliari) is sent off with a straight red card. He can't believe his eyes, but the referee's call is final."
+        },
+        {
+            "gameTime": "2 - 46:56",
+            "label": "substitution",
+            "description": "Daniele Dessena comes off the pitch to be replaced by Niccolo Giannetti (Cagliari)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:19",
+            "label": "y-card",
+            "description": "Mauricio Isla (Cagliari) argues with the referee and receives a yellow card for dissent."
+        },
+        {
+            "gameTime": "2 - 42:43",
+            "label": "soccer-ball",
+            "description": "Goal! Gianluca Lapadula displays great vision and sends a pass to Carlos Bacca (AC Milan), who shows brilliant composure inside the box to bury the ball into the bottom left corner. The score is 1:0."
+        },
+        {
+            "gameTime": "2 - 40:46",
+            "label": "",
+            "description": "Piero Giacomelli blows his whistle after Marco Borriello (Cagliari) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "gameTime": "2 - 36:37",
+            "label": "",
+            "description": "Daniele Dessena (Cagliari) gets the ball and drives a shot high over the bar from the edge of the area."
+        },
+        {
+            "gameTime": "2 - 33:55",
+            "label": "substitution",
+            "description": "The substitution has been made. Gianluca Lapadula (AC Milan) has replaced Mario Pasalic."
+        },
+        {
+            "gameTime": "2 - 33:50",
+            "label": "corner",
+            "description": "Suso (AC Milan) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "2 - 33:27",
+            "label": "",
+            "description": "Carlos Bacca (AC Milan) fashions a shot from the edge of the box after receiving an accurate pass. Rafael makes a stunning save to stop the effort from flying into the right side of the goal. The referee points to the corner flag and AC Milan will take a corner."
+        },
+        {
+            "gameTime": "2 - 32:14",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Joao Pedro (Cagliari) for Diego Farias."
+        },
+        {
+            "gameTime": "2 - 31:29",
+            "label": "",
+            "description": "Nicolo Barella (Cagliari) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "gameTime": "2 - 29:00",
+            "label": "corner",
+            "description": "Rafael comes off his line to intercept the corner from Suso (AC Milan)."
+        },
+        {
+            "gameTime": "2 - 28:49",
+            "label": "",
+            "description": "Mario Pasalic (AC Milan) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. AC Milan force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 27:30",
+            "label": "substitution",
+            "description": "Substitution. Marco Borriello (Cagliari) in, Marco Sau out."
+        },
+        {
+            "gameTime": "2 - 22:38",
+            "label": "",
+            "description": "Gooal! No wait, it's been ruled out for offside. Mauricio Isla (Cagliari) disagrees, but the linesman is sure about his call."
+        },
+        {
+            "gameTime": "2 - 21:49",
+            "label": "",
+            "description": "Manuel Locatelli (AC Milan) receives a precise pass on the edge of the box and bends his effort inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 21:06",
+            "label": "",
+            "description": "Suso (AC Milan) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 18:50",
+            "label": "substitution",
+            "description": "Andrea Bertolacci (AC Milan) joins the action as a substitute, replacing Giacomo Bonaventura."
+        },
+        {
+            "gameTime": "2 - 18:48",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) threw away a promising scoring opportunity. He received a fine cross inside the 6 yard box, but his shot missed the target close to the right post."
+        },
+        {
+            "gameTime": "2 - 17:00",
+            "label": "",
+            "description": "Poor challenge! Marco Sau (Cagliari) is penalised for tripping and Piero Giacomelli blows his whistle."
+        },
+        {
+            "gameTime": "2 - 13:12",
+            "label": "corner",
+            "description": "Giacomo Bonaventura (AC Milan) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) misses a good chance to score. An inch perfect cross into the box finds Giacomo Bonaventura (AC Milan) who rises for a header, but sends the ball well over the bar. The linesman makes the right call and AC Milan will have a corner."
+        },
+        {
+            "gameTime": "2 - 10:19",
+            "label": "",
+            "description": "Gabriel Paletta (AC Milan) receives a precise pass and threatens the keeper with a long range shot. His attempt goes miles wide of the left post."
+        },
+        {
+            "gameTime": "2 - 08:18",
+            "label": "",
+            "description": "Mario Pasalic (AC Milan) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "gameTime": "2 - 07:58",
+            "label": "corner",
+            "description": "The resulting corner from Giacomo Bonaventura (AC Milan) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 07:50",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) fails to send a pass into the box as his effort is cut out. AC Milan force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 03:57",
+            "label": "",
+            "description": "Daniele Dessena (Cagliari) sends in a shot from a promising distance after a precise pass. His effort goes inches over the crossbar."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "We have been witnesses to an ordinary game without many breathtaking situations, but there is still time for improvement in the second half. During the first half the home team held the upper hand and were much more precise and effective. The home side gives the opposition a hard time by closing them down quickly and aggressively. The away side is creating their opportunities using lightning fast counter attacks."
+        },
+        {
+            "gameTime": "1 - 47:06",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 46:54",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) holds his head in his hands after wasting a promising chance. He latches onto a rebound, creates some space for himself and fires the ball from the edge of the box well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 46:02",
+            "label": "corner",
+            "description": "Suso (AC Milan) whips in a cross from the corner, but Rafael is well positioned and punches the ball away."
+        },
+        {
+            "gameTime": "1 - 45:53",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) flights in the cross, but the defender is alert and clears to safety. AC Milan get a corner."
+        },
+        {
+            "gameTime": "1 - 45:15",
+            "label": "corner",
+            "description": "The goalkeeper punched the ball away after Davide Di Gennaro (Cagliari) took the corner."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:55",
+            "label": "",
+            "description": "An attempted cross from Daniele Dessena (Cagliari) is cleared. Cagliari will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 44:38",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from AC Milan was in an offside position."
+        },
+        {
+            "gameTime": "1 - 44:23",
+            "label": "corner",
+            "description": "The corner from Giacomo Bonaventura (AC Milan) is hurriedly cleared."
+        },
+        {
+            "gameTime": "1 - 43:47",
+            "label": "",
+            "description": "Gabriel Paletta (AC Milan) gets to the rebound outside the box and doesn't hesitate to shoot on goal. It was a promising attempt, but one of the defending players got in the way and blocked it. The ball goes out of play. AC Milan are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 43:28",
+            "label": "corner",
+            "description": "Giacomo Bonaventura (AC Milan) sends the corner into the box, but Rafael intercepts it and averts the threat."
+        },
+        {
+            "gameTime": "1 - 43:20",
+            "label": "",
+            "description": "A lofted cross from Luca Antonelli (AC Milan) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. The ball goes behind for a corner. AC Milan will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 42:33",
+            "label": "",
+            "description": "Suso (AC Milan) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "1 - 38:34",
+            "label": "corner",
+            "description": "The corner kick from Davide Di Gennaro (Cagliari) is headed out of the penalty area by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 38:00",
+            "label": "",
+            "description": "Marco Sau (Cagliari) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. Cagliari force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 33:55",
+            "label": "",
+            "description": "Manuel Locatelli (AC Milan) has again attempted to split the defence with a through ball."
+        },
+        {
+            "gameTime": "1 - 30:51",
+            "label": "corner",
+            "description": "Nothing comes of the resulting corner from Giacomo Bonaventura (AC Milan). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "1 - 30:39",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The referee points to the corner flag. It's a corner to AC Milan."
+        },
+        {
+            "gameTime": "1 - 28:25",
+            "label": "",
+            "description": "That was close by Giacomo Bonaventura (AC Milan)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the left post."
+        },
+        {
+            "gameTime": "1 - 28:14",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) quickly takes the free kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 27:11",
+            "label": "",
+            "description": "Bruno Alves (Cagliari) was too forceful with his tackle and Piero Giacomelli interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "1 - 26:36",
+            "label": "substitution",
+            "description": "Ignazio Abate is being substituted because of an injury. Vincenzo Montella sends Luca Antonelli (AC Milan) on the pitch."
+        },
+        {
+            "gameTime": "1 - 25:33",
+            "label": "corner",
+            "description": "Davide Di Gennaro (Cagliari) swings in the corner kick, but one of the defenders leaps highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 24:56",
+            "label": "",
+            "description": "Diego Farias (Cagliari) latches on to a precise defence splitting pass and fires a nice strike from a promising distance towards the bottom left corner. Gianluigi Donnarumma has a clear sight of it makes a comfortable save. The ball goes out of play and Cagliari have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 22:04",
+            "label": "",
+            "description": "Giacomo Bonaventura (AC Milan) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+        },
+        {
+            "gameTime": "1 - 18:22",
+            "label": "",
+            "description": "Ignazio Abate (AC Milan) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "1 - 15:30",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) takes a shot after receiving a good pass, but his effort from the edge of the box goes just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 14:55",
+            "label": "",
+            "description": "Piero Giacomelli blows his whistle and signals a foul after Daniele Dessena (Cagliari) brought his opponent down."
+        },
+        {
+            "gameTime": "1 - 11:16",
+            "label": "",
+            "description": "That's a well taken pass by Carlos Bacca (AC Milan). He unleashes a strike from the edge of the box, but blazes it high over the bar."
+        },
+        {
+            "gameTime": "1 - 08:26",
+            "label": "",
+            "description": "Carlos Bacca (AC Milan) is in a clear offside position and the referee blows his whistle after the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 06:08",
+            "label": "corner",
+            "description": "Giacomo Bonaventura (AC Milan) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "1 - 05:49",
+            "label": "",
+            "description": "Mattia De Sciglio (AC Milan) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Now AC Milan have a corner."
+        },
+        {
+            "gameTime": "1 - 05:37",
+            "label": "corner",
+            "description": "The resulting corner from Giacomo Bonaventura (AC Milan) is cleared."
+        },
+        {
+            "gameTime": "1 - 05:26",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) rises high to connect with a lofted pass inside the box, but one of his opponents is in the right place at the right time to thwart him. AC Milan will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 01:59",
+            "label": "",
+            "description": "Carlos Bacca (AC Milan) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the right post."
+        },
+        {
+            "gameTime": "1 - 01:24",
+            "label": "corner",
+            "description": "Suso (AC Milan) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 01:13",
+            "label": "",
+            "description": "M'Baye Niang (AC Milan) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. AC Milan have a corner."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Cagliari will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Piero Giacomelli."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "11 The number of away defeats for Cagliari."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "AC Milan will miss the presence of Lucas Biglia (Muscle Injury), Ignazio Abate (Foot Injury), Luca Antonelli (Muscle Injury), Jose Sosa (Red Card), Jose Sosa (Red Card), Jose Sosa (Yellow Cards), Lucas Biglia (Yellow Cards), Leonardo Bonucci (Thigh Injury), Leonardo Bonucci (Coach's decision), Leonardo Bonucci (Yellow Cards), Ricardo Rodriguez (Thigh Injury), Gabriel Paletta (Red Card), Gabriel Paletta (Red Card), Carlos Bacca (Yellow Cards), Carlos Bacca (Injury), Hakan Calhanoglu (Suspended), Alessio Romagnoli (Illness), Alessio Romagnoli (Red Card), Alessio Romagnoli (Thigh Injury), Alessio Romagnoli (Yellow Cards), Alessio Romagnoli (Injury), Suso (Yellow Cards), Suso (Injury), Franck Kessie (National selection), Franck Kessie (Red Card), Manuel Locatelli (Yellow Cards), Andrea Conti (Yellow Cards)."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The best result this season for AC Milan was a 4:1 victory."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let's hope the players will show us more in future games as today's one was rather average, without many exciting moments. This has been a real cat and mouse game, with the hosts coming out on top. Both teams attempted to hold onto the ball for as long as possible."
+        }
+    ],
+    "gameAwayTeam": "Cagliari",
+    "gameDate": "08/01/2017 - 20:00",
+    "gameHomeTeam": "AC Milan",
+    "gameScore": "1 - 0"
+}

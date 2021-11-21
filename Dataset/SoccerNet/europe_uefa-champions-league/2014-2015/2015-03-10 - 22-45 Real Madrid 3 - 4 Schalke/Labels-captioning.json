@@ -1,0 +1,545 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The away side dominated this game. Both teams attempted to play possession football."
+        },
+        {
+            "gameTime": "2 - 48:47",
+            "label": "whistle",
+            "description": "Damir Skomina is looking at his watch and immediately ends this match."
+        },
+        {
+            "gameTime": "2 - 48:11",
+            "label": "y-card",
+            "description": "The expression of the referee Damir Skomina is crystal clear. This behaviour won't be tolerated. Roman Neustadter (Schalke) is shown a yellow card."
+        },
+        {
+            "gameTime": "2 - 47:13",
+            "label": "corner",
+            "description": "The goalkeeper punched the ball away after Christian Fuchs (Schalke) took the corner."
+        },
+        {
+            "gameTime": "2 - 46:51",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Roman Neustadter (Schalke), is intercepted by the opposition's defence. Now Schalke have a corner."
+        },
+        {
+            "gameTime": "2 - 46:41",
+            "label": "",
+            "description": "Some great controlled play and passing from Schalke. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 44:14",
+            "label": "",
+            "description": "Iker Casillas was forced into action to thwart Benedikt Howedes (Schalke). He found himself some space after picking up a pass and unleashed a shot to the left post but couldn't beat the keeper."
+        },
+        {
+            "gameTime": "2 - 43:22",
+            "label": "funfact",
+            "description": "14:19 \u2013 this is the total number of shots produced by both teams."
+        },
+        {
+            "gameTime": "2 - 41:35",
+            "label": "",
+            "description": "Leroy Sane (Schalke) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the left post is, however, superbly saved by Iker Casillas!"
+        },
+        {
+            "gameTime": "2 - 38:38",
+            "label": "soccer-ball",
+            "description": "Klaas Jan Huntelaar (Schalke) doesn't hesitate to lash home from just outside the box. He hit the ball precisely and it bounced in off the crossbar behind the helpless goalkeeper. What a hit!"
+        },
+        {
+            "gameTime": "2 - 37:50",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Isco (Real Madrid), whose instinctive shot towards goal flashes inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 37:18",
+            "label": "substitution",
+            "description": "Carlo Ancelotti prepares a substitution. Alvaro Arbeloa is replaced by Nacho (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 35:27",
+            "label": "substitution",
+            "description": "Tranquillo Barnetta goes off the pitch and Atsuto Uchida (Schalke) comes on."
+        },
+        {
+            "gameTime": "2 - 33:49",
+            "label": "",
+            "description": "Tranquillo Barnetta (Schalke) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Iker Casillas pulls off an easy save."
+        },
+        {
+            "gameTime": "2 - 32:57",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 31:42",
+            "label": "",
+            "description": "Leon Goretzka (Schalke) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Iker Casillas was alert and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 31:04",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "2 - 30:01",
+            "label": "injury",
+            "description": "Karim Benzema (Real Madrid) picks up an injury."
+        },
+        {
+            "gameTime": "2 - 28:05",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) tries his luck with a long range effort after receiving a precise pass. It goes to the right side of the goal, but Timon Wellenreuther has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 26:42",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence."
+        },
+        {
+            "gameTime": "2 - 25:54",
+            "label": "",
+            "description": "Roman Neustadter (Schalke) makes a yard for himself and attempts to endanger the goalkeeper with a long range shot. His great effort, however, goes a whisker wide of the left post."
+        },
+        {
+            "gameTime": "2 - 25:30",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar."
+        },
+        {
+            "gameTime": "2 - 24:45",
+            "label": "corner",
+            "description": "Corner kick. Toni Kroos (Real Madrid) is ready to send the ball into the box."
+        },
+        {
+            "gameTime": "2 - 24:21",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) receives a low pass just outside the box and unleashes a fine strike towards the roof of the net. Timon Wellenreuther pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed. The referee blows his whistle, Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 24:07",
+            "label": "",
+            "description": "Tranquillo Barnetta (Schalke) attempts to send a pass but the effort is blocked."
+        },
+        {
+            "gameTime": "2 - 21:41",
+            "label": "",
+            "description": "Isco (Real Madrid) tries to send a low pass into the box, but it's blocked and cleared."
+        },
+        {
+            "gameTime": "2 - 20:56",
+            "label": "attendance",
+            "description": "The attendance is 58393."
+        },
+        {
+            "gameTime": "2 - 19:30",
+            "label": "",
+            "description": "Great chance! Alvaro Arbeloa (Real Madrid) collects a great pass inside the box, but the goalkeeper does well to stop his effort."
+        },
+        {
+            "gameTime": "2 - 18:09",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) latches on to a precise defence splitting pass and drills a nice strike from a promising distance towards the middle of the goal. Timon Wellenreuther has a clear sight of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 17:19",
+            "label": "",
+            "description": "Tranquillo Barnetta (Schalke) sends the ball into the box from the side of the pitch, but his cross is blocked."
+        },
+        {
+            "gameTime": "2 - 16:39",
+            "label": "",
+            "description": "Tranquillo Barnetta (Schalke) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 16:16",
+            "label": "corner",
+            "description": "Tranquillo Barnetta (Schalke) steps up to send the ball in."
+        },
+        {
+            "gameTime": "2 - 16:04",
+            "label": "",
+            "description": "A pass into the penalty area from Klaas Jan Huntelaar (Schalke) is intercepted by the defence. Schalke get a corner."
+        },
+        {
+            "gameTime": "2 - 15:12",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "2 - 12:42",
+            "label": "substitution",
+            "description": "Substitution. Fabio Coentrao did his best and is replaced by Marcelo (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 12:27",
+            "label": "substitution",
+            "description": "Carlo Ancelotti has decided to make a change. Luka Modric (Real Madrid) replaces Sami Khedira."
+        },
+        {
+            "gameTime": "2 - 11:58",
+            "label": "substitution",
+            "description": "Here comes a substitution. Marco H\u00f6ger (Schalke) has had enough and is replaced by Leon Goretzka (Schalke)."
+        },
+        {
+            "gameTime": "2 - 11:55",
+            "label": "soccer-ball",
+            "description": "Brilliant finish! Leroy Sane (Schalke) perfectly collected a pass on the edge of the penalty area from Christian Fuchs, then produced a nice strike into the left side of the goal. The score is 3:3."
+        },
+        {
+            "gameTime": "2 - 10:47",
+            "label": "corner",
+            "description": "Tranquillo Barnetta (Schalke) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "2 - 10:29",
+            "label": "",
+            "description": "Klaas Jan Huntelaar (Schalke) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Schalke win a corner kick."
+        },
+        {
+            "gameTime": "2 - 09:15",
+            "label": "y-card",
+            "description": "The foul by Fabio Coentrao (Real Madrid) is worthy of a card and a yellow is duly shown by Damir Skomina."
+        },
+        {
+            "gameTime": "2 - 07:32",
+            "label": "soccer-ball",
+            "description": "Karim Benzema (Real Madrid) wriggles into space inside the box, and he beats the goalkeeper with a precise shot to the right post."
+        },
+        {
+            "gameTime": "2 - 06:33",
+            "label": "",
+            "description": "Matija Nastasic (Schalke) makes a strong challenge and Damir Skomina blows for a foul."
+        },
+        {
+            "gameTime": "2 - 05:20",
+            "label": "corner",
+            "description": "Tranquillo Barnetta (Schalke) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "2 - 04:40",
+            "label": "",
+            "description": "Christian Fuchs (Schalke) attempts to send a pass but the effort is blocked. The referee and one of his assistants signal for a corner kick to Schalke."
+        },
+        {
+            "gameTime": "2 - 03:53",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) commits a foul and Damir Skomina immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 03:31",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) will take the corner."
+        },
+        {
+            "gameTime": "2 - 03:15",
+            "label": "",
+            "description": "Isco (Real Madrid) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The ball is out of play and the linesman points at the corner flag. Corner to Real Madrid."
+        },
+        {
+            "gameTime": "2 - 02:32",
+            "label": "corner",
+            "description": "Tranquillo Barnetta (Schalke) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "2 - 02:14",
+            "label": "",
+            "description": "Tranquillo Barnetta (Schalke) crosses the ball forward but it is intercepted. The ball goes behind for a corner. Schalke will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 01:01",
+            "label": "",
+            "description": "A neat pass is well received by Tranquillo Barnetta (Schalke), who is lurking on the edge of the box and strikes the ball towards the middle of the target. The goalkeeper makes a decent save to block his shot."
+        },
+        {
+            "gameTime": "2 - 00:27",
+            "label": "",
+            "description": "A crossfield pass from Raphael Varane (Real Madrid) fails to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "The fans can't complain about what they have been seeing so far on the pitch as both sides are playing highly attractive football. Even first half from both sides, and they've both had chances. Both sides are using combination football to try and gain the upper hand."
+        },
+        {
+            "gameTime": "1 - 45:58",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "soccer-ball",
+            "description": "Fabio Coentrao showcases his great technique and produces a beautiful lofted cross into the box. Cristiano Ronaldo (Real Madrid) meets the cross and gets himself onto the scoresheet with a header into the middle of the goal. It's 2:2."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:44",
+            "label": "",
+            "description": "The goalkeeper pulls off a great save to deny Sami Khedira (Real Madrid), whose effort would probably have ended inside the left post."
+        },
+        {
+            "gameTime": "1 - 43:26",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 42:46",
+            "label": "corner",
+            "description": "Tranquillo Barnetta (Schalke) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "1 - 42:22",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Christian Fuchs (Schalke). The ball goes out of play and Schalke have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 39:55",
+            "label": "soccer-ball",
+            "description": "Goal! Klaas Jan Huntelaar (Schalke) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 1:2."
+        },
+        {
+            "gameTime": "1 - 39:54",
+            "label": "",
+            "description": "Iker Casillas hears the fans clapping his superb goalkeeping. Max Meyer (Schalke) shoots from the edge of the box towards the right side of the goal, but the goalkeeper makes a magnificent save."
+        },
+        {
+            "gameTime": "1 - 39:06",
+            "label": "",
+            "description": "It should have been a goal! Klaas Jan Huntelaar (Schalke) fires a rocket of a shot but it only hits the crossbar!"
+        },
+        {
+            "gameTime": "1 - 38:50",
+            "label": "",
+            "description": "Raphael Varane (Real Madrid) sends a long ball in, but Timon Wellenreuther comfortably gathers the ball."
+        },
+        {
+            "gameTime": "1 - 37:29",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Roman Neustadter (Schalke) but poses no threat."
+        },
+        {
+            "gameTime": "1 - 36:32",
+            "label": "",
+            "description": "Schalke players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 35:08",
+            "label": "",
+            "description": "Timon Wellenreuther doesn't have to worry about this one. Isco plays a pass into the feet of Cristiano Ronaldo (Real Madrid), who is unable to find the target as his effort from inside the box goes well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 34:29",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) produces a long range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Timon Wellenreuther and the score remains the same."
+        },
+        {
+            "gameTime": "1 - 31:22",
+            "label": "corner",
+            "description": "Christian Fuchs (Schalke) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 31:05",
+            "label": "",
+            "description": "Klaas Jan Huntelaar (Schalke) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Schalke will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 30:42",
+            "label": "y-card",
+            "description": "Cristiano Ronaldo (Real Madrid) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Damir Skomina didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "1 - 28:34",
+            "label": "",
+            "description": "Sami Khedira (Real Madrid) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "gameTime": "1 - 28:06",
+            "label": "substitution",
+            "description": "Roberto Di Matteo is forced to make a change. Maxim Choupo Moting is unable to continue due to injury, Leroy Sane (Schalke) comes on."
+        },
+        {
+            "gameTime": "1 - 27:10",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) is caught offside after the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 24:05",
+            "label": "soccer-ball",
+            "description": "Toni Kroos takes over corner duties and expertly finds Cristiano Ronaldo (Real Madrid), who jumps highest and coolly plants a bullet header into the left side of the goal. The score is now 0:1."
+        },
+        {
+            "gameTime": "1 - 24:05",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "1 - 24:03",
+            "label": "",
+            "description": "Fabio Coentrao (Real Madrid) sends a sweet pass into the penalty area, but one of the defenders averts the danger. The ball is out of play. Real Madrid will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 23:22",
+            "label": "injury",
+            "description": "Maxim Choupo Moting (Schalke) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 21:40",
+            "label": "",
+            "description": "Tranquillo Barnetta (Schalke) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 19:15",
+            "label": "soccer-ball",
+            "description": "Goal! Christian Fuchs (Schalke) finishes from close range with an easy finish and he makes it 0:1. He was ably assisted there by Tranquillo Barnetta."
+        },
+        {
+            "gameTime": "1 - 18:14",
+            "label": "",
+            "description": "Max Meyer (Schalke) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the right post."
+        },
+        {
+            "gameTime": "1 - 16:32",
+            "label": "",
+            "description": "Matija Nastasic (Schalke) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "gameTime": "1 - 15:00",
+            "label": "",
+            "description": "Klaas Jan Huntelaar (Schalke) again sends a long range pass to his teammate to start a counter attack."
+        },
+        {
+            "gameTime": "1 - 13:23",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) passes the ball and slows down the tempo so his team can continue with their combination play."
+        },
+        {
+            "gameTime": "1 - 12:25",
+            "label": "",
+            "description": "Alvaro Arbeloa (Real Madrid) and Gareth Bale matched up again to find some space for an unmarked teammate."
+        },
+        {
+            "gameTime": "1 - 11:19",
+            "label": "",
+            "description": "Maxim Choupo Moting (Schalke) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 10:48",
+            "label": "",
+            "description": "Isco (Real Madrid) and Cristiano Ronaldo attempt to exchange short two yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 09:18",
+            "label": "",
+            "description": "Maxim Choupo Moting (Schalke) receives the ball in the penalty box and immediately fires a first time effort that sails well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 08:48",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "1 - 08:22",
+            "label": "",
+            "description": "Isco (Real Madrid) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. Real Madrid win a corner."
+        },
+        {
+            "gameTime": "1 - 07:07",
+            "label": "",
+            "description": "A long pass, executed by Marco Hoger (Schalke), missed the precision to reach his teammates."
+        },
+        {
+            "gameTime": "1 - 05:57",
+            "label": "",
+            "description": "Christian Fuchs (Schalke) fails to pick a body out in the box with an over hit cross to the back post."
+        },
+        {
+            "gameTime": "1 - 05:16",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner kick, but Timon Wellenreuther reads it well and stops the effort."
+        },
+        {
+            "gameTime": "1 - 04:57",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Real Madrid force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 04:13",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear."
+        },
+        {
+            "gameTime": "1 - 03:50",
+            "label": "",
+            "description": "Marco Hoger (Schalke) sends a long ball in, but Iker Casillas comfortably gathers the ball."
+        },
+        {
+            "gameTime": "1 - 02:03",
+            "label": "",
+            "description": "Marco Hoger (Schalke) sends a teasing cross into the area, but Iker Casillas intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 01:48",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) smashes the ball upfield and Fabio Coentrao controls it with a great first touch."
+        },
+        {
+            "gameTime": "1 - 01:21",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) plays a one two with Isco, but the move breaks down."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Schalke will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Damir Skomina is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The away side dominated this game. Both teams attempted to play possession football."
+        }
+    ],
+    "gameAwayTeam": "Schalke",
+    "gameDate": "10/03/2015 - 22:45",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 4"
+}

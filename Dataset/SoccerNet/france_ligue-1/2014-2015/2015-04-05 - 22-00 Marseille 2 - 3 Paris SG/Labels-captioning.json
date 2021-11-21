@@ -1,0 +1,470 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:59",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. We saw a very balanced game over the 90 minutes. The home team played long passes and crosses into the box, while the away side created their opportunities using lightning fast counter attacks."
+        },
+        {
+            "gameTime": "2 - 50:51",
+            "label": "r-card",
+            "description": "The match is over and Andre Ayew (Marseille) gets a red card for unsporting behaviour."
+        },
+        {
+            "gameTime": "2 - 50:44",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 50:17",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) is clearly in an offside position and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 49:43",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) tries to take the opposition by surprise with a quick free kick into the box."
+        },
+        {
+            "gameTime": "2 - 49:20",
+            "label": "",
+            "description": "Lucas Ocampos (Marseille) commits a rough foul. Ruddy Buquet stops the game and makes a call. There is a free kick near the sideline to Paris SG."
+        },
+        {
+            "gameTime": "2 - 47:18",
+            "label": "",
+            "description": "Lucas Ocampos (Marseille) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "5 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:50",
+            "label": "injury",
+            "description": "Thiago Motta (Paris SG) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "gameTime": "2 - 44:19",
+            "label": "",
+            "description": "Romain Alessandrini (Marseille) sends a cross into the box, but Salvatore Sirigu comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 43:57",
+            "label": "",
+            "description": "Romain Alessandrini (Marseille) delivers a low pass into the box which is intercepted."
+        },
+        {
+            "gameTime": "2 - 43:29",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) is caught offside, but it was a really close call."
+        },
+        {
+            "gameTime": "2 - 42:56",
+            "label": "",
+            "description": "Mario Lemina (Marseille) makes an overly aggressive challenge and Ruddy Buquet blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 42:32",
+            "label": "",
+            "description": "The Paris SG players are exchanging some short passes and control the game at the moment, but one of the defending players steps in and intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 41:54",
+            "label": "",
+            "description": "Marco Verratti (Paris SG) smashes the ball upfield and Blaise Matuidi controls it with a great first touch."
+        },
+        {
+            "gameTime": "2 - 41:08",
+            "label": "",
+            "description": "Dimitri Payet (Marseille) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "gameTime": "2 - 40:25",
+            "label": "",
+            "description": "Gregory van der Wiel (Paris SG) pulls the jersey of one of the opposition players and Ruddy Buquet blows his whistle for a foul. Marseille are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "2 - 39:37",
+            "label": "corner",
+            "description": "The resulting corner, taken by Ezequiel Lavezzi (Paris SG), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 38:25",
+            "label": "",
+            "description": "Steve Mandanda pulls off a great save to deny Zlatan Ibrahimovic (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the top left corner. The ball is out of play. Paris SG will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 37:16",
+            "label": "",
+            "description": "Golden chance! Zlatan Ibrahimovic (Paris SG) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post. The ball goes out of play and Marseille will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 35:55",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Adrien Rabiot (Paris SG) comes onto the pitch so that Javier Pastore can be given a rest."
+        },
+        {
+            "gameTime": "2 - 35:41",
+            "label": "",
+            "description": "Dimitri Payet (Marseille) picks up a pass, lines up a shot and strikes from 21 metres out, but Salvatore Sirigu thwarts the effort which is headed to the left side of the goal."
+        },
+        {
+            "gameTime": "2 - 33:09",
+            "label": "",
+            "description": "Brice Dja Djedje (Marseille) clips an inviting cross into the box, but there's no one in a position to get on the end of it."
+        },
+        {
+            "gameTime": "2 - 32:42",
+            "label": "",
+            "description": "Javier Pastore (Paris SG) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "gameTime": "2 - 30:30",
+            "label": "",
+            "description": "Mario Lemina (Marseille) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 27:40",
+            "label": "",
+            "description": "An attempted cross from Benjamin Mendy (Marseille) is cleared."
+        },
+        {
+            "gameTime": "2 - 26:57",
+            "label": "",
+            "description": "Ezequiel Lavezzi (Paris SG) runs with the ball towards the keeper and pulls the trigger from close range, but Steve Mandanda anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner."
+        },
+        {
+            "gameTime": "2 - 25:29",
+            "label": "substitution",
+            "description": "Here is a change. Andre Ayew is going off and Marcelo Bielsa gives the last tactical orders to Romain Alessandrini (Marseille)."
+        },
+        {
+            "gameTime": "2 - 24:55",
+            "label": "substitution",
+            "description": "Andre Pierre Gignac comes off the pitch to be replaced by Michy Batshuayi (Marseille)."
+        },
+        {
+            "gameTime": "2 - 24:26",
+            "label": "",
+            "description": "Benjamin Mendy (Marseille) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "2 - 20:44",
+            "label": "",
+            "description": "Javier Pastore (Paris SG) and his stunning dribble! He zig zags through the defence and gets in front of the keeper. He faints to shoot and then suddenly strikes goalwards, but his effort misses the target by a whisker. Very unlucky for Javier Pastore (Paris SG). This could have been a legendary goal."
+        },
+        {
+            "gameTime": "2 - 19:00",
+            "label": "y-card",
+            "description": "Marco Verratti (Paris SG) is awarded a yellow card. The referee showed him no mercy."
+        },
+        {
+            "gameTime": "2 - 18:57",
+            "label": "corner",
+            "description": "Dimitri Payet (Marseille) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "2 - 18:38",
+            "label": "",
+            "description": "Andre Ayew (Marseille) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and one of his assistants signal for a corner kick to Marseille."
+        },
+        {
+            "gameTime": "2 - 16:56",
+            "label": "substitution",
+            "description": "Marcelo Bielsa has decided to make a change. Lucas Ocampos (Marseille) replaces Florian Thauvin."
+        },
+        {
+            "gameTime": "2 - 15:15",
+            "label": "",
+            "description": "Steve Mandanda pulls off a great save to deny Blaise Matuidi (Paris SG) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 13:15",
+            "label": "",
+            "description": "Andre Pierre Gignac (Marseille) controls a cross inside the six yard box, but unbelievably sends his shot over the bar."
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "substitution",
+            "description": "The substitution is prepared. Ezequiel Lavezzi (Paris SG) joins the action as a substitute, replacing Edinson Cavani."
+        },
+        {
+            "gameTime": "2 - 07:47",
+            "label": "y-card",
+            "description": "Today's referee Ruddy Buquet rightly decides to book Andre Ayew (Marseille) for his harsh tackle."
+        },
+        {
+            "gameTime": "2 - 07:32",
+            "label": "",
+            "description": "Salvatore Sirigu stretches to his right and makes a brilliant save! Andre Ayew (Marseille) met a rebound outside the box and attempted to beat the keeper inside the left post."
+        },
+        {
+            "gameTime": "2 - 05:16",
+            "label": "soccer-ball-own",
+            "description": "An unfortunate own goal is conceded by Jeremy Morel (Marseille), who attempted to smack the ball away after a cross, but instead he sends it inside the bottom left corner of his own goal."
+        },
+        {
+            "gameTime": "2 - 04:50",
+            "label": "",
+            "description": "Andre Pierre Gignac (Marseille) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 03:50",
+            "label": "soccer-ball",
+            "description": "Goal! Marquinhos (Paris SG) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the top left corner. It's 2:2."
+        },
+        {
+            "gameTime": "2 - 03:49",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) unleashes a bullet of a shot that is blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 02:40",
+            "label": "",
+            "description": "It seems like Zlatan Ibrahimovic (Paris SG) is about to take a free kick. The goalkeeper has to be alert and careful how to position the defensive wall. This is the perfect distance for a direct shot."
+        },
+        {
+            "gameTime": "2 - 02:37",
+            "label": "",
+            "description": "Jeremy Morel (Marseille) makes a strong challenge and Ruddy Buquet blows for a foul. Paris SG are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 02:03",
+            "label": "",
+            "description": "Dimitri Payet (Marseille) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar."
+        },
+        {
+            "gameTime": "2 - 01:16",
+            "label": "",
+            "description": "Maxwell (Paris SG) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "There was certainly plenty of action during that opening 45 minutes. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The home side attempts to create scoring opportunities mainly with long balls. The away team, however, mostly uses counter attacks to penetrate the home defence."
+        },
+        {
+            "gameTime": "1 - 46:20",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 45:48",
+            "label": "corner",
+            "description": "Dimitri Payet (Marseille) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "1 - 45:21",
+            "label": "",
+            "description": "Salvatore Sirigu pulls off a fantastic save! Andre Pierre Gignac (Marseille) attempts to head home after a precise cross into the box. He aims his header towards the top of the net, but the effort is kept out. The referee points to the corner flag and Marseille will take a corner."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:27",
+            "label": "y-card",
+            "description": "Is that a yellow card in the referee's hand? It is! Javier Pastore (Paris SG) gets booked."
+        },
+        {
+            "gameTime": "1 - 42:16",
+            "label": "soccer-ball",
+            "description": "Andre Pierre Gignac (Marseille) scores! He latches on to a pass and produces a perfect strike from the edge of the box that goes inside the left post and past the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 38:16",
+            "label": "",
+            "description": "Florian Thauvin (Marseille) fires in an effort from the free kick from some 26 metres. His strike is very inaccurate and ends in row Z."
+        },
+        {
+            "gameTime": "1 - 36:21",
+            "label": "",
+            "description": "Thiago Motta (Paris SG) was too forceful with his tackle and Ruddy Buquet interrupted the game to signal a free kick. Marseille earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "1 - 34:55",
+            "label": "soccer-ball",
+            "description": "Blaise Matuidi (Paris SG) makes himself some space on the edge of the penalty area and pulls the trigger. His accurate effort goes off the post into the top right corner and the score changes to 1:0."
+        },
+        {
+            "gameTime": "1 - 32:50",
+            "label": "substitution",
+            "description": "David Luiz is being substituted because of an injury. Laurent Blanc sends Gregory van der Wiel (Paris SG) on the pitch."
+        },
+        {
+            "gameTime": "1 - 31:23",
+            "label": "injury",
+            "description": "David Luiz (Paris SG) picks up an injury."
+        },
+        {
+            "gameTime": "1 - 29:58",
+            "label": "soccer-ball",
+            "description": "Dimitri Payet produces a beautiful lofted cross into the box, where Andre Pierre Gignac (Marseille) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 1:0."
+        },
+        {
+            "gameTime": "1 - 27:52",
+            "label": "",
+            "description": "Florian Thauvin (Marseille) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. Salvatore Sirigu pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "1 - 24:08",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) is penalised for a foul. Ruddy Buquet had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 21:55",
+            "label": "y-card",
+            "description": "Ruddy Buquet shows a yellow card to Rod Fanni (Marseille) for his blatant foul."
+        },
+        {
+            "gameTime": "1 - 21:40",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "1 - 18:43",
+            "label": "",
+            "description": "Steve Mandanda pulls off a great save to deny Edinson Cavani (Paris SG), who makes himself some space inside the box and unleashes a quick shot to the left side of the goal."
+        },
+        {
+            "gameTime": "1 - 17:57",
+            "label": "corner",
+            "description": "Thiago Motta (Paris SG) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort."
+        },
+        {
+            "gameTime": "1 - 17:26",
+            "label": "",
+            "description": "Marquinhos (Paris SG) races towards goal but the defender gets back well to make a challenge. The referee signals a corner kick to Paris SG."
+        },
+        {
+            "gameTime": "1 - 16:53",
+            "label": "",
+            "description": "Ruddy Buquet blows his whistle for a foul after Andre Pierre Gignac (Marseille) hacks down one of his opponents."
+        },
+        {
+            "gameTime": "1 - 16:22",
+            "label": "",
+            "description": "Mario Lemina (Marseille) pounces on the rebound on the edge of the box but his wild shot goes high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 16:06",
+            "label": "corner",
+            "description": "Dimitri Payet (Marseille) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 15:42",
+            "label": "",
+            "description": "Andre Pierre Gignac (Marseille) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball is out of play and Marseille manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 15:12",
+            "label": "",
+            "description": "The resulting free kick from 25 metres out taken by Dimitri Payet (Marseille) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 13:49",
+            "label": "",
+            "description": "It looks like Blaise Matuidi (Paris SG) saw red with that tackle. Ruddy Buquet won't tolerate such behaviour on the pitch and blows for a foul. Marseille win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 10:43",
+            "label": "",
+            "description": "Javier Pastore (Paris SG) creates a good chance for himself and goes for goal from mid range, but he misses the left post by a whisker."
+        },
+        {
+            "gameTime": "1 - 07:55",
+            "label": "y-card",
+            "description": "Jacques Alaixys Romao (Marseille) sees a yellow card from Ruddy Buquet after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "1 - 07:50",
+            "label": "",
+            "description": "Dimitri Payet (Marseille) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 07:41",
+            "label": "",
+            "description": "Blaise Matuidi (Paris SG) brings his opponent down. Ruddy Buquet has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 07:02",
+            "label": "",
+            "description": "Dimitri Payet (Marseille) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!"
+        },
+        {
+            "gameTime": "1 - 06:38",
+            "label": "",
+            "description": "Florian Thauvin (Marseille) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "1 - 04:15",
+            "label": "",
+            "description": "Andre Ayew (Marseille) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 03:41",
+            "label": "",
+            "description": "Paris SG players are playing combination football and attempting to create a goal scoring opportunity, but they will have to wait for that as they have just lost possession due to a poor pass."
+        },
+        {
+            "gameTime": "1 - 02:55",
+            "label": "",
+            "description": "Zlatan Ibrahimovic (Paris SG) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 01:51",
+            "label": "",
+            "description": "Andre Ayew (Marseille) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "gameTime": "1 - 01:24",
+            "label": "",
+            "description": "Dimitri Payet (Marseille) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Paris SG will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Ruddy Buquet."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. We saw a very balanced game over the 90 minutes. The home team played long passes and crosses into the box, while the away side created their opportunities using lightning fast counter attacks."
+        }
+    ],
+    "gameAwayTeam": "Paris SG",
+    "gameDate": "05/04/2015 - 22:00",
+    "gameHomeTeam": "Marseille",
+    "gameScore": "2 - 3"
+}

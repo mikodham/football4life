@@ -1,0 +1,455 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:23",
+            "label": "whistle",
+            "description": "Nicola Rizzoli is looking at his watch and immediately ends this match."
+        },
+        {
+            "gameTime": "2 - 45:49",
+            "label": "",
+            "description": "Sergio Ramos (Real Madrid) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "2 - 45:42",
+            "label": "substitution",
+            "description": "A substitution has been made. Luka Modric is replaced by Mateo Kovacic (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:46",
+            "label": "y-card",
+            "description": "Arturo Vidal (Bayern Munich) gets a yellow card."
+        },
+        {
+            "gameTime": "2 - 44:40",
+            "label": "",
+            "description": "A clumsy foul by Arturo Vidal (Bayern Munich) and Nicola Rizzoli blows his whistle. Real Madrid have a free kick."
+        },
+        {
+            "gameTime": "2 - 38:57",
+            "label": "",
+            "description": "Marcelo (Real Madrid) commits a foul and Nicola Rizzoli immediately signals a free kick."
+        },
+        {
+            "gameTime": "2 - 37:50",
+            "label": "substitution",
+            "description": "Substitution. Karim Benzema is replaced by James Rodriguez (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 37:19",
+            "label": "",
+            "description": "Flag goes up against Karim Benzema (Real Madrid) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 36:24",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Keylor Navas easily deals with the threat."
+        },
+        {
+            "gameTime": "2 - 35:38",
+            "label": "substitution",
+            "description": "Carlo Ancelotti has decided to substitute Thomas Muller and he is replaced by Kingsley Coman (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "",
+            "description": "Marcelo (Real Madrid) had a good opportunity when he latched on to a cross from the wing, but his strike from the six yard box wasn't accurate enough and the ball went a few inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 34:11",
+            "label": "funfact",
+            "description": "The current number of shots on goal is 3:12."
+        },
+        {
+            "gameTime": "2 - 33:49",
+            "label": "",
+            "description": "A great solo effort from Luka Modric (Real Madrid) and he attempts to surprise the goalkeeper with a long range shot low towards the middle of the goal. Manuel Neuer has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 31:35",
+            "label": "soccer-ball",
+            "description": "Goal! Marco Asensio puts a cross into the box and finds Cristiano Ronaldo (Real Madrid), who latches on to it and strikes the ball low into the middle of the net. He makes it 1:2."
+        },
+        {
+            "gameTime": "2 - 30:09",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 29:14",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) picks up a pass and unleashes a strong shot from inside the box, but the goalkeeper is equal to it!"
+        },
+        {
+            "gameTime": "2 - 28:03",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) meets a pass on the edge of the penalty area and shoots towards the bottom right corner. He didn't put enough power into the effort, though, and Manuel Neuer pulls off an easy save."
+        },
+        {
+            "gameTime": "2 - 27:39",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "2 - 27:08",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Manuel Neuer is alert and denies him. Real Madrid force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 26:30",
+            "label": "",
+            "description": "Karim Benzema (Real Madrid) jumps for a cross in the goal area and produces a fine header which goes just a few inches over the bar! What a huge opportunity!"
+        },
+        {
+            "gameTime": "2 - 23:52",
+            "label": "",
+            "description": "A defender unwittingly blocks the ball on the line after a snap shot from Cristiano Ronaldo (Real Madrid) inside the box following a slide rule pass."
+        },
+        {
+            "gameTime": "2 - 20:52",
+            "label": "",
+            "description": "Sergio Ramos (Real Madrid) shoots at goal from the free kick from some 25 metres out. His attempt was quite precise and another few inches and it would have ended up inside the right post."
+        },
+        {
+            "gameTime": "2 - 20:51",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Douglas Costa (Bayern Munich) coming on for Franck Ribery."
+        },
+        {
+            "gameTime": "2 - 19:46",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Franck Ribery (Bayern Munich). Real Madrid have a free kick."
+        },
+        {
+            "gameTime": "2 - 18:24",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) gets on the end of a good pass and from mid range he unleashes a decent strike, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 18:09",
+            "label": "substitution",
+            "description": "The referee signals a substitution. Juan Bernat (Bayern Munich) is brought on as a substitute for Xabi Alonso."
+        },
+        {
+            "gameTime": "2 - 15:21",
+            "label": "yr-card",
+            "description": "Nicola Rizzoli blows his whistle and Javi Martinez (Bayern Munich) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off."
+        },
+        {
+            "gameTime": "2 - 14:15",
+            "label": "funfact",
+            "description": "We can have a look at the statistics now, shots on target are 3:12."
+        },
+        {
+            "gameTime": "2 - 13:49",
+            "label": "",
+            "description": "Flag up against Karim Benzema (Real Madrid). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 13:03",
+            "label": "substitution",
+            "description": "It will be a substitution. Marco Asensio (Real Madrid) is ready to enter the pitch as Gareth Bale walks off."
+        },
+        {
+            "gameTime": "2 - 12:34",
+            "label": "y-card",
+            "description": "The foul by Javi Martinez (Bayern Munich) is worthy of a card and a yellow is duly shown by Nicola Rizzoli."
+        },
+        {
+            "gameTime": "2 - 10:57",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "2 - 10:10",
+            "label": "",
+            "description": "Manuel Neuer makes a superb save to deny a header which was nodded towards the roof of the net by Gareth Bale (Real Madrid) after a cross from the side. The referee blows his whistle, Real Madrid are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 07:47",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "2 - 07:32",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Bayern Munich force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 06:49",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 05:35",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 01:55",
+            "label": "soccer-ball",
+            "description": "Goal! Cristiano Ronaldo (Real Madrid) shows good awareness inside the box as he latches on to a brilliant pass and fires a first time shot into the bottom left corner. Daniel Carvajal assisted in the goal. 1:1."
+        },
+        {
+            "gameTime": "2 - 01:30",
+            "label": "y-card",
+            "description": "Nicola Rizzoli shows a yellow card to Xabi Alonso (Bayern Munich) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 48:07",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Nicola Rizzoli has ended it."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "penalty-missed",
+            "description": "Arturo Vidal (Bayern Munich) can't convert the spot kick. It goes narrowly over the crossbar."
+        },
+        {
+            "gameTime": "1 - 45:52",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:59",
+            "label": "y-card",
+            "description": "Daniel Carvajal (Real Madrid) picks up a yellow card."
+        },
+        {
+            "gameTime": "1 - 44:58",
+            "label": "penalty",
+            "description": "Daniel Carvajal (Real Madrid) touches the ball with his hand inside the box! The advantage of a penalty kick is given to Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 43:55",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Toni Kroos (Real Madrid). Nicola Rizzoli doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 42:43",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) has an effort on goal, but he misses to the right of the goal."
+        },
+        {
+            "gameTime": "1 - 42:10",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 41:51",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left hand post, but Manuel Neuer was alert and the score remains the same. The ball goes behind for a corner. Real Madrid will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 39:59",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) rises above the defence inside the box, but his header flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 39:05",
+            "label": "corner",
+            "description": "Arjen Robben (Bayern Munich) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "1 - 38:45",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) was all set to receive a beautiful pass into a promising position. However, one of the defenders makes a timely clearance. The ball is out of play. Bayern Munich win a corner kick."
+        },
+        {
+            "gameTime": "1 - 36:45",
+            "label": "",
+            "description": "Casemiro (Real Madrid) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 34:54",
+            "label": "injury",
+            "description": "Casemiro (Real Madrid) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "1 - 32:32",
+            "label": "",
+            "description": "Casemiro (Real Madrid) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 31:50",
+            "label": "injury",
+            "description": "Casemiro (Real Madrid) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 28:08",
+            "label": "",
+            "description": "Luka Modric (Real Madrid) jumps into a tackle and Nicola Rizzoli blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 24:54",
+            "label": "soccer-ball",
+            "description": "Arturo Vidal (Bayern Munich) connects with the ball from the resulting corner and places a powerful header past the stranded goalkeeper and into the roof of the net. The opposing players are staring at each other, unable to understand what happened. Who will take the blame for that one? Arturo Vidal (Bayern Munich) has a reason to celebrate!"
+        },
+        {
+            "gameTime": "1 - 24:50",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "1 - 24:29",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) blasts the ball from just outside the box, but his attempt is blocked by the defender. The referee points to the corner flag and Bayern Munich will take a corner."
+        },
+        {
+            "gameTime": "1 - 24:12",
+            "label": "corner",
+            "description": "Arjen Robben (Bayern Munich) takes a short corner kick."
+        },
+        {
+            "gameTime": "1 - 24:01",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. Bayern Munich earn a corner."
+        },
+        {
+            "gameTime": "1 - 22:25",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) collects a pass and strikes from about 24 metres out. It's a poor attempt which flies well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 20:53",
+            "label": "corner",
+            "description": "Xabi Alonso (Bayern Munich) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "1 - 20:40",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play and Bayern Munich manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 17:11",
+            "label": "",
+            "description": "What a chance! Karim Benzema (Real Madrid) jumps and powers a precise header towards the roof of the net. The goalkeeper makes a spectacular reflex save and the ball deflects off his gloves onto the crossbar."
+        },
+        {
+            "gameTime": "1 - 16:42",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 16:23",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. The ball goes out of play and Real Madrid have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 15:40",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) fires in an effort from the free kick from some 24 metres. His strike is very inaccurate and ends in row Z."
+        },
+        {
+            "gameTime": "1 - 14:23",
+            "label": "",
+            "description": "Nicola Rizzoli blows his whistle and signals a foul after Jerome Boateng (Bayern Munich) brought his opponent down. Real Madrid earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "1 - 12:10",
+            "label": "",
+            "description": "The game is interrupted as Arjen Robben (Bayern Munich) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 09:11",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "gameTime": "1 - 07:51",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) was too fierce in his attempt to get the ball from his opponent and Nicola Rizzoli blows for a foul. Bayern Munich have been awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 06:37",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) creates a yard of space for himself and tries an effort from distance, but it's blocked."
+        },
+        {
+            "gameTime": "1 - 04:50",
+            "label": "",
+            "description": "Javi Martinez (Bayern Munich) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 04:30",
+            "label": "corner",
+            "description": "Xabi Alonso (Bayern Munich) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "1 - 04:19",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) sends a pass into the penalty area, but the opponent manages to cut it out. The linesman makes the right call and Bayern Munich will have a corner."
+        },
+        {
+            "gameTime": "1 - 02:40",
+            "label": "corner",
+            "description": "The resulting corner from Arjen Robben (Bayern Munich) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 02:20",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) swings in a cross, but the ball is cleared to safety by one of the defending players. Bayern Munich have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 01:12",
+            "label": "corner",
+            "description": "The resulting corner from Arjen Robben (Bayern Munich) is cleared."
+        },
+        {
+            "gameTime": "1 - 00:45",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) fails to find any of his teammates inside the box as his pass is blocked. Bayern Munich win a corner."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bayern Munich will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Nicola Rizzoli is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "Nicola Rizzoli is looking at his watch and immediately ends this match."
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "12/04/2017 - 21:45",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "1 - 2"
+}

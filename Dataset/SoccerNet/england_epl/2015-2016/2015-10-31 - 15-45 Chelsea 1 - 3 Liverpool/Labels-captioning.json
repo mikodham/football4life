@@ -1,0 +1,540 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. The visitors certainly had the better of things. The home team tried to prevail using combination football, while the away players attempted to win the ball back as quickly as possible every time they lost possession."
+        },
+        {
+            "gameTime": "2 - 49:28",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 48:08",
+            "label": "",
+            "description": "A cross by Kurt Zouma (Chelsea) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor."
+        },
+        {
+            "gameTime": "2 - 46:18",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Philippe Coutinho (Liverpool) takes it short."
+        },
+        {
+            "gameTime": "2 - 46:01",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) displays brilliant individual ability, gets inside the box and pulls the trigger. His promising effort is blocked by one of the defenders. The ball is out of play and the linesman points at the corner flag. Corner to Liverpool."
+        },
+        {
+            "gameTime": "2 - 45:50",
+            "label": "substitution",
+            "description": "A substitution has been made. Adam Lallana is replaced by Dejan Lovren (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 43:07",
+            "label": "",
+            "description": "The Chelsea players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "2 - 40:08",
+            "label": "y-card",
+            "description": "Mark Clattenburg shows a yellow card to Christian Benteke (Liverpool) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 37:32",
+            "label": "soccer-ball",
+            "description": "Christian Benteke (Liverpool) makes a great solo run and pulls the trigger from inside the box, beating Asmir Begovic with a strike into the bottom left corner. He makes it 1:3."
+        },
+        {
+            "gameTime": "2 - 36:40",
+            "label": "",
+            "description": "Willian (Chelsea) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch."
+        },
+        {
+            "gameTime": "2 - 36:01",
+            "label": "",
+            "description": "Emre Can (Liverpool) fouls an opponent. At least that's what referee Mark Clattenburg signals. Chelsea will take a free kick."
+        },
+        {
+            "gameTime": "2 - 35:17",
+            "label": "",
+            "description": "Emre Can (Liverpool) sends a long ball in, but Asmir Begovic comfortably gathers the ball."
+        },
+        {
+            "gameTime": "2 - 34:55",
+            "label": "corner",
+            "description": "Alberto Moreno (Liverpool) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "2 - 34:33",
+            "label": "",
+            "description": "Jordon Ibe (Liverpool) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. It will be a corner kick for Liverpool."
+        },
+        {
+            "gameTime": "2 - 33:59",
+            "label": "",
+            "description": "Diego Costa (Chelsea) produces an attempt from the edge of the box which would have most likely endangered the goalkeeper, but one of the defending players blocked it, so we can only speculate about the outcome."
+        },
+        {
+            "gameTime": "2 - 31:36",
+            "label": "corner",
+            "description": "The goalkeeper punched the ball away after Philippe Coutinho (Liverpool) took the corner."
+        },
+        {
+            "gameTime": "2 - 31:09",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) produced a promising shot towards the bottom left corner after his wonderful solo run, but Asmir Begovic thwarted him with a fabulous save and the score remains the same. The referee and his assistant both point at the corner flag. Liverpool will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 30:56",
+            "label": "substitution",
+            "description": "Jose Mourinho has decided to make a change. Falcao (Chelsea) replaces Cesar Azpilicueta."
+        },
+        {
+            "gameTime": "2 - 30:55",
+            "label": "substitution",
+            "description": "It is time for a substitution. Jordon Ibe (Liverpool) is on for Roberto Firmino."
+        },
+        {
+            "gameTime": "2 - 28:58",
+            "label": "soccer-ball",
+            "description": "Goal! Philippe Coutinho (Liverpool) picks up the ball inside the box, finds himself in a good position and fires in a shot which is deflected past Asmir Begovic. He makes it 1:2."
+        },
+        {
+            "gameTime": "2 - 28:23",
+            "label": "",
+            "description": "Diego Costa (Chelsea) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 27:57",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) sends a long cross over to Roberto Firmino, but Asmir Begovic comes forward to gather the ball."
+        },
+        {
+            "gameTime": "2 - 26:43",
+            "label": "corner",
+            "description": "Willian (Chelsea) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 26:04",
+            "label": "",
+            "description": "A great solo effort from Oscar (Chelsea) and he attempts to surprise the goalkeeper with a long range shot towards the underside of the crossbar, but Simon Mignolet has a clear view of it and makes a comfortable save. Chelsea force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 24:54",
+            "label": "substitution",
+            "description": "The substitution has been made. Cesc Fabregas (Chelsea) has replaced John Obi Mikel."
+        },
+        {
+            "gameTime": "2 - 22:35",
+            "label": "",
+            "description": "Lucas Leiva (Liverpool) was trying to get to the ball but clattered into the legs of the opponent as well. Mark Clattenburg blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "2 - 21:00",
+            "label": "y-card",
+            "description": "John Obi Mikel (Chelsea) is booked after bringing down an opponent. Mark Clattenburg had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 19:38",
+            "label": "",
+            "description": "Willian (Chelsea) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "gameTime": "2 - 19:10",
+            "label": "y-card",
+            "description": "Emre Can (Liverpool) receives a yellow card for a nasty tackle."
+        },
+        {
+            "gameTime": "2 - 18:17",
+            "label": "substitution",
+            "description": "Substitution. James Milner will be replaced by Christian Benteke (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 17:17",
+            "label": "",
+            "description": "A precise low pass is received by Adam Lallana (Liverpool), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 15:58",
+            "label": "",
+            "description": "Ramires (Chelsea) meets a cross just outside the area and gets in a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 14:27",
+            "label": "",
+            "description": "jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 13:22",
+            "label": "substitution",
+            "description": "Jose Mourinho prepares a substitution. Eden Hazard is replaced by Kenedy (Chelsea)."
+        },
+        {
+            "gameTime": "2 - 12:52",
+            "label": "y-card",
+            "description": "Lucas Leiva (Liverpool) receives a yellow card for infringement."
+        },
+        {
+            "gameTime": "2 - 10:16",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) has a sight of goal, fires a shot in from distance towards the bottom left corner and forces a good save out of Asmir Begovic."
+        },
+        {
+            "gameTime": "2 - 09:33",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) gets on the ball and beats an opponent, but his run is stopped by the referee Mark Clattenburg who sees an offensive foul."
+        },
+        {
+            "gameTime": "2 - 07:26",
+            "label": "corner",
+            "description": "Adam Lallana (Liverpool) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "2 - 07:02",
+            "label": "corner",
+            "description": "Adam Lallana (Liverpool) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat. The referee and one of his assistants signal for a corner kick to Liverpool."
+        },
+        {
+            "gameTime": "2 - 06:29",
+            "label": "",
+            "description": "Liverpool players are playing combination football and attempting to create a goal scoring opportunity, but they will have to wait for that as they have just lost possession due to a poor pass. Liverpool will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 06:08",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Philippe Coutinho (Liverpool), was easily dealt with by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 05:57",
+            "label": "",
+            "description": "Ramires (Chelsea) was holding his opponent and can be glad he didn't receive a yellow card. Liverpool are given a free kick. Will they create any chance from that?"
+        },
+        {
+            "gameTime": "2 - 04:38",
+            "label": "",
+            "description": "Poor challenge! Diego Costa (Chelsea) is penalised for tripping and Mark Clattenburg blows his whistle. Liverpool have a free kick."
+        },
+        {
+            "gameTime": "2 - 03:53",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) sprays a pass out to James Milner, but he can't beat his man inside the box. The ball goes out of play and Chelsea will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 01:42",
+            "label": "",
+            "description": "Half chance! Willian (Chelsea) plays a pass into the box, but Simon Mignolet reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "2 - 01:26",
+            "label": "",
+            "description": "The ball is cleared after Oscar (Chelsea) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 00:44",
+            "label": "",
+            "description": "Kurt Zouma (Chelsea) decides to speed play up by quickly sending the free kick into the box."
+        },
+        {
+            "gameTime": "2 - 00:21",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) brings an opponent down and Mark Clattenburg interrupts the game."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 48:59",
+            "label": "",
+            "description": "We can hope that the managers will be able to motivate the players and stir them to improve their performance for after the half time break. We haven't seen really exciting football in the previous 45 minutes. There wasn't any evident superiority by either side during the first half. The home side are playing 'kick and rush' football, which is the exact opposite of the away team who are making a lot of passes and attempting to maintain possession."
+        },
+        {
+            "gameTime": "1 - 48:41",
+            "label": "whistle",
+            "description": "The end of the first half."
+        },
+        {
+            "gameTime": "1 - 47:40",
+            "label": "soccer-ball",
+            "description": "Philippe Coutinho (Liverpool) takes a great first touch to control a killer pass on the edge of the box and curls the ball inside the left post in trademark fashion."
+        },
+        {
+            "gameTime": "1 - 45:30",
+            "label": "",
+            "description": "The linesman signals that Lucas Leiva (Liverpool) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:51",
+            "label": "",
+            "description": "James Milner (Liverpool) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "gameTime": "1 - 44:15",
+            "label": "",
+            "description": "Emre Can (Liverpool) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 42:34",
+            "label": "",
+            "description": "The referee blows his whistle as Adam Lallana (Liverpool) was too aggressive in his challenge. Chelsea win a free kick."
+        },
+        {
+            "gameTime": "1 - 40:25",
+            "label": "",
+            "description": "Diego Costa (Chelsea) makes a driving run into the box but he cannot work any space for a shot."
+        },
+        {
+            "gameTime": "1 - 38:01",
+            "label": "",
+            "description": "Kurt Zouma (Chelsea) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "1 - 37:19",
+            "label": "injury",
+            "description": "Kurt Zouma (Chelsea) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "gameTime": "1 - 36:37",
+            "label": "",
+            "description": "Lucas Leiva (Liverpool) rises above the defenders and places a towering header low towards the middle of the goal, but Asmir Begovic is prepared and thwarts him."
+        },
+        {
+            "gameTime": "1 - 35:28",
+            "label": "",
+            "description": "Foul! James Milner (Liverpool) is penalised for pulling back his opponent. Chelsea have been awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 34:40",
+            "label": "",
+            "description": "A cross into the box from Alberto Moreno (Liverpool) is cleared."
+        },
+        {
+            "gameTime": "1 - 32:26",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) whips the ball into the penalty area, but one of the defenders is alert and spanks it away."
+        },
+        {
+            "gameTime": "1 - 31:59",
+            "label": "",
+            "description": "The game is interrupted as Diego Costa (Chelsea) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 31:38",
+            "label": "",
+            "description": "John Obi Mikel (Chelsea) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 29:32",
+            "label": "",
+            "description": "Willian (Chelsea) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 28:35",
+            "label": "",
+            "description": "Emre Can (Liverpool) is penalised after knocking an opponent down. There is a free kick near the sideline to Chelsea."
+        },
+        {
+            "gameTime": "1 - 27:30",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Adam Lallana (Liverpool) heads on."
+        },
+        {
+            "gameTime": "1 - 27:15",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) tries to take the opposition by surprise with a quick free kick into the box."
+        },
+        {
+            "gameTime": "1 - 26:40",
+            "label": "",
+            "description": "Diego Costa (Chelsea) makes a bad challenge and the referee blows his whistle for a foul. Liverpool earn a free kick."
+        },
+        {
+            "gameTime": "1 - 25:21",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) wastes a huge opportunity! He receives a precise cross inside the penalty area and releases a quick shot that sails towards the middle of a goal. His effort, however, lacks power and the goalkeeper makes a comfortable save."
+        },
+        {
+            "gameTime": "1 - 23:35",
+            "label": "",
+            "description": "Willian (Chelsea) fails to deliver a decent cross from a long range free kick. The opposition's defence intercepts the effort."
+        },
+        {
+            "gameTime": "1 - 23:08",
+            "label": "y-card",
+            "description": "Philippe Coutinho (Liverpool) has received a yellow card for his foul."
+        },
+        {
+            "gameTime": "1 - 21:44",
+            "label": "corner",
+            "description": "The corner from Alberto Moreno (Liverpool) is intercepted by Asmir Begovic."
+        },
+        {
+            "gameTime": "1 - 21:24",
+            "label": "",
+            "description": "Liverpool are happy to keep the ball as they wait for gaps in defence to open up. However, an opposing player steps in and clears. The ball goes out for a corner. Liverpool can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 20:27",
+            "label": "",
+            "description": "Chelsea continue the game with a quickly taken free kick."
+        },
+        {
+            "gameTime": "1 - 20:05",
+            "label": "",
+            "description": "A clumsy foul by Emre Can (Liverpool) and Mark Clattenburg blows his whistle."
+        },
+        {
+            "gameTime": "1 - 18:31",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) finds his way to a rebound on the edge of the box, shoots low to the middle of the goal, but the keeper is ready and denies him."
+        },
+        {
+            "gameTime": "1 - 17:26",
+            "label": "corner",
+            "description": "Asmir Begovic leaps to intercept the corner kick from Philippe Coutinho (Liverpool)."
+        },
+        {
+            "gameTime": "1 - 17:11",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) looks to break free, but an opposing player clears the ball away. The ball goes out of play. Liverpool are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 16:10",
+            "label": "",
+            "description": "The Liverpool players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 14:33",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the left post."
+        },
+        {
+            "gameTime": "1 - 13:38",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) should know this behaviour is beyond the rules. He was too careless with his challenge and left Mark Clattenburg no option but to blow his whistle. Free kick. Chelsea will probably just try to cross the ball in from here."
+        },
+        {
+            "gameTime": "1 - 12:58",
+            "label": "",
+            "description": "Oscar (Chelsea) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 11:32",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) sends a teasing cross into the area, but Asmir Begovic intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 10:51",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 10:19",
+            "label": "",
+            "description": "Nathaniel Clyne (Liverpool) takes the free kick and immediately restarts play with a short pass."
+        },
+        {
+            "gameTime": "1 - 10:02",
+            "label": "",
+            "description": "Cesar Azpilicueta (Chelsea) brings down his opponent with a very late tackle. A free kick is awarded to Liverpool."
+        },
+        {
+            "gameTime": "1 - 09:06",
+            "label": "",
+            "description": "Willian (Chelsea) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "gameTime": "1 - 08:17",
+            "label": "",
+            "description": "Lucas Leiva (Liverpool) trips an opponent with a slide tackle. Mark Clattenburg stops the game and he could give him a card, but eventually decides on just a warning. Chelsea are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "1 - 07:12",
+            "label": "",
+            "description": "Kurt Zouma (Chelsea) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "1 - 07:07",
+            "label": "",
+            "description": "Willian (Chelsea) will take the free kick."
+        },
+        {
+            "gameTime": "1 - 06:05",
+            "label": "",
+            "description": "Lucas Leiva (Liverpool) jumps into a tackle and Mark Clattenburg blows his whistle for a foul. Chelsea win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 05:43",
+            "label": "",
+            "description": "Cesar Azpilicueta (Chelsea) takes a short free kick."
+        },
+        {
+            "gameTime": "1 - 05:15",
+            "label": "",
+            "description": "Liverpool concede a free kick after one of their players holds onto an opposition player."
+        },
+        {
+            "gameTime": "1 - 03:53",
+            "label": "soccer-ball",
+            "description": "Goal \u2013 1:0! Cesar Azpilicueta sends a precise lofted pass into the box, Ramires (Chelsea) rises above the defenders to meet the ball near the penalty spot and heads it straight into the bottom left corner."
+        },
+        {
+            "gameTime": "1 - 01:37",
+            "label": "",
+            "description": "Excellent touch by Roberto Firmino (Liverpool)! He latches on to a precise pass on the edge of the box and produces a shot goalwards which goes way wide of the left post. The ball is off of the pitch and it's a goal kick for Chelsea."
+        },
+        {
+            "gameTime": "1 - 01:07",
+            "label": "",
+            "description": "Lucas Leiva (Liverpool) commits a rough challenge and Mark Clattenburg blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 00:26",
+            "label": "",
+            "description": "The Liverpool players are exchanging some short passes."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Liverpool will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "All in all that was an entertaining 90 minutes of football thanks to some decent attacking play. The visitors certainly had the better of things. The home team tried to prevail using combination football, while the away players attempted to win the ball back as quickly as possible every time they lost possession."
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "31/10/2015 - 15:45",
+    "gameHomeTeam": "Chelsea",
+    "gameScore": "1 - 3"
+}

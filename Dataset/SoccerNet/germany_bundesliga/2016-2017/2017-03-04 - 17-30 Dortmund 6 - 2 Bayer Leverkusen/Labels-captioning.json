@@ -1,0 +1,440 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:59",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 46:30",
+            "label": "soccer-ball",
+            "description": "Fantastic team goal! Raphael Guerreiro (Dortmund) was set free in the area by Christian Pulisic and made no mistake with a lovely finish into the bottom right corner. 6:2."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 42:10",
+            "label": "attendance",
+            "description": "The attendance is 79100."
+        },
+        {
+            "gameTime": "2 - 40:36",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Aleksandar Dragovic (Bayer Leverkusen) for Omer Toprak."
+        },
+        {
+            "gameTime": "2 - 40:00",
+            "label": "soccer-ball",
+            "description": "Andre Schurrle (Dortmund) steps up and confidently powers the spot kick into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 39:25",
+            "label": "",
+            "description": "Andre Schurrle (Dortmund) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "2 - 38:28",
+            "label": "y-card",
+            "description": "Wendell (Bayer Leverkusen) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "2 - 38:05",
+            "label": "penalty",
+            "description": "Wendell (Bayer Leverkusen) makes an overly aggressive challenge and Christian Dingert blows his whistle for a foul. A penalty is awarded to Dortmund!"
+        },
+        {
+            "gameTime": "2 - 37:44",
+            "label": "injury",
+            "description": "Omer Toprak (Bayer Leverkusen) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 35:37",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Andre Schurrle (Dortmund) comes onto the pitch so that Pierre Emerick Aubameyang can be given a rest."
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "corner",
+            "description": "Christian Pulisic (Dortmund) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 34:24",
+            "label": "",
+            "description": "Erik Durm (Dortmund) tries to send a pass but it's blocked. Dortmund force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 32:00",
+            "label": "soccer-ball",
+            "description": "What a hit! Christian Pulisic (Dortmund) shows good composure inside the box to fire a first time shot into the bottom left corner. 4:2."
+        },
+        {
+            "gameTime": "2 - 30:55",
+            "label": "",
+            "description": "Marc Bartra (Dortmund) makes a good run with the ball, but his shot from the edge of the penalty area goes narrowly over the bar. Terrific solo effort, though."
+        },
+        {
+            "gameTime": "2 - 29:23",
+            "label": "soccer-ball",
+            "description": "Wendell (Bayer Leverkusen) sends a superb shot from a 18 metre free kick. His strike goes straight into the top right corner."
+        },
+        {
+            "gameTime": "2 - 28:14",
+            "label": "",
+            "description": "Marc Bartra (Dortmund) knocks his opponent down with an over the top tackle. Bayer Leverkusen have a free kick."
+        },
+        {
+            "gameTime": "2 - 27:41",
+            "label": "substitution",
+            "description": "Here comes a substitution. Ousmane Dembele is given a rest as he is replaced by Shinji Kagawa (Dortmund)."
+        },
+        {
+            "gameTime": "2 - 24:00",
+            "label": "soccer-ball",
+            "description": "Goal! A great cross from Ousmane Dembele finds Pierre Emerick Aubameyang (Dortmund), who scores with a simple header into an empty net. 3:1."
+        },
+        {
+            "gameTime": "2 - 23:22",
+            "label": "y-card",
+            "description": "The foul by Lars Bender (Bayer Leverkusen) is worthy of a card and a yellow is duly shown by Christian Dingert."
+        },
+        {
+            "gameTime": "2 - 22:46",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) swings a cross into the box, but it's far too close to Bernd Leno, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 21:35",
+            "label": "corner",
+            "description": "Gonzalo Castro (Dortmund) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 21:00",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Admir Mehmedi trots off the pitch and is replaced by Chicharito (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 20:43",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the bottom right corner is thwarted by Bernd Leno. The ball is out of play and the linesman points at the corner flag. Corner to Dortmund."
+        },
+        {
+            "gameTime": "2 - 19:10",
+            "label": "corner",
+            "description": "Ousmane Dembele (Dortmund) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "2 - 18:43",
+            "label": "",
+            "description": "Christian Pulisic (Dortmund) tries to slide the ball through to a teammate but it's well blocked by a defender. Dortmund have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 17:48",
+            "label": "y-card",
+            "description": "Christian Dingert shows a yellow card to Kevin Volland (Bayer Leverkusen) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 16:51",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 16:18",
+            "label": "",
+            "description": "A pass from Lars Bender (Bayer Leverkusen) is intercepted by Roman Burki and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 14:13",
+            "label": "injury",
+            "description": "Ousmane Dembele (Dortmund) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 13:53",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) tackles a bit over zealously and Christian Dingert blows for a foul."
+        },
+        {
+            "gameTime": "2 - 12:36",
+            "label": "",
+            "description": "Close! Ousmane Dembele (Dortmund) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 10:29",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 10:04",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "gameTime": "2 - 08:03",
+            "label": "",
+            "description": "Erik Durm (Dortmund) is disappointed with himself because he got into a good area but produced a poor cross."
+        },
+        {
+            "gameTime": "2 - 06:13",
+            "label": "",
+            "description": "Christian Dingert couldn't ignore the rough tackle by Kevin Volland (Bayer Leverkusen) and blew his whistle."
+        },
+        {
+            "gameTime": "2 - 05:04",
+            "label": "",
+            "description": "The ball is cleared after Ousmane Dembele (Dortmund) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 02:20",
+            "label": "soccer-ball",
+            "description": "Kevin Volland (Bayer Leverkusen) makes a great solo run and pulls the trigger from inside the box, beating Roman Burki with a strike into the top left corner. He makes it 2:1."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "whistle",
+            "description": "The end of the first half."
+        },
+        {
+            "gameTime": "1 - 47:33",
+            "label": "y-card",
+            "description": "It must be a yellow card. It is. Karim Bellarabi (Bayer Leverkusen) receives the caution after an awful tackle."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "3 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 43:52",
+            "label": "substitution",
+            "description": "The manager has been forced to make a substitution and the injured Marco Reus limps off the pitch to be replaced by Christian Pulisic (Dortmund)."
+        },
+        {
+            "gameTime": "1 - 42:48",
+            "label": "injury",
+            "description": "Marco Reus (Dortmund) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 40:00",
+            "label": "",
+            "description": "Marco Reus (Dortmund) receives a pass inside the box, controls the ball and drills it towards the left post. Unfortunately for him, Bernd Leno makes a great save to stop his effort."
+        },
+        {
+            "gameTime": "1 - 37:47",
+            "label": "substitution",
+            "description": "The substitution has been made. Karim Bellarabi (Bayer Leverkusen) has replaced Aranguiz."
+        },
+        {
+            "gameTime": "1 - 37:00",
+            "label": "y-card",
+            "description": "Kai Havertz (Bayer Leverkusen) sees a yellow card from Christian Dingert after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "1 - 36:05",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Admir Mehmedi (Bayer Leverkusen) heads on."
+        },
+        {
+            "gameTime": "1 - 33:36",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "1 - 33:21",
+            "label": "",
+            "description": "Raphael Guerreiro (Dortmund) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out of play and Dortmund have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 31:40",
+            "label": "corner",
+            "description": "The resulting corner from Kevin Kampl (Bayer Leverkusen) comes to nothing."
+        },
+        {
+            "gameTime": "1 - 31:23",
+            "label": "",
+            "description": "Benjamin Henrichs (Bayer Leverkusen) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. The ball goes out of play. Bayer Leverkusen are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 25:59",
+            "label": "soccer-ball",
+            "description": "Goal 2:0! Pierre Emerick Aubameyang (Dortmund) taps home from close range after the rebound fell kindly into his path."
+        },
+        {
+            "gameTime": "1 - 25:10",
+            "label": "",
+            "description": "Marc Bartra (Dortmund) gets himself onto the end of the corner, but his header is blocked."
+        },
+        {
+            "gameTime": "1 - 25:09",
+            "label": "corner",
+            "description": "Marco Reus (Dortmund) prepares to take a corner kick."
+        },
+        {
+            "gameTime": "1 - 25:05",
+            "label": "corner",
+            "description": "Marco Reus (Dortmund) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear. Dortmund force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 24:51",
+            "label": "",
+            "description": "Ousmane Dembele (Dortmund) takes the ball, nicely zig zags through the defence, but his low drive to the right post is smartly dealt with by Bernd Leno. The ball is out of play. A goal scoring opportunity from a corner for Dortmund."
+        },
+        {
+            "gameTime": "1 - 21:07",
+            "label": "",
+            "description": "Aranguiz (Bayer Leverkusen) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 20:50",
+            "label": "",
+            "description": "Julian Weigl (Dortmund) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 20:07",
+            "label": "injury",
+            "description": "Aranguiz (Bayer Leverkusen) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 19:49",
+            "label": "injury",
+            "description": "Julian Weigl (Dortmund) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 18:22",
+            "label": "corner",
+            "description": "The corner from Kevin Kampl (Bayer Leverkusen) is intercepted by the defence."
+        },
+        {
+            "gameTime": "1 - 18:09",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Admir Mehmedi (Bayer Leverkusen). Bayer Leverkusen get a corner."
+        },
+        {
+            "gameTime": "1 - 16:58",
+            "label": "",
+            "description": "Marco Reus (Dortmund) sends over a free kick from long range but the defence is alert."
+        },
+        {
+            "gameTime": "1 - 15:33",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Aranguiz (Bayer Leverkusen) was quite harsh and Christian Dingert didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 14:57",
+            "label": "corner",
+            "description": "Kai Havertz (Bayer Leverkusen) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 14:44",
+            "label": "",
+            "description": "Kevin Volland (Bayer Leverkusen) connects with a pass but sees his shot from the edge of the box blocked. Now Bayer Leverkusen have a corner."
+        },
+        {
+            "gameTime": "1 - 13:00",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Kai Havertz (Bayer Leverkusen). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "gameTime": "1 - 09:56",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) gets on the end of a pass and produces a promising first time shot at goal. His effort is blocked by Bernd Leno with a brilliant diving save!"
+        },
+        {
+            "gameTime": "1 - 07:49",
+            "label": "",
+            "description": "Kai Havertz (Bayer Leverkusen) gets on the ball and beats an opponent, but his run is stopped by the referee Christian Dingert who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 05:56",
+            "label": "soccer-ball",
+            "description": "Ousmane Dembele (Dortmund) picks up the ball on the edge of the penalty box and produces a moment of magic with a brilliant shot that goes into the left side of the goal!"
+        },
+        {
+            "gameTime": "1 - 04:24",
+            "label": "injury",
+            "description": "The game is interrupted now, Lars Bender (Bayer Leverkusen) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 03:06",
+            "label": "",
+            "description": "Marc Bartra (Dortmund) rises high to meet a perfect corner kick and heads from the edge of the box towards the right post, but it isn't strong enough and the goalkeeper makes an easy save."
+        },
+        {
+            "gameTime": "1 - 02:55",
+            "label": "corner",
+            "description": "Raphael Guerreiro (Dortmund) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "1 - 02:18",
+            "label": "",
+            "description": "Pierre Emerick Aubameyang (Dortmund) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. Dortmund have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 00:55",
+            "label": "",
+            "description": "Kai Havertz (Bayer Leverkusen) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 00:02",
+            "label": "y-card",
+            "description": "Karim Bellarabi (Bayer Leverkusen) picks up a caution."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and Bayer Leverkusen will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Christian Dingert was nominated as the referee for this game."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Dortmund have not yet been defeated at home this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The last 6 Bayer Leverkusen matches finished without a draw."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "1 number of games there were over 2.5 goals from the last 5 matches between these two teams."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        }
+    ],
+    "gameAwayTeam": "Bayer Leverkusen",
+    "gameDate": "04/03/2017 - 17:30",
+    "gameHomeTeam": "Dortmund",
+    "gameScore": "6 - 2"
+}

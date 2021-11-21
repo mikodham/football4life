@@ -1,0 +1,440 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The home side dominated today's game. The home team was applying strong pressure, leaving the opponents little space for combination play. The away team's main weapon was fast counter attacks."
+        },
+        {
+            "gameTime": "2 - 48:36",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 46:50",
+            "label": "substitution",
+            "description": "Substitution. Thomas Vermaelen (AS Roma) in, Mohamed Salah out."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "corner",
+            "description": "Simone Pepe (Pescara) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "2 - 44:25",
+            "label": "corner",
+            "description": "Valerio Verre (Pescara) takes the corner, but the opposition's defence is ready and clears the ball to safety. Pescara earn a corner."
+        },
+        {
+            "gameTime": "2 - 44:10",
+            "label": "",
+            "description": "Simone Pepe (Pescara) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. The ball is out of play and Pescara manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 42:00",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) probably handled the ball."
+        },
+        {
+            "gameTime": "2 - 40:00",
+            "label": "",
+            "description": "Albano Bizzarri pulls off a great save to deny Kevin Strootman (AS Roma), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 38:13",
+            "label": "corner",
+            "description": "Francesco Totti (AS Roma) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. AS Roma force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 37:00",
+            "label": "y-card",
+            "description": "Massimiliano Irrati shows the yellow card to Gianluca Caprari (Pescara) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 36:11",
+            "label": "funfact",
+            "description": "The total number of attempts is 14:14."
+        },
+        {
+            "gameTime": "2 - 34:11",
+            "label": "",
+            "description": "Valerio Verre (Pescara) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the right post."
+        },
+        {
+            "gameTime": "2 - 32:39",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Bryan Cristante (Pescara) replaces Ahmad Benali."
+        },
+        {
+            "gameTime": "2 - 31:35",
+            "label": "corner",
+            "description": "The corner from Francesco Totti (AS Roma) is intercepted by the defence."
+        },
+        {
+            "gameTime": "2 - 31:25",
+            "label": "corner",
+            "description": "The corner from Francesco Totti (AS Roma) is cleared away by the defence. The linesman makes the right call and AS Roma will have a corner."
+        },
+        {
+            "gameTime": "2 - 31:13",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) produces a lovely chip pass into the box, but one of the opposition players cuts it out. The ball goes out of play. AS Roma are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 28:56",
+            "label": "soccer-ball",
+            "description": "Gianluca Caprari (Pescara) connects with a pass inside the box and slams home low into the middle of the net. The goalkeeper was helpless."
+        },
+        {
+            "gameTime": "2 - 26:55",
+            "label": "substitution",
+            "description": "Here comes a substitution. Francesco Totti (AS Roma) is brought on as a substitute for Gerson."
+        },
+        {
+            "gameTime": "2 - 25:14",
+            "label": "soccer-ball",
+            "description": "Diego Perotti (AS Roma) steps up and confidently directs the penalty into the left side of the goal!"
+        },
+        {
+            "gameTime": "2 - 24:48",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "2 - 23:57",
+            "label": "penalty",
+            "description": "Alessandro Crescenzi (Pescara) makes a slide tackle, but referee Massimiliano Irrati blows for a foul. PENALTY to AS Roma!"
+        },
+        {
+            "gameTime": "2 - 23:26",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear."
+        },
+        {
+            "gameTime": "2 - 23:16",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. AS Roma have a corner."
+        },
+        {
+            "gameTime": "2 - 22:00",
+            "label": "y-card",
+            "description": "Dario Zuparic (Pescara) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Massimiliano Irrati ignores the protests."
+        },
+        {
+            "gameTime": "2 - 21:26",
+            "label": "",
+            "description": "Emerson (AS Roma) looks to break free, but an opposing player clears the ball away. It's a throw in for Pescara."
+        },
+        {
+            "gameTime": "2 - 19:00",
+            "label": "substitution",
+            "description": "Daniele De Rossi (AS Roma) joins the action as a substitute, replacing Radja Nainggolan."
+        },
+        {
+            "gameTime": "2 - 18:26",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) creates some space for himself and unleashes a strike from long range, but his effort sails just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 16:57",
+            "label": "y-card",
+            "description": "Emerson (AS Roma) sees a yellow card from Massimiliano Irrati after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "soccer-ball",
+            "description": "Fantastic team goal! Ledian Memushaj (Pescara) was set free in the area by Francesco Zampano and he made no mistake with a lovely finish into the bottom left corner. 2:1."
+        },
+        {
+            "gameTime": "2 - 13:53",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 11:00",
+            "label": "corner",
+            "description": "Diego Perotti (AS Roma) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 10:51",
+            "label": "",
+            "description": "The ball is cleared after Edin Dzeko (AS Roma) attempted to dribble past an opposing player. The referee and one of his assistants signal for a corner kick to AS Roma."
+        },
+        {
+            "gameTime": "2 - 08:59",
+            "label": "corner",
+            "description": "Simone Pepe (Pescara) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "2 - 08:20",
+            "label": "",
+            "description": "Simone Pepe (Pescara) misses a good chance to score. An inch perfect cross into the box finds Simone Pepe (Pescara) who rises for a header, but sends the ball well over the bar. Good work from Pescara as they win a corner."
+        },
+        {
+            "gameTime": "2 - 06:00",
+            "label": "funfact",
+            "description": "61:39 \u2013 the ratio of ball possession."
+        },
+        {
+            "gameTime": "2 - 05:55",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 03:00",
+            "label": "",
+            "description": "Gaston Brugman (Pescara) commits a foul after making a slide tackle on his opponent."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Massimo Oddo makes a half time substitution. Valerio Verre (Pescara) comes on in place of Davide Vitturini."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle to signal the start of the second half."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "We have seen a few chances and nice movements, but the overall impression of the game is rather average and not hugely entertaining. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The visitors have been very flat and lacked creativity in their attack. Let's see if they change something in the second period."
+        },
+        {
+            "gameTime": "1 - 47:02",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 46:32",
+            "label": "corner",
+            "description": "Simone Pepe (Pescara) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "1 - 46:19",
+            "label": "",
+            "description": "Simone Pepe (Pescara) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. The ball goes out of play. Pescara are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 45:20",
+            "label": "",
+            "description": "Diego Perotti swings the cross over. Edin Dzeko (AS Roma) gets his head to it but it goes just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "2 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 42:35",
+            "label": "corner",
+            "description": "Simone Pepe (Pescara) takes the corner which is cleared by the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 42:24",
+            "label": "",
+            "description": "A direct free kick from a promising position, taken by Gaston Brugman (Pescara), is struck into one of the defending players who deals with the threat. Corner kick. Pescara will have an opportunity."
+        },
+        {
+            "gameTime": "1 - 41:24",
+            "label": "",
+            "description": "Francesco Zampano (Pescara) sends a poor cross in from the free kick that is cleared by the head of a defender."
+        },
+        {
+            "gameTime": "1 - 40:51",
+            "label": "",
+            "description": "Emerson (AS Roma) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul. Pescara will take a free kick near the side line."
+        },
+        {
+            "gameTime": "1 - 39:00",
+            "label": "y-card",
+            "description": "Radja Nainggolan (AS Roma) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Massimiliano Irrati didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "1 - 36:43",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention."
+        },
+        {
+            "gameTime": "1 - 34:59",
+            "label": "",
+            "description": "Emerson (AS Roma) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 32:00",
+            "label": "y-card",
+            "description": "Antonio Rudiger (AS Roma) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "1 - 31:00",
+            "label": "y-card",
+            "description": "Massimiliano Irrati shows a yellow card to Cristiano Biraghi (Pescara) for a tough tackle."
+        },
+        {
+            "gameTime": "1 - 28:44",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "1 - 27:53",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) breaks into the penalty area but his shot is blocked. Now AS Roma have a corner."
+        },
+        {
+            "gameTime": "1 - 26:30",
+            "label": "",
+            "description": "Gianluca Caprari (Pescara) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 24:23",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "1 - 24:09",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders. The referee signals a corner kick to AS Roma."
+        },
+        {
+            "gameTime": "1 - 22:18",
+            "label": "corner",
+            "description": "Gianluca Caprari (Pescara) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper."
+        },
+        {
+            "gameTime": "1 - 21:52",
+            "label": "",
+            "description": "Gianluca Caprari (Pescara) misses a good chance to score. An inch perfect cross into the box finds Gianluca Caprari (Pescara) who rises for a header, but sends the ball well over the bar. The linesman points to the corner flag, Pescara are going to take it."
+        },
+        {
+            "gameTime": "1 - 20:46",
+            "label": "",
+            "description": "What a sweet touch by Radja Nainggolan (AS Roma) as he collects a pass deep inside the box and decides to go for goal. It's on target but easy for Albano Bizzarri to hold."
+        },
+        {
+            "gameTime": "1 - 19:35",
+            "label": "",
+            "description": "Ahmad Benali (Pescara) wins the ball from the corner kick and strikes. The effort lacks accuracy and flies wide of the target."
+        },
+        {
+            "gameTime": "1 - 19:16",
+            "label": "corner",
+            "description": "Simone Pepe (Pescara) steps up to send the ball in."
+        },
+        {
+            "gameTime": "1 - 17:31",
+            "label": "",
+            "description": "Simone Pepe (Pescara) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall. The ball is out of play. Pescara will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 15:52",
+            "label": "",
+            "description": "Gianluca Caprari (Pescara) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 13:07",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) and Emerson perform a quick tiki taka to get past two defenders and then continue the move along the side line."
+        },
+        {
+            "gameTime": "1 - 10:00",
+            "label": "soccer-ball",
+            "description": "Spectacular goal! Edin Dzeko (AS Roma) brilliantly darts into the box to latch on to a cross and buries the ball into the bottom right corner, leaving the goalkeeper stunned!"
+        },
+        {
+            "gameTime": "1 - 09:15",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Antonio Rudiger (AS Roma)."
+        },
+        {
+            "gameTime": "1 - 07:00",
+            "label": "soccer-ball",
+            "description": "It's a goal! Edin Dzeko (AS Roma) scores with a brilliant shot into the bottom right corner after being released inside the box by a superb lofted pass from Diego Perotti. The score is now 1:0."
+        },
+        {
+            "gameTime": "1 - 06:27",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "1 - 06:22",
+            "label": "",
+            "description": "AS Roma spell of possession comes to an end after a mistake. AS Roma get a corner."
+        },
+        {
+            "gameTime": "1 - 06:17",
+            "label": "",
+            "description": "Close! Mohamed Salah (AS Roma) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post."
+        },
+        {
+            "gameTime": "1 - 05:00",
+            "label": "substitution",
+            "description": "Problems for Massimo Oddo as Jean Christophe Bahebeck is not able to play anymore. His injury is too serious and Gianluca Caprari (Pescara) replaces him."
+        },
+        {
+            "gameTime": "1 - 01:59",
+            "label": "",
+            "description": "Gaston Brugman (Pescara) commits a rough challenge and Massimiliano Irrati blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "",
+            "description": "The players are out at last! Pescara will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Massimiliano Irrati."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "5 The amount of games Pescara have lost in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "AS Roma have already 14 home victories this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Edin Dzeko is the leading goal scorer for AS Roma with 12 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The home side dominated today's game. The home team was applying strong pressure, leaving the opponents little space for combination play. The away team's main weapon was fast counter attacks."
+        }
+    ],
+    "gameAwayTeam": "Pescara",
+    "gameDate": "27/11/2016 - 22:45",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "3 - 2"
+}

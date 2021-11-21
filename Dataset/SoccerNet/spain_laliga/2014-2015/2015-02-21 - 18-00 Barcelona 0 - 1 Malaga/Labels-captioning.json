@@ -1,0 +1,575 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2014-2015/2015-02-21 - 18-00 Barcelona 0 - 1 Malaga/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. The home team had more of the game. The home team tried to prevail using combination football, while the away side adopted a defensive style of play."
+        },
+        {
+            "gameTime": "2 - 49:16",
+            "label": "whistle",
+            "description": "Juan Martinez Munuera is looking at his watch and immediately ends this match."
+        },
+        {
+            "gameTime": "2 - 49:01",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) sends a long ball in, but Idriss Carlos Kameni comfortably gathers the ball."
+        },
+        {
+            "gameTime": "2 - 47:07",
+            "label": "",
+            "description": "Idriss Carlos Kameni makes a sensational save to thwart a great chance. A rebound falls to Luis Suarez (Barcelona) on the edge of the box and he strikes goalwards, but the ball ends up in the keeper's gloves instead of inside the left post."
+        },
+        {
+            "gameTime": "2 - 45:59",
+            "label": "y-card",
+            "description": "It's like he was asking for a caution. Duda (Malaga) receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 45:59",
+            "label": "y-card",
+            "description": "Jordi Alba (Barcelona) picks up a caution."
+        },
+        {
+            "gameTime": "2 - 45:13",
+            "label": "",
+            "description": "Poor challenge! Roberto Rosales (Malaga) is penalised for tripping and Juan Martinez Munuera blows his whistle."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 44:46",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) delivers a crossfield pass, but the ball is cut out before it reaches its intended target."
+        },
+        {
+            "gameTime": "2 - 43:25",
+            "label": "",
+            "description": "Arthur Boka (Malaga) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 41:59",
+            "label": "y-card",
+            "description": "Neymar (Barcelona) has tested the patience of referee Juan Martinez Munuera and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 40:50",
+            "label": "",
+            "description": "Pedro (Barcelona) crosses the ball into the box, but one of the defending players averts the threat."
+        },
+        {
+            "gameTime": "2 - 39:59",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Arthur Boka (Malaga) comes onto the pitch for ."
+        },
+        {
+            "gameTime": "2 - 39:22",
+            "label": "",
+            "description": "Neymar links up with Pedro (Barcelona), who fires just wide of the right post from the edge of the box."
+        },
+        {
+            "gameTime": "2 - 38:06",
+            "label": "",
+            "description": "A cross is whipped into the box by Lionel Messi (Barcelona) and Neymar controls it well. He lines up the ball, but one of the defenders produces a timely intervention."
+        },
+        {
+            "gameTime": "2 - 35:45",
+            "label": "",
+            "description": "Pedro (Barcelona) shoots from outside the box, but his effort is blocked."
+        },
+        {
+            "gameTime": "2 - 34:55",
+            "label": "attendance",
+            "description": "The attendance is 78276."
+        },
+        {
+            "gameTime": "2 - 33:59",
+            "label": "y-card",
+            "description": "Gerard Pique (Barcelona) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Juan Martinez Munuera ignores the protests."
+        },
+        {
+            "gameTime": "2 - 33:55",
+            "label": "substitution",
+            "description": "Here comes a substitution. Duda (Malaga) is brought on as a substitute for Ricardo Horta."
+        },
+        {
+            "gameTime": "2 - 32:56",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is caught offside once again, but this one was so tight!"
+        },
+        {
+            "gameTime": "2 - 31:53",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is flagged for offside once again, but it was a very tight call this time."
+        },
+        {
+            "gameTime": "2 - 31:01",
+            "label": "",
+            "description": "Ricardo Horta (Malaga) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 29:27",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Neymar (Barcelona). Juan Martinez Munuera saw the sliding tackle and blows for a foul."
+        },
+        {
+            "gameTime": "2 - 28:54",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) plays a one two with Neymar, but the move breaks down."
+        },
+        {
+            "gameTime": "2 - 27:57",
+            "label": "substitution",
+            "description": "Substitution. Javier Mascherano (Barcelona) receives a signal from the referee and is now allowed to enter the pitch as Dani Alves walks off."
+        },
+        {
+            "gameTime": "2 - 27:17",
+            "label": "",
+            "description": "A pass from Jordi Alba (Barcelona) is intercepted by Idriss Carlos Kameni and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 26:29",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) starts his run too early and the referee blows for offside."
+        },
+        {
+            "gameTime": "2 - 23:26",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 23:03",
+            "label": "corner",
+            "description": "Neymar (Barcelona) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "2 - 22:45",
+            "label": "",
+            "description": "Neymar (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. It will be a corner kick for Barcelona."
+        },
+        {
+            "gameTime": "2 - 22:10",
+            "label": "corner",
+            "description": "The corner from Ivan Rakitic (Barcelona) is intercepted by Idriss Carlos Kameni."
+        },
+        {
+            "gameTime": "2 - 21:59",
+            "label": "substitution",
+            "description": "The substitution has been made. Pedro (Barcelona) has replaced Andres Iniesta."
+        },
+        {
+            "gameTime": "2 - 21:39",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Barcelona force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 19:42",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 17:49",
+            "label": "substitution",
+            "description": "Today's match ends for Rafinha who will be replaced by Ivan Rakitic (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 16:59",
+            "label": "y-card",
+            "description": "Recio (Malaga) is cautioned by the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "2 - 16:31",
+            "label": "corner",
+            "description": "Ricardo Horta (Malaga) is about to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 15:57",
+            "label": "",
+            "description": "Ricardo Horta (Malaga) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self sacrificing defender. Corner kick. Malaga will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 15:17",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is deemed to be in an offside position by the linesman and it looks like it is the right decision despite being a very close call."
+        },
+        {
+            "gameTime": "2 - 14:39",
+            "label": "",
+            "description": "Samu Castillejo (Malaga) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "2 - 13:13",
+            "label": "",
+            "description": "Sergi Darder (Malaga) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 12:37",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "2 - 11:29",
+            "label": "",
+            "description": "A crossfield pass from Lionel Messi (Barcelona) fails to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 10:20",
+            "label": "",
+            "description": "Neymar (Barcelona) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 09:50",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 09:21",
+            "label": "corner",
+            "description": "Neymar (Barcelona) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear. Barcelona force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 08:40",
+            "label": "",
+            "description": "Neymar (Barcelona) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The referee and his assistant both point at the corner flag. Barcelona will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 08:07",
+            "label": "",
+            "description": "Neymar (Barcelona) and Lionel Messi attempt to exchange short two yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 06:34",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 05:15",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "gameTime": "2 - 04:51",
+            "label": "substitution",
+            "description": "Juanmi (Malaga) is not able to continue due to his injury and will be replaced by Juanpi."
+        },
+        {
+            "gameTime": "2 - 04:10",
+            "label": "injury",
+            "description": "Juanmi (Malaga) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 03:50",
+            "label": "y-card",
+            "description": "Yellow card. Weligton (Malaga) goes into the book for a bad tackle on his opponent."
+        },
+        {
+            "gameTime": "2 - 02:54",
+            "label": "",
+            "description": "Dani Alves (Barcelona) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "2 - 02:28",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 01:49",
+            "label": "",
+            "description": "Dani Alves (Barcelona) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "We are watching a run of the mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The visitors played second fiddle to the home team in the first half. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession."
+        },
+        {
+            "gameTime": "1 - 45:03",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 43:33",
+            "label": "corner",
+            "description": "The resulting corner, taken by Ricardo Horta (Malaga), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 43:08",
+            "label": "",
+            "description": "The ball is cleared after attempted to dribble past an opposing player. The ball is out of play. Malaga win a corner kick."
+        },
+        {
+            "gameTime": "1 - 42:30",
+            "label": "",
+            "description": "A lofted cross from Lionel Messi (Barcelona) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "1 - 42:10",
+            "label": "",
+            "description": "Ricardo Horta (Malaga) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 40:49",
+            "label": "",
+            "description": "Dani Alves (Barcelona) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "gameTime": "1 - 40:16",
+            "label": "",
+            "description": "Samu Castillejo (Malaga) plays a one two with Juanmi, but the move breaks down. The ball is out of play. Barcelona will have a throw in."
+        },
+        {
+            "gameTime": "1 - 39:32",
+            "label": "",
+            "description": "He should have done better. Neymar (Barcelona) is afforded space to connect with a Dani Alves cross, but his header from the centre of the box flies well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 38:21",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) attempts to convert a lofted cross as he jumps high and heads the ball to the middle of the goal. Idriss Carlos Kameni shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net."
+        },
+        {
+            "gameTime": "1 - 37:53",
+            "label": "corner",
+            "description": "Neymar (Barcelona) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "1 - 37:22",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) fails to send a pass into the box as his effort is cut out. The ball is out of play and the linesman points at the corner flag. Corner to Barcelona."
+        },
+        {
+            "gameTime": "1 - 36:31",
+            "label": "",
+            "description": "Neymar (Barcelona) fires the ball at goal from inside the area, but it's well blocked."
+        },
+        {
+            "gameTime": "1 - 35:23",
+            "label": "",
+            "description": "Ricardo Horta (Malaga) gets on the end of a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Claudio Bravo pulls off an easy save."
+        },
+        {
+            "gameTime": "1 - 33:49",
+            "label": "",
+            "description": "Samu Castillejo (Malaga) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 33:16",
+            "label": "corner",
+            "description": "Ricardo Horta (Malaga) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "1 - 32:17",
+            "label": "",
+            "description": "Ricardo Horta (Malaga) controls a nice lofted pass and shoots from the edge of the box, but his attempt is neither hard nor precise, so Claudio Bravo stops it easily. The ball goes behind for a corner. Malaga will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 30:22",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) serves up a nice cross, but Idriss Carlos Kameni punches the ball away."
+        },
+        {
+            "gameTime": "1 - 29:49",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempts to threaten the keeper from a long range free kick, but his breathtaking effort flies just inches over the crossbar. It could have been a beautiful goal!"
+        },
+        {
+            "gameTime": "1 - 29:04",
+            "label": "",
+            "description": "Sergi Darder (Malaga) brings his opponent down with a tackle, and Juan Mart\u00ednez Munuera blows a whistle for a foul. A free kick to Barcelona."
+        },
+        {
+            "gameTime": "1 - 28:13",
+            "label": "",
+            "description": "Neymar (Barcelona) displays his superb passing ability after picking out Lionel Messi with a fine lofted pass to continue their attacking move."
+        },
+        {
+            "gameTime": "1 - 26:56",
+            "label": "corner",
+            "description": "Neymar (Barcelona) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "1 - 26:32",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Luis Suarez (Barcelona). The referee signals a corner kick to Barcelona."
+        },
+        {
+            "gameTime": "1 - 24:54",
+            "label": "",
+            "description": "Rafinha (Barcelona) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence."
+        },
+        {
+            "gameTime": "1 - 23:42",
+            "label": "",
+            "description": "Recio (Malaga) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "1 - 22:46",
+            "label": "",
+            "description": "Neymar (Barcelona) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 22:03",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 21:41",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) sends a cross into the box, but the opposition's defence clears the ball to safety. Barcelona get a corner."
+        },
+        {
+            "gameTime": "1 - 21:06",
+            "label": "",
+            "description": "The foul by Samu Castillejo (Malaga) was seen by Juan Martinez Munuera who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 20:17",
+            "label": "",
+            "description": "Neymar is able to continue with the attacking effort as he latches on to a beautiful defence splitting lofted pass, which was supplied by Dani Alves (Barcelona)."
+        },
+        {
+            "gameTime": "1 - 19:08",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) wastes a good opportunity as his pass into the box is blocked by the defence. The ball is behind the touchline and Barcelona will take a throw in."
+        },
+        {
+            "gameTime": "1 - 17:27",
+            "label": "",
+            "description": "Dani Alves (Barcelona) sends a cross into the box, but Idriss Carlos Kameni comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 17:12",
+            "label": "",
+            "description": "A pass from Lionel Messi (Barcelona) is intercepted by Idriss Carlos Kameni and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 16:17",
+            "label": "",
+            "description": "Barcelona keep possession of the ball by producing short passes and one two passes from player to player."
+        },
+        {
+            "gameTime": "1 - 14:49",
+            "label": "",
+            "description": "Samu Castillejo (Malaga) tries to send a low pass into the box, but it's blocked and cleared."
+        },
+        {
+            "gameTime": "1 - 11:39",
+            "label": "y-card",
+            "description": "Rafinha (Barcelona) is booked after bringing down an opponent. Juan Martinez Munuera had an easy decision to make."
+        },
+        {
+            "gameTime": "1 - 10:53",
+            "label": "",
+            "description": "Sergio Busquets (Barcelona) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "gameTime": "1 - 10:01",
+            "label": "",
+            "description": "Rafinha (Barcelona) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal."
+        },
+        {
+            "gameTime": "1 - 09:59",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "1 - 09:24",
+            "label": "corner",
+            "description": "Lionel Messi (Barcelona) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "1 - 09:06",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) tries to slide the ball through to a teammate but it's well blocked by a defender. The referee blows his whistle, Barcelona are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 06:59",
+            "label": "soccer-ball",
+            "description": "GOAL! A terrible mistake leads to a goal. The defender ends up losing possession, allowing Juanmi (Malaga) to pick up the ball before slotting it into the back of the net to make it 0:1."
+        },
+        {
+            "gameTime": "1 - 06:25",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "1 - 06:19",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out of play. Barcelona are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 06:06",
+            "label": "corner",
+            "description": "Jordi Alba (Barcelona) works the corner short."
+        },
+        {
+            "gameTime": "1 - 05:40",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Barcelona will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 03:38",
+            "label": "",
+            "description": "Juan Martinez Munuera blows his whistle after Sergi Darder (Malaga) brings one of his opponents down with a strong tackle."
+        },
+        {
+            "gameTime": "1 - 03:16",
+            "label": "",
+            "description": "fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "gameTime": "1 - 02:15",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is unable to feed an accurate cross into the box."
+        },
+        {
+            "gameTime": "1 - 01:07",
+            "label": "",
+            "description": "A pass into the penalty area from Lionel Messi (Barcelona) is intercepted by the defence."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Malaga will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Juan Martinez Munuera is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We saw a few chances and nice plays, but the overall impression of the game is uninspiring and not hugely entertaining. The home team had more of the game. The home team tried to prevail using combination football, while the away side adopted a defensive style of play."
+        }
+    ],
+    "gameAwayTeam": "Malaga",
+    "gameDate": "21/02/2015 - 18:00",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "0 - 1"
+}

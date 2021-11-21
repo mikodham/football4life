@@ -34,9 +34,11 @@ def get_kickoff(dir):
 
 # init
 root = os.getcwd()
-video_dir = Path(root + "/Dataset/Videos")
-labels_dir = Path(root + "/Dataset/Labels")
-trim_dir = Path(root + "/Dataset/Trimmed_Videos")
+parent = Path(root + "/Dataset/SoccerNet")
+# video_dir = Path(root + "/Dataset/Videos")
+# labels_dir = Path(root + "/Dataset/Labels")
+# trim_dir = Path(root + "/Dataset/Trimmed_Videos")
+video_dir, labels_dir, trim_dir = parent, parent, parent
 
 if __name__ == "__main__":
     league = 'england_epl'
@@ -50,7 +52,7 @@ if __name__ == "__main__":
     # matches_list = os.listdir(labels_dir / 'SoccerNet_V1.1_Labels' / league / year)
 
     match_dir = video_dir / league / year / match
-    class_dir = labels_dir / 'SoccerNet_V1.1_Labels' / league / year / match
+    class_dir = labels_dir / league / year / match
 
     # get fouls+yellow_card
     file = open(class_dir / "Labels-v2.json", )
@@ -94,5 +96,6 @@ if __name__ == "__main__":
         start_time, end_time = event_time - 15 + kickoff, event_time + 15+ kickoff
         filename = label['gameTime'].replace(":", "_")
         print(full_match_dir, start_time, end_time, saved_dir / (filename + '.mp4'))
-        ffmpeg_extract_subclip(full_match_dir, start_time, end_time, targetname=saved_dir / (filename + '.mp4') )
-
+        ffmpeg_extract_subclip(full_match_dir, start_time, end_time, targetname=saved_dir / (filename + '.mkv') )
+# ffmpeg -progress pipe:1 -hide_banner -i /path/to/file.mkv -map 0:v
+# -map 0:a -map 0:s -c:a aac -c:v copy -c:s mov_text /path/to/outfile.mp4

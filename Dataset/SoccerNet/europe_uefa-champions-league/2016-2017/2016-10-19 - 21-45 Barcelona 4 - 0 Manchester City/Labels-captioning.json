@@ -1,0 +1,470 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The hosts were superior today. Both sides tried to combine well and to keep the ball at their feet."
+        },
+        {
+            "gameTime": "2 - 47:57",
+            "label": "whistle",
+            "description": "The referee blows for the end of today's match."
+        },
+        {
+            "gameTime": "2 - 47:24",
+            "label": "injury",
+            "description": "The game is interrupted now, Lucas Digne (Barcelona) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 46:47",
+            "label": "y-card",
+            "description": "Raheem Sterling (Manchester City) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Milorad Mazic didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:05",
+            "label": "soccer-ball",
+            "description": "Goal! Neymar (Barcelona) finds himself some space inside the box to get on the end of a pass from Lionel Messi, then sends the ball into the bottom right corner. 4:0."
+        },
+        {
+            "gameTime": "2 - 41:55",
+            "label": "penalty-missed",
+            "description": "Neymar (Barcelona) blows a huge chance to score! He sends the penalty to the left side of the goal, but it's not enough to beat Wilfredo Caballero who easily stops the effort."
+        },
+        {
+            "gameTime": "2 - 41:34",
+            "label": "",
+            "description": "Neymar (Barcelona) is going to take the penalty!"
+        },
+        {
+            "gameTime": "2 - 40:53",
+            "label": "penalty",
+            "description": "Milorad Mazic blows his whistle after Aleksandar Kolarov (Manchester City) kicks an opponent's legs instead of the ball. PENALTY! A huge scoring opportunity for Barcelona."
+        },
+        {
+            "gameTime": "2 - 38:59",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) attempted to pick out a free teammate inside the box, but Marc Andre ter Stegen comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "2 - 36:39",
+            "label": "",
+            "description": "Neymar (Barcelona) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort."
+        },
+        {
+            "gameTime": "2 - 34:23",
+            "label": "substitution",
+            "description": "Here is a change. Andres Iniesta is going off and Luis Enrique gives the last tactical orders to Andre Gomes (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 33:47",
+            "label": "substitution",
+            "description": "That will be all from Ilkay Gundogan who is being replaced by the fresh legs of Sergio Aguero (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 32:19",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out."
+        },
+        {
+            "gameTime": "2 - 31:32",
+            "label": "",
+            "description": "Fernandinho (Manchester City) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "gameTime": "2 - 30:03",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Neymar (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 29:09",
+            "label": "",
+            "description": "The free kick from close range, taken by Manchester City, is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 27:22",
+            "label": "yr-card",
+            "description": "RED CARD! Jeremy Mathieu (Barcelona) makes a bad challenge and receives a second yellow card from Milorad Mazic. He can have an early bath."
+        },
+        {
+            "gameTime": "2 - 26:10",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) produces a mid range free kick and sends a daisy cutter towards the left post, but the goalkeeper makes a good save and stops his effort."
+        },
+        {
+            "gameTime": "2 - 25:53",
+            "label": "",
+            "description": "Manchester City are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 25:31",
+            "label": "y-card",
+            "description": "Jeremy Mathieu (Barcelona) sees a yellow card from Milorad Mazic after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 23:46",
+            "label": "soccer-ball",
+            "description": "Goal Lionel Messi (Barcelona)! Lionel Messi (Barcelona) was put through by Luis Suarez and he showed brilliant composure inside the box to fire into the left side of the net. 3:0."
+        },
+        {
+            "gameTime": "2 - 22:42",
+            "label": "",
+            "description": "Flag goes up against Kevin De Bruyne (Manchester City) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 21:58",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 20:50",
+            "label": "corner",
+            "description": "Neymar (Barcelona) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 20:15",
+            "label": "",
+            "description": "The free kick is taken by Lionel Messi (Barcelona), but ball is cleared. The ball is out of play. A goal scoring opportunity from a corner for Barcelona."
+        },
+        {
+            "gameTime": "2 - 19:37",
+            "label": "",
+            "description": "The ball spins up and hits the hand of Gael Clichy (Manchester City) after he fails to control it and the referee blows his whistle for a foul. Barcelona have a free kick from a promising distance."
+        },
+        {
+            "gameTime": "2 - 19:13",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "2 - 18:48",
+            "label": "",
+            "description": "Marc Andre ter Stegen pulls off a great save to deny Kevin De Bruyne (Manchester City), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 15:43",
+            "label": "soccer-ball",
+            "description": "Goal! Lionel Messi (Barcelona) finds some space for a shot from the edge of the box and his attempt goes low inside the right post. Fantastic finish."
+        },
+        {
+            "gameTime": "2 - 14:52",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempts to release Luis Suarez with a through ball, but his effort is thwarted by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 12:48",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) unleashes a shot from a mid range free kick that goes high over the bar. High, wide and not at all pretty."
+        },
+        {
+            "gameTime": "2 - 11:10",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Wilfredo Caballero (Manchester City) coming on for Pablo Zabaleta."
+        },
+        {
+            "gameTime": "2 - 11:05",
+            "label": "substitution",
+            "description": "It will be a substitution. Gael Clichy (Manchester City) is ready to enter the pitch as Nolito walks off."
+        },
+        {
+            "gameTime": "2 - 09:04",
+            "label": "injury",
+            "description": "Pablo Zabaleta (Manchester City) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 07:11",
+            "label": "r-card",
+            "description": "Claudio Bravo (Manchester City) leaves his team at a huge disadvantage as he is sent off."
+        },
+        {
+            "gameTime": "2 - 05:43",
+            "label": "",
+            "description": "A dangerous towering header by Samuel Umtiti (Barcelona) from around the penalty spot goes just wide of the right post. This corner kick didn't change the score."
+        },
+        {
+            "gameTime": "2 - 04:56",
+            "label": "corner",
+            "description": "Neymar (Barcelona) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "2 - 04:49",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "2 - 02:51",
+            "label": "",
+            "description": "Poor challenge! Nicolas Otamendi (Manchester City) is penalised for tripping and Milorad Mazic blows his whistle."
+        },
+        {
+            "gameTime": "2 - 01:35",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) produces a good strike that sails to the middle of the goal, but his effort ends up in the goalkeeper's gloves."
+        },
+        {
+            "gameTime": "2 - 01:17",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has already been more to see prior to the half time break than there is in most games during the full 90 minutes. Even first half from both sides, and they've both had chances. Both teams are attempting to play possession football."
+        },
+        {
+            "gameTime": "1 - 47:18",
+            "label": "whistle",
+            "description": "Milorad Mazic has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 46:45",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) takes the chance to have an effort at goal from inside the box but misses to the right of the target."
+        },
+        {
+            "gameTime": "1 - 46:00",
+            "label": "corner",
+            "description": "Barcelona take the corner, but their hopes of scoring a goal end with nice clearance by the defence."
+        },
+        {
+            "gameTime": "1 - 45:31",
+            "label": "",
+            "description": "Wilfredo Caballero pulls off a great save to deny Luis Suarez (Barcelona) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:52",
+            "label": "",
+            "description": "John Stones (Manchester City) wastes a great chance as he climbs high around the penalty spot to connect with a cross from the resulting free kick. He produces a header which goes just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 44:06",
+            "label": "",
+            "description": "Samuel Umtiti (Barcelona) pulls the jersey of one of the opposition players and Milorad Mazic blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 43:19",
+            "label": "",
+            "description": "Ilkay Gundogan (Manchester City) makes space inside the box for a shot, but his effort goes just over the crossbar."
+        },
+        {
+            "gameTime": "1 - 43:07",
+            "label": "corner",
+            "description": "Duran Nolito (Manchester City) works the corner short instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "1 - 42:55",
+            "label": "",
+            "description": "Nolito (Manchester City) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. Manchester City force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 41:36",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) tackles a bit over zealously and Milorad Mazic blows for a foul."
+        },
+        {
+            "gameTime": "1 - 40:39",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "1 - 39:26",
+            "label": "y-card",
+            "description": "Fernandinho (Manchester City) is literally asking for a yellow card with his behaviour. The referee agrees and books him."
+        },
+        {
+            "gameTime": "1 - 38:56",
+            "label": "substitution",
+            "description": "Problems for Luis Enrique as Gerard Pique is not able to play anymore. His injury is too serious and Jeremy Mathieu (Barcelona) replaces him."
+        },
+        {
+            "gameTime": "1 - 38:00",
+            "label": "",
+            "description": "Ilkay Gundogan (Manchester City) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the left post."
+        },
+        {
+            "gameTime": "1 - 37:46",
+            "label": "",
+            "description": "What an amazing save by Marc Andre ter Stegen! Ilkay Gundogan (Manchester City) swirls around the defenders and attempts to beat the keeper with a close range shot towards the right side of the goal, but fails."
+        },
+        {
+            "gameTime": "1 - 37:26",
+            "label": "corner",
+            "description": "David Silva (Manchester City) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "1 - 36:50",
+            "label": "",
+            "description": "Nolito (Manchester City) strikes the ball towards goal from the middle of the penalty area, but his shot goes straight into the gloves of the goalkeeper. Manchester City will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 36:14",
+            "label": "",
+            "description": "A pass from Kevin De Bruyne (Manchester City) is intercepted by Marc Andre ter Stegen and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 34:49",
+            "label": "",
+            "description": "Pablo Zabaleta (Manchester City) trips an opponent with a slide tackle. Milorad Mazic stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "gameTime": "1 - 33:12",
+            "label": "funfact",
+            "description": "12:10 \u2013 the total goal attempt statistics."
+        },
+        {
+            "gameTime": "1 - 31:48",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) creates himself some space around the penalty spot and connects with the free kick. His header is so wild it sails way past the left post and behind for a goal kick."
+        },
+        {
+            "gameTime": "1 - 31:02",
+            "label": "",
+            "description": "Handball! A player from Manchester City handled the ball. A free kick has been awarded to Barcelona."
+        },
+        {
+            "gameTime": "1 - 28:06",
+            "label": "injury",
+            "description": "Gerard Pique (Barcelona) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 28:03",
+            "label": "y-card",
+            "description": "Today's referee Milorad Mazic rightly decides to book David Silva (Manchester City) for his harsh tackle."
+        },
+        {
+            "gameTime": "1 - 25:18",
+            "label": "",
+            "description": "Manchester City take a quick free kick and immediately restart play."
+        },
+        {
+            "gameTime": "1 - 25:04",
+            "label": "",
+            "description": "Sergio Busquets (Barcelona) makes an overly aggressive challenge and Milorad Mazic blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 23:56",
+            "label": "",
+            "description": "Pablo Zabaleta (Manchester City) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "gameTime": "1 - 23:09",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Luis Suarez (Barcelona) heads on."
+        },
+        {
+            "gameTime": "1 - 21:01",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) gives away a foul for a clumsy challenge. Referee Milorad Mazic saw the whole situation."
+        },
+        {
+            "gameTime": "1 - 20:43",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "1 - 16:23",
+            "label": "soccer-ball",
+            "description": "Goal! Lionel Messi (Barcelona) pounced on a loose ball inside the box and beats the goalkeeper with a low shot into the middle of the net. He makes it 1:0."
+        },
+        {
+            "gameTime": "1 - 14:20",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) plays a one two with Luis Suarez, but the move breaks down."
+        },
+        {
+            "gameTime": "1 - 10:32",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 09:36",
+            "label": "substitution",
+            "description": "The manager has been forced to make a substitution and the injured Jordi Alba leaves the pitch to be replaced by Lucas Digne (Barcelona)."
+        },
+        {
+            "gameTime": "1 - 06:35",
+            "label": "",
+            "description": "Manchester City decide to take a short pass from the free kick and the attacking effort continues."
+        },
+        {
+            "gameTime": "1 - 06:20",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) was too forceful with his tackle and Milorad Mazic interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "1 - 05:50",
+            "label": "",
+            "description": "Ilkay Gundogan (Manchester City) should know this behaviour is beyond the rules. He was too careless with his challenge and left Milorad Mazic no option but to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 04:43",
+            "label": "corner",
+            "description": "The resulting corner, taken by David Silva (Manchester City), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 04:18",
+            "label": "",
+            "description": "A cross from Kevin De Bruyne (Manchester City) fails to reach the box as the defence clears the ball away to safety. The referee and his assistant both point at the corner flag. Manchester City will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 02:42",
+            "label": "",
+            "description": "A pass from Raheem Sterling (Manchester City) is intercepted by Marc Andre ter Stegen and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 01:25",
+            "label": "",
+            "description": "Neymar (Barcelona) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Manchester City will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Milorad Mazic will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our minute by minute commentary of the upcoming clash. We will try to provide you with as accurate as possible picture of the happenings on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. The hosts were superior today. Both sides tried to combine well and to keep the ball at their feet."
+        }
+    ],
+    "gameAwayTeam": "Manchester City",
+    "gameDate": "19/10/2016 - 21:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "4 - 0"
+}

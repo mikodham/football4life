@@ -1,0 +1,510 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:59",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. We saw a very balanced game over the 90 minutes. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was what is known as kick and rush football."
+        },
+        {
+            "gameTime": "2 - 47:18",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 46:37",
+            "label": "y-card",
+            "description": "Rafinha (Bayern Munich) is booked after bringing down an opponent. Sascha Stegemann had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "2 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 43:50",
+            "label": "",
+            "description": "The Bayern Munich players are exchanging some short passes."
+        },
+        {
+            "gameTime": "2 - 42:48",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) unleashes a shot from 23 metres out but is unable to find the target and it goes well wide of the left post. The ball goes out of play and FC Augsburg will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 40:38",
+            "label": "",
+            "description": "Claudio Pizarro (Bayern Munich) gets the ball and drives a shot high over the bar from the edge of the area. The ball is off of the pitch and it's a goal kick for FC Augsburg."
+        },
+        {
+            "gameTime": "2 - 39:57",
+            "label": "",
+            "description": "CLOSE! Sascha Molders (Augsburg) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that whistles over the bar. The ball goes out of play and Bayern Munich will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 37:37",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Sascha Molders (Augsburg) for Raul Bobadilla."
+        },
+        {
+            "gameTime": "2 - 36:50",
+            "label": "",
+            "description": "The linesman raises his flag. Tobias Werner (Augsburg) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 36:30",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 35:54",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) had an opportunity from long range. His low shot was directed towards the middle of the goal, but Marwin Hitz was alert and made a comfortable save."
+        },
+        {
+            "gameTime": "2 - 35:22",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) serves up a nice cross, but Marwin Hitz punches the ball away."
+        },
+        {
+            "gameTime": "2 - 32:43",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Bayern Munich) attempts to endanger the goal with the free kick from about 20 metres. The keeper can stay calm because he misses completely. The ball went well over the bar. The ball goes out of play and FC Augsburg will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 31:53",
+            "label": "y-card",
+            "description": "Jeong Ho Hong (Augsburg) picks up a yellow card for a foul. Bayern Munich are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 29:48",
+            "label": "",
+            "description": "Sascha Stegemann blows his whistle after Mitchell Weiser (Bayern Munich) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "2 - 28:55",
+            "label": "substitution",
+            "description": "Here is a change. Thomas Muller is going off and Pep Guardiola gives the last tactical orders to Claudio Pizarro (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 28:40",
+            "label": "substitution",
+            "description": "Here comes a substitution. Rafinha (Bayern Munich) is brought on as a substitute for Robert Lewandowski."
+        },
+        {
+            "gameTime": "2 - 27:30",
+            "label": "",
+            "description": "The linesman signals that Raul Bobadilla (Augsburg) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 25:33",
+            "label": "soccer-ball",
+            "description": "Pierre Emile Hojbjerg feeds the ball through to Raul Bobadilla (Augsburg), who picks up the pass inside the box and quickly sends it into the middle of the goal! The goalkeeper was helpless. 0:0!"
+        },
+        {
+            "gameTime": "2 - 24:23",
+            "label": "",
+            "description": "The game is interrupted as Raul Bobadilla (Augsburg) is flagged offside."
+        },
+        {
+            "gameTime": "2 - 22:08",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "2 - 20:37",
+            "label": "",
+            "description": "Bayern Munich keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+        },
+        {
+            "gameTime": "2 - 18:40",
+            "label": "",
+            "description": "Abdul Baba Rahman (Augsburg) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 18:07",
+            "label": "corner",
+            "description": "Manuel Neuer leaps to intercept the corner kick from Raul Bobadilla (Augsburg)."
+        },
+        {
+            "gameTime": "2 - 17:47",
+            "label": "",
+            "description": "Tobias Werner (Augsburg) sends a pass into the box, but his attempt is thwarted and cleared. The linesman points to the corner flag, FC Augsburg are going to take it."
+        },
+        {
+            "gameTime": "2 - 17:10",
+            "label": "",
+            "description": "Tobias Werner (Augsburg) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 16:40",
+            "label": "",
+            "description": "A cross from Tobias Werner (Augsburg) fails to reach the box as the defence clears the ball away to safety."
+        },
+        {
+            "gameTime": "2 - 15:10",
+            "label": "corner",
+            "description": "Bayern Munich force their opponents to concede a corner. Mario Gotze (Bayern Munich) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "2 - 14:42",
+            "label": "",
+            "description": "Marwin Hitz pulls off a great save to deny Mitchell Weiser (Bayern Munich) after receiving a precise defence splitting pass. The effort is headed for the bottom left corner, but the goalkeeper dives superbly to stop it. Definitely the best save of this match so far!"
+        },
+        {
+            "gameTime": "2 - 13:31",
+            "label": "",
+            "description": "Tobias Werner (Augsburg) is penalised for a foul. Sascha Stegemann had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 13:30",
+            "label": "corner",
+            "description": "Raul Bobadilla (Augsburg) is about to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 13:10",
+            "label": "",
+            "description": "Tobias Werner (Augsburg) tries to slide the ball through to a teammate but it's well blocked by a defender. FC Augsburg force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "",
+            "description": "Sascha Stegemann blows his whistle. Jerome Boateng (Bayern Munich) commits a foul after dangerous play."
+        },
+        {
+            "gameTime": "2 - 10:52",
+            "label": "",
+            "description": "A neat pass is well received by Tobias Werner (Augsburg), who is lurking on the edge of the box and strikes the ball towards the left post, but the goalkeeper makes an incredible save to block his shot."
+        },
+        {
+            "gameTime": "2 - 10:40",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "2 - 09:54",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "gameTime": "2 - 08:44",
+            "label": "",
+            "description": "The ball is cleared after Robert Lewandowski (Bayern Munich) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 07:16",
+            "label": "funfact",
+            "description": "The ball possession is 65:35."
+        },
+        {
+            "gameTime": "2 - 05:59",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 05:48",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) sends a cross into the box, but the opposition's defence clears the ball to safety. The referee points to the corner flag and Bayern Munich will take a corner."
+        },
+        {
+            "gameTime": "2 - 05:12",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Marwin Hitz is alert and denies him."
+        },
+        {
+            "gameTime": "2 - 04:34",
+            "label": "",
+            "description": "Bayern Munich are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "gameTime": "2 - 02:45",
+            "label": "",
+            "description": "Markus Feulner (Augsburg) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 01:48",
+            "label": "injury",
+            "description": "Markus Feulner (Augsburg) picks up an injury."
+        },
+        {
+            "gameTime": "2 - 00:58",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Bayern Munich) makes a reckless foul in order to win the ball from his opponent. Sascha Stegemann has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Markus Weinzierl has decided to make a substitution during the half time break. Pierre Emile Hojbjerg (Augsburg) comes on the pitch for Halil Altintop."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "This is how football should be full of action, thrilling moments and spectacular opportunities. And we have only had the first 45 minutes, so the expectations for the second half are high. No side has really dominated in this first half. The tactic of the home side is slow build up play, while the away team's game is based on long passes and crosses into the box."
+        },
+        {
+            "gameTime": "1 - 46:21",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "corner",
+            "description": "A quickly taken corner by Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 45:51",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Thomas Muller (Bayern Munich). It will be a corner kick for Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:59",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) collects an accurate pass and tries his luck from about 18 metres. He was very close to scoring, but the ball ends up hitting the bar. The ball is off of the pitch and it's a goal kick for FC Augsburg."
+        },
+        {
+            "gameTime": "1 - 43:18",
+            "label": "corner",
+            "description": "Thiago Alcantara (Bayern Munich) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "1 - 42:39",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away. The referee points to the corner flag. It's a corner to Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 40:55",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) receives a lofted pass from out wide and shoots from close range, but the ball flies way over the crossbar. The ball is off of the pitch and it's a goal kick for FC Augsburg."
+        },
+        {
+            "gameTime": "1 - 40:30",
+            "label": "",
+            "description": "A clumsy foul by Dominik Kohr (Augsburg) and Sascha Stegemann blows his whistle. Free kick. Bayern Munich will probably just try to cross the ball in from here. Bayern Munich try to speed play up by taking a quick free kick."
+        },
+        {
+            "gameTime": "1 - 38:45",
+            "label": "",
+            "description": "Flag goes up against Abdul Baba Rahman (Augsburg) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 38:20",
+            "label": "",
+            "description": "Tobias Werner (Augsburg) goes on a mazy run and tries his luck with a mid range strike, but one of the defending players steps in and makes a block."
+        },
+        {
+            "gameTime": "1 - 37:00",
+            "label": "",
+            "description": "Raul Bobadilla (Augsburg) receives a precise low pass inside the box, controls the ball and drills it to the middle of the goal, but Manuel Neuer makes a comfortable save to stop his effort."
+        },
+        {
+            "gameTime": "1 - 35:20",
+            "label": "",
+            "description": "A cross from the free kick is whipped in by Tobias Werner (Augsburg), but one of the defenders steps in and averts the threat."
+        },
+        {
+            "gameTime": "1 - 34:55",
+            "label": "",
+            "description": "Bastian Schweinsteiger (Bayern Munich) tackles a bit over zealously and Sascha Stegemann blows for a foul. A free kick has been awarded to FC Augsburg."
+        },
+        {
+            "gameTime": "1 - 32:57",
+            "label": "",
+            "description": "Halil Altintop (Augsburg) is first to a rebound inside the 6 yard box, but he misdirects his shot well wide of the left post. The ball goes out of play and Bayern Munich will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 32:39",
+            "label": "",
+            "description": "Bayern Munich enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "1 - 31:31",
+            "label": "substitution",
+            "description": "Substitution. Alexander Esswein makes his way off the pitch and Tobias Werner (Augsburg) comes on as his replacement."
+        },
+        {
+            "gameTime": "1 - 29:25",
+            "label": "corner",
+            "description": "The corner from Raul Bobadilla (Augsburg) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 28:51",
+            "label": "",
+            "description": "Raul Bobadilla (Augsburg) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. FC Augsburg will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 27:04",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 25:35",
+            "label": "",
+            "description": "Sascha Stegemann blows his whistle after Abdul Baba Rahman (Augsburg) brings one of his opponents down with a strong tackle. Bayern Munich win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 24:30",
+            "label": "",
+            "description": "Raul Bobadilla (Augsburg) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 23:18",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) makes a good run with the ball, but his shot from the edge of the penalty area goes just wide of the right post. Terrific solo effort, though. The ball is off of the pitch and it's a goal kick for FC Augsburg."
+        },
+        {
+            "gameTime": "1 - 22:50",
+            "label": "",
+            "description": "Bayern Munich are showing great team chemistry. They are passing it around beautifully. Excellent team work."
+        },
+        {
+            "gameTime": "1 - 20:39",
+            "label": "",
+            "description": "Abdul Baba Rahman sends a lofted pass into the box, Raul Bobadilla (Augsburg) shows good awareness to connect with it but blazes his shot high over the crossbar. The ball goes out of play and Bayern Munich will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 19:35",
+            "label": "",
+            "description": "Bayern Munich hold the ball and are exchanging some long passes."
+        },
+        {
+            "gameTime": "1 - 17:28",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Raul Bobadilla (Augsburg)."
+        },
+        {
+            "gameTime": "1 - 17:01",
+            "label": "",
+            "description": "Abdul Baba Rahman (Augsburg) sends the ball into the box from the side of the pitch, but his cross is blocked. FC Augsburg have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 14:56",
+            "label": "penalty-missed",
+            "description": "Paul Verhaegh (Augsburg) fails to score from the penalty as his shot only hits the right post."
+        },
+        {
+            "gameTime": "1 - 14:49",
+            "label": "",
+            "description": "Paul Verhaegh (Augsburg) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "1 - 13:56",
+            "label": "substitution",
+            "description": "The manager has decided to make a tactical substitution following the red card and Philipp Lahm walks off the pitch to be replaced by Manuel Neuer (Bayern Munich)."
+        },
+        {
+            "gameTime": "1 - 12:31",
+            "label": "r-card",
+            "description": "Pepe Reina (Bayern Munich) looks sheepishly at the ref as he knows what's going to happen after his poor tackle. And he's right! Sascha Stegemann sends him off the pitch with a straight red!"
+        },
+        {
+            "gameTime": "1 - 12:29",
+            "label": "penalty",
+            "description": "Pepe Reina (Bayern Munich) commits a rough challenge and Sascha Stegemann blows his whistle for a foul. The referee points to the penalty spot. It's a penalty for FC Augsburg!"
+        },
+        {
+            "gameTime": "1 - 11:45",
+            "label": "y-card",
+            "description": "Dante (Bayern Munich) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Sascha Stegemann didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "1 - 11:11",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 10:12",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) smashes the ball towards goal from the edge of the penalty box, but his effort flies just a few inches wide of the right post. The ball goes out of play and FC Augsburg will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 08:13",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) expertly controls a neat clever pass on the edge of the penalty area, but his effort rattles the left post! What a shot that was!"
+        },
+        {
+            "gameTime": "1 - 06:47",
+            "label": "",
+            "description": "Bayern Munich are enjoying a spell of pressure at the moment, but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "1 - 05:58",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out."
+        },
+        {
+            "gameTime": "1 - 04:47",
+            "label": "",
+            "description": "Abdul Baba Rahman (Augsburg) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "1 - 04:15",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) goes on a mazy run through the defence and gets within shooting range inside the box, but his low effort to the middle of the target is thwarted by Marwin Hitz."
+        },
+        {
+            "gameTime": "1 - 02:37",
+            "label": "",
+            "description": "Jeong Ho Hong (Augsburg) rises above the defence to meet a cross from the corner. His timing is good, but he directs his header just a few inches wide of the left post. The ball is off of the pitch and it's a goal kick for Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 02:30",
+            "label": "corner",
+            "description": "Raul Bobadilla (Augsburg) prepares to take a corner kick."
+        },
+        {
+            "gameTime": "1 - 02:04",
+            "label": "",
+            "description": "Raul Bobadilla (Augsburg) stands over the free kick and opts to take it himself, sending it towards the right post only for Manuel Neuer to dive and make a save. The referee and his assistant both point at the corner flag. FC Augsburg will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 01:12",
+            "label": "",
+            "description": "Dante (Bayern Munich) dispossess an opponent of the ball with but is penalised for a foul. The referee blows his whistle and stops the game. A free kick to Augsburg."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. FC Augsburg will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Sascha Stegemann."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. We saw a very balanced game over the 90 minutes. The home team made a lot of passes and attempted to maintain possession. The away side's tactic was what is known as kick and rush football."
+        }
+    ],
+    "gameAwayTeam": "FC Augsburg",
+    "gameDate": "09/05/2015 - 16:30",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "0 - 1"
+}

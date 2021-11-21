@@ -1,0 +1,415 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:59",
+            "label": "",
+            "description": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. Barcelona were dominant and more threatening of the two sides. It was a fairly one sided match. The home team played possession football and the away players really focused on a well organized defence."
+        },
+        {
+            "gameTime": "2 - 50:13",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 48:26",
+            "label": "corner",
+            "description": "Barcelona work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "gameTime": "2 - 48:15",
+            "label": "",
+            "description": "A promising cross into the box is nearly received by the lurking Lionel Messi (Barcelona), but one of the defending players cuts it out to avert the threat. Barcelona have a corner."
+        },
+        {
+            "gameTime": "2 - 46:56",
+            "label": "",
+            "description": "Roberto Jimenez pulls off a great save to deny Neymar (Barcelona), who makes himself some space inside the box and unleashes a quick shot to the right side of the goal."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "5 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:18",
+            "label": "soccer-ball",
+            "description": "It's a goal! Lionel Messi (Barcelona) scores with a brilliant low shot into the middle of the goal after being released inside the box by a superb lofted pass from Luis Suarez. The score is now 4:1."
+        },
+        {
+            "gameTime": "2 - 43:23",
+            "label": "",
+            "description": "Javi Lopez (Espanyol) brings his opponent down. Antonio Mateu Lahoz has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 40:58",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) receives a precise pass inside the box and takes a shot that flies just wide of the right post."
+        },
+        {
+            "gameTime": "2 - 39:20",
+            "label": "funfact",
+            "description": "The current number of shots on goal is 7:1."
+        },
+        {
+            "gameTime": "2 - 38:22",
+            "label": "",
+            "description": "Diego Reyes (Espanyol) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+        },
+        {
+            "gameTime": "2 - 36:41",
+            "label": "",
+            "description": "The linesman signals that Neymar (Barcelona) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 33:55",
+            "label": "substitution",
+            "description": "It's time for a substitution. Jose Antonio Reyes (Espanyol) comes on in place of Pablo Piatti."
+        },
+        {
+            "gameTime": "2 - 33:50",
+            "label": "soccer-ball",
+            "description": "Goal! Gerard Moreno slips it to David Lopez (Espanyol) on the edge of the box and he finds the left side of the net with a great effort. The score is 3:1."
+        },
+        {
+            "gameTime": "2 - 33:31",
+            "label": "",
+            "description": "A beautiful low pass from the side is received by Lionel Messi (Barcelona), who was waiting for his chance. However, the defence is alert and spanks the ball away."
+        },
+        {
+            "gameTime": "2 - 30:57",
+            "label": "attendance",
+            "description": "The attendance for today's match is 79370."
+        },
+        {
+            "gameTime": "2 - 28:59",
+            "label": "substitution",
+            "description": "Luis Enrique decides to make a substitution. Sergio Busquets will be replaced by Samuel Umtiti (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 28:50",
+            "label": "",
+            "description": "The Barcelona players are exchanging some short passes."
+        },
+        {
+            "gameTime": "2 - 25:58",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Felipe Caicedo leaves the pitch and Oscar Melendo (Espanyol) comes on."
+        },
+        {
+            "gameTime": "2 - 22:56",
+            "label": "soccer-ball",
+            "description": "Goal! Jordi Alba (Barcelona) gathered the ball off a rebound inside the box and fired home into the right side of the net."
+        },
+        {
+            "gameTime": "2 - 22:50",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 21:44",
+            "label": "soccer-ball",
+            "description": "Goal! Luis Suarez (Barcelona) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 2:0."
+        },
+        {
+            "gameTime": "2 - 21:40",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) picks up the ball, dribbles to the edge of the penalty area and unleashes a brilliant low shot to the middle of the goal, but is thwarted by a decent save from Roberto Jimenez."
+        },
+        {
+            "gameTime": "2 - 20:33",
+            "label": "substitution",
+            "description": "A substitution has been made. Denis Suarez is replaced by Rafinha (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 19:53",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Felipe Caicedo (Espanyol) was quite harsh and Antonio Mateu Lahoz didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "2 - 18:20",
+            "label": "",
+            "description": "The Barcelona players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession."
+        },
+        {
+            "gameTime": "2 - 15:37",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) clips a neat ball into the box in the direction of Neymar, but he can't get on the end of the pass."
+        },
+        {
+            "gameTime": "2 - 13:56",
+            "label": "",
+            "description": "Antonio Mateu Lahoz blows his whistle after Javi Lopez (Espanyol) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "2 - 12:44",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance."
+        },
+        {
+            "gameTime": "2 - 11:30",
+            "label": "",
+            "description": "Neymar (Barcelona) takes a mid range shot, but the ball sails high over the bar."
+        },
+        {
+            "gameTime": "2 - 10:01",
+            "label": "",
+            "description": "Neymar (Barcelona) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch."
+        },
+        {
+            "gameTime": "2 - 09:26",
+            "label": "",
+            "description": "Antonio Mateu Lahoz blows for a foul after Javi Lopez (Espanyol) was too aggressive in the battle for the ball. Free kick. Barcelona will probably just try to cross the ball in from here."
+        },
+        {
+            "gameTime": "2 - 07:40",
+            "label": "corner",
+            "description": "Neymar (Barcelona) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 07:23",
+            "label": "substitution",
+            "description": "Quique Flores is forced to make a change. Diego Lopez is unable to continue due to injury, Roberto Jimenez (Espanyol) comes on."
+        },
+        {
+            "gameTime": "2 - 05:03",
+            "label": "injury",
+            "description": "The game is interrupted now, Diego Lopez (Espanyol) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 04:20",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Roberto Jimenez is alert and denies him with a nice save. The referee blows his whistle, Barcelona are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 02:58",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) creates a good chance for himself and goes for goal from mid range, but the effort is well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Antonio Mateu Lahoz blows his whistle and the second half starts."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Well, a decent first half here. It's certainly not boring, but not the best match either. The hosts are mostly controlling the match and making it pretty tough for the opposition to keep up. The home team tries to prevail using combination football, while the away team adopt a defensive style of play."
+        },
+        {
+            "gameTime": "1 - 46:01",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Antonio Mateu Lahoz has ended it."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:14",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) plays a one two with Andres Iniesta, but the move breaks down."
+        },
+        {
+            "gameTime": "1 - 41:34",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) whips the ball in from the long range free kick, but the first man gets it clear."
+        },
+        {
+            "gameTime": "1 - 40:53",
+            "label": "",
+            "description": "Javi Lopez (Espanyol) gives away a foul for a fierce tackle on an opponent. Barcelona have a free kick."
+        },
+        {
+            "gameTime": "1 - 39:58",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) sends a cross into the box, but the opposition's defence clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 36:35",
+            "label": "",
+            "description": "Javi Lopez (Espanyol) controls a cross inside the six yard box, but sends his shot slightly wide of the right post."
+        },
+        {
+            "gameTime": "1 - 35:52",
+            "label": "",
+            "description": "Sergi Roberto (Barcelona) tackles a bit over zealously and Antonio Mateu Lahoz blows for a foul."
+        },
+        {
+            "gameTime": "1 - 32:39",
+            "label": "corner",
+            "description": "The resulting corner from Neymar (Barcelona) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 32:27",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee signals a corner kick to Barcelona."
+        },
+        {
+            "gameTime": "1 - 29:59",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "1 - 29:54",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) misses a good chance to score. An inch perfect cross into the box finds Lionel Messi (Barcelona) who rises for a header, but sends the ball well over the bar. The referee points to the corner flag and Barcelona will take a corner."
+        },
+        {
+            "gameTime": "1 - 25:45",
+            "label": "",
+            "description": "Sergio Busquets (Barcelona) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 24:33",
+            "label": "",
+            "description": "The goalkeeper is not tested by the free kick from 24 metres out by Lionel Messi (Barcelona) as his effort only hit the wall."
+        },
+        {
+            "gameTime": "1 - 23:19",
+            "label": "",
+            "description": "Diego Reyes (Espanyol) jumps into a tackle and Antonio Mateu Lahoz blows his whistle for a foul. Barcelona win a free kick. It's a promising situation for a direct shot."
+        },
+        {
+            "gameTime": "1 - 22:55",
+            "label": "",
+            "description": "Barcelona are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "gameTime": "1 - 19:30",
+            "label": "",
+            "description": "Barcelona players are playing combination football and attempting to create a goal scoring opportunity, but they will have to wait for that as they have just lost possession due to a poor pass."
+        },
+        {
+            "gameTime": "1 - 17:28",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) makes a great solo run and pulls the trigger from inside the box, beating Roberto Jimenez with a strike into the bottom left corner. He makes it 1:0."
+        },
+        {
+            "gameTime": "1 - 17:27",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) displays his superb passing ability after picking out Luis Suarez with a fine lofted pass to continue their attacking move."
+        },
+        {
+            "gameTime": "1 - 14:57",
+            "label": "",
+            "description": "Antonio Mateu Lahoz interrupts the game for a tactical foul by Sergi Roberto (Barcelona)."
+        },
+        {
+            "gameTime": "1 - 13:30",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Jordi Alba (Barcelona) heads on."
+        },
+        {
+            "gameTime": "1 - 12:44",
+            "label": "y-card",
+            "description": "Antonio Mateu Lahoz shows the yellow card to Aaron Caricol (Espanyol) for a heavy challenge."
+        },
+        {
+            "gameTime": "1 - 11:49",
+            "label": "",
+            "description": "Pablo Piatti (Espanyol) crosses the ball forward but it is intercepted."
+        },
+        {
+            "gameTime": "1 - 11:08",
+            "label": "corner",
+            "description": "Pablo Piatti (Espanyol) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "1 - 10:47",
+            "label": "",
+            "description": "The ball is cleared after Jose Manuel Jurado (Espanyol) attempted to dribble past an opposing player. The ball is out of play. A goal scoring opportunity from a corner for Espanyol."
+        },
+        {
+            "gameTime": "1 - 09:21",
+            "label": "y-card",
+            "description": "Pablo Piatti (Espanyol) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Antonio Mateu Lahoz ignores the protests."
+        },
+        {
+            "gameTime": "1 - 08:20",
+            "label": "",
+            "description": "Pablo Piatti (Espanyol) sends a teasing cross into the area, but Marc Andre ter Stegen intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 07:58",
+            "label": "corner",
+            "description": "Pablo Piatti (Espanyol) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "1 - 07:43",
+            "label": "",
+            "description": "Felipe Caicedo (Espanyol) races towards goal but the defender gets back well to make a challenge. Espanyol earn a corner."
+        },
+        {
+            "gameTime": "1 - 06:43",
+            "label": "",
+            "description": "What a big chance! Lionel Messi (Barcelona) picks up an inch perfect pass inside the box and fires the ball a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 05:55",
+            "label": "",
+            "description": "Espanyol enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "1 - 03:10",
+            "label": "",
+            "description": "Sergi Roberto (Barcelona) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "1 - 02:10",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Barcelona was in an offside position."
+        },
+        {
+            "gameTime": "1 - 01:40",
+            "label": "",
+            "description": "The Barcelona players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Barcelona will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Antonio Mateu Lahoz is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The leading assist man for Espanyol is Pablo Piatti, with 7 assists so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Barcelona haven't lost in their last 8 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "According to the statistics, the match was pretty entertaining. There were plenty of thrilling moments. Barcelona were dominant and more threatening of the two sides. It was a fairly one sided match. The home team played possession football and the away players really focused on a well organized defence."
+        }
+    ],
+    "gameAwayTeam": "Espanyol",
+    "gameDate": "18/12/2016 - 22:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "4 - 1"
+}

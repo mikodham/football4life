@@ -1,0 +1,515 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. We witnessed the away side dominate today's game. The home side attempted to hold onto the ball for as long as possible. The away team was pressing and leaving the opponents little space for combination play."
+        },
+        {
+            "gameTime": "2 - 49:14",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 47:51",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "2 - 47:31",
+            "label": "",
+            "description": "Manchester City move the ball around well as they wait for an opportunity to shoot, but the attack is halted as they lose possession. Manchester City force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 46:16",
+            "label": "",
+            "description": "Fernando (Manchester City) brings an opponent down and Jonathan Moss interrupts the game."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:26",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Adam Lallana as he is replaced by Kolo Toure (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 43:15",
+            "label": "",
+            "description": "Jordon Ibe (Liverpool) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 40:52",
+            "label": "corner",
+            "description": "Aleksandar Kolarov (Manchester City) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 40:01",
+            "label": "",
+            "description": "Simon Mignolet had to pull off an exquisite save to thwart a knuckleball from Fabian Delph (Manchester City), even though it only went towards the middle of the target. Manchester City have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 39:35",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Nathaniel Clyne (Liverpool). Jonathan Moss doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 38:30",
+            "label": "attendance",
+            "description": "The attendance for today's match is 62271."
+        },
+        {
+            "gameTime": "2 - 38:26",
+            "label": "",
+            "description": "The foul by Raheem Sterling (Manchester City) was seen by Jonathan Moss who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 35:58",
+            "label": "soccer-ball",
+            "description": "The ball from the corner slips through the box to Martin Skrtel (Liverpool) and he coolly slots it past the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 35:50",
+            "label": "corner",
+            "description": "Adam Lallana (Liverpool) will deliver the corner kick."
+        },
+        {
+            "gameTime": "2 - 34:58",
+            "label": "",
+            "description": "Christian Benteke (Liverpool) weaves his way through the defence and gets within shooting range inside the box, but his effort to the right post is thwarted by Joe Hart. Now Liverpool have a corner."
+        },
+        {
+            "gameTime": "2 - 34:34",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "2 - 34:26",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Manchester City force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 32:56",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) sends a teasing cross into the area, but Simon Mignolet intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 31:58",
+            "label": "",
+            "description": "What a chance that is! Kelechi Iheanacho (Manchester City) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post."
+        },
+        {
+            "gameTime": "2 - 31:25",
+            "label": "substitution",
+            "description": "Jurgen Klopp has decided to introduce fresh legs, with Christian Benteke (Liverpool) replacing Roberto Firmino."
+        },
+        {
+            "gameTime": "2 - 29:38",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "2 - 29:18",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) tries to send a pass but it's blocked. The linesman makes the right call and Manchester City will have a corner."
+        },
+        {
+            "gameTime": "2 - 28:11",
+            "label": "",
+            "description": "Jonathan Moss blows his whistle after Roberto Firmino (Liverpool) kicks an opponent's legs instead of the ball."
+        },
+        {
+            "gameTime": "2 - 27:01",
+            "label": "",
+            "description": "James Milner (Liverpool) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "gameTime": "2 - 26:48",
+            "label": "",
+            "description": "A player from Manchester City takes his opponent down, the referee blows his whistle for a foul. Liverpool are awarded the free kick."
+        },
+        {
+            "gameTime": "2 - 25:56",
+            "label": "",
+            "description": "Joe Hart can hear the fans clapping for his superb goalkeeping after he magnificently stops the close range effort from Roberto Firmino (Liverpool). The ball would have probably ended up low inside the middle of the net."
+        },
+        {
+            "gameTime": "2 - 25:23",
+            "label": "corner",
+            "description": "Alberto Moreno (Liverpool) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "2 - 25:11",
+            "label": "",
+            "description": "Jordon Ibe (Liverpool) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The referee blows his whistle, Liverpool are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 23:00",
+            "label": "substitution",
+            "description": "Philippe Coutinho is being substituted because of an injury. Jurgen Klopp sends Jordon Ibe (Liverpool) on the pitch."
+        },
+        {
+            "gameTime": "2 - 22:01",
+            "label": "injury",
+            "description": "Philippe Coutinho (Liverpool) picks up an injury."
+        },
+        {
+            "gameTime": "2 - 21:23",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 20:55",
+            "label": "",
+            "description": "The ball is cleared after Kelechi Iheanacho (Manchester City) attempted to dribble past an opposing player. Manchester City will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 20:19",
+            "label": "substitution",
+            "description": "Here is a change. Sergio Aguero is going off and Manuel Pellegrini gives the last tactical orders to Kelechi Iheanacho (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 18:35",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Simon Mignolet is alert and denies him."
+        },
+        {
+            "gameTime": "2 - 17:08",
+            "label": "",
+            "description": "Gooal! No wait, it's been ruled out for offside. Philippe Coutinho (Liverpool) disagrees, but the linesman is sure about his call."
+        },
+        {
+            "gameTime": "2 - 16:04",
+            "label": "",
+            "description": "Dejan Lovren (Liverpool) wins himself just enough space inside the box to connect with the corner, but his header is well saved by the keeper."
+        },
+        {
+            "gameTime": "2 - 15:28",
+            "label": "corner",
+            "description": "Alberto Moreno (Liverpool) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick."
+        },
+        {
+            "gameTime": "2 - 15:00",
+            "label": "",
+            "description": "Joe Hart pulls off a great save to deny Roberto Firmino (Liverpool) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The ball is out of play and Liverpool manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 14:05",
+            "label": "",
+            "description": "James Milner (Liverpool) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "2 - 13:26",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 10:30",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety."
+        },
+        {
+            "gameTime": "2 - 09:09",
+            "label": "corner",
+            "description": "The corner from Aleksandar Kolarov (Manchester City) is intercepted by the defence."
+        },
+        {
+            "gameTime": "2 - 08:56",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Corner kick. Manchester City will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 06:25",
+            "label": "",
+            "description": "James Milner (Liverpool) whips in the resulting set piece but it's cleared."
+        },
+        {
+            "gameTime": "2 - 06:20",
+            "label": "",
+            "description": "Jonathan Moss interrupts the game. One of the players from Manchester City won the ball, but his effort is adjudged unfair. A free kick to Liverpool."
+        },
+        {
+            "gameTime": "2 - 06:02",
+            "label": "corner",
+            "description": "Alberto Moreno (Liverpool) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "2 - 05:18",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) shoots from outside the box, but his effort is blocked. The referee and his assistant both point at the corner flag. Liverpool will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 04:56",
+            "label": "",
+            "description": "Emre Can (Liverpool) passes the ball onto Philippe Coutinho, but one of the defenders dispossesses him."
+        },
+        {
+            "gameTime": "2 - 04:23",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) wastes a good opportunity as his pass into the box is blocked by the defence."
+        },
+        {
+            "gameTime": "2 - 02:52",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) swings a cross into the box, but it's far too close to Simon Mignolet, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 02:39",
+            "label": "",
+            "description": "Fabian Delph (Manchester City) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 01:57",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Emre Can (Liverpool) was quite harsh and Jonathan Moss didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Manuel Pellegrini has made a change at the break. Fabian Delph (Manchester City) has come on in place of Jesus Navas."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "The game is over for Yaya Toure. Fernandinho (Manchester City) comes on for the second half."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The whistle blows and Jonathan Moss starts the second half."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. The away team controlled the game for most of the first half. The home team tries to prevail using combination football, while the away side attempt to win the ball back as quickly as possible every time they lose possession."
+        },
+        {
+            "gameTime": "1 - 47:05",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 45:58",
+            "label": "corner",
+            "description": "Aleksandar Kolarov (Manchester City) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "1 - 45:30",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Aleksandar Kolarov (Manchester City). The referee and one of his assistants signal for a corner kick to Manchester City."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:27",
+            "label": "soccer-ball",
+            "description": "What a beauty from just outside the box! Sergio Aguero (Manchester City) lashed the ball with incredible pace and power inside the right post."
+        },
+        {
+            "gameTime": "1 - 41:35",
+            "label": "",
+            "description": "Simon Mignolet steps in and intercepts a long pass from Yaya Toure (Manchester City)."
+        },
+        {
+            "gameTime": "1 - 39:48",
+            "label": "corner",
+            "description": "A dangerous looking corner kick from Aleksandar Kolarov (Manchester City) is cleared to safety by the defence."
+        },
+        {
+            "gameTime": "1 - 39:36",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out of play and Manchester City have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 37:52",
+            "label": "y-card",
+            "description": "Lucas Leiva (Liverpool) picks up a yellow card for a foul."
+        },
+        {
+            "gameTime": "1 - 37:36",
+            "label": "",
+            "description": "Alberto Moreno (Liverpool) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "1 - 36:44",
+            "label": "",
+            "description": "Philippe Coutinho (Liverpool) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "1 - 35:29",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) takes the chance to have an effort at goal from inside the box but misses to the right of the target."
+        },
+        {
+            "gameTime": "1 - 34:35",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Joe Hart guesses his intention and denies him with a fine save."
+        },
+        {
+            "gameTime": "1 - 31:45",
+            "label": "soccer-ball",
+            "description": "Goal! Philippe Coutinho passes the ball to the feet of Roberto Firmino (Liverpool), who has an empty net in front of him and has no problems in tapping the ball in. 0:3."
+        },
+        {
+            "gameTime": "1 - 31:13",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 29:54",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) makes a rough challenge and Jonathan Moss blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 29:08",
+            "label": "corner",
+            "description": "Aleksandar Kolarov (Manchester City) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "1 - 28:52",
+            "label": "",
+            "description": "Fernando (Manchester City) sends the ball into the box from the side of the pitch, but his cross is blocked. It will be a corner kick for Manchester City."
+        },
+        {
+            "gameTime": "1 - 28:14",
+            "label": "",
+            "description": "Good defending. Kevin De Bruyne (Manchester City) tries to find Raheem Sterling inside the box, but the pass is cut out."
+        },
+        {
+            "gameTime": "1 - 25:21",
+            "label": "corner",
+            "description": "The resulting corner from Alberto Moreno (Liverpool) is cleared."
+        },
+        {
+            "gameTime": "1 - 25:06",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out. Liverpool will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 22:18",
+            "label": "soccer-ball",
+            "description": "Goal! Roberto Firmino feeds Philippe Coutinho (Liverpool), who taps the ball into an empty net. He makes it 0:2."
+        },
+        {
+            "gameTime": "1 - 20:52",
+            "label": "",
+            "description": "Jesus Navas (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "1 - 20:00",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) serves up a nice cross, but the defence clears the danger."
+        },
+        {
+            "gameTime": "1 - 18:36",
+            "label": "",
+            "description": "Adam Lallana races towards the box before laying off to James Milner (Liverpool), who picks it up but blazes a shot well over the bar from the edge of the box."
+        },
+        {
+            "gameTime": "1 - 18:03",
+            "label": "",
+            "description": "Liverpool are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "gameTime": "1 - 16:56",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 14:00",
+            "label": "",
+            "description": "The game is interrupted as Adam Lallana (Liverpool) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 12:40",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort."
+        },
+        {
+            "gameTime": "1 - 11:04",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 09:34",
+            "label": "corner",
+            "description": "The resulting corner, taken by Kevin De Bruyne (Manchester City), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 09:15",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) crosses the ball into the box, but one of the defending players averts the threat. The ball goes out of play. Manchester City are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 06:49",
+            "label": "soccer-ball-own",
+            "description": "This is definitely not what Eliaquim Mangala (Manchester City) wanted. Attempting to intercept an offensive pass, he scored an own goal and made it 0:1."
+        },
+        {
+            "gameTime": "1 - 05:59",
+            "label": "",
+            "description": "Flag goes up against Emre Can (Liverpool) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 04:21",
+            "label": "corner",
+            "description": "Aleksandar Kolarov (Manchester City) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 04:12",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 02:50",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 00:58",
+            "label": "",
+            "description": "Bacary Sagna (Manchester City) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Liverpool will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Jonathan Moss will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "This hugely entertaining encounter was a wonderful experience for every football lover to behold. The players did their utmost to make the game very enjoyable. We witnessed the away side dominate today's game. The home side attempted to hold onto the ball for as long as possible. The away team was pressing and leaving the opponents little space for combination play."
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "21/11/2015 - 20:30",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "1 - 4"
+}

@@ -1,0 +1,515 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The away side dominated this game. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks, while the away team played possession football."
+        },
+        {
+            "gameTime": "2 - 48:39",
+            "label": "whistle",
+            "description": "The match has just finished."
+        },
+        {
+            "gameTime": "2 - 48:15",
+            "label": "corner",
+            "description": "Jose Antonio Reyes (Sevilla) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "2 - 48:10",
+            "label": "",
+            "description": "Jose Antonio Reyes (Sevilla) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes out of play and Sevilla have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 47:26",
+            "label": "y-card",
+            "description": "Aleix Vidal (Sevilla) is yellow carded."
+        },
+        {
+            "gameTime": "2 - 45:45",
+            "label": "",
+            "description": "Iborra (Sevilla) blows a clear opportunity to score a goal. He was one on one with Iker Casillas inside the six yard box and attempted to put the ball into the middle of the target, but was denied by a great save."
+        },
+        {
+            "gameTime": "2 - 45:26",
+            "label": "y-card",
+            "description": "That will be a yellow card for one of the players. The one who gets booked is Daniel Carrico (Sevilla)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 42:38",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Marcelo leaves the pitch and Alvaro Arbeloa (Real Madrid) comes on."
+        },
+        {
+            "gameTime": "2 - 42:13",
+            "label": "y-card",
+            "description": "Benoit Tremoulinas (Sevilla) is punished with the yellow card."
+        },
+        {
+            "gameTime": "2 - 41:14",
+            "label": "corner",
+            "description": "Jose Antonio Reyes (Sevilla) will deliver the corner kick."
+        },
+        {
+            "gameTime": "2 - 41:06",
+            "label": "",
+            "description": "Denis Suarez (Sevilla) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The referee points to the corner flag and Sevilla will take a corner."
+        },
+        {
+            "gameTime": "2 - 40:20",
+            "label": "",
+            "description": "Kevin Gameiro (Sevilla) misses a big opportunity after striking the ball towards the middle of the goal and the goalkeeper makes an easy save."
+        },
+        {
+            "gameTime": "2 - 38:53",
+            "label": "substitution",
+            "description": "Substitution. Asier Illarramendi (Real Madrid) receives a signal from the referee and is now allowed to enter the pitch as Isco walks off."
+        },
+        {
+            "gameTime": "2 - 37:39",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the right hand post, but Sergio Rico was alert and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 36:29",
+            "label": "",
+            "description": "The linesman signals that Cristiano Ronaldo (Real Madrid) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 35:34",
+            "label": "corner",
+            "description": "Denis Suarez (Sevilla) works the corner short."
+        },
+        {
+            "gameTime": "2 - 35:23",
+            "label": "",
+            "description": "Kevin Gameiro (Sevilla) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Sevilla force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 33:09",
+            "label": "soccer-ball",
+            "description": "Goal! Iborra (Sevilla) shows good awareness inside the box as he latches on to a brilliant pass and fires a first time shot into the middle of the net. Aleix Vidal assisted in the goal. 1:2."
+        },
+        {
+            "gameTime": "2 - 32:45",
+            "label": "substitution",
+            "description": "Unai Emery has decided to introduce fresh legs, with Kevin Gameiro (Sevilla) replacing Carlos Bacca."
+        },
+        {
+            "gameTime": "2 - 32:25",
+            "label": "substitution",
+            "description": "Iborra (Sevilla) joins the action as a substitute, replacing Grzegorz Krychowiak."
+        },
+        {
+            "gameTime": "2 - 32:07",
+            "label": "",
+            "description": "Sergio Ramos (Real Madrid) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "2 - 31:02",
+            "label": "injury",
+            "description": "Sergio Ramos (Real Madrid) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "2 - 29:26",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Aleix Vidal (Sevilla) but poses no threat."
+        },
+        {
+            "gameTime": "2 - 27:18",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "gameTime": "2 - 24:48",
+            "label": "substitution",
+            "description": "Unai Emery Etxegoien prepares a substitution. Diogo Figueiras is replaced by Denis Suarez (Sevilla)."
+        },
+        {
+            "gameTime": "2 - 22:31",
+            "label": "soccer-ball",
+            "description": "Gareth Bale sends a superb cross into the box. Cristiano Ronaldo (Real Madrid) latches on to it and from close range plants a header inside the right post, leaving Sergio Rico beaten. He displayed his eye for goal there excellent finish. The score is 1:3."
+        },
+        {
+            "gameTime": "2 - 22:22",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 21:39",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Jose Antonio Reyes (Sevilla). Jose Luis Gonzalez doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 20:57",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Chicharito as he is replaced by Gareth Bale (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 20:05",
+            "label": "",
+            "description": "Isco sprays a wonderful pass out to Toni Kroos (Real Madrid), who cannot get enough power or direction to cause Sergio Rico problems and the goalkeeper is able to watch the ball go just over the crossbar."
+        },
+        {
+            "gameTime": "2 - 18:30",
+            "label": "",
+            "description": "Aleix Vidal (Sevilla) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "2 - 16:27",
+            "label": "",
+            "description": "Half chance! Cristiano Ronaldo (Real Madrid) plays a pass into the box, but Sergio Rico reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "2 - 13:36",
+            "label": "",
+            "description": "Carlos Bacca (Sevilla) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "2 - 11:05",
+            "label": "funfact",
+            "description": "The total number of attempts is 18:14."
+        },
+        {
+            "gameTime": "2 - 09:33",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) fails to produce a decent enough free kick for a player of his ability and the only target that he finds is the wall of defenders in front of him."
+        },
+        {
+            "gameTime": "2 - 08:52",
+            "label": "",
+            "description": "Jose Luis Gonzalez blows his whistle after Stephane Mbia (Sevilla) kicks an opponent's legs instead of the ball. That's a free kick to Real Madrid."
+        },
+        {
+            "gameTime": "2 - 08:07",
+            "label": "",
+            "description": "Jose Antonio Reyes (Sevilla) gets the ball from a rebound and shoots from long range, but sends the ball high over the crossbar. The goalkeeper doesn't have to worry about this one. Very poor attempt."
+        },
+        {
+            "gameTime": "2 - 06:45",
+            "label": "",
+            "description": "Stephane Mbia (Sevilla) is penalised for a foul. Jose Luis Gonzalez had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 06:34",
+            "label": "corner",
+            "description": "Jose Antonio Reyes (Sevilla) prepares to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 06:05",
+            "label": "",
+            "description": "Jose Antonio Reyes (Sevilla) shoots from outside the box, but his effort is blocked. The ball goes out of play. Sevilla are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 05:34",
+            "label": "y-card",
+            "description": "Daniel Carvajal (Real Madrid) is awarded a yellow card. The referee showed him no mercy."
+        },
+        {
+            "gameTime": "2 - 04:44",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) collects a pass and has an effort from 22 metres out, but it flies just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 03:36",
+            "label": "",
+            "description": "Jose Antonio Reyes (Sevilla) rises above the defence to meet a cross from the corner. His timing is good, but he directs his header just a few inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 03:23",
+            "label": "corner",
+            "description": "Jose Antonio Reyes (Sevilla) will try to find the head of one of his teammates from a corner kick."
+        },
+        {
+            "gameTime": "2 - 03:00",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Grzegorz Krychowiak (Sevilla), is intercepted by the opposition's defence. The referee and his assistant both point at the corner flag. Sevilla will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 02:16",
+            "label": "corner",
+            "description": "Ever Banega (Sevilla) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear."
+        },
+        {
+            "gameTime": "2 - 02:01",
+            "label": "",
+            "description": "Aleix Vidal (Sevilla) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence. The ball goes out for a corner. Sevilla can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 01:20",
+            "label": "corner",
+            "description": "Jose Antonio Reyes (Sevilla) takes a short corner kick."
+        },
+        {
+            "gameTime": "2 - 01:02",
+            "label": "",
+            "description": "Carlos Bacca (Sevilla) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Sevilla will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "The opening 45 minutes weren't very eventful and the game could be described as an average one. The visiting team dominated the first half in most aspects of the game, but the hosts will surely attempt to turn the situation in their favour. The home team tries to find the weakness in the opposition's defence, especially with rapid counter attacks, while the away team play possession football."
+        },
+        {
+            "gameTime": "1 - 46:50",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 46:15",
+            "label": "soccer-ball",
+            "description": "Carlos Bacca (Sevilla) leaves the keeper helpless with his precise penalty shot inside the right post."
+        },
+        {
+            "gameTime": "1 - 45:58",
+            "label": "y-card",
+            "description": "Yellow card! It's like Sergio Ramos (Real Madrid) was asking for a caution with his behaviour. Jose Luis Gonzalez agrees and books him."
+        },
+        {
+            "gameTime": "1 - 45:57",
+            "label": "penalty",
+            "description": "Jose Luis Gonzalez blows his whistle after Sergio Ramos (Real Madrid) brings one of his opponents down with a strong tackle. The referee makes a call and blows his whistle for an infringement. Sevilla are awarded a penalty."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 44:49",
+            "label": "",
+            "description": "Ever Banega (Sevilla) takes a short free kick."
+        },
+        {
+            "gameTime": "1 - 43:58",
+            "label": "",
+            "description": "Sergio Ramos (Real Madrid) makes an overly aggressive challenge and Jose Luis Gonzalez blows his whistle for a foul. Sevilla have a free kick."
+        },
+        {
+            "gameTime": "1 - 42:25",
+            "label": "",
+            "description": "Jose Antonio Reyes (Sevilla) should know this behaviour is beyond the rules. He was too careless with his challenge and left Jose Luis Gonzalez no option but to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 40:01",
+            "label": "",
+            "description": "Stephane Mbia (Sevilla) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar."
+        },
+        {
+            "gameTime": "1 - 36:20",
+            "label": "soccer-ball",
+            "description": "Goal! Chicharito gets to the ball and heads it over the defence to Cristiano Ronaldo (Real Madrid), who meets it nicely and fires in into the back of the net. 0:2."
+        },
+        {
+            "gameTime": "1 - 35:58",
+            "label": "",
+            "description": "Real Madrid players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence."
+        },
+        {
+            "gameTime": "1 - 35:44",
+            "label": "soccer-ball",
+            "description": "Goal! Isco clips a neat ball into the box in the direction of Cristiano Ronaldo (Real Madrid), who jumps highest and steers a bullet header from the centre of the box into the middle of the net. Sergio Rico had no chance of stopping that. 0:1."
+        },
+        {
+            "gameTime": "1 - 34:16",
+            "label": "",
+            "description": "Jose Luis Gonzalez couldn't ignore the rough tackle by Raphael Varane (Real Madrid) and blew his whistle."
+        },
+        {
+            "gameTime": "1 - 33:30",
+            "label": "",
+            "description": "Grzegorz Krychowiak (Sevilla) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "1 - 32:55",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "gameTime": "1 - 32:07",
+            "label": "",
+            "description": "Marcelo (Real Madrid) crosses the ball forward but it is intercepted."
+        },
+        {
+            "gameTime": "1 - 31:23",
+            "label": "",
+            "description": "Aleix Vidal (Sevilla) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety."
+        },
+        {
+            "gameTime": "1 - 29:58",
+            "label": "injury",
+            "description": "Grzegorz Krychowiak (Sevilla) picks up an injury."
+        },
+        {
+            "gameTime": "1 - 29:18",
+            "label": "",
+            "description": "Grzegorz Krychowiak (Sevilla) makes a reckless foul in order to win the ball from his opponent. Jose Luis Gonzalez has a clear sight of it and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 27:24",
+            "label": "",
+            "description": "Chicharito (Real Madrid) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger."
+        },
+        {
+            "gameTime": "1 - 26:51",
+            "label": "",
+            "description": "Carlos Bacca (Sevilla) is forced to stop his attacking move after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 24:30",
+            "label": "",
+            "description": "Isco (Real Madrid) blasts the ball from just outside the box, but his attempt is blocked by the defender."
+        },
+        {
+            "gameTime": "1 - 23:44",
+            "label": "",
+            "description": "Aleix Vidal (Sevilla) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 21:49",
+            "label": "",
+            "description": "Ever Banega (Sevilla) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it."
+        },
+        {
+            "gameTime": "1 - 21:29",
+            "label": "",
+            "description": "Chicharito (Real Madrid) tries to pass the ball into the penalty area but it's blocked."
+        },
+        {
+            "gameTime": "1 - 21:05",
+            "label": "",
+            "description": "Carlos Bacca (Sevilla) dribbles into the box, but Iker Casillas is quick enough to come off his line and stop him."
+        },
+        {
+            "gameTime": "1 - 20:17",
+            "label": "",
+            "description": "Chicharito (Real Madrid) starts his run too early and the referee blows for offside."
+        },
+        {
+            "gameTime": "1 - 19:56",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 19:14",
+            "label": "",
+            "description": "Marcelo (Real Madrid) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "1 - 16:56",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) pulls the jersey of one of the opposition players and Jose Luis Gonzalez blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 15:46",
+            "label": "",
+            "description": "Ever Banega (Sevilla) hammers the ball from far out, but his shot is blocked by an opposition player."
+        },
+        {
+            "gameTime": "1 - 14:50",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 13:52",
+            "label": "",
+            "description": "Aleix Vidal (Sevilla) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 12:09",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "1 - 11:47",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) passes the ball into the box but an opposing player clears. The ball is out of play. A goal scoring opportunity from a corner for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 08:57",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Sergio Rico was alert and made an amazing save!"
+        },
+        {
+            "gameTime": "1 - 06:33",
+            "label": "",
+            "description": "What a poor attempt! Cristiano Ronaldo (Real Madrid) drives another shot towards goal this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands."
+        },
+        {
+            "gameTime": "1 - 04:12",
+            "label": "",
+            "description": "Aleix Vidal (Sevilla) is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 03:58",
+            "label": "",
+            "description": "Carlos Bacca (Sevilla) makes a rough challenge and Jose Luis Gonzalez blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 02:01",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) attempts to threaten the keeper from a long range free kick, but his breathtaking effort flies just inches over the crossbar. It could have been a beautiful goal!"
+        },
+        {
+            "gameTime": "1 - 01:01",
+            "label": "",
+            "description": "Jose Luis Gonzalez blows for a foul after Grzegorz Krychowiak (Sevilla) was too aggressive in the battle for the ball. Real Madrid have been awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 00:36",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Ever Banega (Sevilla)."
+        },
+        {
+            "gameTime": "1 - 00:13",
+            "label": "",
+            "description": "Jose Antonio Reyes (Sevilla) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. The referee signals a corner kick to Sevilla."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sevilla will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Jose Luis Gonzalez."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The away side dominated this game. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks, while the away team played possession football."
+        }
+    ],
+    "gameAwayTeam": "Real Madrid",
+    "gameDate": "02/05/2015 - 21:00",
+    "gameHomeTeam": "Sevilla",
+    "gameScore": "2 - 3"
+}

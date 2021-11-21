@@ -1,0 +1,405 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2016-2017/2016-12-14 - 22-45 Middlesbrough 0 - 3 Liverpool/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "The game produced by the players today wasn't one of the most inspiring. They definitely haven't shown us their best. The superiority of the away team was evident on the pitch today. The home players attempted to beat the opposition's defence using mostly counter attacks. The away team tried to prevail using combination football."
+        },
+        {
+            "gameTime": "2 - 48:03",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 47:14",
+            "label": "injury",
+            "description": "Calum Chambers (Middlesbrough) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "2 - 45:49",
+            "label": "substitution",
+            "description": "Jurgen Klopp is forced to make a change. Divock Origi is not able to carry on due to injury. He is replaced by Trent Alexander Arnold (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:40",
+            "label": "injury",
+            "description": "Divock Origi (Liverpool) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 42:14",
+            "label": "",
+            "description": "Jordan Henderson (Liverpool) unleashes a first time effort from long range, but it's blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 42:08",
+            "label": "",
+            "description": "A poorly taken free kick by Roberto Firmino (Liverpool)! He sends a shot from the edge of the box into the defensive wall."
+        },
+        {
+            "gameTime": "2 - 41:25",
+            "label": "substitution",
+            "description": "Substitution. Oviemuno Ejaria (Liverpool) has come on for Georginio Wijnaldum."
+        },
+        {
+            "gameTime": "2 - 40:59",
+            "label": "",
+            "description": "Jonathan Moss blows for a foul after Antonio Barragan (Middlesbrough) was too aggressive in the battle for the ball. Liverpool earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "2 - 39:47",
+            "label": "corner",
+            "description": "Stewart Downing (Middlesbrough) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort."
+        },
+        {
+            "gameTime": "2 - 38:58",
+            "label": "",
+            "description": "Adama Traore (Middlesbrough) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. The referee blows his whistle, Middlesbrough are awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 36:46",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Adam Lallana leaves the pitch and Lucas Leiva (Liverpool) comes on."
+        },
+        {
+            "gameTime": "2 - 36:25",
+            "label": "",
+            "description": "Adam Forshaw (Middlesbrough) receives a pass and tries his luck with a long range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the left post."
+        },
+        {
+            "gameTime": "2 - 35:04",
+            "label": "",
+            "description": "James Milner (Liverpool) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 33:39",
+            "label": "",
+            "description": "Antonio Barragan (Middlesbrough) was too forceful with his tackle and Jonathan Moss interrupted the game to signal a free kick."
+        },
+        {
+            "gameTime": "2 - 31:58",
+            "label": "substitution",
+            "description": "The referee signals a substitution. Jordan Rhodes (Middlesbrough) is brought on as a substitute for Alvaro Negredo."
+        },
+        {
+            "gameTime": "2 - 29:14",
+            "label": "funfact",
+            "description": "The ratio of the ball possession is 36:64."
+        },
+        {
+            "gameTime": "2 - 27:00",
+            "label": "",
+            "description": "Flag up against Stewart Downing (Middlesbrough). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 23:55",
+            "label": "y-card",
+            "description": "Benjamin Gibson (Middlesbrough) sees a yellow card from Jonathan Moss after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 22:50",
+            "label": "soccer-ball",
+            "description": "Goal! Divock Origi provides Adam Lallana (Liverpool) with a nice pass inside the box. It allows him to finish with a precise effort inside the left post. 0:3."
+        },
+        {
+            "gameTime": "2 - 22:00",
+            "label": "",
+            "description": "Liverpool control the tempo of the game by exchanging some accurate short passes."
+        },
+        {
+            "gameTime": "2 - 19:58",
+            "label": "",
+            "description": "Marten de Roon (Middlesbrough) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "gameTime": "2 - 16:54",
+            "label": "",
+            "description": "A lofted cross from James Milner (Liverpool) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "2 - 14:50",
+            "label": "soccer-ball",
+            "description": "Adam Lallana provides Divock Origi (Liverpool) with a nice pass inside the box. It allows him to finish with a low shot into the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 13:31",
+            "label": "funfact",
+            "description": "Let's have a look at the offside statistics \u2013 1:4."
+        },
+        {
+            "gameTime": "2 - 12:57",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 11:44",
+            "label": "",
+            "description": "Fabio (Middlesbrough) fizzes over a cross which doesn't cause any problems."
+        },
+        {
+            "gameTime": "2 - 10:31",
+            "label": "substitution",
+            "description": "Aitor Karanka de la Hoz has decided to substitute Adam Clayton and he is replaced by Grant Leadbitter (Middlesbrough)."
+        },
+        {
+            "gameTime": "2 - 10:16",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Viktor Fischer departs the field of play to be replaced by Stewart Downing (Middlesbrough)."
+        },
+        {
+            "gameTime": "2 - 09:25",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) receives a sweet pass inside the box, but his effort on goal is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 08:40",
+            "label": "",
+            "description": "Divock Origi (Liverpool) forces a pass into the box, but Victor Valdes is alert and does a great job to rob him of the ball."
+        },
+        {
+            "gameTime": "2 - 07:25",
+            "label": "",
+            "description": "Jonathan Moss has a clear sight and sees a foul from Nathaniel Clyne (Liverpool)."
+        },
+        {
+            "gameTime": "2 - 06:10",
+            "label": "",
+            "description": "Divock Origi (Liverpool) fails to pick a body out in the box with an over hit chip pass. The ball goes out of play and Middlesbrough will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 05:47",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from Liverpool."
+        },
+        {
+            "gameTime": "2 - 03:56",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) missed a great opportunity! He finds himself some space near the penalty spot and plants a header goalwards which lacks both power and accuracy. The ball goes well wide of the right post!"
+        },
+        {
+            "gameTime": "2 - 01:54",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 01:00",
+            "label": "",
+            "description": "Victor Valdes pulls off a great save to deny Sadio Mane (Liverpool) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 00:40",
+            "label": "corner",
+            "description": "James Milner (Liverpool) launches a cross from the corner, but Victor Valdes is alert to thwart the effort."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. The visitors were superior in their performance through the first half. They were more active and precise. The home team tries to find the weakness in the opposition's defence, especially with rapid counter attacks, while the away team play possession football."
+        },
+        {
+            "gameTime": "1 - 45:31",
+            "label": "whistle",
+            "description": "The end of the first half."
+        },
+        {
+            "gameTime": "1 - 44:50",
+            "label": "",
+            "description": "Good movement by James Milner (Liverpool), but he can't find any of his teammates as the cross is poor."
+        },
+        {
+            "gameTime": "1 - 42:22",
+            "label": "",
+            "description": "Divock Origi (Liverpool) blows a clear opportunity! He needed only to tap the ball in, but narrowly misses the goal."
+        },
+        {
+            "gameTime": "1 - 42:18",
+            "label": "",
+            "description": "What a chance that is! Sadio Mane (Liverpool) wastes a huge opportunity as he receives a beautiful pass inside the box but is somehow only able to prod the ball onto the right post!"
+        },
+        {
+            "gameTime": "1 - 39:37",
+            "label": "corner",
+            "description": "The corner from Adam Forshaw (Middlesbrough) is intercepted by Simon Mignolet."
+        },
+        {
+            "gameTime": "1 - 38:20",
+            "label": "",
+            "description": "This shall not pass! Adam Forshaw (Middlesbrough) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The ball is out of play. A goal scoring opportunity from a corner for Middlesbrough."
+        },
+        {
+            "gameTime": "1 - 35:48",
+            "label": "",
+            "description": "The foul by Divock Origi (Liverpool) was seen by Jonathan Moss who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 34:32",
+            "label": "",
+            "description": "Adam Clayton (Middlesbrough) strikes a powerful volley towards goal, but one of the defenders blocks his attempt."
+        },
+        {
+            "gameTime": "1 - 34:12",
+            "label": "",
+            "description": "Adam Forshaw (Middlesbrough) puts a cross into the box from the free kick, but the defender gets there first."
+        },
+        {
+            "gameTime": "1 - 33:33",
+            "label": "",
+            "description": "Roberto Firmino (Liverpool) makes a rough challenge and Jonathan Moss blows his whistle for a foul. That's a free kick to Middlesbrough."
+        },
+        {
+            "gameTime": "1 - 31:14",
+            "label": "corner",
+            "description": "Adam Forshaw (Middlesbrough) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 30:41",
+            "label": "",
+            "description": "Viktor Fischer (Middlesbrough) receives a precise pass and is given time inside the box to send a promising strike towards the right post. Simon Mignolet guesses his intention and denies him with a fine save. The linesman makes the right call and Middlesbrough will have a corner."
+        },
+        {
+            "gameTime": "1 - 30:17",
+            "label": "corner",
+            "description": "Adam Forshaw (Middlesbrough) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat."
+        },
+        {
+            "gameTime": "1 - 28:52",
+            "label": "soccer-ball",
+            "description": "Nathaniel Clyne produces a beautiful lofted cross into the box, where Adam Lallana (Liverpool) rises high to head the ball into the left side of the goal and beyond the goalkeeper. He makes it 0:1."
+        },
+        {
+            "gameTime": "1 - 27:00",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) plays a one two with Roberto Firmino, but the move breaks down."
+        },
+        {
+            "gameTime": "1 - 24:14",
+            "label": "",
+            "description": "Adam Lallana (Liverpool) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 22:23",
+            "label": "",
+            "description": "Benjamin Gibson (Middlesbrough) leaps highest around the penalty spot to meet a cross from the free kick and produces a promising goal bound header towards the middle of the net, but Simon Mignolet denies him."
+        },
+        {
+            "gameTime": "1 - 21:58",
+            "label": "",
+            "description": "James Milner (Liverpool) makes a reckless foul in order to win the ball from his opponent. Jonathan Moss has a clear sight of it and blows his whistle. Middlesbrough have been awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 19:59",
+            "label": "",
+            "description": "Ragnar Klavan (Liverpool) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation."
+        },
+        {
+            "gameTime": "1 - 17:50",
+            "label": "",
+            "description": "Adam Forshaw (Middlesbrough) connects with a pass but sees his shot from the edge of the box blocked."
+        },
+        {
+            "gameTime": "1 - 15:51",
+            "label": "",
+            "description": "Divock Origi (Liverpool) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 14:00",
+            "label": "",
+            "description": "It looks like Marten de Roon (Middlesbrough) saw red with that tackle. Jonathan Moss won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "gameTime": "1 - 10:55",
+            "label": "",
+            "description": "It's a throw in for Middlesbrough."
+        },
+        {
+            "gameTime": "1 - 07:50",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Fabio (Middlesbrough)."
+        },
+        {
+            "gameTime": "1 - 05:31",
+            "label": "",
+            "description": "Sadio Mane (Liverpool) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar."
+        },
+        {
+            "gameTime": "1 - 05:18",
+            "label": "corner",
+            "description": "Jordan Henderson (Liverpool) will deliver the corner kick."
+        },
+        {
+            "gameTime": "1 - 04:44",
+            "label": "",
+            "description": "Georginio Wijnaldum (Liverpool) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. Liverpool force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 02:45",
+            "label": "corner",
+            "description": "Viktor Fischer (Middlesbrough) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 02:23",
+            "label": "",
+            "description": "Adama Traore (Middlesbrough) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Good work from Middlesbrough as they win a corner."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Today's match has just started, enjoy the game!"
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Middlesbrough will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Jonathan Moss will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "8 The number of away wins for Liverpool."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sadio Mane has already scored 7 goals and he is the top goal scorer for Liverpool in the competition."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Benjamin Gibson from Middlesbrough has already played 1350 minutes this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The game produced by the players today wasn't one of the most inspiring. They definitely haven't shown us their best. The superiority of the away team was evident on the pitch today. The home players attempted to beat the opposition's defence using mostly counter attacks. The away team tried to prevail using combination football."
+        }
+    ],
+    "gameAwayTeam": "Liverpool",
+    "gameDate": "14/12/2016 - 22:45",
+    "gameHomeTeam": "Middlesbrough",
+    "gameScore": "0 - 3"
+}

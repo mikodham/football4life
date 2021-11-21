@@ -1,0 +1,390 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 45:59",
+            "label": "",
+            "description": "The fans could demand a bit more entertainment for their money. This game was average. The Bayern Munich fans must be pleased with the performance of their team. They were absolutely the better of the two sides. The hosts tried to catch the opposition off guard and hit them on the break. The visiting side kept the ball at their feet and the main intention was to produce that final killer pass."
+        },
+        {
+            "gameTime": "2 - 45:57",
+            "label": "whistle",
+            "description": "That's the end of the match."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "1 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 43:01",
+            "label": "",
+            "description": "The game is interrupted as David Alaba (Bayern Munich) is flagged offside."
+        },
+        {
+            "gameTime": "2 - 42:18",
+            "label": "",
+            "description": "Bayern Munich keep possession of the ball by producing short passes and one two passes from player to player."
+        },
+        {
+            "gameTime": "2 - 38:10",
+            "label": "substitution",
+            "description": "Substitution. Javi Martinez (Bayern Munich) on for Robert Lewandowski."
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "substitution",
+            "description": "Pal Dardai has decided to substitute Tolga Cigerci and he is replaced by Florian Kohls (Hertha Berlin)."
+        },
+        {
+            "gameTime": "2 - 36:42",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off."
+        },
+        {
+            "gameTime": "2 - 34:00",
+            "label": "soccer-ball",
+            "description": "What a beautiful moment! Douglas Costa (Bayern Munich) got to the ball and unleashed a strong shot from distance. It turned out to be a good decision as his effort found its way into the top left corner. Thomas Kraft just shakes his head in disbelief. The score changes to 0:2."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "y-card",
+            "description": "Thiago Alcantara (Bayern Munich) is booked after bringing down an opponent. Marco Fritz had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 29:01",
+            "label": "",
+            "description": "Tolga Cigerci (Hertha Berlin) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "gameTime": "2 - 27:36",
+            "label": "corner",
+            "description": "Bayern Munich take a short corner instead of sending the ball into the penalty area."
+        },
+        {
+            "gameTime": "2 - 26:59",
+            "label": "",
+            "description": "Thomas Kraft can hear the fans clapping for his superb goalkeeping after he magnificently stops the close range effort from Robert Lewandowski (Bayern Munich). The ball would have probably ended up low inside the middle of the net. Bayern Munich get a corner."
+        },
+        {
+            "gameTime": "2 - 26:09",
+            "label": "",
+            "description": "Joshua Kimmich (Bayern Munich) sends a pass into the box, but his attempt is thwarted and cleared."
+        },
+        {
+            "gameTime": "2 - 25:01",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 23:10",
+            "label": "injury",
+            "description": "Looks like Douglas Costa (Bayern Munich) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "2 - 23:01",
+            "label": "",
+            "description": "A pass from Marvin Plattenhardt (Hertha Berlin) is intercepted by Manuel Neuer and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 22:25",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) is penalised for holding. Marco Fritz signals a set piece."
+        },
+        {
+            "gameTime": "2 - 20:11",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) is penalised for a foul. Marco Fritz had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "2 - 18:45",
+            "label": "substitution",
+            "description": "Pal Dardai decides to make a substitution. Valentin Stocker will be replaced by Salomon Kalou (Hertha Berlin)."
+        },
+        {
+            "gameTime": "2 - 17:46",
+            "label": "",
+            "description": "Maximilian Mittelstadt (Hertha Berlin) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "2 - 16:00",
+            "label": "injury",
+            "description": "Maximilian Mittelstadt (Hertha Berlin) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "2 - 14:28",
+            "label": "",
+            "description": "Bayern Munich are playing possession football and controlling the game at present. They are exchanging inch perfect passes from player to player, making it difficult for the opposition to win the ball."
+        },
+        {
+            "gameTime": "2 - 11:32",
+            "label": "substitution",
+            "description": "Pep Guardiola has decided to introduce fresh legs, with Franck Ribery (Bayern Munich) replacing Thomas Muller."
+        },
+        {
+            "gameTime": "2 - 11:26",
+            "label": "substitution",
+            "description": "Substitution. David Alaba (Bayern Munich) receives a signal from the referee and is now allowed to enter the pitch as Rafinha walks off."
+        },
+        {
+            "gameTime": "2 - 11:01",
+            "label": "",
+            "description": "Flag up against Robert Lewandowski (Bayern Munich). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "2 - 10:14",
+            "label": "",
+            "description": "Peter Pekarik (Hertha Berlin) tries to create a chance, but puts too much weight on his pass."
+        },
+        {
+            "gameTime": "2 - 08:08",
+            "label": "",
+            "description": "A pass from Valentin Stocker (Hertha Berlin) is intercepted by Manuel Neuer and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 06:57",
+            "label": "y-card",
+            "description": "Arturo Vidal (Bayern Munich) has tested the patience of referee Marco Fritz and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "2 - 06:00",
+            "label": "",
+            "description": "One of the Bayern Munich players was holding his opponent and the referee doesn't hesitate to blow his whistle."
+        },
+        {
+            "gameTime": "2 - 02:30",
+            "label": "soccer-ball",
+            "description": "Goal! Arturo Vidal (Bayern Munich) collected a pass and decided to try his luck from distance. The shot was deflected and it was enough to turn the ball past helpless Thomas Kraft. 0:1."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "There will be a change on the pitch for the second half. Pal Dardai probably wasn't satisfied with the performance of Vedad Ibisevic. He is replaced by Julian Schieber (Hertha Berlin)."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Referee Marco Fritz blows his whistle to start the second half."
+        },
+        {
+            "gameTime": "1 - 44:59",
+            "label": "",
+            "description": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. Even first half from both sides, and they've both had chances. The home side relies mostly on counter attacks for their chances, while the away team adopts the opposite approach of possession football."
+        },
+        {
+            "gameTime": "1 - 44:58",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 44:19",
+            "label": "",
+            "description": "A player from Hertha Berlin commits a rough challenge. Marco Fritz blows for a foul and keeps the game under control."
+        },
+        {
+            "gameTime": "1 - 41:43",
+            "label": "",
+            "description": "A pass by Peter Pekarik (Hertha Berlin) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 40:41",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Thomas Muller (Bayern Munich) was quite harsh and Marco Fritz didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "1 - 40:01",
+            "label": "",
+            "description": "Mitchell Weiser (Hertha Berlin) tries to send a low pass into the box, but it's blocked and cleared."
+        },
+        {
+            "gameTime": "1 - 39:33",
+            "label": "",
+            "description": "Mario Gotze (Bayern Munich) should know this behaviour is beyond the rules. He was too careless with his challenge and left Marco Fritz no option but to blow his whistle."
+        },
+        {
+            "gameTime": "1 - 37:42",
+            "label": "",
+            "description": "The linesman raises his flag as one of the players from Hertha Berlin was in an offside position."
+        },
+        {
+            "gameTime": "1 - 36:32",
+            "label": "y-card",
+            "description": "Rafinha (Bayern Munich) makes a bad challenge on his opponent and is booked by the referee."
+        },
+        {
+            "gameTime": "1 - 36:01",
+            "label": "",
+            "description": "Marco Fritz couldn't ignore the rough tackle by Robert Lewandowski (Bayern Munich) and blew his whistle."
+        },
+        {
+            "gameTime": "1 - 35:02",
+            "label": "",
+            "description": "Bayern Munich are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players."
+        },
+        {
+            "gameTime": "1 - 33:15",
+            "label": "",
+            "description": "Tolga Cigerci (Hertha Berlin) fails to pick a body out in the box with an over hit cross to the back post."
+        },
+        {
+            "gameTime": "1 - 32:33",
+            "label": "",
+            "description": "Mitchell Weiser (Hertha Berlin) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "1 - 30:15",
+            "label": "",
+            "description": "Thomas Kraft reacts well to deny a long range free kick from Douglas Costa (Bayern Munich) towards the middle of the goal."
+        },
+        {
+            "gameTime": "1 - 29:31",
+            "label": "",
+            "description": "Valentin Stocker (Hertha Berlin) handles the ball and everyone in the stadium shouts 'handball'."
+        },
+        {
+            "gameTime": "1 - 27:36",
+            "label": "",
+            "description": "Marco Fritz blows his whistle as Vedad Ibisevic (Hertha Berlin) used excessive force in the tackle during an attack."
+        },
+        {
+            "gameTime": "1 - 26:01",
+            "label": "corner",
+            "description": "Marvin Plattenhardt (Hertha Berlin) whips in the corner, but one of the defending players gets a head on it and intercepts."
+        },
+        {
+            "gameTime": "1 - 25:53",
+            "label": "",
+            "description": "The free kick from long range, taken by Hertha Berlin, is intercepted by one of the defenders. The ball is out of play. Hertha Berlin win a corner kick."
+        },
+        {
+            "gameTime": "1 - 24:12",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "1 - 22:01",
+            "label": "corner",
+            "description": "Bayern Munich didn't take advantage of the corner and score as the opposition's defence was alert and averted the threat."
+        },
+        {
+            "gameTime": "1 - 21:33",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) gets on the end of a pass and produces a promising first time shot at goal. His effort is blocked by Thomas Kraft with a brilliant diving save! The referee points to the corner flag. It's a corner to Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 19:35",
+            "label": "",
+            "description": "What a goal scoring opportunity! Mitchell Weiser (Hertha Berlin) finds some space inside the box and fires a volley at goal, but the shot is amazingly blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 18:47",
+            "label": "",
+            "description": "Bayern Munich concede a free kick after one of their players holds onto an opposition player."
+        },
+        {
+            "gameTime": "1 - 15:31",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity."
+        },
+        {
+            "gameTime": "1 - 13:11",
+            "label": "",
+            "description": "Marvin Plattenhardt (Hertha Berlin) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 10:15",
+            "label": "",
+            "description": "Bayern Munich are ruled offside."
+        },
+        {
+            "gameTime": "1 - 09:22",
+            "label": "",
+            "description": "One of the players from Hertha Berlin times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 09:00",
+            "label": "corner",
+            "description": "A quickly taken corner by Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 08:45",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) races towards goal but the defender gets back well to make a challenge. Bayern Munich have a corner."
+        },
+        {
+            "gameTime": "1 - 08:17",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) goes on a mazy run and tries his luck with a mid range strike, but one of the defending players steps in and makes a block."
+        },
+        {
+            "gameTime": "1 - 07:01",
+            "label": "",
+            "description": "Marco Fritz has a clear sight and sees a foul from Thiago Alcantara (Bayern Munich)."
+        },
+        {
+            "gameTime": "1 - 06:01",
+            "label": "",
+            "description": "Mitchell Weiser (Hertha Berlin) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "1 - 05:13",
+            "label": "",
+            "description": "Tolga Cigerci (Hertha Berlin) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "gameTime": "1 - 04:03",
+            "label": "",
+            "description": "Tolga Cigerci (Hertha Berlin) strikes a powerful volley towards goal, but one of the defenders blocks his attempt."
+        },
+        {
+            "gameTime": "1 - 03:00",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Valentin Stocker (Hertha Berlin) heads on."
+        },
+        {
+            "gameTime": "1 - 02:53",
+            "label": "",
+            "description": "Tolga Cigerci (Hertha Berlin) floats the free kick into the box, but it's easily cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 01:51",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) escapes without any punishment from the referee after using excessive force to foul his opponent."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bayern Munich will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Marco Fritz."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups of both teams are already revealed and you can check them out in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans could demand a bit more entertainment for their money. This game was average. The Bayern Munich fans must be pleased with the performance of their team. They were absolutely the better of the two sides. The hosts tried to catch the opposition off guard and hit them on the break. The visiting side kept the ball at their feet and the main intention was to produce that final killer pass."
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "23/04/2016 - 16:30",
+    "gameHomeTeam": "Hertha Berlin",
+    "gameScore": "0 - 2"
+}

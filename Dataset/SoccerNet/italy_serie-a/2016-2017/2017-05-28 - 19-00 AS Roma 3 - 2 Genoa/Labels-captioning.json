@@ -1,0 +1,310 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 51:32",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 51:14",
+            "label": "corner",
+            "description": "Radja Nainggolan (AS Roma) works the corner short."
+        },
+        {
+            "gameTime": "2 - 49:50",
+            "label": "y-card",
+            "description": "Edin Dzeko (AS Roma) goes in the referee's notebook after being shown a yellow card."
+        },
+        {
+            "gameTime": "2 - 46:26",
+            "label": "y-card",
+            "description": "That's a clear yellow card. Diego Perotti (AS Roma) goes into the book."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "4 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:30",
+            "label": "soccer-ball",
+            "description": "Diego Perotti (AS Roma) receives a well taken defence splitting low pass inside the box and scores! His great effort makes its way into the bottom right corner of the net."
+        },
+        {
+            "gameTime": "2 - 44:15",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) is going to send the ball in from the free kick."
+        },
+        {
+            "gameTime": "2 - 40:55",
+            "label": "corner",
+            "description": "Miguel Veloso (Genoa) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "2 - 40:39",
+            "label": "",
+            "description": "Diego Laxalt (Genoa) tries to pass the ball into the penalty area but it's blocked. Corner kick. Genoa will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 39:43",
+            "label": "corner",
+            "description": "Francesco Totti (AS Roma) is heading toward the corner flag to take the set piece."
+        },
+        {
+            "gameTime": "2 - 39:29",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Radja Nainggolan (AS Roma), is intercepted by the opposition's defence. The ball goes behind for a corner. AS Roma will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 36:48",
+            "label": "",
+            "description": "Darko Lazovic (Genoa) latches on to a precise pass and finds himself one on one with the keeper. He fires a low shot towards the right side of the net, but Wojciech Szczesny leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "2 - 33:29",
+            "label": "soccer-ball",
+            "description": "It's a goal! Darko Lazovic (Genoa) gets on the end of a pass and it allows him to finish into an empty net with a close range header. The score has changed to 2:2."
+        },
+        {
+            "gameTime": "2 - 28:40",
+            "label": "soccer-ball",
+            "description": "Goal 2:1! Edin Dzeko laid the ball off to Daniele De Rossi (AS Roma), who shot from close range into the bottom right corner, leaving the goalkeeper helpless."
+        },
+        {
+            "gameTime": "2 - 26:26",
+            "label": "corner",
+            "description": "Francesco Totti (AS Roma) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 25:30",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) slaloms his way past challenges, but an opposing player does well to get the ball away. Now AS Roma have a corner."
+        },
+        {
+            "gameTime": "2 - 24:25",
+            "label": "corner",
+            "description": "Francesco Totti (AS Roma) goes over to take the corner kick and it looks like he will send the ball into the penalty box."
+        },
+        {
+            "gameTime": "2 - 23:13",
+            "label": "substitution",
+            "description": "Ivan Juric has decided to introduce fresh legs, with Olivier Ntcham (Genoa) replacing Pietro Pellegri."
+        },
+        {
+            "gameTime": "2 - 23:02",
+            "label": "substitution",
+            "description": "Substitution. Diego Perotti (AS Roma) on for Stephan El Shaarawy."
+        },
+        {
+            "gameTime": "2 - 22:09",
+            "label": "",
+            "description": "Eugenio Lamanna makes a superb save to deny a header which was nodded towards the top right corner by Stephan El Shaarawy (AS Roma) after a cross from the side. The ball is out of play and AS Roma manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 18:55",
+            "label": "",
+            "description": "Antonio Rudiger (AS Roma) tries to slide the ball through to a teammate but it's well blocked by a defender. It's a throw in for AS Roma."
+        },
+        {
+            "gameTime": "2 - 14:14",
+            "label": "",
+            "description": "Nikola Ninkovic (Genoa) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 10:50",
+            "label": "substitution",
+            "description": "Ivan Juric prepares a substitution. Oscar Hiljemark is replaced by Danilo Cataldi (Genoa)."
+        },
+        {
+            "gameTime": "2 - 09:24",
+            "label": "corner",
+            "description": "The corner from Francesco Totti (AS Roma) is hurriedly cleared."
+        },
+        {
+            "gameTime": "2 - 08:49",
+            "label": "substitution",
+            "description": "Here's the change. Mohamed Salah leaves the pitch and Francesco Totti (AS Roma) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 07:25",
+            "label": "corner",
+            "description": "Diego Laxalt (Genoa) takes the corner."
+        },
+        {
+            "gameTime": "2 - 04:44",
+            "label": "substitution",
+            "description": "Ivan Juric has decided to substitute Raffaele Palladino and he is replaced by Nikola Ninkovic (Genoa)."
+        },
+        {
+            "gameTime": "2 - 02:31",
+            "label": "",
+            "description": "Close! Edin Dzeko (AS Roma) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half gets underway."
+        },
+        {
+            "gameTime": "1 - 47:10",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 2 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:10",
+            "label": "",
+            "description": "A precise low pass is received by Radja Nainggolan (AS Roma), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 41:55",
+            "label": "",
+            "description": "The goalkeeper is not tested by the free kick from the edge of the box by Stephan El Shaarawy (AS Roma) as his effort only hit the wall."
+        },
+        {
+            "gameTime": "1 - 41:51",
+            "label": "corner",
+            "description": "Daniele De Rossi (AS Roma) will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 41:34",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) connects with a pass but sees his shot from the edge of the box blocked. The referee points to the corner flag. It's a corner to AS Roma."
+        },
+        {
+            "gameTime": "1 - 40:25",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Eugenio Lamanna pulls off an easy save."
+        },
+        {
+            "gameTime": "1 - 39:43",
+            "label": "",
+            "description": "What a big chance! Edin Dzeko (AS Roma) picks up an inch perfect pass inside the box and fires the ball a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 39:12",
+            "label": "",
+            "description": "That's unlucky! Kevin Strootman (AS Roma) beautifully controls a pass and from the edge of the box drills a shot in on goal, but it's inadvertently blocked by a defender and cleared."
+        },
+        {
+            "gameTime": "1 - 37:44",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) climbs high to connect with a cross near the penalty spot but plants a header well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 36:20",
+            "label": "",
+            "description": "A precise low pass is received by Darko Lazovic (Genoa), who makes a yard for himself on the edge of the box, but his poorly placed shot sails well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 29:16",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) sends a pass into the penalty area, but the opponent manages to cut it out."
+        },
+        {
+            "gameTime": "1 - 25:45",
+            "label": "",
+            "description": "Flag goes up against Stephan El Shaarawy (AS Roma) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 20:14",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 19:52",
+            "label": "",
+            "description": "The linesman raises his flag. Mohamed Salah (AS Roma) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 18:45",
+            "label": "",
+            "description": "Eugenio Lamanna was forced into action to thwart Edin Dzeko (AS Roma). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper."
+        },
+        {
+            "gameTime": "1 - 17:05",
+            "label": "substitution",
+            "description": "Problems for Luciano Spalletti as Emerson is not able to play anymore. His injury is too serious and Mario Rui (AS Roma) replaces him."
+        },
+        {
+            "gameTime": "1 - 12:10",
+            "label": "injury",
+            "description": "Emerson (AS Roma) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 09:50",
+            "label": "soccer-ball",
+            "description": "Goal 1:1! Edin Dzeko (AS Roma) taps home from close range after the rebound fell kindly into his path."
+        },
+        {
+            "gameTime": "1 - 09:30",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) attempts to test the goalkeeper after collecting a cross inside the penalty area. Luck doesn't appear to be on his side today as his attempt rattles the left post."
+        },
+        {
+            "gameTime": "1 - 06:49",
+            "label": "",
+            "description": "Daniele De Rossi (AS Roma) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "gameTime": "1 - 05:30",
+            "label": "",
+            "description": "Diego Laxalt (Genoa) handles the ball and everyone in the stadium shouts 'handball'. AS Roma get a free kick."
+        },
+        {
+            "gameTime": "1 - 02:27",
+            "label": "soccer-ball",
+            "description": "An amazing individual effort from Pietro Pellegri (Genoa) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom left corner and makes it 0:1. Wojciech Szczesny was helpless."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "AS Roma will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Paolo Tagliavento will referee today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Before the start of the game, you can see the starting lineups for today's clash."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There is an average of 2.2 goals per game between these two sides over the last 5 games."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Edin Dzeko have rippled the net 28x and is the top scorer for AS Roma this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        }
+    ],
+    "gameAwayTeam": "Genoa",
+    "gameDate": "28/05/2017 - 19:00",
+    "gameHomeTeam": "AS Roma",
+    "gameScore": "3 - 2"
+}

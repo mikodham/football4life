@@ -1,0 +1,515 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:10",
+            "label": "",
+            "description": "The fans can't complain about what they saw on the pitch as both sides displayed a highly captivating football match. Neither of the teams could take the initiative and dominate today's game. Long balls and crosses were the main weapons of the home team, while the away team played possession football."
+        },
+        {
+            "gameTime": "2 - 49:09",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 49:00",
+            "label": "",
+            "description": "Cheikhou Kouyate (West Ham) shows good awareness inside the box as he latches on to a cross from the set piece. He jumps high but his towering header lacks a little bit of accuracy and crashes against the crossbar."
+        },
+        {
+            "gameTime": "2 - 48:47",
+            "label": "y-card",
+            "description": "Fernando (Manchester City) receives a yellow card for a nasty tackle."
+        },
+        {
+            "gameTime": "2 - 48:04",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Adrian was alert and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 47:46",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "2 - 46:37",
+            "label": "injury",
+            "description": "Dimitri Payet (West Ham) picks up an injury."
+        },
+        {
+            "gameTime": "2 - 46:26",
+            "label": "",
+            "description": "Manchester City concede a free kick following a bad challenge."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:53",
+            "label": "",
+            "description": "Mark Noble (West Ham) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "gameTime": "2 - 44:00",
+            "label": "y-card",
+            "description": "Yaya Toure (Manchester City) commits a foul and is shown a yellow card without any hesitation from the referee."
+        },
+        {
+            "gameTime": "2 - 43:35",
+            "label": "corner",
+            "description": "Dimitri Payet (West Ham) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "2 - 42:41",
+            "label": "corner",
+            "description": "The corner from Dimitri Payet (West Ham) is cleared away by the defence. West Ham have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 42:24",
+            "label": "",
+            "description": "A lofted cross from Mark Noble (West Ham) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. Now West Ham have a corner."
+        },
+        {
+            "gameTime": "2 - 41:44",
+            "label": "substitution",
+            "description": "Here is a change. Enner Valencia is going off and Slaven Bilic gives the last tactical orders to Nikica Jelavic (West Ham)."
+        },
+        {
+            "gameTime": "2 - 40:42",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) gets in a good position to shoot just outside the box after a nice pass, but his effort is unintentionally blocked by one of his teammate."
+        },
+        {
+            "gameTime": "2 - 39:13",
+            "label": "attendance",
+            "description": "The attendance for today's match is 34977."
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "substitution",
+            "description": "David Silva comes off the pitch to be replaced by Fernando (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 35:56",
+            "label": "soccer-ball",
+            "description": "Goal! Sergio Aguero (Manchester City) picks up the ball from a rebound and from the edge of the box he unleashes a shot into the middle of the net. Adrian is unable to keep the ball out of the net. It's 2:2."
+        },
+        {
+            "gameTime": "2 - 33:41",
+            "label": "",
+            "description": "Victor Moses (West Ham) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "gameTime": "2 - 32:48",
+            "label": "",
+            "description": "A pass from Raheem Sterling (Manchester City) is intercepted by Adrian and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 32:20",
+            "label": "",
+            "description": "Kelechi Iheanacho (Manchester City) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 30:47",
+            "label": "substitution",
+            "description": "The substitution has been made. Kelechi Iheanacho (Manchester City) has replaced Fabian Delph."
+        },
+        {
+            "gameTime": "2 - 29:54",
+            "label": "",
+            "description": "Alex Song (West Ham) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 28:02",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) breaks past challenges inside the box, but puts too much pace on his pass to Enner Valencia."
+        },
+        {
+            "gameTime": "2 - 26:16",
+            "label": "",
+            "description": "He should have done better. Sergio Aguero (Manchester City) is afforded space to connect with a Yaya Toure cross, but his header from the centre of the box flies well wide of the left post. The ball goes out of play and West Ham will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 25:19",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 24:35",
+            "label": "y-card",
+            "description": "Samuel Byram (West Ham) receives a yellow card from the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "2 - 23:38",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) is penalised for holding. Craig Pawson signals a set piece."
+        },
+        {
+            "gameTime": "2 - 22:00",
+            "label": "substitution",
+            "description": "Manuel Pellegrini prepares a substitution. Jesus Navas is replaced by Raheem Sterling (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 20:38",
+            "label": "",
+            "description": "David Silva (Manchester City) tries to find Jesus Navas, but he puts too much power on the pass."
+        },
+        {
+            "gameTime": "2 - 19:40",
+            "label": "",
+            "description": "Alex Song (West Ham) collects a wonderful lead pass and creates some space to smash the ball goalwards from long range. His shot goes painfully wide of the left post!"
+        },
+        {
+            "gameTime": "2 - 19:21",
+            "label": "substitution",
+            "description": "We are about to witness a substitution. Victor Moses (West Ham) is replacing Michail Antonio."
+        },
+        {
+            "gameTime": "2 - 18:37",
+            "label": "",
+            "description": "A pass by Cheikhou Kouyate (West Ham) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "2 - 17:07",
+            "label": "",
+            "description": "Manchester City keep possession of the ball by producing one two passes, but an opponent steps in and wins the ball."
+        },
+        {
+            "gameTime": "2 - 15:50",
+            "label": "",
+            "description": "The game is interrupted as Mark Noble (West Ham) is flagged offside."
+        },
+        {
+            "gameTime": "2 - 14:47",
+            "label": "",
+            "description": "Jesus Navas (Manchester City) latches on to a precise defence splitting pass and fires a nice strike from a promising distance towards the right post. Adrian has a clear sight of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "2 - 12:25",
+            "label": "",
+            "description": "One of the defending players blocks a long range shot which was unleashed by Gael Clichy (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 11:00",
+            "label": "soccer-ball",
+            "description": "Enner Valencia (West Ham) receives a well taken defence splitting pass inside the box and scores! He buries the ball into the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 09:28",
+            "label": "",
+            "description": "OFF THE POST! Fabian Delph (Manchester City) runs towards the goal to give his teammate support. He receives a fantastic pass and shoots from the edge of the box, but it crashes against the right post. It could have been a brilliant goal, unlucky."
+        },
+        {
+            "gameTime": "2 - 08:55",
+            "label": "",
+            "description": "Jesus Navas (Manchester City) sends a pass into the penalty area, but the opponent manages to cut it out. The referee and the linesman both signal a throw in for Manchester City."
+        },
+        {
+            "gameTime": "2 - 07:17",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) gets on the ball and beats an opponent, but his run is stopped by the referee Craig Pawson who sees an offensive foul."
+        },
+        {
+            "gameTime": "2 - 06:02",
+            "label": "",
+            "description": "Dimitri Payet swings the cross over. Michail Antonio (West Ham) gets his head to it but it goes just wide of the left post."
+        },
+        {
+            "gameTime": "2 - 05:24",
+            "label": "corner",
+            "description": "Dimitri Payet (West Ham) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+        },
+        {
+            "gameTime": "2 - 05:04",
+            "label": "",
+            "description": "Cheikhou Kouyate (West Ham) sends a cross into the box, but the opposition's defence clears the ball to safety. The ball is out of play and West Ham manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 04:42",
+            "label": "",
+            "description": "The foul by Kevin De Bruyne (Manchester City) was seen by Craig Pawson who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 03:13",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) delivers a fine ball into the box from a free kick. However, the opposition's defence make sure none of his teammates get a challenge in on the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 01:33",
+            "label": "",
+            "description": "A player from West Ham commits a rough challenge. Craig Pawson blows for a foul and keeps the game under control. Manchester City get a free kick."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Craig Pawson blows his whistle and the second half starts."
+        },
+        {
+            "gameTime": "1 - 48:25",
+            "label": "",
+            "description": "We can hope that the managers will be able to motivate the players and stir them to improve their performance for after the half time break. We haven't seen really exciting football in the previous 45 minutes. In terms of the overall play, the match has been fairly even so far. Both sides have adopted a tactic known as kick and rush football."
+        },
+        {
+            "gameTime": "1 - 48:24",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 46:35",
+            "label": "",
+            "description": "West Ham players are playing combination football and attempting to create a goal scoring opportunity, but they will have to wait for that as they have just lost possession due to a poor pass."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:38",
+            "label": "",
+            "description": "Aaron Cresswell (West Ham) sends in a lofted cross from a long range free kick in order to find one of his teammates. His poor effort, however, sails way out of play."
+        },
+        {
+            "gameTime": "1 - 43:18",
+            "label": "",
+            "description": "A player from Manchester City commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 42:30",
+            "label": "corner",
+            "description": "Dimitri Payet (West Ham) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "1 - 42:09",
+            "label": "",
+            "description": "Mark Noble (West Ham) fails to send a pass into the box as his effort is cut out. The ball is out of play. West Ham win a corner kick."
+        },
+        {
+            "gameTime": "1 - 40:09",
+            "label": "",
+            "description": "Aaron Cresswell (West Ham) attempted to pick out a free teammate inside the box, but Joe Hart comes off the line to clear the ball away. The ball is off of the pitch and it's a goal kick for Manchester City."
+        },
+        {
+            "gameTime": "1 - 39:00",
+            "label": "y-card",
+            "description": "Mark Noble (West Ham) is shown a yellow card by the referee for making a challenge on his opponent, but he looks angry with the decision."
+        },
+        {
+            "gameTime": "1 - 38:21",
+            "label": "",
+            "description": "Mark Noble (West Ham) makes a rough challenge and Craig Pawson blows his whistle for a foul. It's a free kick to Manchester City, but it's in no position for a direct shot on goal."
+        },
+        {
+            "gameTime": "1 - 37:01",
+            "label": "",
+            "description": "Aaron Cresswell (West Ham) has the ability to send the ball deep into the penalty area from throw ins and it can lead to very promising situations for his team."
+        },
+        {
+            "gameTime": "1 - 34:55",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) whips the ball in from the long range free kick, but the first man gets it clear."
+        },
+        {
+            "gameTime": "1 - 34:18",
+            "label": "",
+            "description": "Craig Pawson blows his whistle after Jesus Navas (Manchester City) kicks an opponent's legs instead of the ball. It's a free kick to West Ham, but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "1 - 34:00",
+            "label": "corner",
+            "description": "Dimitri Payet (West Ham) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "1 - 33:43",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) sends a direct shot in from the free kick that's in a promising position. The ball sails to the top right corner, but the goalkeeper makes a quick save to deny him. The ball goes out of play. West Ham are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 32:00",
+            "label": "y-card",
+            "description": "Martin Demichelis (Manchester City) has tested the patience of referee Craig Pawson and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "1 - 31:08",
+            "label": "",
+            "description": "Gael Clichy (Manchester City) attempts to find Jesus Navas, but puts far too much on the pass and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 30:07",
+            "label": "",
+            "description": "A player from West Ham commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 29:42",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) attempts to create a scoring opportunity with a wonderful long ball, but his pass is blocked."
+        },
+        {
+            "gameTime": "1 - 28:19",
+            "label": "",
+            "description": "Bacary Sagna (Manchester City) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "1 - 26:38",
+            "label": "",
+            "description": "James Collins (West Ham) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence."
+        },
+        {
+            "gameTime": "1 - 25:37",
+            "label": "",
+            "description": "Poor challenge! Kevin De Bruyne (Manchester City) is penalised for tripping and Craig Pawson blows his whistle. West Ham have a free kick."
+        },
+        {
+            "gameTime": "1 - 22:30",
+            "label": "",
+            "description": "Cheikhou Kouyate (West Ham) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 21:20",
+            "label": "injury",
+            "description": "Looks like Cheikhou Kouyate (West Ham) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "1 - 21:18",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) sends a long through ball to Sergio Aguero, but he fails to control it properly and loses it to one of the defending players."
+        },
+        {
+            "gameTime": "1 - 19:05",
+            "label": "corner",
+            "description": "David Silva (Manchester City) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 18:36",
+            "label": "",
+            "description": "Fabian Delph (Manchester City) connects with a pass but sees his shot from the edge of the box blocked. The ball is out of play. Manchester City will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 17:40",
+            "label": "",
+            "description": "Bacary Sagna (Manchester City) sends a promising through ball, but the defence is alert and cuts out the pass."
+        },
+        {
+            "gameTime": "1 - 15:38",
+            "label": "",
+            "description": "A pass by David Silva (Manchester City) ends up in no man's land, and the attacking effort comes to an end. The ball goes out of play and West Ham will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 14:46",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) takes the free kick and sends the ball into the penalty area, but the opposition's defence is ready."
+        },
+        {
+            "gameTime": "1 - 14:38",
+            "label": "",
+            "description": "Craig Pawson has a clear sight and sees a foul from Nicolas Otamendi (Manchester City)."
+        },
+        {
+            "gameTime": "1 - 13:47",
+            "label": "",
+            "description": "Craig Pawson interrupts the game. One of the players from Manchester City won the ball, but his effort is adjudged unfair."
+        },
+        {
+            "gameTime": "1 - 12:14",
+            "label": "substitution",
+            "description": "Slaven Bilic is forced to make an unplanned substitution as Carl Jenkinson suffers an injury and Samuel Byram (West Ham) comes on."
+        },
+        {
+            "gameTime": "1 - 10:42",
+            "label": "",
+            "description": "Manchester City are happy showing off their ball keeping skills and that is only interrupted when the defender steps in."
+        },
+        {
+            "gameTime": "1 - 09:00",
+            "label": "soccer-ball",
+            "description": "Sergio Aguero (Manchester City) steps up to take the penalty and leaves the keeper helpless with a low shot inside the left post."
+        },
+        {
+            "gameTime": "1 - 08:59",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "1 - 08:56",
+            "label": "penalty",
+            "description": "The game is interrupted. One of the players from West Ham is cautioned for aggressive play. The referee gives a penalty to Manchester City!"
+        },
+        {
+            "gameTime": "1 - 07:30",
+            "label": "",
+            "description": "What a chance that is! Sergio Aguero (Manchester City) wastes a huge opportunity as he receives a beautiful pass on the edge of the box and fires towards the net. Unfortunately for him, he only hits the right post!"
+        },
+        {
+            "gameTime": "1 - 06:33",
+            "label": "",
+            "description": "Alex Song (West Ham) is penalised for a foul. Craig Pawson had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 06:02",
+            "label": "",
+            "description": "Jesus Navas (Manchester City) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "gameTime": "1 - 04:32",
+            "label": "corner",
+            "description": "Kevin De Bruyne (Manchester City) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "1 - 04:05",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Kevin De Bruyne (Manchester City). The linesman makes the right call and Manchester City will have a corner."
+        },
+        {
+            "gameTime": "1 - 03:58",
+            "label": "",
+            "description": "Dimitri Payet (West Ham) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear."
+        },
+        {
+            "gameTime": "1 - 02:27",
+            "label": "",
+            "description": "Manchester City showcase their great team work by exchanging one two passes, but one wayward pass sees them lose possession."
+        },
+        {
+            "gameTime": "1 - 01:00",
+            "label": "soccer-ball",
+            "description": "What a hit! Enner Valencia (West Ham) shows good composure inside the box to fire a first time shot into the middle of the net. 1:0."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "",
+            "description": "Manchester City will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Craig Pawson."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans can't complain about what they saw on the pitch as both sides displayed a highly captivating football match. Neither of the teams could take the initiative and dominate today's game. Long balls and crosses were the main weapons of the home team, while the away team played possession football."
+        }
+    ],
+    "gameAwayTeam": "Manchester City",
+    "gameDate": "23/01/2016 - 20:30",
+    "gameHomeTeam": "West Ham",
+    "gameScore": "2 - 2"
+}

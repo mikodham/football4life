@@ -1,0 +1,520 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 45:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. The visiting team was controlling the game most of the time. It's obvious that defence had the highest priority for the home side. The away team made a lot of passes and attempted to maintain possession."
+        },
+        {
+            "gameTime": "2 - 45:13",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 45:05",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) fashions a shot from the edge of the box after receiving an accurate pass. Lukas Kruse makes a comfortable save to stop the effort from flying into the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 44:50",
+            "label": "",
+            "description": "Lukas Rupp (Paderborn) tries his luck with a shot from long distance after receiving a good pass. He hits the ball poorly and sends it into orbit. The ball goes out of play and Bayern Munich will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 41:46",
+            "label": "",
+            "description": "Manuel Neuer reacts well to deny a long range free kick from Alban Meha (Paderborn) towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 41:25",
+            "label": "",
+            "description": "Dante (Bayern Munich) was trying to get to the ball but clattered into the legs of the opponent as well. Bastian Dankert blows his whistle for an infringement. Paderborn earn a free kick."
+        },
+        {
+            "gameTime": "2 - 40:30",
+            "label": "soccer-ball",
+            "description": "Goal! Arjen Robben (Bayern Munich) shows good awareness inside the box as he latches on to a brilliant pass and fires a first time shot into the bottom right corner. Franck Ribery assisted in the goal. 0:3."
+        },
+        {
+            "gameTime": "2 - 38:59",
+            "label": "",
+            "description": "Bastian Dankert blows the whistle, Arjen Robben (Bayern Munich) is penalised for a foul."
+        },
+        {
+            "gameTime": "2 - 35:59",
+            "label": "corner",
+            "description": "Alban Meha (Paderborn) works the corner short."
+        },
+        {
+            "gameTime": "2 - 35:51",
+            "label": "",
+            "description": "Michael Heinloth (Paderborn) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball goes out for a corner. Paderborn can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) latches on to the corner kick and releases a quick strike from the edge of the box. The result differs significantly from his intention as the ball flies way wide of the left post. The ball goes out of play and Paderborn will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 34:55",
+            "label": "corner",
+            "description": "Arjen Robben (Bayern Munich) prepares to take a corner kick."
+        },
+        {
+            "gameTime": "2 - 34:45",
+            "label": "",
+            "description": "Mitchell Weiser (Bayern Munich) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Bayern Munich have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 32:57",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Dante (Bayern Munich) comes onto the pitch so that Juan Bernat can be given a rest."
+        },
+        {
+            "gameTime": "2 - 32:33",
+            "label": "soccer-ball",
+            "description": "Goal! Sebastian Rode gets to the ball, slips Mitchell Weiser (Bayern Munich) into the area and he scores with a delightful chipped finish to make it 0:5."
+        },
+        {
+            "gameTime": "2 - 31:21",
+            "label": "",
+            "description": "Close! Alban Meha (Paderborn) takes the resultant free kick from 26 metres out and his shot goes just over the crossbar. The ball is off of the pitch and it's a goal kick for Bayern Munich."
+        },
+        {
+            "gameTime": "2 - 30:18",
+            "label": "substitution",
+            "description": "We are about to witness a subsitution. Mitchell Weiser (Bayern Munich) for Rafinha."
+        },
+        {
+            "gameTime": "2 - 29:59",
+            "label": "substitution",
+            "description": "Andre Breitenreiter has decided to substitute Rafa and he is replaced by Mario Vrancic (Paderborn)."
+        },
+        {
+            "gameTime": "2 - 29:48",
+            "label": "",
+            "description": "Sebastian Rode (Bayern Munich) is penalised after knocking an opponent down. It's a free kick to Paderborn in a dangerous position."
+        },
+        {
+            "gameTime": "2 - 27:50",
+            "label": "substitution",
+            "description": "Pep Guardiola decides to make a substitution. Xabi Alonso will be replaced by Sebastian Rode (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 26:54",
+            "label": "soccer-ball",
+            "description": "What a goal! Arjen Robben plays it to Franck Ribery (Bayern Munich), who finds himself unmarked inside the box and slots a first time shot past Lukas Kruse into the bottom right corner. 0:4."
+        },
+        {
+            "gameTime": "2 - 25:48",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Mirnes Pepic (Paderborn) comes onto the pitch for Marvin Bakalorz."
+        },
+        {
+            "gameTime": "2 - 25:09",
+            "label": "",
+            "description": "Jerome Boateng passes to Holger Badstuber (Bayern Munich), but he produces a wild shot from the edge of the box which goes high over the bar. The ball goes out of play and Paderborn will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 24:40",
+            "label": "corner",
+            "description": "Xabi Alonso (Bayern Munich) rolls the ball short to a teammate from the corner instead of sending a cross into the box."
+        },
+        {
+            "gameTime": "2 - 24:25",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) picks up a lofted cross inside the box and releases a quick shot to the bottom right corner. His promising effort is kept out by Lukas Kruse, who pulls off a stunning save! Bayern Munich force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 22:50",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) is caught offside!"
+        },
+        {
+            "gameTime": "2 - 22:43",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Arjen Robben (Bayern Munich) takes it short."
+        },
+        {
+            "gameTime": "2 - 22:23",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) tries to send the ball in front of the goal, but the opposition's defence averts the threat. The ball is out of play. Bayern Munich will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 21:59",
+            "label": "",
+            "description": "Uwe Hunemeier (Paderborn) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 21:44",
+            "label": "corner",
+            "description": "Alban Meha (Paderborn) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 21:15",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Alban Meha (Paderborn). The referee points to the corner flag. It's a corner to Paderborn."
+        },
+        {
+            "gameTime": "2 - 20:51",
+            "label": "",
+            "description": "Suleyman Koc (Paderborn) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "2 - 17:58",
+            "label": "soccer-ball",
+            "description": "Arjen Robben (Bayern Munich) steps up and confidently directs the penalty into the left side of the goal!"
+        },
+        {
+            "gameTime": "2 - 17:52",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "2 - 16:57",
+            "label": "r-card",
+            "description": "Bastian Dankert shows a red card with no hesitation. Florian Hartherz (Paderborn) can have an early bath and think about his challenge."
+        },
+        {
+            "gameTime": "2 - 16:49",
+            "label": "penalty",
+            "description": "Florian Hartherz (Paderborn) makes a reckless foul in order to win the ball from his opponent. Bastian Dankert has a clear sight of it and blows his whistle. The referee gives a penalty to Bayern Munich!"
+        },
+        {
+            "gameTime": "2 - 15:39",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) and Arjen Robben attempt to exchange short two yard passes, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 13:55",
+            "label": "",
+            "description": "A rebound falls at the feet of Florian Hartherz (Paderborn), who unleashes a shot from long range towards the goal. However, his effort is poor and it flies well wide of the right post. The ball goes out of play and Bayern Munich will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 13:45",
+            "label": "",
+            "description": "Paderborn couldn't find the way to score from a long range free kick as Manuel Neuer (Bayern Munich) leaped high and intercepted a cross."
+        },
+        {
+            "gameTime": "2 - 13:25",
+            "label": "substitution",
+            "description": "Substitution. Srdjan Lakic (Paderborn) in, Elias Kachunga out."
+        },
+        {
+            "gameTime": "2 - 12:59",
+            "label": "",
+            "description": "Holger Badstuber (Bayern Munich) commits an ugly challenge. The referee sees it and immediately blows his whistle. It's a free kick to Paderborn, but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "2 - 12:39",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) plays a terrific long ball forward to Arjen Robben, but he can't beat his man and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 11:38",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball is out of play. Paderborn will have a throw in."
+        },
+        {
+            "gameTime": "2 - 10:27",
+            "label": "funfact",
+            "description": "29:71 \u2013 this is the current ball possession ratio."
+        },
+        {
+            "gameTime": "2 - 09:53",
+            "label": "",
+            "description": "A pass from Robert Lewandowski (Bayern Munich) is intercepted by Lukas Kruse and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 08:55",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "2 - 07:40",
+            "label": "",
+            "description": "Alban Meha (Paderborn) unleashed a long range shot, but it misses narrowly over the bar. It could have been the goal of the month, at least."
+        },
+        {
+            "gameTime": "2 - 06:25",
+            "label": "",
+            "description": "Rafinha (Bayern Munich) sends a cross into the box, but Lukas Kruse comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 05:59",
+            "label": "",
+            "description": "The Bayern Munich players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "2 - 04:32",
+            "label": "corner",
+            "description": "Alban Meha (Paderborn) takes the corner kick, but Manuel Neuer reads it well and stops the effort."
+        },
+        {
+            "gameTime": "2 - 03:51",
+            "label": "",
+            "description": "Elias Kachunga (Paderborn) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Good work from Paderborn as they win a corner."
+        },
+        {
+            "gameTime": "2 - 03:27",
+            "label": "",
+            "description": "The foul by Robert Lewandowski (Bayern Munich) was seen by Bastian Dankert who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 02:30",
+            "label": "",
+            "description": "Rafa (Paderborn) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 01:14",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "We are watching a run of the mill game with only a few moments to ignite the crowd. The players surely can surely perform better, they just need to motivate themselves. The visiting team dominated in most aspects of the game and the home side struggled to keep up. It's obvious that defence has the highest priority for the home side. The away team makes a lot of passes and attempts to maintain possession."
+        },
+        {
+            "gameTime": "1 - 45:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 44:20",
+            "label": "",
+            "description": "The linesman raises his flag. Suleyman Koc (Paderborn) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 42:42",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) collects a pass and has an effort from 23 metres out, but it flies just wide of the right post. The ball is off of the pitch and it's a goal kick for Paderborn."
+        },
+        {
+            "gameTime": "1 - 41:35",
+            "label": "",
+            "description": "Paderborn are enjoying possession, but one of the opposition players steps in to end the sequence."
+        },
+        {
+            "gameTime": "1 - 40:30",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Elias Kachunga (Paderborn) heads on."
+        },
+        {
+            "gameTime": "1 - 39:31",
+            "label": "",
+            "description": "Lukas Rupp (Paderborn) shoots from the edge of the penalty area. The ball travels towards the crossbar, but Manuel Neuer easily deals with the threat."
+        },
+        {
+            "gameTime": "1 - 38:47",
+            "label": "",
+            "description": "Elias Kachunga (Paderborn) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball miles wide of the right post. Nice run, but poor finish! The ball is off of the pitch and it's a goal kick for Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 36:15",
+            "label": "soccer-ball",
+            "description": "Goal! Franck Ribery displays great vision and sends a pass to Robert Lewandowski (Bayern Munich), who shows brilliant composure inside the box to bury the ball from close range in the back of the net. The score is 0:2."
+        },
+        {
+            "gameTime": "1 - 34:59",
+            "label": "",
+            "description": "Robert Lewandowski (Bayern Munich) commits a foul and Bastian Dankert immediately signals a free kick."
+        },
+        {
+            "gameTime": "1 - 34:24",
+            "label": "",
+            "description": "Nice passing game by Bayern Munich. They are increasing their possession with a series of long passes and waiting for the right moment to create an attacking opportunity."
+        },
+        {
+            "gameTime": "1 - 31:52",
+            "label": "",
+            "description": "Suleyman Koc (Paderborn) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The referee and the linesman both signal a throw in for Paderborn."
+        },
+        {
+            "gameTime": "1 - 30:31",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 29:58",
+            "label": "",
+            "description": "The Bayern Munich players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 28:08",
+            "label": "",
+            "description": "The linesman signals that Elias Kachunga (Paderborn) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "1 - 26:40",
+            "label": "",
+            "description": "An attempted cross from Jerome Boateng (Bayern Munich) is cleared."
+        },
+        {
+            "gameTime": "1 - 25:14",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 25:12",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "gameTime": "1 - 23:47",
+            "label": "soccer-ball",
+            "description": "It's a goal! Robert Lewandowski (Bayern Munich) scores with a brilliant shot into the bottom left corner after being released inside the box by a superb lofted pass from Arjen Robben. The score is now 0:1."
+        },
+        {
+            "gameTime": "1 - 21:59",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) plays a one two with Arjen Robben, but the move breaks down."
+        },
+        {
+            "gameTime": "1 - 20:24",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) looks to break free, but an opposing player clears the ball away. The ball has crossed the sideline. Bayern Munich are taking a throw in."
+        },
+        {
+            "gameTime": "1 - 19:26",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) does his best to latch onto a cross into the box, but he can't get to the ball. The ball goes out of play and Paderborn will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 18:54",
+            "label": "",
+            "description": "Rafinha (Bayern Munich) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance."
+        },
+        {
+            "gameTime": "1 - 17:53",
+            "label": "",
+            "description": "Jerome Boateng (Bayern Munich) trips an opposition player and Bastian Dankert signals a foul."
+        },
+        {
+            "gameTime": "1 - 17:20",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety."
+        },
+        {
+            "gameTime": "1 - 16:24",
+            "label": "corner",
+            "description": "Manuel Neuer leaps to collect the ball from the corner which was sent over by Alban Meha (Paderborn)."
+        },
+        {
+            "gameTime": "1 - 16:09",
+            "label": "",
+            "description": "Paderborn have a corner. Arjen Robben (Bayern Munich) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "1 - 14:47",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) fails to find a teammate across the pitch with a long ball. The ball is off of the pitch and it's a goal kick for Paderborn."
+        },
+        {
+            "gameTime": "1 - 14:12",
+            "label": "",
+            "description": "Neat passing move from Bayern Munich in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "1 - 12:59",
+            "label": "",
+            "description": "David Alaba (Bayern Munich) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 12:54",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) and Robert Lewandowski attempt to exchange short two yard passes, but the opposition's defence intercepts the ball. The ball is behind the touchline and Bayern Munich will take a throw in."
+        },
+        {
+            "gameTime": "1 - 11:21",
+            "label": "",
+            "description": "Alban Meha (Paderborn) creates some space for himself and unleashes a strike from long range, but his effort sails just wide of the right post. The ball goes out of play and Bayern Munich will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 09:14",
+            "label": "",
+            "description": "Bayern Munich enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "1 - 06:11",
+            "label": "",
+            "description": "A player from Bayern Munich commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 06:00",
+            "label": "corner",
+            "description": "The corner from Franck Ribery (Bayern Munich) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 05:09",
+            "label": "",
+            "description": "Xabi Alonso (Bayern Munich) sends over a free kick from long range but the defence is alert. The referee points to the corner flag and Bayern Munich will take a corner."
+        },
+        {
+            "gameTime": "1 - 04:59",
+            "label": "",
+            "description": "Uwe Hunemeier (Paderborn) tackles a bit over zealously and Bastian Dankert blows for a foul."
+        },
+        {
+            "gameTime": "1 - 03:52",
+            "label": "",
+            "description": "Arjen Robben (Bayern Munich) puts a cross into the box from the free kick but it's cleared."
+        },
+        {
+            "gameTime": "1 - 03:13",
+            "label": "",
+            "description": "Florian Hartherz (Paderborn) brings his opponent down. Bastian Dankert has a clear sight of it and blows his whistle for a foul. A free kick to Bayern Munich."
+        },
+        {
+            "gameTime": "1 - 01:58",
+            "label": "",
+            "description": "Bayern Munich spell of possession comes to an end after a mistake."
+        },
+        {
+            "gameTime": "1 - 00:30",
+            "label": "",
+            "description": "Elias Kachunga (Paderborn) produces a good strike that sails to the middle of the goal, but his low effort ends up in the goalkeeper's gloves."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The match has just started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Paderborn will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Bastian Dankert will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has been more to see on the pitch than in most of the other games. The visiting team was controlling the game most of the time. It's obvious that defence had the highest priority for the home side. The away team made a lot of passes and attempted to maintain possession."
+        }
+    ],
+    "gameAwayTeam": "Bayern Munich",
+    "gameDate": "21/02/2015 - 17:30",
+    "gameHomeTeam": "Paderborn",
+    "gameScore": "0 - 6"
+}

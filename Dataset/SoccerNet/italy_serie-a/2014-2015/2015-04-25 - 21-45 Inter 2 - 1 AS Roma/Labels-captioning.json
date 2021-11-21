@@ -1,0 +1,540 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2014-2015/2015-04-25 - 21-45 Inter 2 - 1 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. It was a very tight match, with not much between the two teams. The home team's main weapon was fast counter attacks, while the away side attempted to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "2 - 49:42",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 49:40",
+            "label": "",
+            "description": "Lukas Podolski (Inter) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "Samir Handanovic (Inter) obviously intended to delay the restart of play and the referee blows the whistle."
+        },
+        {
+            "gameTime": "2 - 48:44",
+            "label": "y-card",
+            "description": "Radja Nainggolan (AS Roma) was probably a bit loose with his words to Daniele Orsato, who decides to show him a yellow."
+        },
+        {
+            "gameTime": "2 - 46:17",
+            "label": "",
+            "description": "Rodrigo Palacio (Inter) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the left post. The ball is off of the pitch and it's a goal kick for AS Roma."
+        },
+        {
+            "gameTime": "2 - 45:05",
+            "label": "y-card",
+            "description": "That will be a yellow card for one of the players. The one who gets booked is Morgan De Sanctis (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:51",
+            "label": "substitution",
+            "description": "Rudi Garcia has decided to introduce fresh legs, with Seydou Doumbia (AS Roma) replacing Daniele De Rossi."
+        },
+        {
+            "gameTime": "2 - 42:40",
+            "label": "soccer-ball",
+            "description": "Goal! Mauro Icardi (Inter) finds himself some space inside the box to get on the end of a pass from Lukas Podolski, then sends the ball low into the middle of the net. 2:1."
+        },
+        {
+            "gameTime": "2 - 41:32",
+            "label": "",
+            "description": "Xherdan Shaqiri (Inter) delivers a poor cross from a free kick as one of the defenders comfortably clears it away."
+        },
+        {
+            "gameTime": "2 - 40:59",
+            "label": "substitution",
+            "description": "Today's match ends for Assane Gnoukouri who will be replaced by Lukas Podolski (Inter)."
+        },
+        {
+            "gameTime": "2 - 40:30",
+            "label": "y-card",
+            "description": "Daniele De Rossi (AS Roma) is booked after bringing down an opponent. Daniele Orsato had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 39:03",
+            "label": "",
+            "description": "Mauro Icardi (Inter) amazingly found his way through the defence, but lacked a precise finish as his effort from close range went slightly over the crossbar."
+        },
+        {
+            "gameTime": "2 - 38:50",
+            "label": "corner",
+            "description": "Xherdan Shaqiri (Inter) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "2 - 38:16",
+            "label": "",
+            "description": "Assane Gnoukouri (Inter) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort. Inter win a corner."
+        },
+        {
+            "gameTime": "2 - 37:31",
+            "label": "",
+            "description": "Seydou Keita (AS Roma) picks up a pass, lines up a shot and strikes from 20 metres out, but Samir Handanovic thwarts the effort which is headed to the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 34:40",
+            "label": "",
+            "description": "Daniele Orsato blows his whistle and it's Mauro Icardi (Inter) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "2 - 32:59",
+            "label": "substitution",
+            "description": "Here is a change. Fredy Guarin is going off and Roberto Mancini gives the last tactical orders to Xherdan Shaqiri (Inter)."
+        },
+        {
+            "gameTime": "2 - 32:54",
+            "label": "substitution",
+            "description": "Here's the change. Miralem Pjanic leaves the pitch and Juan Iturbe (AS Roma) comes on as a substitute."
+        },
+        {
+            "gameTime": "2 - 31:45",
+            "label": "y-card",
+            "description": "What was Assane Gnoukouri (Inter) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "gameTime": "2 - 28:50",
+            "label": "y-card",
+            "description": "Daniele Orsato shows the yellow card to Andrea Ranocchia (Inter) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 28:02",
+            "label": "",
+            "description": "Danilo D'Ambrosio (Inter) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "2 - 27:17",
+            "label": "",
+            "description": "The defence successfully catches Rodrigo Palacio (Inter) in the offside trap, but it was close!"
+        },
+        {
+            "gameTime": "2 - 25:55",
+            "label": "substitution",
+            "description": "The referee signals a substitution. Mateo Kovacic (Inter) is brought on as a substitute for Marcelo Brozovic."
+        },
+        {
+            "gameTime": "2 - 25:42",
+            "label": "",
+            "description": "Hernanes (Inter) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+        },
+        {
+            "gameTime": "2 - 23:27",
+            "label": "corner",
+            "description": "The resulting corner from Alessandro Florenzi (AS Roma) is cleared by the defence."
+        },
+        {
+            "gameTime": "2 - 23:00",
+            "label": "corner",
+            "description": "Alessandro Florenzi (AS Roma) steps up to take the corner, but the ball just sails in among the defenders. AS Roma force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 22:30",
+            "label": "",
+            "description": "Samir Handanovic pulls off a stunning save to block the free kick from Miralem Pjanic (AS Roma). The ball was heading towards the bottom left corner. AS Roma have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 21:01",
+            "label": "y-card",
+            "description": "Daniele Orsato shows a yellow card to Juan, who isn't surprised as the tackle was really hard and late."
+        },
+        {
+            "gameTime": "2 - 20:51",
+            "label": "",
+            "description": "Daniele Orsato blows the whistle, Juan is penalised for a foul. Another situation results in a direct free kick for AS Roma."
+        },
+        {
+            "gameTime": "2 - 20:01",
+            "label": "",
+            "description": "Morgan De Sanctis pulls off a great save to deny Fredy Guarin (Inter), who makes himself some space inside the box and unleashes a quick shot to the left side of the goal."
+        },
+        {
+            "gameTime": "2 - 17:35",
+            "label": "soccer-ball",
+            "description": "It's in the back of the net! Radja Nainggolan (AS Roma) fires a brilliant volley into the bottom left corner from the edge of the box, leaving the goalkeeper helpless. Miralem Pjanic provided the assist. What a finish! 1:1."
+        },
+        {
+            "gameTime": "2 - 14:28",
+            "label": "",
+            "description": "Konstantinos Manolas (AS Roma) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 14:02",
+            "label": "corner",
+            "description": "Alessandro Florenzi (AS Roma) will take the corner."
+        },
+        {
+            "gameTime": "2 - 13:40",
+            "label": "",
+            "description": "Gervinho (AS Roma) tries to slide the ball through to a teammate but it's well blocked by a defender. AS Roma force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 12:39",
+            "label": "",
+            "description": "Miralem Pjanic plays a lovely pass into Alessandro Florenzi (AS Roma), but he can't find the target. His strike from inside the box goes narrowly over the crossbar."
+        },
+        {
+            "gameTime": "2 - 12:20",
+            "label": "",
+            "description": "Jose Holebas (AS Roma) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 12:09",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger."
+        },
+        {
+            "gameTime": "2 - 11:02",
+            "label": "",
+            "description": "Victor Ibarbo (AS Roma) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "gameTime": "2 - 09:34",
+            "label": "injury",
+            "description": "Jose Holebas (AS Roma) is writhing in pain and can now receive medical treatment after the referee decides to stop play."
+        },
+        {
+            "gameTime": "2 - 08:51",
+            "label": "y-card",
+            "description": "Daniele Orsato shows a yellow card to Marcelo Brozovic (Inter) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 08:06",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Gervinho (AS Roma) heads on."
+        },
+        {
+            "gameTime": "2 - 06:58",
+            "label": "substitution",
+            "description": "It is time for a substitution. Seydou Keita (AS Roma) is on for Francesco Totti."
+        },
+        {
+            "gameTime": "2 - 06:31",
+            "label": "",
+            "description": "Mauro Icardi (Inter) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just over the crossbar."
+        },
+        {
+            "gameTime": "2 - 05:21",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) collects a pass and strikes from about 20 metres out. It's a poor attempt which flies well over the bar."
+        },
+        {
+            "gameTime": "2 - 04:44",
+            "label": "",
+            "description": "Mauro Icardi (Inter) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "gameTime": "2 - 03:57",
+            "label": "",
+            "description": "Mauro Icardi (Inter) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 03:13",
+            "label": "",
+            "description": "Victor Ibarbo (AS Roma) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 01:55",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity."
+        },
+        {
+            "gameTime": "2 - 01:16",
+            "label": "",
+            "description": "Daniele Orsato blows his whistle after Danilo D'Ambrosio (Inter) kicks an opponent's legs instead of the ball. AS Roma will take a free kick near the side line."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "Both sides have been very active in the first half, providing the fans with an exciting show. Both sides have struggled for dominance over the game. Both teams are attempting to play possession football."
+        },
+        {
+            "gameTime": "1 - 46:13",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "",
+            "description": "Marcelo Brozovic (Inter) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 45:55",
+            "label": "corner",
+            "description": "Fredy Guarin (Inter) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "1 - 45:47",
+            "label": "",
+            "description": "Rodrigo Palacio (Inter) fails to find any of his teammates inside the box as his pass is blocked. The ball is out of play. Inter win a corner kick."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "1 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:53",
+            "label": "",
+            "description": "The free kick is delivered by Alessandro Florenzi (AS Roma) but it's not one of his best and is easily cleared."
+        },
+        {
+            "gameTime": "1 - 44:18",
+            "label": "",
+            "description": "A clumsy foul by Juan and Daniele Orsato blows the whistle. A free kick to AS Roma."
+        },
+        {
+            "gameTime": "1 - 43:27",
+            "label": "",
+            "description": "A cross by Rodrigo Palacio (Inter) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor. It's a throw in for AS Roma."
+        },
+        {
+            "gameTime": "1 - 42:37",
+            "label": "",
+            "description": "Francesco Totti (AS Roma) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "1 - 42:19",
+            "label": "",
+            "description": "Hernanes (Inter) sends a teasing cross into the area, but Morgan De Sanctis intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 41:17",
+            "label": "",
+            "description": "Rodrigo Palacio (Inter) is flagged offside and it's not the first time today."
+        },
+        {
+            "gameTime": "1 - 40:48",
+            "label": "",
+            "description": "Francesco Totti (AS Roma) was trying to get to the ball but clattered into the legs of the opponent as well. Daniele Orsato blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 39:40",
+            "label": "corner",
+            "description": "Francesco Totti (AS Roma) whips in a cross from the corner, but Samir Handanovic is well positioned and punches the ball away."
+        },
+        {
+            "gameTime": "1 - 39:26",
+            "label": "",
+            "description": "Jose Holebas (AS Roma) fails to send a pass into the box as his effort is cut out. The ball goes behind for a corner. AS Roma will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 37:51",
+            "label": "",
+            "description": "Rodrigo Palacio (Inter) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "1 - 37:04",
+            "label": "",
+            "description": "The game is interrupted. Mapou Yanga Mbiwa (AS Roma) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+        },
+        {
+            "gameTime": "1 - 34:15",
+            "label": "",
+            "description": "Samir Handanovic was in the right place at the right time to intercept a cross from a free kick by Miralem Pjanic (AS Roma)."
+        },
+        {
+            "gameTime": "1 - 33:05",
+            "label": "",
+            "description": "Fredy Guarin (Inter) trips an opposition player and Daniele Orsato signals a foul. That's a free kick to AS Roma."
+        },
+        {
+            "gameTime": "1 - 31:37",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) is able to continue to play."
+        },
+        {
+            "gameTime": "1 - 31:21",
+            "label": "injury",
+            "description": "Alessandro Florenzi (AS Roma) picks up an injury."
+        },
+        {
+            "gameTime": "1 - 30:06",
+            "label": "",
+            "description": "Victor Ibarbo (AS Roma) skips past his man but can't keep the ball in play."
+        },
+        {
+            "gameTime": "1 - 28:43",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar."
+        },
+        {
+            "gameTime": "1 - 28:14",
+            "label": "",
+            "description": "Marcelo Brozovic (Inter) sends a cross into the box, but Morgan De Sanctis comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 26:44",
+            "label": "",
+            "description": "Gervinho (AS Roma) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 25:26",
+            "label": "",
+            "description": "Danilo D'Ambrosio (Inter) makes a bad challenge and the referee blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 24:11",
+            "label": "",
+            "description": "Miralem Pjanic (AS Roma) gets on the ball and beats an opponent, but his run is stopped by the referee Daniele Orsato who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 22:54",
+            "label": "",
+            "description": "Hernanes (Inter) receives a precise pass inside the box and takes a shot that flies just wide of the left post."
+        },
+        {
+            "gameTime": "1 - 22:35",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Hernanes (Inter)."
+        },
+        {
+            "gameTime": "1 - 22:17",
+            "label": "",
+            "description": "Inter are happy to keep the ball as they wait for gaps in defence to open up. However, an opposing player steps in and clears. Inter have a corner."
+        },
+        {
+            "gameTime": "1 - 20:51",
+            "label": "y-card",
+            "description": "The referee shows the yellow card to Mapou Yanga Mbiwa (AS Roma)."
+        },
+        {
+            "gameTime": "1 - 19:31",
+            "label": "y-card",
+            "description": "Rodrigo Palacio (Inter) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent."
+        },
+        {
+            "gameTime": "1 - 19:05",
+            "label": "",
+            "description": "Rodrigo Palacio (Inter) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "1 - 18:19",
+            "label": "",
+            "description": "Victor Ibarbo (AS Roma) fires a rebound from mid range onto the left post!"
+        },
+        {
+            "gameTime": "1 - 18:10",
+            "label": "",
+            "description": "Francesco Totti (AS Roma) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 17:46",
+            "label": "",
+            "description": "A pass from Danilo D'Ambrosio (Inter) is intercepted by Morgan De Sanctis and the move breaks down."
+        },
+        {
+            "gameTime": "1 - 14:57",
+            "label": "soccer-ball",
+            "description": "Goal 1:0! Hernanes (Inter) gets a shot away from the edge of the box and scores into the bottom right corner. Rodrigo Palacio provided an assist for the goal."
+        },
+        {
+            "gameTime": "1 - 13:28",
+            "label": "",
+            "description": "The cross into the penalty area from Jose Holebas (AS Roma) needed to be more accurate in order to create a goal scoring opportunity for his team."
+        },
+        {
+            "gameTime": "1 - 12:54",
+            "label": "",
+            "description": "Miralem Pjanic (AS Roma) tries to take the opposition by surprise with a quick free kick into the box."
+        },
+        {
+            "gameTime": "1 - 12:31",
+            "label": "",
+            "description": "Assane Gnoukouri (Inter) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision! A free kick is awarded to AS Roma."
+        },
+        {
+            "gameTime": "1 - 11:20",
+            "label": "",
+            "description": "Mapou Yanga Mbiwa (AS Roma) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 09:28",
+            "label": "",
+            "description": "Gervinho (AS Roma) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 08:15",
+            "label": "injury",
+            "description": "Mapou Yanga Mbiwa (AS Roma) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "1 - 06:42",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) makes a rough challenge and Daniele Orsato blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 05:20",
+            "label": "",
+            "description": "Daniele De Rossi (AS Roma) tries his luck with a long range effort after receiving a precise pass. It goes to the left side of the goal, but Samir Handanovic has a clear view of it and makes a comfortable save."
+        },
+        {
+            "gameTime": "1 - 03:42",
+            "label": "",
+            "description": "Mauro Icardi (Inter) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 02:24",
+            "label": "",
+            "description": "Marcelo Brozovic (Inter) has a go from a long way out but it sails way over."
+        },
+        {
+            "gameTime": "1 - 01:20",
+            "label": "",
+            "description": "Danilo D'Ambrosio (Inter) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Inter will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Today's referee will be Daniele Orsato."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello, welcome to our live play by play commentaries. You will be able to see a written form of all the interesting moments of the game, so you won't miss a thing. Sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "There was no time for the supporters to get bored during the game as it was full of action and thrilling moments. It was a very tight match, with not much between the two teams. The home team's main weapon was fast counter attacks, while the away side attempted to hold onto the ball for as long as possible."
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "25/04/2015 - 21:45",
+    "gameHomeTeam": "Inter",
+    "gameScore": "2 - 1"
+}

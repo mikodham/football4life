@@ -1,0 +1,530 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The hosts were largely in control of the game today. The home team played possession football, while the away team tried to find the weakness in their defence using mainly rapid counter attacks."
+        },
+        {
+            "gameTime": "2 - 49:28",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 48:55",
+            "label": "",
+            "description": "James McClean (West Brom) unleashes a decent effort from just outside the box which goes narrowly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 48:53",
+            "label": "corner",
+            "description": "The corner from Craig Gardner (West Brom) is intercepted by Joe Hart."
+        },
+        {
+            "gameTime": "2 - 48:38",
+            "label": "",
+            "description": "Craig Gardner (West Brom) serves up a nice cross, but the defence clears the danger. The referee points to the corner flag and West Brom will take a corner."
+        },
+        {
+            "gameTime": "2 - 45:57",
+            "label": "",
+            "description": "Craig Gardner (West Brom) crosses the ball into the box from the free kick, but the defence clears the danger."
+        },
+        {
+            "gameTime": "2 - 45:24",
+            "label": "",
+            "description": "Nicolas Otamendi (Manchester City) fouls an opponent. At least that's what referee Mike Jones signals. There is a free kick near the sideline to West Brom."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:22",
+            "label": "substitution",
+            "description": "Manuel Pellegrini has decided to introduce fresh legs, with Gael Clichy (Manchester City) replacing Sergio Aguero."
+        },
+        {
+            "gameTime": "2 - 42:52",
+            "label": "",
+            "description": "Jonathan Leko (West Brom) sends a teasing cross into the area, but Joe Hart intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 41:50",
+            "label": "",
+            "description": "West Brom enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "2 - 38:52",
+            "label": "corner",
+            "description": "Craig Gardner (West Brom) steps up to take the corner, but the ball just sails in among the defenders."
+        },
+        {
+            "gameTime": "2 - 38:26",
+            "label": "",
+            "description": "Joe Hart reacts well to deny a long range free kick from Craig Gardner (West Brom) towards the roof of the net. The ball is out of play. West Brom will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "2 - 37:53",
+            "label": "",
+            "description": "Mike Jones blows his whistle for a foul after Nicolas Otamendi (Manchester City) hacks down one of his opponents. That's a free kick to West Brom."
+        },
+        {
+            "gameTime": "2 - 37:45",
+            "label": "attendance",
+            "description": "The attendance for today's match is 53920."
+        },
+        {
+            "gameTime": "2 - 36:54",
+            "label": "",
+            "description": "A brilliant individual effort! Samir Nasri (Manchester City) tricks his way past challenges into the box and drags his shot narrowly wide of the right post."
+        },
+        {
+            "gameTime": "2 - 34:59",
+            "label": "substitution",
+            "description": "Substitution. Stephane Sessegnon makes way for Jonathan Leko (West Brom)."
+        },
+        {
+            "gameTime": "2 - 34:42",
+            "label": "",
+            "description": "Chance! Saido Berahino (West Brom) was in a good position inside the box, but he couldn't connect with the pass as it was overhit."
+        },
+        {
+            "gameTime": "2 - 32:43",
+            "label": "",
+            "description": "James McClean (West Brom) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) darts into the penalty area to latch on to a pass, and he unleashes a low drive towards the middle of the net, but Ben Foster is alert and denies him."
+        },
+        {
+            "gameTime": "2 - 29:57",
+            "label": "corner",
+            "description": "Joe Hart comes off his line to intercept the corner from Craig Gardner (West Brom)."
+        },
+        {
+            "gameTime": "2 - 29:48",
+            "label": "",
+            "description": "James Chester (West Brom) looks to break free, but an opposing player clears the ball away. The ball goes out for a corner. West Brom can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 28:30",
+            "label": "",
+            "description": "Saido Berahino (West Brom) latches on to a lofted pass and strikes the ball! His attempt flies narrowly wide of the right post."
+        },
+        {
+            "gameTime": "2 - 26:30",
+            "label": "",
+            "description": "The West Brom players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "2 - 25:49",
+            "label": "",
+            "description": "Ambitious effort from Saido Berahino (West Brom). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 24:37",
+            "label": "",
+            "description": "A pass by Jesus Navas (Manchester City) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "2 - 21:30",
+            "label": "",
+            "description": "Kevin De Bruyne (Manchester City) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 20:52",
+            "label": "soccer-ball",
+            "description": "Goal 2:1! Samir Nasri (Manchester City) taps home from close range after the rebound fell kindly into his path."
+        },
+        {
+            "gameTime": "2 - 20:50",
+            "label": "",
+            "description": "Wow, what an escape. Sergio Aguero (Manchester City) has an effort from inside the box but it's brilliantly blocked."
+        },
+        {
+            "gameTime": "2 - 20:09",
+            "label": "",
+            "description": "The Manchester City players are exchanging short passes in an attempt to create a shooting opportunity."
+        },
+        {
+            "gameTime": "2 - 18:13",
+            "label": "funfact",
+            "description": "62:38 \u2013 this is the current ball possession ratio."
+        },
+        {
+            "gameTime": "2 - 17:52",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 17:36",
+            "label": "",
+            "description": "Jesus Navas (Manchester City) fails to pick a body out in the box with an over hit cross to the back post."
+        },
+        {
+            "gameTime": "2 - 16:17",
+            "label": "",
+            "description": "Craig Dawson (West Brom) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "2 - 14:57",
+            "label": "substitution",
+            "description": "Manuel Pellegrini has decided to make a change. Yaya Toure (Manchester City) replaces Fabian Delph."
+        },
+        {
+            "gameTime": "2 - 14:37",
+            "label": "substitution",
+            "description": "The substitution has been made. Kevin De Bruyne (Manchester City) has replaced Wilfried Bony."
+        },
+        {
+            "gameTime": "2 - 13:53",
+            "label": "",
+            "description": "Craig Gardner (West Brom) unleashes a shot from 24 metres out but is unable to find the target and it goes well wide of the right post."
+        },
+        {
+            "gameTime": "2 - 12:59",
+            "label": "corner",
+            "description": "Craig Gardner (West Brom) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "",
+            "description": "James McClean (West Brom) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. West Brom force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "2 - 11:51",
+            "label": "",
+            "description": "Sandro receives a sweet cross inside the box from Stephane Sessegnon (West Brom), but one of the defenders rushes in bravely to intercept the move."
+        },
+        {
+            "gameTime": "2 - 09:48",
+            "label": "corner",
+            "description": "The resulting corner, taken by Aleksandar Kolarov (Manchester City), comes to nothing."
+        },
+        {
+            "gameTime": "2 - 09:15",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) picks up a pass, lines up a shot and strikes from 25 metres out, but Ben Foster thwarts the effort which is headed to the bottom left corner. The ball is out of play. Manchester City win a corner kick."
+        },
+        {
+            "gameTime": "2 - 07:30",
+            "label": "",
+            "description": "Wilfried Bony (Manchester City) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 06:27",
+            "label": "",
+            "description": "Manchester City are seeing far more of the ball now."
+        },
+        {
+            "gameTime": "2 - 04:51",
+            "label": "",
+            "description": "Fernando (Manchester City) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+        },
+        {
+            "gameTime": "2 - 03:37",
+            "label": "",
+            "description": "Stephane Sessegnon (West Brom) is unable to feed an accurate cross into the box."
+        },
+        {
+            "gameTime": "2 - 01:37",
+            "label": "",
+            "description": "Jonny Evans (West Brom) robs an opponent of the ball and explodes in anger when Mike Jones blows for a foul."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "It was a good decision to watch today's encounter. There has already been more to see prior to the half time break than there is in most games during the full 90 minutes. The home team were mostly in control in the first half. The home team makes a lot of passes and attempts to maintain possession, while the visitors look to counter attack."
+        },
+        {
+            "gameTime": "1 - 47:08",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 46:44",
+            "label": "corner",
+            "description": "The ball is whipped in from the corner by Craig Gardner (West Brom), but one of the defenders gets it clear."
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "",
+            "description": "Craig Dawson (West Brom) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. West Brom force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "2 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 44:35",
+            "label": "",
+            "description": "Samir Nasri sends a lovely lofted pass forward that flies over the top of the defence and into the path of Wilfried Bony (Manchester City), but he can't direct his header on target as it flies well wide of the left post."
+        },
+        {
+            "gameTime": "1 - 44:10",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out."
+        },
+        {
+            "gameTime": "1 - 41:59",
+            "label": "corner",
+            "description": "Craig Gardner (West Brom) puts a dangerous cross into the box, but the corner is cleared by the first man."
+        },
+        {
+            "gameTime": "1 - 41:51",
+            "label": "",
+            "description": "James McClean (West Brom) once again attempts to send a defence splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman makes the right call and West Brom will have a corner."
+        },
+        {
+            "gameTime": "1 - 40:00",
+            "label": "",
+            "description": "James McClean (West Brom) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "1 - 39:17",
+            "label": "corner",
+            "description": "Samir Nasri (Manchester City) takes the corner kick but the ball only finds the head of an opponent."
+        },
+        {
+            "gameTime": "1 - 38:54",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) swings in a cross, but the ball is cleared to safety by one of the defending players. Manchester City will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 37:50",
+            "label": "",
+            "description": "Darren Fletcher (West Brom) sprays a pass out to Stephane Sessegnon, but he can't beat his man inside the box."
+        },
+        {
+            "gameTime": "1 - 35:35",
+            "label": "",
+            "description": "A lofted cross from Sergio Aguero (Manchester City) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "1 - 34:30",
+            "label": "",
+            "description": "Long passes, short passes and one two passes. Manchester City are showcasing great team work by keeping possession and producing pin point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment."
+        },
+        {
+            "gameTime": "1 - 32:58",
+            "label": "y-card",
+            "description": "The foul by Craig Gardner (West Brom) is worthy of a card and a yellow is duly shown by Mike Jones."
+        },
+        {
+            "gameTime": "1 - 32:45",
+            "label": "",
+            "description": "Craig Gardner (West Brom) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall, saving the goalkeeper a lot of effort."
+        },
+        {
+            "gameTime": "1 - 30:56",
+            "label": "",
+            "description": "Mike Jones has a clear sight and sees a foul from Fabian Delph (Manchester City). West Brom are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "1 - 29:39",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) fails to pick a body out in the box with an over hit chip pass."
+        },
+        {
+            "gameTime": "1 - 28:18",
+            "label": "",
+            "description": "An accurate pass to the edge of the box is well taken by Craig Gardner (West Brom), whose instinctive shot towards goal flashes inches wide of the right post."
+        },
+        {
+            "gameTime": "1 - 25:59",
+            "label": "",
+            "description": "The Manchester City players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession."
+        },
+        {
+            "gameTime": "1 - 23:59",
+            "label": "",
+            "description": "Eliaquim Mangala (Manchester City) leaps highest to meet the resulting corner and attempts to head home, but the effort goes harmlessly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 23:52",
+            "label": "corner",
+            "description": "Samir Nasri (Manchester City) is heading toward the corner flag to take the set piece."
+        },
+        {
+            "gameTime": "1 - 23:51",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) blasts the ball from just outside the box, but his attempt is blocked by the defender. The referee signals a corner kick to Manchester City."
+        },
+        {
+            "gameTime": "1 - 22:38",
+            "label": "corner",
+            "description": "James McClean (West Brom) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "1 - 22:15",
+            "label": "",
+            "description": "Craig Dawson (West Brom) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. West Brom have a corner."
+        },
+        {
+            "gameTime": "1 - 20:55",
+            "label": "substitution",
+            "description": "Jose Rondon is being substituted because of an injury. Tony Pulis sends Craig Gardner (West Brom) on the pitch."
+        },
+        {
+            "gameTime": "1 - 20:28",
+            "label": "",
+            "description": "Samir Nasri (Manchester City) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self sacrificing defender."
+        },
+        {
+            "gameTime": "1 - 20:18",
+            "label": "",
+            "description": "Manchester City are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "gameTime": "1 - 18:41",
+            "label": "soccer-ball",
+            "description": "Sergio Aguero (Manchester City) leaves the keeper helpless with his precise penalty shot inside the right post."
+        },
+        {
+            "gameTime": "1 - 18:20",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) is going to take the penalty!"
+        },
+        {
+            "gameTime": "1 - 17:54",
+            "label": "penalty",
+            "description": "Stephane Sessegnon (West Brom) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The referee gives a penalty kick to Manchester City!"
+        },
+        {
+            "gameTime": "1 - 16:18",
+            "label": "",
+            "description": "West Brom are bossing possession of the ball and make numerous short passes, but they finally lose possession after an error. The ball has crossed the sideline. Manchester City are taking a throw in."
+        },
+        {
+            "gameTime": "1 - 14:13",
+            "label": "",
+            "description": "A cross by James Chester (West Brom) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor."
+        },
+        {
+            "gameTime": "1 - 13:45",
+            "label": "",
+            "description": "James McClean (West Brom) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The linesman signals a throw in for West Brom."
+        },
+        {
+            "gameTime": "1 - 11:57",
+            "label": "corner",
+            "description": "Aleksandar Kolarov (Manchester City) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "1 - 11:21",
+            "label": "corner",
+            "description": "Samir Nasri (Manchester City) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Manchester City force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 10:58",
+            "label": "corner",
+            "description": "The corner kick from Samir Nasri (Manchester City) is headed out of the penalty area by one of the defenders. Manchester City have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:21",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) tries to send a pass but it's blocked. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 09:21",
+            "label": "",
+            "description": "Stephane Sessegnon (West Brom) sends in a cross from a long range free kick. However, his effort lacks accuracy and the ball sails off the pitch."
+        },
+        {
+            "gameTime": "1 - 08:55",
+            "label": "",
+            "description": "Eliaquim Mangala (Manchester City) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. West Brom have a free kick."
+        },
+        {
+            "gameTime": "1 - 07:45",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear."
+        },
+        {
+            "gameTime": "1 - 05:31",
+            "label": "soccer-ball",
+            "description": "A good lofted pass from James McClean finds Stephane Sessegnon (West Brom) on the edge of the area. He collects the ball and rips in a wonderful shot which ends up inside the right post. The score is now 0:1."
+        },
+        {
+            "gameTime": "1 - 03:56",
+            "label": "",
+            "description": "The Manchester City players are exchanging some short passes to try and open up the opposition\u2019s defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 02:53",
+            "label": "corner",
+            "description": "The resulting corner from Aleksandar Kolarov (Manchester City) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "1 - 02:17",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. Manchester City have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "1 - 01:57",
+            "label": "corner",
+            "description": "The corner from James McClean (West Brom) is intercepted by the defence."
+        },
+        {
+            "gameTime": "1 - 01:30",
+            "label": "",
+            "description": "Stephane Sessegnon (West Brom) connects with a pass but sees his shot from the edge of the box blocked. West Brom earn a corner."
+        },
+        {
+            "gameTime": "1 - 00:50",
+            "label": "corner",
+            "description": "Ben Foster leaps to collect the ball from the corner which was sent over by Aleksandar Kolarov (Manchester City)."
+        },
+        {
+            "gameTime": "1 - 00:35",
+            "label": "",
+            "description": "The ball is cleared after Samir Nasri (Manchester City) attempted to dribble past an opposing player. The linesman points to the corner flag, Manchester City are going to take it."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and West Brom will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Mike Jones will officiate today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our minute by minute commentary of today's clash. You can enjoy a written form of everything important that will be happening on the pitch. Have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans must be pleased with the show they have seen on the pitch today. There was no chance to get bored as the game was very attractive. Let's hope the players won't lose their passion and determination in the future matches. The hosts were largely in control of the game today. The home team played possession football, while the away team tried to find the weakness in their defence using mainly rapid counter attacks."
+        }
+    ],
+    "gameAwayTeam": "West Brom",
+    "gameDate": "09/04/2016 - 19:30",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "2 - 1"
+}

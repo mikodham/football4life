@@ -1,0 +1,395 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 47:00",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The home side were dominant and dictated the tempo of the game. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession."
+        },
+        {
+            "gameTime": "2 - 46:50",
+            "label": "whistle",
+            "description": "Jonas Eriksson is looking at his watch and immediately ends this match."
+        },
+        {
+            "gameTime": "2 - 45:56",
+            "label": "yr-card",
+            "description": "Walter Samuel (Basel) should have been more careful. He commits a bad foul, receives his second yellow card and is sent off!"
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "2 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 44:47",
+            "label": "",
+            "description": "That was close by Marco Streller (Basel)! He receives a pass on the edge of the box and shoots, but the ball goes by a whisker over the crossbar."
+        },
+        {
+            "gameTime": "2 - 42:33",
+            "label": "",
+            "description": "Mohamed Elneny (Basel) slams the ball towards the middle of the goal, but it fails to surprise Fabiano and he's equal to it."
+        },
+        {
+            "gameTime": "2 - 40:33",
+            "label": "",
+            "description": "Davide Calla (Basel) sends a cross into the box, but Fabiano comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "2 - 39:14",
+            "label": "",
+            "description": "Davide Calla (Basel) attempts a long crossfield pass, but the defence does well to intercept the ball."
+        },
+        {
+            "gameTime": "2 - 37:56",
+            "label": "corner",
+            "description": "Luca Zuffi (Basel) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "2 - 37:35",
+            "label": "",
+            "description": "Marco Streller (Basel) shoots from the edge of the penalty area. The ball travels towards the bottom left corner, but Fabiano easily deals with the threat. The ball goes out for a corner. Basel can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 35:10",
+            "label": "",
+            "description": "FC Porto are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block."
+        },
+        {
+            "gameTime": "2 - 33:59",
+            "label": "substitution",
+            "description": "Here comes a substitution. Evandro (FC Porto) has had enough and is replaced by Ricardo Quaresma (FC Porto)."
+        },
+        {
+            "gameTime": "2 - 31:50",
+            "label": "substitution",
+            "description": "Paulo Sousa has decided to introduce fresh legs, with Davide Calla (Basel) replacing Shkelzen Gashi."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "",
+            "description": "The linesman raises his flag. Cristian Tello (FC Porto) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 30:18",
+            "label": "soccer-ball",
+            "description": "Vincent Aboubakar (FC Porto) scores a splendid goal as he finishes his great individual effort with a venomous shot from around 20 metres out into the right side of the goal. Take a bow son. The score is now 4:0."
+        },
+        {
+            "gameTime": "2 - 28:28",
+            "label": "substitution",
+            "description": "Substitution. Ruben Neves (FC Porto) in, Yacine Brahimi out."
+        },
+        {
+            "gameTime": "2 - 26:56",
+            "label": "attendance",
+            "description": "The attendance is 40800."
+        },
+        {
+            "gameTime": "2 - 24:17",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 22:59",
+            "label": "",
+            "description": "Cristian Tello (FC Porto) is caught offside!"
+        },
+        {
+            "gameTime": "2 - 19:47",
+            "label": "",
+            "description": "FC Porto seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "gameTime": "2 - 17:31",
+            "label": "substitution",
+            "description": "Substitution. Fabian Frei did his best and is replaced by Yoichiro Kakitani (Basel)."
+        },
+        {
+            "gameTime": "2 - 16:59",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Cristian Tello (FC Porto) takes it short."
+        },
+        {
+            "gameTime": "2 - 16:23",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender. The referee signals a corner kick to FC Porto."
+        },
+        {
+            "gameTime": "2 - 14:43",
+            "label": "",
+            "description": "Luca Zuffi (Basel) fashions a shot from the edge of the box after receiving an accurate pass. Fabiano makes a comfortable save to stop the effort from flying into the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 11:42",
+            "label": "substitution",
+            "description": "Substitution. Fabian Schar makes way for Breel Embolo (Basel)."
+        },
+        {
+            "gameTime": "2 - 10:50",
+            "label": "soccer-ball",
+            "description": "Casemiro (FC Porto) struck with a 28 metre free kick into the top left corner and changes the score of the match. Wonderful goal!"
+        },
+        {
+            "gameTime": "2 - 09:41",
+            "label": "y-card",
+            "description": "Ivan Marcano (FC Porto) sees a yellow! His tackle wasn't that harsh, but he probably talked himself into Jonas Eriksson's book."
+        },
+        {
+            "gameTime": "2 - 09:30",
+            "label": "y-card",
+            "description": "Behrang Safari (Basel) uses the wrong choice of words while trying to explain something to the referee and receives a yellow card for dissent."
+        },
+        {
+            "gameTime": "2 - 08:23",
+            "label": "",
+            "description": "Fabian Frei (Basel) commits an ugly tackle on his opponent, but there is no caution from the referee. A free kick is awarded to FC Porto."
+        },
+        {
+            "gameTime": "2 - 06:30",
+            "label": "",
+            "description": "FC Porto enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "2 - 03:18",
+            "label": "y-card",
+            "description": "Walter Samuel (Basel) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Jonas Eriksson didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 01:55",
+            "label": "soccer-ball",
+            "description": "Goal 2:0! Hector Herrera (FC Porto) gets a shot away from the edge of the box and scores into the bottom right corner. Yacine Brahimi provided an assist for the goal."
+        },
+        {
+            "gameTime": "2 - 00:26",
+            "label": "",
+            "description": "Mohamed Elneny (Basel) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half gets underway."
+        },
+        {
+            "gameTime": "1 - 50:35",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. The first half was definitely edged by the home side. The home side attempts to hold onto the ball for as long as possible, while the away side focuses on defending and lets the opposition keep possession."
+        },
+        {
+            "gameTime": "1 - 50:32",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 50:11",
+            "label": "corner",
+            "description": "The resulting corner from Cristian Tello (FC Porto) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "1 - 49:49",
+            "label": "",
+            "description": "Cristian Tello (FC Porto) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Now FC Porto have a corner."
+        },
+        {
+            "gameTime": "1 - 46:30",
+            "label": "funfact",
+            "description": "7:3 \u2013 this is the current number of shots on target."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 5 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:18",
+            "label": "",
+            "description": "What an opportunity that was! The ball rebounded out to Shkelzen Gashi (Basel), whose shot from the edge of the box goes a whisker wide of the right post."
+        },
+        {
+            "gameTime": "1 - 43:10",
+            "label": "",
+            "description": "Luca Zuffi (Basel) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player."
+        },
+        {
+            "gameTime": "1 - 41:59",
+            "label": "",
+            "description": "Cristian Tello (FC Porto) connects with a cross on the edge of the box, controls the ball and pulls the trigger. Tomas Vaclik makes a beautiful save to deny his effort which would have ended in the bottom right corner."
+        },
+        {
+            "gameTime": "1 - 41:16",
+            "label": "",
+            "description": "A big opportunity is wasted by Derlis Gonzalez (Basel), who makes a yard for himself and produces a mid range rocket of a shot low towards the middle of the goal, but the goalkeeper makes a save."
+        },
+        {
+            "gameTime": "1 - 40:04",
+            "label": "",
+            "description": "The Basel players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up."
+        },
+        {
+            "gameTime": "1 - 37:29",
+            "label": "y-card",
+            "description": "The foul by Derlis Gonzalez (Basel) is worthy of a card and a yellow is duly shown by Jonas Eriksson."
+        },
+        {
+            "gameTime": "1 - 35:58",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 33:59",
+            "label": "",
+            "description": "Cristian Tello (FC Porto) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "1 - 32:45",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) has a sight of goal and shoots from long range but his ambitious effort flies just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 31:25",
+            "label": "",
+            "description": "Marco Streller (Basel) unleashes a shot from 20 metres out but is unable to find the target and it goes high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 31:10",
+            "label": "",
+            "description": "Casemiro (FC Porto) tries his luck with a shot from long distance after receiving a good pass. He hits the ball poorly and sends it into orbit."
+        },
+        {
+            "gameTime": "1 - 29:22",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Shkelzen Gashi (Basel). Jonas Eriksson doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 28:04",
+            "label": "",
+            "description": "The resulting set piece, sent into the penalty area by Luca Zuffi (Basel), was easily dealt with by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 27:45",
+            "label": "",
+            "description": "Casemiro (FC Porto) jumps into a tackle and Jonas Eriksson blows his whistle for a foul. A free kick has been awarded to Basel."
+        },
+        {
+            "gameTime": "1 - 26:18",
+            "label": "",
+            "description": "Hector Herrera (FC Porto) gets into a good shooting position. He wins some space for himself and drills a long range daisy cutter towards the middle of the goal. His good effort is, however, superbly saved by Tomas Vaclik!"
+        },
+        {
+            "gameTime": "1 - 25:59",
+            "label": "corner",
+            "description": "Cristian Tello (FC Porto) decides to take a short corner instead of crossing into the box."
+        },
+        {
+            "gameTime": "1 - 25:53",
+            "label": "",
+            "description": "FC Porto keep the ball well and push forward with purpose, but here comes an interception from the opposition. FC Porto have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 25:45",
+            "label": "",
+            "description": "Bruno Martins Indi (FC Porto) wastes a good opportunity as his pass into the box is blocked by the defence."
+        },
+        {
+            "gameTime": "1 - 24:49",
+            "label": "",
+            "description": "Marco Streller (Basel) trips an opponent with a slide tackle. Jonas Eriksson stops the game and he could give him a card, but eventually decides on just a warning."
+        },
+        {
+            "gameTime": "1 - 21:26",
+            "label": "substitution",
+            "description": "Julen Lopetegui is forced to make a change. Danilo is not able to carry on due to injury. He is replaced by Bruno Martins Indi (FC Porto)."
+        },
+        {
+            "gameTime": "1 - 17:04",
+            "label": "injury",
+            "description": "The game is interrupted now, Danilo (FC Porto) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 14:55",
+            "label": "",
+            "description": "What a great effort! Casemiro (FC Porto) decides to unleash a long range shot. Despite hitting it very well, it scorches inches over the crossbar. We could have witnessed a magnificent goal."
+        },
+        {
+            "gameTime": "1 - 13:24",
+            "label": "soccer-ball",
+            "description": "Yacine Brahimi (FC Porto) takes the free kick from the edge of the box and scores a splendid goal after curling the ball over the wall and into the back of the net!"
+        },
+        {
+            "gameTime": "1 - 13:04",
+            "label": "",
+            "description": "Yacine Brahimi (FC Porto) takes a direct free kick."
+        },
+        {
+            "gameTime": "1 - 11:37",
+            "label": "",
+            "description": "Walter Samuel (Basel) commits a foul after bringing down his opponent with a slide tackle. FC Porto win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "gameTime": "1 - 10:52",
+            "label": "",
+            "description": "Vincent Aboubakar (FC Porto) is picked out by one of his teammates with a brilliant low pass, but he doesn't control the ball well and the defence eliminates the danger without any problem. That should have been a goalscoring opportunity."
+        },
+        {
+            "gameTime": "1 - 08:25",
+            "label": "",
+            "description": "FC Porto play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass."
+        },
+        {
+            "gameTime": "1 - 05:20",
+            "label": "",
+            "description": "Marco Streller (Basel) didn't hesitate to knock his opponent down with a harsh sliding tackle. Jonas Eriksson could probably show him a yellow, but he only goes with blowing the whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 03:22",
+            "label": "",
+            "description": "The game is interrupted as Vincent Aboubakar (FC Porto) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 02:53",
+            "label": "",
+            "description": "Danilo (FC Porto) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 01:01",
+            "label": "",
+            "description": "Taulant Xhaka (Basel) brings his opponent down. Jonas Eriksson has a clear sight of it and blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Basel will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Jonas Eriksson."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The fans in the stadium certainly won't regret buying tickets as they witnessed a great game today. The home side were dominant and dictated the tempo of the game. The home side attempted to hold onto the ball for as long as possible, while the away side focused on defending and let the opposition keep possession."
+        }
+    ],
+    "gameAwayTeam": "Basel",
+    "gameDate": "10/03/2015 - 22:45",
+    "gameHomeTeam": "FC Porto",
+    "gameScore": "4 - 0"
+}

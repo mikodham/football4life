@@ -1,0 +1,565 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:59",
+            "label": "",
+            "description": "What a thrilling encounter, there was plenty of goal mouth action. The hosts were largely in control of the game today. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break."
+        },
+        {
+            "gameTime": "2 - 50:52",
+            "label": "whistle",
+            "description": "There will be no more action in this match as the referee signals full time."
+        },
+        {
+            "gameTime": "2 - 49:11",
+            "label": "",
+            "description": "David Silva (Manchester City) strikes the rebound, but it goes well over the bar."
+        },
+        {
+            "gameTime": "2 - 48:37",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 46:44",
+            "label": "corner",
+            "description": "The resulting corner from Aleksandar Kolarov (Manchester City) only finds one of the defenders, who heads it out of danger."
+        },
+        {
+            "gameTime": "2 - 46:21",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. Manchester City force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "2 - 45:47",
+            "label": "",
+            "description": "Erik Lamela (Tottenham) skips past his man but can't keep the ball in play."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 4 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:07",
+            "label": "",
+            "description": "The defence is alert as they clear a dangerous cross from Raheem Sterling (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 43:46",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Nacer Chadli (Tottenham) will replace Harry Kane."
+        },
+        {
+            "gameTime": "2 - 42:53",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area."
+        },
+        {
+            "gameTime": "2 - 41:56",
+            "label": "",
+            "description": "Aleksandar Kolarov (Manchester City) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "gameTime": "2 - 41:27",
+            "label": "",
+            "description": "Mark Clattenburg interrupts the game for a tactical foul by Erik Lamela (Tottenham). A free kick to Manchester City."
+        },
+        {
+            "gameTime": "2 - 41:18",
+            "label": "",
+            "description": "A cross is clipped into the penalty area by Raheem Sterling (Manchester City) but poses no threat."
+        },
+        {
+            "gameTime": "2 - 40:42",
+            "label": "",
+            "description": "Harry Kane (Tottenham) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post. The ball goes out of play and Manchester City will have a goal kick."
+        },
+        {
+            "gameTime": "2 - 39:55",
+            "label": "",
+            "description": "Some neat passing and movement from Manchester City as they ping around some short passes in order to create a new attacking opportunity."
+        },
+        {
+            "gameTime": "2 - 38:00",
+            "label": "soccer-ball",
+            "description": "Fantastic team goal! Christian Eriksen (Tottenham) was set free in the area by Erik Lamela and made no mistake with a lovely finish into the bottom right corner. 1:2."
+        },
+        {
+            "gameTime": "2 - 36:58",
+            "label": "",
+            "description": "The game is interrupted as Sergio Aguero (Manchester City) is flagged offside."
+        },
+        {
+            "gameTime": "2 - 36:31",
+            "label": "corner",
+            "description": "Raheem Sterling (Manchester City) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "2 - 36:17",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Sergio Aguero (Manchester City). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. The ball is out of play and Manchester City manage to earn a corner."
+        },
+        {
+            "gameTime": "2 - 36:04",
+            "label": "",
+            "description": "David Silva (Manchester City) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "2 - 35:33",
+            "label": "substitution",
+            "description": "Mauricio Pochettino has decided to substitute Dele Alli and he is replaced by Erik Lamela (Tottenham)."
+        },
+        {
+            "gameTime": "2 - 34:10",
+            "label": "",
+            "description": "The foul by Kelechi Iheanacho (Manchester City) was seen by Mark Clattenburg who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "2 - 33:09",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 32:45",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) produces a long range cannon of a shot after a nice pass. The ball heads towards the middle of the goal, but is easily stopped by a save from Hugo Lloris and the score remains the same."
+        },
+        {
+            "gameTime": "2 - 32:38",
+            "label": "",
+            "description": "Some great controlled play and passing from Manchester City. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+        },
+        {
+            "gameTime": "2 - 30:47",
+            "label": "y-card",
+            "description": "Thomas Carroll (Tottenham) sees a yellow card from Mark Clattenburg after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 30:00",
+            "label": "substitution",
+            "description": "Manuel Pellegrini decides to make a substitution. Gael Clichy will be replaced by Aleksandar Kolarov (Manchester City)."
+        },
+        {
+            "gameTime": "2 - 29:00",
+            "label": "soccer-ball",
+            "description": "Goal Kelechi Iheanacho (Manchester City)! Kelechi Iheanacho (Manchester City) was put through by Gael Clichy and he showed brilliant composure inside the box to fire into the top left corner. 1:1."
+        },
+        {
+            "gameTime": "2 - 28:00",
+            "label": "",
+            "description": "Danny Rose (Tottenham) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out."
+        },
+        {
+            "gameTime": "2 - 26:20",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Thomas Carroll (Tottenham) comes onto the pitch so that Heung Min Son can be given a rest."
+        },
+        {
+            "gameTime": "2 - 25:23",
+            "label": "",
+            "description": "Harry Kane (Tottenham) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "2 - 25:00",
+            "label": "injury",
+            "description": "Harry Kane (Tottenham) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "2 - 23:11",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) tries to find Sergio Aguero, but he puts too much power on the pass."
+        },
+        {
+            "gameTime": "2 - 21:35",
+            "label": "",
+            "description": "The game is interrupted, a clear handball by Heung Min Son (Tottenham)."
+        },
+        {
+            "gameTime": "2 - 20:55",
+            "label": "substitution",
+            "description": "It is time for a substitution. Kelechi Iheanacho (Manchester City) is on for Fernando."
+        },
+        {
+            "gameTime": "2 - 20:24",
+            "label": "",
+            "description": "The linesman signals that Sergio Aguero (Manchester City) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 19:40",
+            "label": "",
+            "description": "A cross from the free kick is whipped in by Christian Eriksen (Tottenham), but one of the defenders steps in and averts the threat."
+        },
+        {
+            "gameTime": "2 - 19:03",
+            "label": "",
+            "description": "Gael Clichy (Manchester City) should know this behaviour is beyond the rules. He was too careless with his challenge and left Mark Clattenburg no option but to blow his whistle."
+        },
+        {
+            "gameTime": "2 - 17:30",
+            "label": "",
+            "description": "David Silva (Manchester City) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked."
+        },
+        {
+            "gameTime": "2 - 15:18",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) goes on a mazy run and tries his luck with a mid range strike, but one of the defending players steps in and makes a block."
+        },
+        {
+            "gameTime": "2 - 14:29",
+            "label": "",
+            "description": "Pablo Zabaleta (Manchester City) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+        },
+        {
+            "gameTime": "2 - 13:05",
+            "label": "",
+            "description": "Kevin Wimmer (Tottenham) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation."
+        },
+        {
+            "gameTime": "2 - 11:17",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) tries to beat the goalkeeper from a set piece from some 18 metres out. He's very close, but his effort only bounces off the crossbar!"
+        },
+        {
+            "gameTime": "2 - 10:41",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Kevin Wimmer (Tottenham). Mark Clattenburg doesn't hesitate at all to make this decision. Manchester City are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "2 - 09:32",
+            "label": "",
+            "description": "A dangerous towering header by Fernandinho (Manchester City) from around the penalty spot goes just over the bar. This corner kick didn't change the score."
+        },
+        {
+            "gameTime": "2 - 09:17",
+            "label": "corner",
+            "description": "Manchester City get a corner."
+        },
+        {
+            "gameTime": "2 - 09:10",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) produces a poor pass. He attempts to get the ball into the box but it's hacked away."
+        },
+        {
+            "gameTime": "2 - 08:00",
+            "label": "soccer-ball",
+            "description": "Harry Kane (Tottenham) sends Joe Hart the wrong way and fires the penalty into the middle of the goal!"
+        },
+        {
+            "gameTime": "2 - 07:42",
+            "label": "",
+            "description": "Harry Kane (Tottenham) is going to take the penalty!"
+        },
+        {
+            "gameTime": "2 - 06:59",
+            "label": "penalty",
+            "description": "The referee blows his whistle after Raheem Sterling (Manchester City) does a good impression of a basketball player and handles the ball. It's a penalty! Tottenham have an opportunity to score from the penalty spot."
+        },
+        {
+            "gameTime": "2 - 05:41",
+            "label": "",
+            "description": "Some patient build up play from Tottenham as they look to unlock the defence."
+        },
+        {
+            "gameTime": "2 - 03:46",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) misses a big chance! He fires the ball high over the crossbar from inside the 6 yard box after the ball rebounded to him. The ball is off of the pitch and it's a goal kick for Tottenham."
+        },
+        {
+            "gameTime": "2 - 03:27",
+            "label": "",
+            "description": "A poorly executed mid range free kick by Raheem Sterling (Manchester City) as he fails to deliver a decent cross."
+        },
+        {
+            "gameTime": "2 - 02:48",
+            "label": "",
+            "description": "Mark Clattenburg interrupts the game. One of the players from Tottenham won the ball, but his effort is adjudged unfair. Manchester City earn a free kick."
+        },
+        {
+            "gameTime": "2 - 02:16",
+            "label": "",
+            "description": "Harry Kane (Tottenham) thinks that he is fouled by his opponent, but the referee deems him to be the one who commits a foul and awards a free kick to the other team."
+        },
+        {
+            "gameTime": "2 - 01:00",
+            "label": "y-card",
+            "description": "Mark Clattenburg shows a yellow card to Vincent Kompany (Manchester City) for a tough tackle."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "It wasn't the most inspiring 45 minutes that you'll see this week. Let's hope that the second period will be more exciting. Neither side has gained the upper hand as yet. Both sides are using combination football to try and gain the upper hand."
+        },
+        {
+            "gameTime": "1 - 46:13",
+            "label": "whistle",
+            "description": "The referee blows his whistle for half time, bringing to a close the first 45 minutes of the match."
+        },
+        {
+            "gameTime": "1 - 45:25",
+            "label": "y-card",
+            "description": "The foul by Eric Dier (Tottenham) is worthy of a card and a yellow is duly shown by Mark Clattenburg."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "We will have 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 43:23",
+            "label": "",
+            "description": "Sergio Aguero is not given a chance to finish after receiving a sweet pass by Yaya Toure (Manchester City)."
+        },
+        {
+            "gameTime": "1 - 41:43",
+            "label": "corner",
+            "description": "The corner from Christian Eriksen (Tottenham) is cleared away by the defence."
+        },
+        {
+            "gameTime": "1 - 41:09",
+            "label": "",
+            "description": "Danny Rose (Tottenham) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The referee and one of his assistants signal for a corner kick to Tottenham."
+        },
+        {
+            "gameTime": "1 - 39:54",
+            "label": "",
+            "description": "Eric Dier (Tottenham) sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession."
+        },
+        {
+            "gameTime": "1 - 38:37",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 36:11",
+            "label": "",
+            "description": "Harry Kane (Tottenham) is penalised for a foul. Mark Clattenburg had a clear view and blows his whistle."
+        },
+        {
+            "gameTime": "1 - 34:47",
+            "label": "",
+            "description": "Vincent Kompany (Manchester City) makes a strong challenge and Mark Clattenburg blows for a foul. Tottenham have been awarded a free kick."
+        },
+        {
+            "gameTime": "1 - 34:02",
+            "label": "",
+            "description": "Eric Dier (Tottenham) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands."
+        },
+        {
+            "gameTime": "1 - 33:26",
+            "label": "corner",
+            "description": "Raheem Sterling (Manchester City) launches a cross from the corner, but Hugo Lloris is alert to thwart the effort."
+        },
+        {
+            "gameTime": "1 - 32:58",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) wriggles into space inside the box with excellent ball control, but his effort on goal is well blocked. The linesman points to the corner flag, Manchester City are going to take it."
+        },
+        {
+            "gameTime": "1 - 32:19",
+            "label": "",
+            "description": "Manchester City hold the ball and display nice passing from player to player."
+        },
+        {
+            "gameTime": "1 - 30:29",
+            "label": "",
+            "description": "Kyle Walker (Tottenham) pulls the shirt of his opponent and the referee stops play for a foul."
+        },
+        {
+            "gameTime": "1 - 28:02",
+            "label": "",
+            "description": "Christian Eriksen (Tottenham) shoots after his astonishing individual effort from about 22 metres out towards the right side of the goal, but Joe Hart shows his excellent skills and saves the attempt."
+        },
+        {
+            "gameTime": "1 - 27:41",
+            "label": "",
+            "description": "Danny Rose (Tottenham) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "gameTime": "1 - 25:02",
+            "label": "",
+            "description": "Dangerous play by Fernandinho (Manchester City). Mark Clattenburg blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 23:32",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "1 - 23:22",
+            "label": "",
+            "description": "The free kick is taken by David Silva (Manchester City), but ball is cleared."
+        },
+        {
+            "gameTime": "1 - 22:26",
+            "label": "",
+            "description": "The referee blows his whistle as Kevin Wimmer (Tottenham) was too aggressive in his challenge. Manchester City win a free kick and will be able to apply some pressure on the opposition goal."
+        },
+        {
+            "gameTime": "1 - 21:22",
+            "label": "",
+            "description": "Manchester City are showing great team chemistry. They are passing the ball around seamlessly."
+        },
+        {
+            "gameTime": "1 - 19:14",
+            "label": "",
+            "description": "Gael Clichy (Manchester City) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat."
+        },
+        {
+            "gameTime": "1 - 18:27",
+            "label": "",
+            "description": "Fernandinho (Manchester City) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety."
+        },
+        {
+            "gameTime": "1 - 16:28",
+            "label": "corner",
+            "description": "David Silva (Manchester City) sends the corner into the box, but Hugo Lloris intercepts it and averts the threat."
+        },
+        {
+            "gameTime": "1 - 16:00",
+            "label": "",
+            "description": "David Silva (Manchester City) passes the ball into the box but an opposing player clears. The ball goes behind for a corner. Manchester City will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 15:43",
+            "label": "",
+            "description": "Manchester City take a quick free kick with a short pass and play continues."
+        },
+        {
+            "gameTime": "1 - 15:26",
+            "label": "",
+            "description": "Mark Clattenburg blows his whistle for a foul after Kyle Walker (Tottenham) hacks down one of his opponents. Manchester City are given an advantage. They have a free kick."
+        },
+        {
+            "gameTime": "1 - 15:00",
+            "label": "",
+            "description": "Tottenham keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 13:50",
+            "label": "",
+            "description": "Flag up against Heung Min Son (Tottenham). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "1 - 13:10",
+            "label": "",
+            "description": "Fernando (Manchester City) gives away a foul for a fierce tackle on an opponent."
+        },
+        {
+            "gameTime": "1 - 12:31",
+            "label": "",
+            "description": "Harry Kane (Tottenham) commits a foul after unfairly battling his opponent for the ball."
+        },
+        {
+            "gameTime": "1 - 12:00",
+            "label": "",
+            "description": "Kyle Walker (Tottenham) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "1 - 10:52",
+            "label": "",
+            "description": "David Silva (Manchester City) gets on the ball and beats an opponent, but his run is stopped by the referee Mark Clattenburg who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 10:00",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) wins the ball from the resulting corner but blazes it well over the bar."
+        },
+        {
+            "gameTime": "1 - 09:31",
+            "label": "corner",
+            "description": "Manchester City force their opponents to concede a corner."
+        },
+        {
+            "gameTime": "1 - 09:24",
+            "label": "",
+            "description": "Raheem Sterling (Manchester City) tries to slide the ball through to a teammate but it's well blocked by a defender."
+        },
+        {
+            "gameTime": "1 - 07:46",
+            "label": "corner",
+            "description": "Raheem Sterling (Manchester City) works the corner short."
+        },
+        {
+            "gameTime": "1 - 07:26",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee signals a corner kick to Manchester City."
+        },
+        {
+            "gameTime": "1 - 06:43",
+            "label": "",
+            "description": "A pass by Kyle Walker (Tottenham) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 05:23",
+            "label": "",
+            "description": "Sergio Aguero (Manchester City) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 04:35",
+            "label": "",
+            "description": "Danny Rose (Tottenham) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "1 - 03:24",
+            "label": "",
+            "description": "Yaya Toure (Manchester City) was trying to get to the ball but clattered into the legs of the opponent as well. Mark Clattenburg blows his whistle for an infringement."
+        },
+        {
+            "gameTime": "1 - 02:55",
+            "label": "",
+            "description": "A player from Tottenham commits an attacking foul. The referee blows his whistle."
+        },
+        {
+            "gameTime": "1 - 02:07",
+            "label": "",
+            "description": "Fernando (Manchester City) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. Tottenham are awarded a free kick. Let's see what they create from this."
+        },
+        {
+            "gameTime": "1 - 00:53",
+            "label": "",
+            "description": "Danny Rose (Tottenham) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "Here we go, today's match is starting right now."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Tottenham will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Let us introduce today's referee to you, and it's Mark Clattenburg."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "Both teams starting lineups are available now, so you can have a look at them."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "What a thrilling encounter, there was plenty of goal mouth action. The hosts were largely in control of the game today. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break."
+        }
+    ],
+    "gameAwayTeam": "Tottenham",
+    "gameDate": "14/02/2016 - 19:15",
+    "gameHomeTeam": "Manchester City",
+    "gameScore": "1 - 2"
+}

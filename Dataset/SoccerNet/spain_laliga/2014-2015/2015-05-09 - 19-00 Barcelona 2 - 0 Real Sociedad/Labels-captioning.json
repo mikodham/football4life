@@ -1,0 +1,490 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2014-2015/2015-05-09 - 19-00 Barcelona 2 - 0 Real Sociedad/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "What a thrilling encounter, there was plenty of goal mouth action. The home side were superior in this game. It was obvious that the hosts tried to outplay their opponents with some passing football, while the visitors focused on counter attacking play."
+        },
+        {
+            "gameTime": "2 - 48:22",
+            "label": "whistle",
+            "description": "The match has just finished."
+        },
+        {
+            "gameTime": "2 - 47:34",
+            "label": "corner",
+            "description": "Chory Castro (Real Sociedad) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "2 - 47:31",
+            "label": "",
+            "description": "Alberto De La Bella (Real Sociedad) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. Real Sociedad force a corner. They send men into the box."
+        },
+        {
+            "gameTime": "2 - 47:05",
+            "label": "substitution",
+            "description": "Here comes a substitution. Aritz Elustondo is brought on as a substitute for Esteban Granero (Real Sociedad)."
+        },
+        {
+            "gameTime": "2 - 46:45",
+            "label": "funfact",
+            "description": "The total shots for both teams statistics \u2013 15:5."
+        },
+        {
+            "gameTime": "2 - 45:15",
+            "label": "",
+            "description": "Alfred Finnbogason (Real Sociedad) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "We will have 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:02",
+            "label": "",
+            "description": "Neymar (Barcelona) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away."
+        },
+        {
+            "gameTime": "2 - 41:54",
+            "label": "",
+            "description": "Barcelona are bossing possession at the moment by exchanging some precise passes from player to player."
+        },
+        {
+            "gameTime": "2 - 39:48",
+            "label": "soccer-ball",
+            "description": "What a hit! Pedro (Barcelona) shows good composure inside the box to fire a first time shot into the top of the net. 2:0."
+        },
+        {
+            "gameTime": "2 - 39:47",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fails to find any of his teammates inside the box as his pass is blocked."
+        },
+        {
+            "gameTime": "2 - 39:35",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) produces a ferocious strike from the edge of the box. His dangerous effort towards the right post is blocked by Geronimo Rulli, who pulls off a superb save to keep the ball out of the net."
+        },
+        {
+            "gameTime": "2 - 36:57",
+            "label": "substitution",
+            "description": "It's time for a substitution. Pedro (Barcelona) comes on in place of Rafinha."
+        },
+        {
+            "gameTime": "2 - 35:01",
+            "label": "",
+            "description": "Real Sociedad seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities."
+        },
+        {
+            "gameTime": "2 - 33:58",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 33:48",
+            "label": "funfact",
+            "description": "65:35 \u2013 the ratio of ball possession."
+        },
+        {
+            "gameTime": "2 - 31:39",
+            "label": "substitution",
+            "description": "Substitution. Alfred Finnbogason (Real Sociedad) in, Carlos Vela out."
+        },
+        {
+            "gameTime": "2 - 30:49",
+            "label": "y-card",
+            "description": "Ignacio Iglesias Villanueva blows his whistle after Ruben Pardo (Real Sociedad) kicks an opponent's legs instead of the ball. The game is interrupted because of a yellow card that is shown to Ruben Pardo (Real Sociedad)."
+        },
+        {
+            "gameTime": "2 - 28:11",
+            "label": "substitution",
+            "description": "Luis Enrique has decided to introduce fresh legs, with Andres Iniesta (Barcelona) replacing Xavi."
+        },
+        {
+            "gameTime": "2 - 27:45",
+            "label": "substitution",
+            "description": "Today's match ends for Sergio Canales who will be replaced by Chory Castro (Real Sociedad)."
+        },
+        {
+            "gameTime": "2 - 27:36",
+            "label": "",
+            "description": "The linesman signals that Luis Suarez (Barcelona) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 25:29",
+            "label": "",
+            "description": "Barcelona hold the ball and are exchanging some long passes."
+        },
+        {
+            "gameTime": "2 - 24:13",
+            "label": "",
+            "description": "Flag goes up against Carlos Vela (Real Sociedad) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 21:52",
+            "label": "",
+            "description": "A crossfield pass from Alberto De La Bella (Real Sociedad) fails to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 20:38",
+            "label": "funfact",
+            "description": "The current number of shots on goal is 8:1."
+        },
+        {
+            "gameTime": "2 - 17:49",
+            "label": "y-card",
+            "description": "The referee demonstrates he won't tolerate this behaviour. Javier Mascherano (Barcelona) is given a yellow card."
+        },
+        {
+            "gameTime": "2 - 17:28",
+            "label": "corner",
+            "description": "Xavi (Barcelona) decides to speed play up with a short corner kick."
+        },
+        {
+            "gameTime": "2 - 17:21",
+            "label": "",
+            "description": "Barcelona are playing some nice combination football, sending it precisely from player to player, but a defender shows good anticipation and ends the move with a good block. The ball is out of play. A goal scoring opportunity from a corner for Barcelona."
+        },
+        {
+            "gameTime": "2 - 16:26",
+            "label": "y-card",
+            "description": "Ignacio Iglesias Villanueva has issued a yellow card to Geronimo Rulli (Real Sociedad)."
+        },
+        {
+            "gameTime": "2 - 15:54",
+            "label": "substitution",
+            "description": "That will be all from Marc Bartra who is being replaced by the fresh legs of Sergio Busquets (Barcelona)."
+        },
+        {
+            "gameTime": "2 - 15:52",
+            "label": "",
+            "description": "Inigo Martinez (Real Sociedad) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 14:10",
+            "label": "",
+            "description": "Xavi (Barcelona) sends a long ball across the pitch, but it misses its target."
+        },
+        {
+            "gameTime": "2 - 13:25",
+            "label": "attendance",
+            "description": "The attendance for today's match is 86047."
+        },
+        {
+            "gameTime": "2 - 11:39",
+            "label": "",
+            "description": "Carlos Martinez (Real Sociedad) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now."
+        },
+        {
+            "gameTime": "2 - 10:22",
+            "label": "injury",
+            "description": "The game is interrupted now, Carlos Martinez (Real Sociedad) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "2 - 10:02",
+            "label": "",
+            "description": "Neymar (Barcelona) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Ignacio Iglesias Villanueva blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "gameTime": "2 - 08:35",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is offside and the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 05:49",
+            "label": "soccer-ball",
+            "description": "Neymar (Barcelona) leaps to connect with a delightful cross and places his sweet header inside the left post. The goalkeeper had no chance to make a save."
+        },
+        {
+            "gameTime": "2 - 05:25",
+            "label": "corner",
+            "description": "Xavi (Barcelona) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "2 - 04:47",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) finds himself in a promising position after receiving a clever chip pass, but one of the defending players comes up with a timely interception. The referee points to the corner flag. It's a corner to Barcelona."
+        },
+        {
+            "gameTime": "2 - 04:13",
+            "label": "corner",
+            "description": "Nothing comes of the resulting corner from Xavi (Barcelona). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "2 - 03:51",
+            "label": "corner",
+            "description": "Xavi (Barcelona) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. Now Barcelona have a corner."
+        },
+        {
+            "gameTime": "2 - 03:22",
+            "label": "corner",
+            "description": "Xavi (Barcelona) takes the corner, but the opposition's defence is ready and clears the ball to safety. The ball is out of play and the linesman points at the corner flag. Corner to Barcelona."
+        },
+        {
+            "gameTime": "2 - 02:37",
+            "label": "",
+            "description": "Marc Bartra (Barcelona) jumps inside the box to meet the corner and aims a header into the top right corner, but the goalkeeper pulls off an astonishing save to deny him. It will be a corner kick for Barcelona."
+        },
+        {
+            "gameTime": "2 - 02:11",
+            "label": "corner",
+            "description": "Xavi (Barcelona) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "2 - 01:59",
+            "label": "",
+            "description": "Dani Alves (Barcelona) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well organized defence. Barcelona win a corner."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Ignacio Iglesias Villanueva blows his whistle and the second half starts."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "There has been no time for the supporters to get bored during an eventful opening 45 minutes. Both teams provided some breathtaking moments. The home side is dominant and dictating the tempo of the game, mainly because of their work rate and accurate passing. The home team makes a lot of passes and attempts to maintain possession. As for the away side, it's obvious that defence has the highest priority for them."
+        },
+        {
+            "gameTime": "1 - 45:08",
+            "label": "whistle",
+            "description": "Ignacio Iglesias Villanueva has ended the first half by blowing the whistle."
+        },
+        {
+            "gameTime": "1 - 44:22",
+            "label": "",
+            "description": "What an opportunity! Dani Alves (Barcelona) picked the ball up and fired a projectile of a shot from long range which threatened the goalkeeper. The shot went painfully close to the left post!"
+        },
+        {
+            "gameTime": "1 - 44:04",
+            "label": "",
+            "description": "Esteban Granero (Real Sociedad) swings a cross into the box, but it's far too close to Claudio Bravo, who smothers the ball."
+        },
+        {
+            "gameTime": "1 - 42:18",
+            "label": "",
+            "description": "Barcelona enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike."
+        },
+        {
+            "gameTime": "1 - 40:51",
+            "label": "",
+            "description": "Neymar (Barcelona) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 40:05",
+            "label": "corner",
+            "description": "Xavi (Barcelona) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "1 - 39:49",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The ball is out of play. Barcelona win a corner kick."
+        },
+        {
+            "gameTime": "1 - 38:02",
+            "label": "",
+            "description": "The game is interrupted as Sergio Canales (Real Sociedad) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 37:25",
+            "label": "",
+            "description": "Rafinha (Barcelona) plays a through ball but overhits it."
+        },
+        {
+            "gameTime": "1 - 36:18",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 35:49",
+            "label": "corner",
+            "description": "The corner from Esteban Granero (Real Sociedad) is intercepted by Claudio Bravo."
+        },
+        {
+            "gameTime": "1 - 34:42",
+            "label": "",
+            "description": "Markel Bergara (Real Sociedad) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The ball goes out of play and Real Sociedad have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 33:31",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) blows a huge opportunity! He latches on to a perfect cross from the wing into the penalty area, but sends his bullet header just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 32:04",
+            "label": "",
+            "description": "Neymar (Barcelona) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 30:43",
+            "label": "",
+            "description": "Ignacio Iglesias Villanueva blows the whistle, Xabi Prieto (Real Sociedad) is penalised for a foul. Barcelona are awarded a free kick from a dangerous position."
+        },
+        {
+            "gameTime": "1 - 28:53",
+            "label": "y-card",
+            "description": "Markel Bergara (Real Sociedad) is penalised."
+        },
+        {
+            "gameTime": "1 - 28:01",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Geronimo Rulli is alert and denies him. Gerard Pique (Barcelona) is furious with himself as he misses a clear opportunity. He sends a rebound a few inches wide of the right post."
+        },
+        {
+            "gameTime": "1 - 27:59",
+            "label": "",
+            "description": "Xavi (Barcelona) fails to beat the offside trap and the linesman puts his flag up."
+        },
+        {
+            "gameTime": "1 - 27:57",
+            "label": "corner",
+            "description": "Xavi (Barcelona) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "1 - 27:38",
+            "label": "",
+            "description": "A cross from Adriano (Barcelona) fails to reach the box as the defence clears the ball away to safety. Barcelona have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 26:50",
+            "label": "y-card",
+            "description": "Alberto De La Bella (Real Sociedad) escapes without any punishment from the referee after using excessive force to foul his opponent. The yellow card goes to Alberto De La Bella (Real Sociedad)."
+        },
+        {
+            "gameTime": "1 - 25:59",
+            "label": "y-card",
+            "description": "Ignacio Iglesias Villanueva interrupts the game for a tactical foul by Esteban Granero (Real Sociedad). The referee shows the yellow card to Esteban Granero (Real Sociedad)."
+        },
+        {
+            "gameTime": "1 - 24:25",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Neymar (Barcelona) heads on."
+        },
+        {
+            "gameTime": "1 - 22:36",
+            "label": "",
+            "description": "Flag up against Sergio Canales (Real Sociedad). He had space to move into behind the defence, but he went too soon."
+        },
+        {
+            "gameTime": "1 - 20:40",
+            "label": "",
+            "description": "Neymar (Barcelona) breaks past challenges inside the box, but puts too much pace on his pass to Lionel Messi."
+        },
+        {
+            "gameTime": "1 - 19:30",
+            "label": "",
+            "description": "Neymar (Barcelona) did his best to latch on to a crossfield pass, but it was too long and it goes out of play."
+        },
+        {
+            "gameTime": "1 - 17:43",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) sends a teasing cross into the area, but Geronimo Rulli intercepts the ball."
+        },
+        {
+            "gameTime": "1 - 16:50",
+            "label": "",
+            "description": "Ruben Pardo (Real Sociedad) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "1 - 16:13",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) sends a cross into the box, but Geronimo Rulli comes off his line to gather the ball."
+        },
+        {
+            "gameTime": "1 - 15:33",
+            "label": "",
+            "description": "The ball is cleared after Sergio Canales (Real Sociedad) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "1 - 15:09",
+            "label": "",
+            "description": "Barcelona control the tempo of the game by exchanging some accurate short passes."
+        },
+        {
+            "gameTime": "1 - 12:20",
+            "label": "",
+            "description": "Neymar (Barcelona) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Geronimo Rulli is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "1 - 11:48",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 09:02",
+            "label": "",
+            "description": "Dani Alves swings the cross over. Luis Suarez (Barcelona) gets his head to it but it goes just wide of the left post."
+        },
+        {
+            "gameTime": "1 - 08:35",
+            "label": "corner",
+            "description": "The resulting corner from Xavi (Barcelona) is cleared by the defence."
+        },
+        {
+            "gameTime": "1 - 08:26",
+            "label": "corner",
+            "description": "Xavi (Barcelona) steps up to take the corner, but the ball just sails in among the defenders. The ball goes out for a corner. Barcelona can continue in their attacking effort."
+        },
+        {
+            "gameTime": "1 - 07:19",
+            "label": "",
+            "description": "Lionel Messi (Barcelona) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the roof of the net is denied by a decent save from Geronimo Rulli. The linesman makes the right call and Barcelona will have a corner."
+        },
+        {
+            "gameTime": "1 - 04:26",
+            "label": "corner",
+            "description": "Esteban Granero (Real Sociedad) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "1 - 03:43",
+            "label": "",
+            "description": "Sergio Canales (Real Sociedad) sends the ball into the box from the side of the pitch, but his cross is blocked. The referee points to the corner flag and Real Sociedad will take a corner."
+        },
+        {
+            "gameTime": "1 - 02:27",
+            "label": "",
+            "description": "Dani Alves (Barcelona) flights in the cross, but the defender is alert and clears to safety."
+        },
+        {
+            "gameTime": "1 - 01:04",
+            "label": "",
+            "description": "Great teamplay by Barcelona as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Barcelona will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Ignacio Iglesias Villanueva will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "We now know the starting lineups. You can find them in the match details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text commentary, ladies and gentleman! The starting lineups will be announced very soon, so just sit back and get ready to enjoy the action."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "What a thrilling encounter, there was plenty of goal mouth action. The home side were superior in this game. It was obvious that the hosts tried to outplay their opponents with some passing football, while the visitors focused on counter attacking play."
+        }
+    ],
+    "gameAwayTeam": "Real Sociedad",
+    "gameDate": "09/05/2015 - 19:00",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "2 - 0"
+}

@@ -1,0 +1,585 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The game was pretty even. The home team tried to prevail using combination football unlike the away players who attempted to beat the opposition's defence using mostly counter attacks."
+        },
+        {
+            "gameTime": "2 - 48:08",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 47:04",
+            "label": "",
+            "description": "Neymar (Barcelona) takes the free kick and immediately restarts play with a short pass."
+        },
+        {
+            "gameTime": "2 - 46:58",
+            "label": "",
+            "description": "Roberto Hilbert (Bayer Leverkusen) pulls the shirt of his opponent and the referee stops play for a foul. It's a free kick to Barcelona, but they probably won't attempt a direct shot on goal from here."
+        },
+        {
+            "gameTime": "2 - 45:56",
+            "label": "",
+            "description": "Munir El Haddadi (Barcelona) commits a foul after unfairly pressing his opponent during an attacking move."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 43:04",
+            "label": "y-card",
+            "description": "Kevin Kampl (Bayer Leverkusen) sees a yellow card from Martin Atkinson after he sent one of the opposing players to the ground."
+        },
+        {
+            "gameTime": "2 - 42:03",
+            "label": "",
+            "description": "The ball is cleared after Stefan Kiessling (Bayer Leverkusen) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 41:42",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) brings down his opponent with a very late tackle."
+        },
+        {
+            "gameTime": "2 - 40:45",
+            "label": "",
+            "description": "What a chance that is! Munir El Haddadi (Barcelona) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the left post."
+        },
+        {
+            "gameTime": "2 - 40:28",
+            "label": "",
+            "description": "Lars Bender (Bayer Leverkusen) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+        },
+        {
+            "gameTime": "2 - 39:25",
+            "label": "",
+            "description": "Poor challenge! Luis Suarez (Barcelona) is penalised for tripping and Martin Atkinson blows his whistle."
+        },
+        {
+            "gameTime": "2 - 36:45",
+            "label": "soccer-ball",
+            "description": "Luis Suarez (Barcelona) scores a goal! He picks up a sweet pass and coolly slots the ball into the top right corner."
+        },
+        {
+            "gameTime": "2 - 35:10",
+            "label": "",
+            "description": "Dani Alves (Barcelona) makes a slide tackle, but referee Martin Atkinson blows for a foul."
+        },
+        {
+            "gameTime": "2 - 34:50",
+            "label": "soccer-ball",
+            "description": "Goal! The rebound fell to Sergi Roberto (Barcelona) and he fired home from close range. The score is 1:1."
+        },
+        {
+            "gameTime": "2 - 34:40",
+            "label": "",
+            "description": "Great touch by Munir El Haddadi (Barcelona) as he receives a precise pass deep inside the box and rips a shot goalwards, but the keeper pulls off an amazing save!"
+        },
+        {
+            "gameTime": "2 - 33:53",
+            "label": "",
+            "description": "Neymar (Barcelona) finds himself in a promising position after receiving a precise pass. He pulls the trigger but only hits one of the opposition, who gets in the way of his effort."
+        },
+        {
+            "gameTime": "2 - 33:16",
+            "label": "",
+            "description": "Flag goes up against Julian Brandt (Bayer Leverkusen) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 32:41",
+            "label": "",
+            "description": "Munir El Haddadi (Barcelona) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "2 - 30:54",
+            "label": "",
+            "description": "Neymar (Barcelona) receives a well played pass inside the penalty area and shoots. His effort sails well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 30:22",
+            "label": "substitution",
+            "description": "The referee signals that it is time for a substitution and Roberto Hilbert (Bayer Leverkusen) comes onto the pitch so that Giulio Donati can be given a rest."
+        },
+        {
+            "gameTime": "2 - 29:40",
+            "label": "y-card",
+            "description": "Jordi Alba (Barcelona) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Martin Atkinson ignores the protests."
+        },
+        {
+            "gameTime": "2 - 29:14",
+            "label": "",
+            "description": "Jordi Alba (Barcelona) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 27:20",
+            "label": "",
+            "description": "Wow, what an escape. Neymar (Barcelona) has an effort from inside the box but it's brilliantly blocked."
+        },
+        {
+            "gameTime": "2 - 26:23",
+            "label": "substitution",
+            "description": "Here comes a substitution. Sergi Roberto (Barcelona) is brought on as a substitute for Ivan Rakitic."
+        },
+        {
+            "gameTime": "2 - 25:29",
+            "label": "",
+            "description": "Gerard Pique (Barcelona) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by Bernd Leno, who pulls off a comfortable save!"
+        },
+        {
+            "gameTime": "2 - 25:11",
+            "label": "corner",
+            "description": "Neymar (Barcelona) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger."
+        },
+        {
+            "gameTime": "2 - 24:49",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender. Barcelona have a corner."
+        },
+        {
+            "gameTime": "2 - 23:32",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) is flagged for offside."
+        },
+        {
+            "gameTime": "2 - 23:18",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Hakan Calhanoglu (Bayer Leverkusen) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "2 - 22:37",
+            "label": "y-card",
+            "description": "Kyriakos Papadopoulos (Bayer Leverkusen) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Martin Atkinson didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 21:01",
+            "label": "",
+            "description": "Stefan Kiessling (Bayer Leverkusen) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "2 - 20:12",
+            "label": "substitution",
+            "description": "Roger Schmidt prepares a substitution. Karim Bellarabi is replaced by Julian Brandt (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 19:00",
+            "label": "",
+            "description": "Close! Neymar (Barcelona) takes the resulting free kick from a promising positon, but his effort flies inches wide of the right post."
+        },
+        {
+            "gameTime": "2 - 18:09",
+            "label": "y-card",
+            "description": "A yellow card is awarded to Hakan Calhanoglu (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 17:22",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Munir El Haddadi (Barcelona) coming on for Sandro Ramirez."
+        },
+        {
+            "gameTime": "2 - 15:55",
+            "label": "",
+            "description": "Neymar (Barcelona) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger."
+        },
+        {
+            "gameTime": "2 - 15:41",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) jumps into a tackle and Martin Atkinson blows his whistle for a foul. Barcelona earn a free kick."
+        },
+        {
+            "gameTime": "2 - 14:03",
+            "label": "substitution",
+            "description": "Problems for Luis Enrique as Andres Iniesta is not able to play anymore. His injury is too serious and Jordi Alba (Barcelona) replaces him."
+        },
+        {
+            "gameTime": "2 - 12:51",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+        },
+        {
+            "gameTime": "2 - 12:42",
+            "label": "",
+            "description": "Barcelona play a few nice passes from player to player, but their possession doesn't last long as an opposition player intercepts a pass. The ball goes out of play and Barcelona have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 12:25",
+            "label": "",
+            "description": "Neymar (Barcelona) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post."
+        },
+        {
+            "gameTime": "2 - 11:12",
+            "label": "",
+            "description": "The defence had a hard time blocking out the strike from Ivan Rakitic (Barcelona). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate."
+        },
+        {
+            "gameTime": "2 - 10:45",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Andres Iniesta (Barcelona) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "2 - 10:30",
+            "label": "",
+            "description": "A lofted cross from Jeremy Mathieu (Barcelona) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area."
+        },
+        {
+            "gameTime": "2 - 09:44",
+            "label": "",
+            "description": "The ball is cleared after Kevin Kampl (Bayer Leverkusen) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 09:06",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Chicharito leaves the pitch and Stefan Kiessling (Bayer Leverkusen) comes on."
+        },
+        {
+            "gameTime": "2 - 07:38",
+            "label": "",
+            "description": "Marc Andre ter Stegen is alert and has a clear sight of a long through ball from Kevin Kampl (Bayer Leverkusen). Easy save!"
+        },
+        {
+            "gameTime": "2 - 06:31",
+            "label": "",
+            "description": "Close! Sandro Ramirez (Barcelona) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post."
+        },
+        {
+            "gameTime": "2 - 05:41",
+            "label": "",
+            "description": "Martin Atkinson interrupts the game for a tactical foul by Karim Bellarabi (Bayer Leverkusen)."
+        },
+        {
+            "gameTime": "2 - 04:28",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar."
+        },
+        {
+            "gameTime": "2 - 02:20",
+            "label": "",
+            "description": "Andres Iniesta (Barcelona) attempts to slip the ball through the defence, but is unable to find any of his teammates."
+        },
+        {
+            "gameTime": "2 - 01:03",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Martin Atkinson blows his whistle and the second half starts."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "There was plenty of entertainment during the first 45 minutes. Hopefully more of the same in the second half. The game is quite balanced. The home players have grown in confidence and started to string some passes together. The visiting side have relied on their defence and counter attacks."
+        },
+        {
+            "gameTime": "1 - 47:08",
+            "label": "whistle",
+            "description": "The match has reached half time."
+        },
+        {
+            "gameTime": "1 - 46:11",
+            "label": "",
+            "description": "Neymar (Barcelona) slides a pass forward, but one of the defenders cuts it out."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "2 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "1 - 44:32",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) sends a long ball in, but Marc Andre ter Stegen comfortably gathers the ball."
+        },
+        {
+            "gameTime": "1 - 42:36",
+            "label": "",
+            "description": "Neymar (Barcelona) produces a lovely chip pass into the box, but one of the opposition players cuts it out."
+        },
+        {
+            "gameTime": "1 - 42:05",
+            "label": "",
+            "description": "An opponent rises to his feet after being downed by Jonathan Tah (Bayer Leverkusen). Martin Atkinson saw the sliding tackle and blows for a foul."
+        },
+        {
+            "gameTime": "1 - 41:28",
+            "label": "",
+            "description": "Bernd Leno reacts well to deny a long range free kick from Ivan Rakitic (Barcelona) towards the top left corner."
+        },
+        {
+            "gameTime": "1 - 40:12",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Lars Bender (Bayer Leverkusen). Martin Atkinson doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "1 - 39:21",
+            "label": "corner",
+            "description": "Ivan Rakitic (Barcelona) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 39:06",
+            "label": "",
+            "description": "Sandro Ramirez (Barcelona) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. Good work from Barcelona as they win a corner."
+        },
+        {
+            "gameTime": "1 - 38:19",
+            "label": "",
+            "description": "Neymar (Barcelona) expertly controls a neat clever pass inside the box, but his effort crashes against the right post! What an opportunity that was!"
+        },
+        {
+            "gameTime": "1 - 36:39",
+            "label": "y-card",
+            "description": "Neymar (Barcelona) picks up a yellow card."
+        },
+        {
+            "gameTime": "1 - 35:49",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) unleashes a promising shot towards the roof of the net after his wonderful solo run, but Marc Andre ter Stegen thwarts the effort with a fabulous save. The score remains the same."
+        },
+        {
+            "gameTime": "1 - 35:10",
+            "label": "",
+            "description": "The linesman signals that Neymar (Barcelona) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "1 - 34:44",
+            "label": "",
+            "description": "A long pass, executed by Karim Bellarabi (Bayer Leverkusen), missed the precision to reach his teammates."
+        },
+        {
+            "gameTime": "1 - 33:25",
+            "label": "",
+            "description": "Wendell (Bayer Leverkusen) has picked up a minor injury, but it looks like he will be able to continue."
+        },
+        {
+            "gameTime": "1 - 32:24",
+            "label": "injury",
+            "description": "Wendell (Bayer Leverkusen) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+        },
+        {
+            "gameTime": "1 - 30:53",
+            "label": "",
+            "description": "Sandro Ramirez (Barcelona) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "1 - 29:55",
+            "label": "y-card",
+            "description": "The foul by Javier Mascherano (Barcelona) is worthy of a card and a yellow is duly shown by Martin Atkinson."
+        },
+        {
+            "gameTime": "1 - 29:32",
+            "label": "",
+            "description": "Javier Mascherano (Barcelona) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "1 - 29:23",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) seems to be alright and is okay to carry on."
+        },
+        {
+            "gameTime": "1 - 28:26",
+            "label": "injury",
+            "description": "The game is interrupted now, Javier Mascherano (Barcelona) picks up a knock and the physio has to come on."
+        },
+        {
+            "gameTime": "1 - 28:04",
+            "label": "injury",
+            "description": "Karim Bellarabi (Bayer Leverkusen) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+        },
+        {
+            "gameTime": "1 - 27:19",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) tries to send a pass but it's blocked."
+        },
+        {
+            "gameTime": "1 - 26:12",
+            "label": "",
+            "description": "Martin Atkinson blows his whistle and it's Karim Bellarabi (Bayer Leverkusen) who is penalised for an offensive foul. Good decision by the referee."
+        },
+        {
+            "gameTime": "1 - 24:54",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 23:30",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 21:21",
+            "label": "soccer-ball",
+            "description": "Kyriakos Papadopoulos (Bayer Leverkusen) jumped highest to meet a perfectly executed corner kick by Hakan Calhanoglu. His header was precise and ended up in the back of the net, leaving the goalkeeper flapping in the wind. The score is 0:0."
+        },
+        {
+            "gameTime": "1 - 21:10",
+            "label": "corner",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) takes the ball to the corner flag and sends it into the box."
+        },
+        {
+            "gameTime": "1 - 21:03",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Karim Bellarabi (Bayer Leverkusen). The ball goes out of play. Bayer Leverkusen are awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 20:33",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention."
+        },
+        {
+            "gameTime": "1 - 19:23",
+            "label": "",
+            "description": "Another attempt to send the ball beyond the defence by Andres Iniesta (Barcelona) is thwarted and cleared to safety."
+        },
+        {
+            "gameTime": "1 - 18:52",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender."
+        },
+        {
+            "gameTime": "1 - 18:12",
+            "label": "",
+            "description": "Kevin Kampl (Bayer Leverkusen) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post."
+        },
+        {
+            "gameTime": "1 - 17:29",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) commits a foul and Martin Atkinson immediately signals a free kick."
+        },
+        {
+            "gameTime": "1 - 17:12",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "1 - 15:36",
+            "label": "",
+            "description": "Christoph Kramer (Bayer Leverkusen) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+        },
+        {
+            "gameTime": "1 - 14:40",
+            "label": "",
+            "description": "The game is interrupted as Chicharito (Bayer Leverkusen) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 14:03",
+            "label": "",
+            "description": "Luis Suarez (Barcelona) attempted to pick out a free teammate inside the box, but Bernd Leno comes off the line to clear the ball away."
+        },
+        {
+            "gameTime": "1 - 13:31",
+            "label": "",
+            "description": "Half chance! Luis Suarez (Barcelona) plays a pass into the box, but Bernd Leno reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "1 - 12:38",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) receives a precise pass on the edge of the box and has an effort on goal. Unfortunately for him, his strike flies inches high over the bar."
+        },
+        {
+            "gameTime": "1 - 11:24",
+            "label": "",
+            "description": "Dani Alves (Barcelona) commits an ugly tackle on his opponent, but there is no caution from the referee."
+        },
+        {
+            "gameTime": "1 - 09:34",
+            "label": "",
+            "description": "Sandro Ramirez (Barcelona) latches on to a precise pass and one on one with the keeper slams the ball towards the left hand post. Bernd Leno is alert, though, and leaps like a salmon to deny him."
+        },
+        {
+            "gameTime": "1 - 09:18",
+            "label": "",
+            "description": "Giulio Donati (Bayer Leverkusen) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Martin Atkinson blows for the foul but keeps his cards in his pocket on this occasion."
+        },
+        {
+            "gameTime": "1 - 08:30",
+            "label": "",
+            "description": "Hakan Calhanoglu (Bayer Leverkusen) takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball."
+        },
+        {
+            "gameTime": "1 - 07:58",
+            "label": "",
+            "description": "Dani Alves (Barcelona) commits a foul after making a slide tackle on his opponent."
+        },
+        {
+            "gameTime": "1 - 05:39",
+            "label": "",
+            "description": "Giulio Donati (Bayer Leverkusen) brings an opponent down and Martin Atkinson interrupts the game."
+        },
+        {
+            "gameTime": "1 - 04:32",
+            "label": "",
+            "description": "Ivan Rakitic (Barcelona) after a cross wins the header inside the box and steers it goalwards, but Bernd Leno produces a wonderful reflex save."
+        },
+        {
+            "gameTime": "1 - 03:31",
+            "label": "",
+            "description": "Karim Bellarabi (Bayer Leverkusen) gets on the ball and beats an opponent, but his run is stopped by the referee Martin Atkinson who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 02:54",
+            "label": "corner",
+            "description": "Neymar (Barcelona) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+        },
+        {
+            "gameTime": "1 - 02:41",
+            "label": "",
+            "description": "Sandro Ramirez (Barcelona) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Barcelona have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 01:58",
+            "label": "",
+            "description": "The linesman raises his flag for offside before Luis Suarez (Barcelona) heads on."
+        },
+        {
+            "gameTime": "1 - 01:07",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) came close to scoring. He connected with a pass inside the box and perhaps should have done better than direct his shot straight at Marc Andre ter Stegen."
+        },
+        {
+            "gameTime": "1 - 00:44",
+            "label": "",
+            "description": "Chicharito (Bayer Leverkusen) fails to send a pass into the box as his effort is cut out."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half of this match is about to start."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out at last! Barcelona will take the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Martin Atkinson is the one to supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello and welcome to our live text commentary! We will provide you with instant updates of everything that happens in the match. The starting lineups will be announced very soon."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We have seen a great game today, let's hope the players will be able to maintain these high levels of play in order to keep fans entertained in future games. The game was pretty even. The home team tried to prevail using combination football unlike the away players who attempted to beat the opposition's defence using mostly counter attacks."
+        }
+    ],
+    "gameAwayTeam": "Bayer Leverkusen",
+    "gameDate": "29/09/2015 - 21:45",
+    "gameHomeTeam": "Barcelona",
+    "gameScore": "2 - 1"
+}

@@ -1,0 +1,425 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/europe_uefa-champions-league/2015-2016/2016-04-05 - 21-45 Bayern Munich 1 - 0 Benfica/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 49:59",
+            "label": "",
+            "description": "We were witnesses to an uneventful game without many stirring moments. There is definitely room for improvement in future games. Bayern Munich were dominant and more threatening of the two sides. It was a fairly one sided match. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break."
+        },
+        {
+            "gameTime": "2 - 49:58",
+            "label": "whistle",
+            "description": "Nothing more will happen in this game as the referee blows for full time."
+        },
+        {
+            "gameTime": "2 - 47:50",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates."
+        },
+        {
+            "gameTime": "2 - 45:15",
+            "label": "substitution",
+            "description": "Rui Vitoria prepares a substitution. Pizzi is replaced by Andreas Samaris (Benfica)."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "5 min. of stoppage time to be played."
+        },
+        {
+            "gameTime": "2 - 43:44",
+            "label": "",
+            "description": "A pass by Robert Lewandowski (Bayern Munich) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "2 - 41:40",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging."
+        },
+        {
+            "gameTime": "2 - 39:42",
+            "label": "substitution",
+            "description": "The substitution is prepared. Mario Gotze (Bayern Munich) joins the action as a substitute, replacing Thomas Muller."
+        },
+        {
+            "gameTime": "2 - 39:15",
+            "label": "",
+            "description": "Franck Ribery sends a lovely ball from the corner into the path of Robert Lewandowski (Bayern Munich), whose close range header flashes just over the bar."
+        },
+        {
+            "gameTime": "2 - 39:07",
+            "label": "corner",
+            "description": "Franck Ribery (Bayern Munich) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "2 - 37:46",
+            "label": "",
+            "description": "A lofted cross from Franck Ribery (Bayern Munich) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. It will be a corner kick for Bayern Munich."
+        },
+        {
+            "gameTime": "2 - 37:06",
+            "label": "substitution",
+            "description": "Jonas comes off the pitch to be replaced by Eduardo Salvio (Benfica)."
+        },
+        {
+            "gameTime": "2 - 36:30",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "2 - 35:57",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) unleashes a promising shot towards the middle of the goal after his wonderful solo run, but Ederson thwarts the effort with a fabulous save. The score remains the same."
+        },
+        {
+            "gameTime": "2 - 33:19",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "2 - 32:18",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat."
+        },
+        {
+            "gameTime": "2 - 29:31",
+            "label": "",
+            "description": "Kingsley Coman (Bayern Munich) goes on a solo run, but he fails to create a chance as an opposition player blocks him."
+        },
+        {
+            "gameTime": "2 - 26:12",
+            "label": "",
+            "description": "Arturo Vidal (Bayern Munich) trips an opposition player and Szymon Marciniak signals a foul."
+        },
+        {
+            "gameTime": "2 - 24:47",
+            "label": "substitution",
+            "description": "Here is a change. Konstantinos Mitroglou is going off and Rui Vitoria gives the last tactical orders to Raul Jimenez (Benfica)."
+        },
+        {
+            "gameTime": "2 - 24:31",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Kingsley Coman (Bayern Munich) comes onto the pitch for Douglas Costa."
+        },
+        {
+            "gameTime": "2 - 23:41",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Franck Ribery (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 23:16",
+            "label": "",
+            "description": "Thomas Muller (Bayern Munich) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. Bayern Munich have a corner."
+        },
+        {
+            "gameTime": "2 - 21:26",
+            "label": "",
+            "description": "Flag goes up against Arturo Vidal (Bayern Munich) and the referee blows his whistle for offside. The referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "2 - 19:50",
+            "label": "",
+            "description": "Jonas (Benfica) misses a big opportunity to score after striking the ball wide of the right post."
+        },
+        {
+            "gameTime": "2 - 19:30",
+            "label": "",
+            "description": "Konstantinos Mitroglou (Benfica) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+        },
+        {
+            "gameTime": "2 - 18:46",
+            "label": "",
+            "description": "Wow, what an escape. Jonas (Benfica) has an effort from inside the box but it's brilliantly blocked."
+        },
+        {
+            "gameTime": "2 - 16:55",
+            "label": "y-card",
+            "description": "The foul by Victor Lindelof (Benfica) is worthy of a card and a yellow is duly shown by Szymon Marciniak."
+        },
+        {
+            "gameTime": "2 - 14:08",
+            "label": "substitution",
+            "description": "The referee stops play so that a substitution can be made and Joshua Kimmich trots off the pitch and is replaced by Javi Martinez (Bayern Munich)."
+        },
+        {
+            "gameTime": "2 - 12:52",
+            "label": "",
+            "description": "Jonas (Benfica) will miss the next game."
+        },
+        {
+            "gameTime": "2 - 12:50",
+            "label": "y-card",
+            "description": "A yellow card for a tackle by Jonas (Benfica). Szymon Marciniak doesn't hesitate at all to make this decision."
+        },
+        {
+            "gameTime": "2 - 11:46",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) latched on to a good low pass and attempted to surprise the goalkeeper with a snap shot. His effort sailed way wide of the right post, however."
+        },
+        {
+            "gameTime": "2 - 11:14",
+            "label": "",
+            "description": "Manuel Neuer pulls off a great save to deny Jonas (Benfica), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal."
+        },
+        {
+            "gameTime": "2 - 08:27",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) unleashes a bullet of a shot that is blocked by a defender."
+        },
+        {
+            "gameTime": "2 - 07:43",
+            "label": "funfact",
+            "description": "We can have a look at the statistics now, particularly the total attempts \u2013 15:10."
+        },
+        {
+            "gameTime": "2 - 04:43",
+            "label": "",
+            "description": "Ljubomir Fejsa (Benfica) commits a rough challenge and Szymon Marciniak blows his whistle for a foul."
+        },
+        {
+            "gameTime": "2 - 04:10",
+            "label": "",
+            "description": "The linesman signals that Robert Lewandowski (Bayern Munich) is offside and the referee confirms the decision."
+        },
+        {
+            "gameTime": "2 - 02:55",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) is adjudged offside."
+        },
+        {
+            "gameTime": "2 - 02:34",
+            "label": "corner",
+            "description": "Franck Ribery (Bayern Munich) steps up to send the ball in."
+        },
+        {
+            "gameTime": "2 - 01:59",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. The ball goes behind for a corner. Bayern Munich will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The players are back out on the pitch following the half time break and the second half is about to start."
+        },
+        {
+            "gameTime": "1 - 47:59",
+            "label": "",
+            "description": "Well, it hasn't been the most exciting game in the world but there has been some nice football on display. We hope that the second period will bring more action. Bayern Munich dominated the opening period and easily created the most chances. The home side are keeping possession of the ball with some short passes, while the visitors are waiting to open up their defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 47:40",
+            "label": "whistle",
+            "description": "There will be nothing more to see in the first half. The whistle blowing of Szymon Marciniak has ended it."
+        },
+        {
+            "gameTime": "1 - 46:26",
+            "label": "",
+            "description": "Renato Sanches (Benfica) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+        },
+        {
+            "gameTime": "1 - 45:56",
+            "label": "injury",
+            "description": "Renato Sanches (Benfica) picks up an injury."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "1 - 41:20",
+            "label": "y-card",
+            "description": "Szymon Marciniak shows a yellow card to Juan Bernat (Bayern Munich) for a tough tackle."
+        },
+        {
+            "gameTime": "1 - 40:51",
+            "label": "corner",
+            "description": "Pizzi (Benfica) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "1 - 40:28",
+            "label": "",
+            "description": "Ederson (Benfica) sends a long crossfield pass searching out one of his teammates, but his effort comes to nothing and they lose possession. The referee and one of his assistants signal for a corner kick to Benfica."
+        },
+        {
+            "gameTime": "1 - 38:27",
+            "label": "",
+            "description": "Nicolas Gaitan (Benfica) makes an overly aggressive challenge and Szymon Marciniak blows his whistle for a foul."
+        },
+        {
+            "gameTime": "1 - 35:37",
+            "label": "",
+            "description": "What a chance that is! Thomas Muller swings the ball into the box, and Arturo Vidal (Bayern Munich) gets in front of his man and powers his header just over the bar."
+        },
+        {
+            "gameTime": "1 - 35:10",
+            "label": "",
+            "description": "Bayern Munich hold the ball and display nice passing from player to player."
+        },
+        {
+            "gameTime": "1 - 32:32",
+            "label": "",
+            "description": "Thiago Alcantara (Bayern Munich) tries to take the opposition by surprise with a quick free kick into the box."
+        },
+        {
+            "gameTime": "1 - 30:51",
+            "label": "",
+            "description": "Ljubomir Fejsa (Benfica) fouls an opponent. At least that's what referee Szymon Marciniak signals. Bayern Munich earn a free kick which could lead to a goal scoring opportunity."
+        },
+        {
+            "gameTime": "1 - 28:45",
+            "label": "",
+            "description": "Eliseu (Benfica) tries to hit a shot towards goal from long range, but he miskicks the ball and it flies high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 28:30",
+            "label": "",
+            "description": "Nicolas Gaitan (Benfica) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance."
+        },
+        {
+            "gameTime": "1 - 27:48",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat."
+        },
+        {
+            "gameTime": "1 - 25:32",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) sends in a pass which fails to reach any of his teammates."
+        },
+        {
+            "gameTime": "1 - 22:13",
+            "label": "corner",
+            "description": "The goalkeeper punched the ball away after Nicolas Gaitan (Benfica) took the corner."
+        },
+        {
+            "gameTime": "1 - 21:51",
+            "label": "",
+            "description": "Pizzi (Benfica) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The ball is out of play. Benfica win a corner kick."
+        },
+        {
+            "gameTime": "1 - 21:14",
+            "label": "y-card",
+            "description": "Franck Ribery (Bayern Munich) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Szymon Marciniak didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "1 - 20:05",
+            "label": "",
+            "description": "Unbelievable! Thomas Muller (Bayern Munich) wastes a huge scoring opportunity! He finds himself unmarked right in front of goal and fires in a first time shot. Ederson pulls off one of the best saves of his career and stops the effort from hitting the net."
+        },
+        {
+            "gameTime": "1 - 18:56",
+            "label": "",
+            "description": "What a chance that is! Konstantinos Mitroglou (Benfica) squanders a huge opportunity as he latches on to a perfect cross from the wing. He and produces a bullet header from around the penalty spot which goes well wide of the left post!"
+        },
+        {
+            "gameTime": "1 - 16:41",
+            "label": "",
+            "description": "Ederson (Benfica) is able to continue to play."
+        },
+        {
+            "gameTime": "1 - 15:57",
+            "label": "injury",
+            "description": "Looks like Ederson (Benfica) is struggling after picking up a knock. Hopefully he can run it off."
+        },
+        {
+            "gameTime": "1 - 15:42",
+            "label": "",
+            "description": "Half chance! Philipp Lahm (Bayern Munich) plays a pass into the box, but Ederson reacts well to snuff out the attack."
+        },
+        {
+            "gameTime": "1 - 14:31",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) collects a pass and strikes from about 19 metres out. It's a poor attempt which flies well wide of the right post."
+        },
+        {
+            "gameTime": "1 - 12:16",
+            "label": "",
+            "description": "Andre Almeida (Benfica) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "gameTime": "1 - 11:31",
+            "label": "corner",
+            "description": "Douglas Costa (Bayern Munich) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 11:09",
+            "label": "",
+            "description": "Juan Bernat (Bayern Munich) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The ball goes out of play and Bayern Munich have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:42",
+            "label": "",
+            "description": "The game is interrupted as Jonas (Benfica) is flagged offside."
+        },
+        {
+            "gameTime": "1 - 09:41",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) with a wonderful solo effort. He blasted from long range, but the shot towards the middle of the goal was thwarted by Ederson."
+        },
+        {
+            "gameTime": "1 - 07:51",
+            "label": "",
+            "description": "Franck Ribery (Bayern Munich) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+        },
+        {
+            "gameTime": "1 - 04:57",
+            "label": "corner",
+            "description": "Franck Ribery (Bayern Munich) prepares to take a corner kick."
+        },
+        {
+            "gameTime": "1 - 04:44",
+            "label": "",
+            "description": "Douglas Costa (Bayern Munich) looks to break free, but an opposing player clears the ball away. Bayern Munich will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 04:02",
+            "label": "",
+            "description": "The linesman raises his flag. Konstantinos Mitroglou (Benfica) is adjudged offside."
+        },
+        {
+            "gameTime": "1 - 01:58",
+            "label": "soccer-ball",
+            "description": "Juan Bernat launches a beautiful lofted cross into the box, where Arturo Vidal (Bayern Munich) rises high to head the ball into the right side of the goal and beyond the goalkeeper. 1:0."
+        },
+        {
+            "gameTime": "1 - 01:14",
+            "label": "",
+            "description": "Konstantinos Mitroglou (Benfica) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are out and the match is about to start. Benfica will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The referee of today's match will be Szymon Marciniak."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "In the details of this match, you can glance at the lineups while the game is about to begin."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "We were witnesses to an uneventful game without many stirring moments. There is definitely room for improvement in future games. Bayern Munich were dominant and more threatening of the two sides. It was a fairly one sided match. Short passing and possession was the style of the home side, while the visiting side tried to hit their opposition on the break."
+        }
+    ],
+    "gameAwayTeam": "Benfica",
+    "gameDate": "05/04/2016 - 21:45",
+    "gameHomeTeam": "Bayern Munich",
+    "gameScore": "1 - 0"
+}

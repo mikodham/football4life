@@ -1,0 +1,380 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:07",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        },
+        {
+            "gameTime": "2 - 46:39",
+            "label": "y-card",
+            "description": "Alen Halilovic (UD Las Palmas) picks up a yellow card."
+        },
+        {
+            "gameTime": "2 - 46:03",
+            "label": "corner",
+            "description": "Alen Halilovic (UD Las Palmas) floats the ball in from the corner but it's intercepted."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 3 min. of added time."
+        },
+        {
+            "gameTime": "2 - 43:59",
+            "label": "soccer-ball",
+            "description": "Cristiano Ronaldo (Real Madrid) meets the corner and displays his eye for goal as he coolly plants a header from close range into the right side of the goal. The score is 3:3."
+        },
+        {
+            "gameTime": "2 - 43:58",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) will deliver the ball into the penalty box from a corner kick."
+        },
+        {
+            "gameTime": "2 - 43:33",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) launches an inaccurate corner kick into the penalty area. The referee signals a corner kick to Real Madrid."
+        },
+        {
+            "gameTime": "2 - 40:59",
+            "label": "soccer-ball",
+            "description": "Cristiano Ronaldo (Real Madrid) leaves the keeper helpless with his precise penalty shot into the top right corner."
+        },
+        {
+            "gameTime": "2 - 40:58",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) is going to take the penalty!"
+        },
+        {
+            "gameTime": "2 - 40:41",
+            "label": "penalty",
+            "description": "Dani Castellano (UD Las Palmas) probably handled the ball inside the penalty area. PENALTY to Real Madrid! Great chance to score."
+        },
+        {
+            "gameTime": "2 - 39:52",
+            "label": "",
+            "description": "Jese (UD Las Palmas) jinks his way past multiple challenges and fires from the edge of the box to the middle of the goal, but Keylor Navas is equal to it."
+        },
+        {
+            "gameTime": "2 - 38:48",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) shoots from the edge of the penalty area. The ball travels towards the left side of the target, but Javi Varas easily deals with the threat."
+        },
+        {
+            "gameTime": "2 - 37:59",
+            "label": "corner",
+            "description": "The corner from Toni Kroos (Real Madrid) is cleared away by the defence."
+        },
+        {
+            "gameTime": "2 - 37:32",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players. The referee points to the corner flag and Real Madrid will take a corner."
+        },
+        {
+            "gameTime": "2 - 36:00",
+            "label": "y-card",
+            "description": "Cristiano Ronaldo (Real Madrid) goes in the referee's notebook after being shown a yellow card."
+        },
+        {
+            "gameTime": "2 - 34:52",
+            "label": "",
+            "description": "Jese (UD Las Palmas)'s poor effort is easily saved by Keylor Navas. He connects well with a cross, but mistimes it a little, and it heads towards the middle of the target and straight into the grateful hands of the goalkeeper."
+        },
+        {
+            "gameTime": "2 - 32:08",
+            "label": "corner",
+            "description": "James Rodriguez (Real Madrid) takes the resulting corner which is well defended."
+        },
+        {
+            "gameTime": "2 - 31:57",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) sends the ball into the box from the side of the pitch, but his cross is blocked. Real Madrid earn a corner."
+        },
+        {
+            "gameTime": "2 - 30:50",
+            "label": "",
+            "description": "Lucas (Real Madrid) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Javi Varas makes a decent save to deny his effort directed to the middle of the target."
+        },
+        {
+            "gameTime": "2 - 29:24",
+            "label": "substitution",
+            "description": "Substitution. Jonathan Viera leaves the pitch and is replaced by Alen Halilovic (UD Las Palmas)."
+        },
+        {
+            "gameTime": "2 - 28:20",
+            "label": "",
+            "description": "What a big chance! Karim Benzema (Real Madrid) picks up an inch perfect pass inside the box and fires the ball just over the crossbar."
+        },
+        {
+            "gameTime": "2 - 25:56",
+            "label": "substitution",
+            "description": "Zinedine Zidane has decided to introduce fresh legs, with Karim Benzema (Real Madrid) replacing Mateo Kovacic."
+        },
+        {
+            "gameTime": "2 - 25:41",
+            "label": "substitution",
+            "description": "The substitution has been made. James Rodriguez (Real Madrid) has replaced Alvaro Morata."
+        },
+        {
+            "gameTime": "2 - 25:00",
+            "label": "y-card",
+            "description": "Alvaro Morata (Real Madrid) gets booked for the first time in this match."
+        },
+        {
+            "gameTime": "2 - 24:42",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) has a goal ruled out for offside!"
+        },
+        {
+            "gameTime": "2 - 23:39",
+            "label": "substitution",
+            "description": "Quique Setien has decided to substitute Kevin Prince Boateng and he is replaced by Mateo Ezequiel Garcia (UD Las Palmas)."
+        },
+        {
+            "gameTime": "2 - 20:00",
+            "label": "substitution",
+            "description": "Substitution. Isco did his best and is replaced by Lucas (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 16:04",
+            "label": "",
+            "description": "Dominguez Tanausu (UD Las Palmas) tested Keylor Navas with a strike from just outside the box, but the effort is saved."
+        },
+        {
+            "gameTime": "2 - 14:00",
+            "label": "soccer-ball",
+            "description": "scores a bit of a lucky goal. He latches on to a superb pass just outside the box and produces a strike that ends inside the back of the net. Even though the ball was going into the middle of the goal, the goalkeeper couldn't make a block."
+        },
+        {
+            "gameTime": "2 - 12:55",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger."
+        },
+        {
+            "gameTime": "2 - 12:02",
+            "label": "",
+            "description": "An attempted cross from Vicente Gomez (UD Las Palmas) is cleared."
+        },
+        {
+            "gameTime": "2 - 10:28",
+            "label": "soccer-ball",
+            "description": "Jonathan Viera (UD Las Palmas) makes no mistake from the penalty spot after waiting for Keylor Navas to move before slotting the ball low into the middle of the goal!"
+        },
+        {
+            "gameTime": "2 - 10:23",
+            "label": "",
+            "description": "Jonathan Viera (UD Las Palmas) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "2 - 09:43",
+            "label": "y-card",
+            "description": "Sergio Ramos (Real Madrid) receives a yellow card."
+        },
+        {
+            "gameTime": "2 - 09:10",
+            "label": "penalty",
+            "description": "Sergio Ramos (Real Madrid) handles the ball inside the penalty area. It's a penalty for Las Palmas!"
+        },
+        {
+            "gameTime": "2 - 07:41",
+            "label": "y-card",
+            "description": "Yellow card. Kevin Prince Boateng (UD Las Palmas) goes into the book for a bad tackle on his opponent."
+        },
+        {
+            "gameTime": "2 - 02:00",
+            "label": "r-card",
+            "description": "Gareth Bale (Real Madrid) receives a red card due to his mindless behaviour. His team will now have to play with a man down."
+        },
+        {
+            "gameTime": "2 - 01:59",
+            "label": "y-card",
+            "description": "What was Gareth Bale (Real Madrid) thinking? He will not get away with that. The referee shows him a yellow card."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "Everything is set for the start of the second half."
+        },
+        {
+            "gameTime": "1 - 48:04",
+            "label": "whistle",
+            "description": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 46:55",
+            "label": "corner",
+            "description": "The resulting corner, taken by Isco (Real Madrid), comes to nothing."
+        },
+        {
+            "gameTime": "1 - 46:37",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. Real Madrid get a corner."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 3 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:00",
+            "label": "y-card",
+            "description": "David Simon (UD Las Palmas) receives a yellow card for a nasty tackle."
+        },
+        {
+            "gameTime": "1 - 39:15",
+            "label": "",
+            "description": "Jonathan Viera (UD Las Palmas) unleashes a shot, but his effort is poor and floats high over the bar."
+        },
+        {
+            "gameTime": "1 - 37:16",
+            "label": "",
+            "description": "Las Palmas are happy showing off their ball keeping skills and that is only interrupted when the defender steps in."
+        },
+        {
+            "gameTime": "1 - 31:15",
+            "label": "corner",
+            "description": "sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat."
+        },
+        {
+            "gameTime": "1 - 30:26",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) is adjudged to have been offside when making his run."
+        },
+        {
+            "gameTime": "1 - 29:22",
+            "label": "",
+            "description": "Kevin Prince Boateng (UD Las Palmas) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!"
+        },
+        {
+            "gameTime": "1 - 29:01",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "1 - 28:35",
+            "label": "y-card",
+            "description": "Daniel Carvajal (Real Madrid) receives a yellow card from the referee for a foul that he committed a little earlier."
+        },
+        {
+            "gameTime": "1 - 27:00",
+            "label": "substitution",
+            "description": "Pedro Bigas is not able to continue due to his injury and will be replaced by Aythami (UD Las Palmas)."
+        },
+        {
+            "gameTime": "1 - 23:05",
+            "label": "injury",
+            "description": "Pedro Bigas (UD Las Palmas) is having a really tough time right now. We are about to find out how serious his injury is."
+        },
+        {
+            "gameTime": "1 - 22:45",
+            "label": "",
+            "description": "David Fernandez Borbalan interrupts the game. One of the players from Real Madrid won the ball, but his effort is adjudged unfair."
+        },
+        {
+            "gameTime": "1 - 20:44",
+            "label": "",
+            "description": "Real Madrid keep possession of the ball by producing one two passes, but an opponent steps in and wins the ball."
+        },
+        {
+            "gameTime": "1 - 15:02",
+            "label": "corner",
+            "description": "Mauricio Lemos (UD Las Palmas) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "1 - 14:40",
+            "label": "corner",
+            "description": "Las Palmas quickly take a corner kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 14:21",
+            "label": "",
+            "description": "Kevin Prince Boateng (UD Las Palmas) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders. Las Palmas force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 13:40",
+            "label": "",
+            "description": "Daniel Carvajal (Real Madrid) blows a chance to score! He pinged a fine header from deep inside the box towards the net, but his aim was off and it flew narrowly wide of the left post."
+        },
+        {
+            "gameTime": "1 - 12:45",
+            "label": "",
+            "description": "A player from Real Madrid commits a rough challenge. David Fernandez Borbalan blows for a foul and keeps the game under control."
+        },
+        {
+            "gameTime": "1 - 10:43",
+            "label": "",
+            "description": "GOAL DISALLOWED! Controversy and anger as Alvaro Morata (Real Madrid) has a goal ruled out, incredibly, for offside."
+        },
+        {
+            "gameTime": "1 - 09:24",
+            "label": "soccer-ball",
+            "description": "struck from medium range. He buried the ball inside the right post."
+        },
+        {
+            "gameTime": "1 - 08:00",
+            "label": "soccer-ball",
+            "description": "Isco (Real Madrid) receives a delightful pass inside the box and smashes a low shot into the bottom right corner. What a clinical finish!"
+        },
+        {
+            "gameTime": "1 - 04:25",
+            "label": "",
+            "description": "One of the players from Las Palmas times his run too early and the referee blows his whistle for offside."
+        },
+        {
+            "gameTime": "1 - 02:44",
+            "label": "",
+            "description": "Roque Mesa (UD Las Palmas) got on the ball on the edge of the box and blazed a first time shot well over the bar."
+        },
+        {
+            "gameTime": "1 - 00:55",
+            "label": "",
+            "description": "The assistant referee raises his flag and the referee blows his whistle. Alvaro Morata (Real Madrid) puts the ball into the net, but he is flagged for offside."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The referee blows his whistle and we are underway."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Las Palmas will kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "David Fernandez Borbalan is introduced as the referee for today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting XIs were already announced and you can go through them in the Lineups section."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Welcome to our live text coverage. We will try to provide you with a detailed image of what's happening on the pitch. There are only few moments left to the beginning of the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Las Palmas have lost 4 games in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "From a total of 36 games that Real Madrid played there were 30 matches with over 2.5 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "whistle",
+            "description": "The referee blows his whistle for the final time to end this match."
+        }
+    ],
+    "gameAwayTeam": "Las Palmas",
+    "gameDate": "01/03/2017 - 23:30",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "3 - 3"
+}

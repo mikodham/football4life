@@ -1,0 +1,635 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 50:59",
+            "label": "",
+            "description": "This is what football should look like. Full of action, thrilling moments and spectacular opportunities. The expectations for the next games will be high. AS Roma were much the better side in today's clash. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks, while the away team played possession football."
+        },
+        {
+            "gameTime": "2 - 50:03",
+            "label": "whistle",
+            "description": "That's all for today as the game is over."
+        },
+        {
+            "gameTime": "2 - 49:45",
+            "label": "",
+            "description": "Francesco Totti (AS Roma) steps up and sends the free kick straight into the defensive wall."
+        },
+        {
+            "gameTime": "2 - 48:35",
+            "label": "",
+            "description": "Joseph Martinez (Torino) commits a rough challenge and Paolo Tagliavento blows his whistle for a foul. AS Roma have a free kick."
+        },
+        {
+            "gameTime": "2 - 47:10",
+            "label": "",
+            "description": "Wojciech Szczesny was forced into action to thwart Joseph Martinez (Torino). He found himself some space after latching on to a pass and unleashed a shot to the bottom left corner but couldn't beat the keeper."
+        },
+        {
+            "gameTime": "2 - 46:14",
+            "label": "corner",
+            "description": "Leandro Paredes (AS Roma) takes the corner, but the goalkeeper jumps and gathers the ball."
+        },
+        {
+            "gameTime": "2 - 46:03",
+            "label": "",
+            "description": "Stephan El Shaarawy (AS Roma) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball goes out for a corner. AS Roma can continue in their attacking effort."
+        },
+        {
+            "gameTime": "2 - 45:24",
+            "label": "",
+            "description": "Joseph Martinez (Torino) receives a low pass just outside the box and unleashes a fine strike towards the right post. Wojciech Szczesny pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "There will be a minimum of 5 min. of added time."
+        },
+        {
+            "gameTime": "2 - 44:25",
+            "label": "",
+            "description": "Antonio Barreca (Torino) is moving okay again after that injury scare."
+        },
+        {
+            "gameTime": "2 - 44:07",
+            "label": "injury",
+            "description": "Antonio Barreca (Torino) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "gameTime": "2 - 43:39",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) receives a lofted pass in the goal area and unleashes a dangerous header which sails narrowly wide of the left post!"
+        },
+        {
+            "gameTime": "2 - 43:26",
+            "label": "corner",
+            "description": "This corner kick is taken with a short pass by Kevin Strootman (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 42:55",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) sends a cross into the box, but the opposition's defence clears the ball to safety. AS Roma will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "2 - 42:35",
+            "label": "",
+            "description": "Lucas Boye (Torino) tries his luck from the edge of the box after a brilliant solo effort, but it is well blocked by the defender."
+        },
+        {
+            "gameTime": "2 - 40:58",
+            "label": "y-card",
+            "description": "This yellow card was deserved. The tackle by Konstantinos Manolas (AS Roma) was quite harsh and Paolo Tagliavento didn't hesitate to show him a yellow card."
+        },
+        {
+            "gameTime": "2 - 38:15",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players."
+        },
+        {
+            "gameTime": "2 - 37:23",
+            "label": "corner",
+            "description": "Mirko Valdifiori (Torino) takes the corner but it's cleared."
+        },
+        {
+            "gameTime": "2 - 36:59",
+            "label": "",
+            "description": "The ball is out of play. Torino will have a chance to score from a corner. Davide Zappacosta (Torino) connects with a cross on the edge of the box, controls the ball and pulls the trigger. Wojciech Szczesny makes a beautiful save to deny his effort which would have ended in the bottom left corner."
+        },
+        {
+            "gameTime": "2 - 36:27",
+            "label": "corner",
+            "description": "Leandro Paredes (AS Roma) launches an inaccurate corner kick into the penalty area."
+        },
+        {
+            "gameTime": "2 - 35:59",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) tries to pass the ball into the penalty area but it's blocked. AS Roma have been awarded a corner kick. The referee and one of his assistants both point at the corner flag."
+        },
+        {
+            "gameTime": "2 - 35:48",
+            "label": "substitution",
+            "description": "Substitution. Diego Perotti is replaced by Leandro Paredes (AS Roma)."
+        },
+        {
+            "gameTime": "2 - 33:57",
+            "label": "y-card",
+            "description": "The game is interrupted because of a yellow card that is shown to Joe Hart (Torino)."
+        },
+        {
+            "gameTime": "2 - 33:54",
+            "label": "",
+            "description": "Edin Dzeko received a clever long ball from Mohamed Salah (AS Roma) which could have put him in a promising position, but the defence was alert and managed to avert the threat."
+        },
+        {
+            "gameTime": "2 - 32:26",
+            "label": "",
+            "description": "It looks like Kevin Strootman (AS Roma) saw red with that tackle. Paolo Tagliavento won't tolerate such behaviour on the pitch and blows for a foul."
+        },
+        {
+            "gameTime": "2 - 30:55",
+            "label": "substitution",
+            "description": "It's time for a substitution. That's the last involvement from Iago Falque as he is replaced by Joseph Martinez (Torino)."
+        },
+        {
+            "gameTime": "2 - 30:42",
+            "label": "",
+            "description": "Lucas Boye (Torino) breaks past challenges inside the box, but puts too much pace on his pass to Andrea Belotti."
+        },
+        {
+            "gameTime": "2 - 28:45",
+            "label": "",
+            "description": "Konstantinos Manolas (AS Roma) gets to the ball from the resulting corner but blazes it well over the bar."
+        },
+        {
+            "gameTime": "2 - 28:29",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) will take a corner kick."
+        },
+        {
+            "gameTime": "2 - 27:59",
+            "label": "",
+            "description": "The referee and one of his assistants signal for a corner kick to AS Roma. Stephan El Shaarawy (AS Roma) whips a promising cross into the box, but the opposition's defence intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 26:56",
+            "label": "",
+            "description": "Bruno Peres (AS Roma) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Joe Hart is alert and denies him with a nice save."
+        },
+        {
+            "gameTime": "2 - 26:15",
+            "label": "",
+            "description": "Daniele Baselli (Torino) weaves through the defence with ease and gets one on one with the keeper, but fails to score with his strike towards the right side of the target as Wojciech Szczesny produces a good save."
+        },
+        {
+            "gameTime": "2 - 25:30",
+            "label": "substitution",
+            "description": "We are about to witness a substitution. Stephan El Shaarawy (AS Roma) is replacing Radja Nainggolan."
+        },
+        {
+            "gameTime": "2 - 24:44",
+            "label": "",
+            "description": "Mirko Valdifiori (Torino) sends in a cross from a long range free kick. However, his effort lacks accuracy and the ball sails off the pitch."
+        },
+        {
+            "gameTime": "2 - 23:54",
+            "label": "y-card",
+            "description": "Alessandro Florenzi (AS Roma) is booked after bringing down an opponent. Paolo Tagliavento had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 23:21",
+            "label": "",
+            "description": "Iago Falque (Torino) sprays a pass out to Lucas Boye, but he can't beat his man inside the box."
+        },
+        {
+            "gameTime": "2 - 19:55",
+            "label": "soccer-ball",
+            "description": "Iago Falque (Torino) picks it up in space and from the edge of the box lashes in a shot that is deflected past the helpless Wojciech Szczesny. 3:1."
+        },
+        {
+            "gameTime": "2 - 19:22",
+            "label": "",
+            "description": "Andrea Belotti (Torino) creates some space for himself to pick up a pass on the edge of the box and unleashes a decent strike which goes a whisker over the crossbar."
+        },
+        {
+            "gameTime": "2 - 17:47",
+            "label": "corner",
+            "description": "Mirko Valdifiori (Torino) swings in the corner, but it's comfortably cleared away."
+        },
+        {
+            "gameTime": "2 - 16:55",
+            "label": "substitution",
+            "description": "Lorenzo De Silvestri is being substituted because of an injury. Sinisa Mihajlovic sends Davide Zappacosta (Torino) on the pitch."
+        },
+        {
+            "gameTime": "2 - 16:41",
+            "label": "injury",
+            "description": "Lorenzo De Silvestri (Torino) is asking for medical treatment, but he will have to leave the pitch in order to receive help from the physio."
+        },
+        {
+            "gameTime": "2 - 15:56",
+            "label": "",
+            "description": "Lorenzo De Silvestri (Torino) flights in the cross, but the defender is alert and clears to safety. The ball goes out of play and Torino have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 14:54",
+            "label": "corner",
+            "description": "Nothing comes of the resulting corner from Francesco Totti (AS Roma). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "2 - 14:19",
+            "label": "",
+            "description": "Radja Nainggolan (AS Roma) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. The linesman points to the corner flag, AS Roma are going to take it."
+        },
+        {
+            "gameTime": "2 - 13:16",
+            "label": "corner",
+            "description": "Iago Falque (Torino) sends in the corner, but the keeper steps in and makes a save."
+        },
+        {
+            "gameTime": "2 - 12:58",
+            "label": "corner",
+            "description": "Torino have a chance to score from a corner kick, but the ball is cleared by a defender. It will be a corner kick for Torino."
+        },
+        {
+            "gameTime": "2 - 12:35",
+            "label": "",
+            "description": "Iago Falque (Torino) produces a dangerous lofted cross into the box which is intercepted. The referee signals a corner kick to Torino."
+        },
+        {
+            "gameTime": "2 - 10:55",
+            "label": "y-card",
+            "description": "Paolo Tagliavento shows a yellow card to Bruno Peres (AS Roma) for his blatant foul."
+        },
+        {
+            "gameTime": "2 - 09:38",
+            "label": "soccer-ball",
+            "description": "Francesco Totti (AS Roma) keeps his cool from the penalty spot and fires the ball into the top left corner to give the goalkeeper no chance!"
+        },
+        {
+            "gameTime": "2 - 09:34",
+            "label": "",
+            "description": "Francesco Totti (AS Roma) is heading towards the penalty spot to take it."
+        },
+        {
+            "gameTime": "2 - 09:20",
+            "label": "penalty",
+            "description": "Paolo Tagliavento blows the whistle, Antonio Barreca (Torino) is penalised for a foul. AS Roma are given a penalty!"
+        },
+        {
+            "gameTime": "2 - 07:27",
+            "label": "soccer-ball",
+            "description": "Iago Falque (Torino) steps up to take the penalty and leaves the keeper helpless with a shot into the bottom right corner."
+        },
+        {
+            "gameTime": "2 - 07:20",
+            "label": "",
+            "description": "Iago Falque (Torino) will take the responsibility and he is already preparing the ball."
+        },
+        {
+            "gameTime": "2 - 06:45",
+            "label": "penalty",
+            "description": "Bruno Peres (AS Roma) jumps into a tackle and Paolo Tagliavento blows his whistle for a foul. It's a penalty! Torino have an opportunity to score from the penalty spot."
+        },
+        {
+            "gameTime": "2 - 05:54",
+            "label": "",
+            "description": "A beautiful low pass from the side is received by Daniele Baselli (Torino), who was waiting for his chance. However, the defence is alert and spanks the ball away."
+        },
+        {
+            "gameTime": "2 - 04:34",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) sends over a poor, overhit cross from the corner kick and the ball goes out of play."
+        },
+        {
+            "gameTime": "2 - 04:07",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Mohamed Salah (AS Roma). The ball is out of play. A goal scoring opportunity from a corner for AS Roma."
+        },
+        {
+            "gameTime": "2 - 03:40",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) chips a pass over the line of defenders to get the ball to Mohamed Salah, but his attempt is intercepted and cleared."
+        },
+        {
+            "gameTime": "2 - 03:00",
+            "label": "",
+            "description": "What a save from Joe Hart! Edin Dzeko (AS Roma) jumps high to meet a cross and glances a promising header from close range towards the roof of the net, but the goalkeeper pulls off a brilliant save to keep it out."
+        },
+        {
+            "gameTime": "2 - 01:40",
+            "label": "",
+            "description": "Lucas Boye (Torino) probably spotted the goalkeeper off his line, but he misdirected his long range shot as it went a few yards wide of the left post."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Luciano Spalletti makes a switch. Francesco Totti (AS Roma) is coming on in place of Daniele De Rossi at the start of the second period."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The second half has just started."
+        },
+        {
+            "gameTime": "1 - 46:59",
+            "label": "",
+            "description": "The fans in the stadium won't regret buying tickets for today's game as they have witnessed a great game so far, and nothing suggests it's going to change in the second half. Great display from AS Roma so far, looking at stats you have to say that they were the better side during that opening 45 minutes. The home team's main weapon is fast counter attacks, while the away side attempts to hold onto the ball for as long as possible."
+        },
+        {
+            "gameTime": "1 - 46:10",
+            "label": "whistle",
+            "description": "The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms."
+        },
+        {
+            "gameTime": "1 - 45:00",
+            "label": "time",
+            "description": "Fourth official shows 1 min. of added time."
+        },
+        {
+            "gameTime": "1 - 44:28",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it."
+        },
+        {
+            "gameTime": "1 - 43:28",
+            "label": "corner",
+            "description": "A horde of players are waiting inside the penalty area for a cross from the corner, but Mohamed Salah (AS Roma) takes it short."
+        },
+        {
+            "gameTime": "1 - 42:59",
+            "label": "",
+            "description": "Good clearance! Alessandro Florenzi (AS Roma) receives a brilliant short pass and finds himself in a good position inside the box, but he's robbed of the ball by one of the defending players. AS Roma have a corner."
+        },
+        {
+            "gameTime": "1 - 42:06",
+            "label": "",
+            "description": "The foul by Andrea Belotti (Torino) was seen by Paolo Tagliavento who didn't hesitate to blow the whistle."
+        },
+        {
+            "gameTime": "1 - 40:59",
+            "label": "corner",
+            "description": "Mirko Valdifiori (Torino) quickly takes the corner kick with a short pass."
+        },
+        {
+            "gameTime": "1 - 40:27",
+            "label": "",
+            "description": "Wojciech Szczesny pulls off a great save to deny Andrea Belotti (Torino), who makes himself some space inside the box and unleashes a quick shot to the left side of the goal. Torino get a corner."
+        },
+        {
+            "gameTime": "1 - 38:59",
+            "label": "",
+            "description": "Marco Benassi (Torino) is unable to control an accurate defence splitting pass properly and one of the defending players reacts well to rob him of the ball."
+        },
+        {
+            "gameTime": "1 - 37:51",
+            "label": "",
+            "description": "Bruno Peres (AS Roma) slaloms his way past challenges, but an opposing player does well to get the ball away."
+        },
+        {
+            "gameTime": "1 - 36:15",
+            "label": "",
+            "description": "Bruno Peres (AS Roma) fails to find a teammate across the pitch with a long ball."
+        },
+        {
+            "gameTime": "1 - 35:44",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+        },
+        {
+            "gameTime": "1 - 35:17",
+            "label": "corner",
+            "description": "Torino work the corner short. The ball is passed to a nearby teammate."
+        },
+        {
+            "gameTime": "1 - 35:03",
+            "label": "",
+            "description": "Andrea Belotti (Torino) looks to break free, but an opposing player clears the ball away. Now Torino have a corner."
+        },
+        {
+            "gameTime": "1 - 34:22",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) blows a huge opportunity! He latches on to a perfect cross from the wing into the penalty area, but sends his bullet header just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 34:07",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) works the corner short."
+        },
+        {
+            "gameTime": "1 - 33:36",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. AS Roma have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 31:37",
+            "label": "funfact",
+            "description": "The percentage of ball possession is \u2013 31:69."
+        },
+        {
+            "gameTime": "1 - 31:09",
+            "label": "",
+            "description": "Daniele De Rossi (AS Roma) gets on the ball and beats an opponent, but his run is stopped by the referee Paolo Tagliavento who sees an offensive foul."
+        },
+        {
+            "gameTime": "1 - 30:48",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) takes the corner with a short pass."
+        },
+        {
+            "gameTime": "1 - 30:31",
+            "label": "",
+            "description": "Daniele De Rossi (AS Roma) tries to slide the ball through to a teammate but it's well blocked by a defender. AS Roma earn a corner."
+        },
+        {
+            "gameTime": "1 - 30:11",
+            "label": "",
+            "description": "What a goal scoring opportunity! Edin Dzeko (AS Roma) finds some space inside the box and gets in a strike, but the shot is brilliantly blocked by one of the defending players sliding in."
+        },
+        {
+            "gameTime": "1 - 27:52",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) meets a cross inside the penalty area and unloads a good attempt towards the bottom right corner. Joe Hart is prepared, though, and denies him with a fantastic save."
+        },
+        {
+            "gameTime": "1 - 26:01",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) clips a neat ball into the box in the direction of Diego Perotti, but he can't get on the end of the pass."
+        },
+        {
+            "gameTime": "1 - 25:08",
+            "label": "",
+            "description": "AS Roma slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball."
+        },
+        {
+            "gameTime": "1 - 23:35",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) fails to produce a decent cross from the corner kick. The ball goes well out of play."
+        },
+        {
+            "gameTime": "1 - 23:08",
+            "label": "",
+            "description": "A fine lofted pass into the box, sent by Mohamed Salah (AS Roma), is intercepted by the opposition's defence. The ball is out of play and AS Roma manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 22:38",
+            "label": "substitution",
+            "description": "Sinisa Mihajlovic is forced to make a change. Joel Obi is not able to carry on due to injury. He is replaced by Daniele Baselli (Torino)."
+        },
+        {
+            "gameTime": "1 - 21:52",
+            "label": "injury",
+            "description": "Joel Obi (Torino) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes."
+        },
+        {
+            "gameTime": "1 - 20:13",
+            "label": "corner",
+            "description": "The resulting corner comes to nothing as Alessandro Florenzi (AS Roma) sends it out of play."
+        },
+        {
+            "gameTime": "1 - 19:23",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) produces a lovely chip pass into the box, but one of the opposition players cuts it out. AS Roma force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 18:55",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) looks to break free, but his touch lets him down and he loses the ball."
+        },
+        {
+            "gameTime": "1 - 16:44",
+            "label": "",
+            "description": "Diego Perotti (AS Roma) meets a cross inside the box, but Joe Hart wins the battle for the ball and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 14:29",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+        },
+        {
+            "gameTime": "1 - 14:10",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The ball is out of play and the linesman points at the corner flag. Corner to AS Roma."
+        },
+        {
+            "gameTime": "1 - 13:24",
+            "label": "",
+            "description": "Iago Falque (Torino) picks up a rebound inside the penalty area and sends a shot to the right side of the goal, but is denied by a reflex save from Wojciech Szczesny."
+        },
+        {
+            "gameTime": "1 - 12:51",
+            "label": "",
+            "description": "OFF THE POST! Iago Falque (Torino) drifts into the box to give his teammate support. He receives a fantastic pass and shoots from close range, but it crashes against the right post! It could have been a brilliant goal, unlucky."
+        },
+        {
+            "gameTime": "1 - 11:55",
+            "label": "y-card",
+            "description": "Daniele De Rossi (AS Roma) has tested the patience of referee Paolo Tagliavento and goes into the book for a previous late challenge."
+        },
+        {
+            "gameTime": "1 - 11:32",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) is furious with himself as he misses a golden opportunity from inside the six yard box. He sends a rebound a few inches wide of the left post."
+        },
+        {
+            "gameTime": "1 - 11:10",
+            "label": "corner",
+            "description": "Mohamed Salah (AS Roma) takes the corner but fails to find any of his teammates as he overhits the effort."
+        },
+        {
+            "gameTime": "1 - 11:04",
+            "label": "",
+            "description": "Mohamed Salah (AS Roma) bursts into the box and pulls the trigger, but he can't beat the goalkeeper. He directed his daisy cutter towards the right post, but one of the defenders reacted brilliantly to block it. The ball goes behind for a corner. AS Roma will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "1 - 07:50",
+            "label": "soccer-ball",
+            "description": "Joel Obi showcases his great technique and produces a beautiful lofted cross into the box. Andrea Belotti (Torino) meets the cross and gets himself onto the scoresheet with a header into the bottom right corner. It's 1:0."
+        },
+        {
+            "gameTime": "1 - 07:35",
+            "label": "",
+            "description": "That was a nice football moment. Andrea Belotti (Torino) receives an amazing defence splitting low pass on the edge of the box and blasts the ball towards the bottom left corner. Wojciech Szczesny guesses his intention and dives superbly to deny him with a remarkable save!"
+        },
+        {
+            "gameTime": "1 - 07:20",
+            "label": "",
+            "description": "Andrea Belotti (Torino) connects with a cross and has an effort on goal from the edge of the box, but it ends somewhere in row Z."
+        },
+        {
+            "gameTime": "1 - 06:15",
+            "label": "",
+            "description": "Marco Benassi (Torino) collects a pass and has an effort from distance which is blocked."
+        },
+        {
+            "gameTime": "1 - 05:33",
+            "label": "",
+            "description": "Alessandro Florenzi (AS Roma) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders."
+        },
+        {
+            "gameTime": "1 - 04:32",
+            "label": "",
+            "description": "That was close by Radja Nainggolan (AS Roma)! He receives a pass on the edge of the box and shoots, but the ball goes inches wide of the right post."
+        },
+        {
+            "gameTime": "1 - 03:54",
+            "label": "",
+            "description": "Edin Dzeko (AS Roma) meets a cross inside the box, but Joe Hart wins the battle for the ball and the chance is gone."
+        },
+        {
+            "gameTime": "1 - 02:59",
+            "label": "",
+            "description": "Some great controlled play and passing in the middle of the pitch from AS Roma."
+        },
+        {
+            "gameTime": "1 - 01:13",
+            "label": "corner",
+            "description": "Torino take a short corner kick."
+        },
+        {
+            "gameTime": "1 - 00:57",
+            "label": "",
+            "description": "An attempted cross from Joel Obi (Torino) is cleared. Torino have been awarded a corner kick."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has just begun."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The players are on the pitch and AS Roma will have the kick off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "The starting lineups for this match have been revealed."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Paolo Tagliavento is introduced as the referee for today's match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "AS Roma have won 3x at home this season."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The top scorer of AS Roma is Edin Dzeko with 12 goals."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Torino haven't won for 3 matches in a row."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The leading assist man for Torino is Lorenzo De Silvestri, with 4 assists so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Andrea Belotti from Torino will look to add to his goal tally, he has netted 4 goals so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "This is what football should look like. Full of action, thrilling moments and spectacular opportunities. The expectations for the next games will be high. AS Roma were much the better side in today's clash. The home team tried to find the weakness in the opposition's defence mostly using rapid counter attacks, while the away team played possession football."
+        }
+    ],
+    "gameAwayTeam": "AS Roma",
+    "gameDate": "25/09/2016 - 13:30",
+    "gameHomeTeam": "Torino",
+    "gameScore": "3 - 1"
+}

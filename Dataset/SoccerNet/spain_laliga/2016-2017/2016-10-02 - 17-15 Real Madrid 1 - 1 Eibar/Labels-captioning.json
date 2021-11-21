@@ -1,0 +1,520 @@
+{
+    "UrlLocal": "/media/giancos/Football/dataset_test//media/giancos/Football/dataset_test/spain_laliga/2016-2017/2016-10-02 - 17-15 Real Madrid 1 - 1 Eibar/",
+    "UrlYoutube": "",
+    "annotations": [
+        {
+            "gameTime": "2 - 48:59",
+            "label": "",
+            "description": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. Real Madrid were the better team in today's clash. The hosts displayed good teamplay with a lot of passes. The visiting side patiently waited in their own half to dispossess the opponent and hit them on the break."
+        },
+        {
+            "gameTime": "2 - 48:37",
+            "label": "whistle",
+            "description": "The referee checks his watch and blows his whistle to signal the end of this match."
+        },
+        {
+            "gameTime": "2 - 47:58",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) sends a teasing cross into the area, but Asier Riesgo intercepts the ball."
+        },
+        {
+            "gameTime": "2 - 46:50",
+            "label": "substitution",
+            "description": "Jose Mendilibar prepares a substitution. Pedro Leon is replaced by Adrian (Eibar)."
+        },
+        {
+            "gameTime": "2 - 45:40",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) is forced to stop his forward run after being caught in an offside position by the linesman."
+        },
+        {
+            "gameTime": "2 - 45:00",
+            "label": "time",
+            "description": "3 additional min. will be played."
+        },
+        {
+            "gameTime": "2 - 43:51",
+            "label": "",
+            "description": "The referee stops play as the linesman flags Cristiano Ronaldo (Real Madrid) offside."
+        },
+        {
+            "gameTime": "2 - 42:48",
+            "label": "",
+            "description": "Bebe (Eibar) attempts to surprise the keeper with a nice shot, but it lacks more accuracy and goes way wide of the left post."
+        },
+        {
+            "gameTime": "2 - 41:50",
+            "label": "substitution",
+            "description": "That's the end of the game for Ruben Pena, who is replaced by Bebe (Eibar)."
+        },
+        {
+            "gameTime": "2 - 40:24",
+            "label": "corner",
+            "description": "Marco Asensio (Real Madrid) sends in a poor cross from the corner and Asier Riesgo has no trouble gathering it."
+        },
+        {
+            "gameTime": "2 - 40:02",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) announces himself with a close range shot after a cross, but one of the defenders gets in the way of the ball to thwart him. The linesman makes the right call and Real Madrid will have a corner."
+        },
+        {
+            "gameTime": "2 - 39:45",
+            "label": "attendance",
+            "description": "The attendance is 72103."
+        },
+        {
+            "gameTime": "2 - 39:08",
+            "label": "",
+            "description": "Marco Asensio (Real Madrid) misses a promising opportunity! He rises for a cross and unleashes a poor header from near the penalty spot. The ball floats high over the crossbar!"
+        },
+        {
+            "gameTime": "2 - 38:39",
+            "label": "y-card",
+            "description": "Fran Rico (Eibar) is booked after bringing down an opponent. Miguel Martinez Munuera had an easy decision to make."
+        },
+        {
+            "gameTime": "2 - 37:07",
+            "label": "",
+            "description": "Neat link up play between Mateo Kovacic (Real Madrid) and Cristiano Ronaldo, but Asier Riesgo reads the game well and the move breaks down."
+        },
+        {
+            "gameTime": "2 - 36:36",
+            "label": "",
+            "description": "Mauro Dos Santos (Eibar) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar."
+        },
+        {
+            "gameTime": "2 - 35:53",
+            "label": "corner",
+            "description": "Pedro Leon (Eibar) looks like he will be the one to take the corner kick."
+        },
+        {
+            "gameTime": "2 - 35:44",
+            "label": "",
+            "description": "Ander Capa (Eibar) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball goes behind for a corner. Eibar will have an opportunity to threaten the opposition's goal."
+        },
+        {
+            "gameTime": "2 - 34:53",
+            "label": "",
+            "description": "Ander Capa (Eibar) races towards goal but the defender gets back well to make a challenge."
+        },
+        {
+            "gameTime": "2 - 33:13",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 32:42",
+            "label": "",
+            "description": "Alvaro Morata (Real Madrid) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out of play and Real Madrid have been awarded a corner kick."
+        },
+        {
+            "gameTime": "2 - 31:30",
+            "label": "",
+            "description": "Garcia Kike (Eibar) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble Keylor Navas."
+        },
+        {
+            "gameTime": "2 - 30:32",
+            "label": "substitution",
+            "description": "The manager makes a subsitution with Garcia Kike (Eibar) coming on for Sergio Enrich."
+        },
+        {
+            "gameTime": "2 - 29:20",
+            "label": "",
+            "description": "Sergio Enrich (Eibar) is caught offside, but it was a really close call."
+        },
+        {
+            "gameTime": "2 - 28:22",
+            "label": "",
+            "description": "Pedro Leon (Eibar) takes the free kick but it is cleared by the first defender."
+        },
+        {
+            "gameTime": "2 - 27:29",
+            "label": "y-card",
+            "description": "Toni Kroos (Real Madrid) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Miguel Martinez Munuera didn't think twice about pulling it out of his pocket."
+        },
+        {
+            "gameTime": "2 - 26:59",
+            "label": "substitution",
+            "description": "Here is a change. Isco is going off and Zinedine Zidane gives the last tactical orders to Marco Asensio (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 25:56",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) tries to find the head of a teammate in the box but overhits the cross."
+        },
+        {
+            "gameTime": "2 - 25:17",
+            "label": "y-card",
+            "description": "The expression of the referee Miguel Martinez Munuera is crystal clear. This behaviour won't be tolerated. Ruben Pena (Eibar) is shown a yellow card."
+        },
+        {
+            "gameTime": "2 - 23:28",
+            "label": "",
+            "description": "Lovely cross from Isco to find Cristiano Ronaldo (Real Madrid) deep in the box, but he steers his header well over the bar."
+        },
+        {
+            "gameTime": "2 - 22:33",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) sends the corner into the box, but Asier Riesgo intercepts it and averts the threat."
+        },
+        {
+            "gameTime": "2 - 22:23",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) tries to slide the ball through to a teammate but it's well blocked by a defender. Real Madrid have a corner."
+        },
+        {
+            "gameTime": "2 - 21:15",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar."
+        },
+        {
+            "gameTime": "2 - 19:58",
+            "label": "",
+            "description": "Gareth Bale receives a sweet cross inside the box from Alvaro Morata (Real Madrid), but one of the defenders rushes in bravely to intercept the move."
+        },
+        {
+            "gameTime": "2 - 19:09",
+            "label": "",
+            "description": "The ball is cleared after Alvaro Morata (Real Madrid) attempted to dribble past an opposing player."
+        },
+        {
+            "gameTime": "2 - 17:45",
+            "label": "",
+            "description": "Ander Capa (Eibar) sends a cross into the box. However, the opponent's defence eliminates the danger by clearing the ball out."
+        },
+        {
+            "gameTime": "2 - 16:21",
+            "label": "",
+            "description": "Isco (Real Madrid) finds himself in an offside position and the referee stops play after the linesman raises his flag."
+        },
+        {
+            "gameTime": "2 - 15:37",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) meets a cross inside the box, but Asier Riesgo wins the battle for the ball and the chance is gone."
+        },
+        {
+            "gameTime": "2 - 14:26",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) climbs high to connect with a cross on the edge of the box and fires in an excellent bullet header which hits the left post. What a chance!"
+        },
+        {
+            "gameTime": "2 - 13:36",
+            "label": "",
+            "description": "Sergio Enrich (Eibar) wins himself enough space to connect with a cross inside the box, but his fine header goes narrowly over the crossbar!"
+        },
+        {
+            "gameTime": "2 - 11:59",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) takes the free kick from the edge of the box, but the goalkeeper perfectly sets up the defensive wall and his effort is thwarted."
+        },
+        {
+            "gameTime": "2 - 11:41",
+            "label": "y-card",
+            "description": "The foul by Florian Lejeune (Eibar) is worthy of a card and a yellow is duly shown by Miguel Martinez Munuera."
+        },
+        {
+            "gameTime": "2 - 10:35",
+            "label": "y-card",
+            "description": "Miguel Martinez Munuera has issued a yellow card to Alvaro Morata (Real Madrid)."
+        },
+        {
+            "gameTime": "2 - 09:03",
+            "label": "",
+            "description": "A goal, which was scored by Alvaro Morata (Real Madrid), was disallowed due to offside."
+        },
+        {
+            "gameTime": "2 - 08:27",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+        },
+        {
+            "gameTime": "2 - 07:42",
+            "label": "",
+            "description": "Wow, what an escape. Cristiano Ronaldo (Real Madrid) has an effort from inside the box but it's brilliantly blocked."
+        },
+        {
+            "gameTime": "2 - 06:19",
+            "label": "corner",
+            "description": "Pedro Leon (Eibar) takes the corner, but it's intercepted by the defender."
+        },
+        {
+            "gameTime": "2 - 05:51",
+            "label": "",
+            "description": "Dani Garcia (Eibar) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Corner kick. Eibar will have an opportunity."
+        },
+        {
+            "gameTime": "2 - 04:11",
+            "label": "",
+            "description": "Ander Capa (Eibar) swings a cross into the box, but it's far too close to Keylor Navas, who smothers the ball."
+        },
+        {
+            "gameTime": "2 - 03:29",
+            "label": "",
+            "description": "This was a piece of cake for Keylor Navas. Pedro Leon (Eibar) found himself some space after latching on to a pass, but his strike only went low to the middle of the goal and into the gloves of the prepared keeper."
+        },
+        {
+            "gameTime": "2 - 02:59",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) takes the resulting free kick from outside the box. He sends a nice cross into the box, but his intention is well anticipated by the goalkeeper who comes out to collect the ball."
+        },
+        {
+            "gameTime": "2 - 02:49",
+            "label": "y-card",
+            "description": "Miguel Martinez Munuera shows the yellow card to Dani Garcia (Eibar) for a heavy challenge."
+        },
+        {
+            "gameTime": "2 - 01:50",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) receives a well played pass inside the penalty area and shoots. His effort sails well wide of the left post."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "The game is over for Raphael Varane. Nacho (Real Madrid) comes on for the second half."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "substitution",
+            "description": "Zinedine Zidane has made a change at the break. Alvaro Morata (Real Madrid) has come on in place of Karim Benzema."
+        },
+        {
+            "gameTime": "2 - 00:01",
+            "label": "whistle",
+            "description": "The game restarts for the second half."
+        },
+        {
+            "gameTime": "1 - 45:59",
+            "label": "",
+            "description": "There has not been much to choose between the sides after an absorbing 45 minutes. Let's hope they can continue in the same vein in the second period. The hosts dominated much of the first period. The home side are keeping possession of the ball with some short passes, while the visitors are waiting to open up their defence and hit them swiftly on the break."
+        },
+        {
+            "gameTime": "1 - 45:01",
+            "label": "whistle",
+            "description": "The first half of today's match has just finished."
+        },
+        {
+            "gameTime": "1 - 44:39",
+            "label": "",
+            "description": "Pedro Leon (Eibar) sends in a lofted cross from a mid range free kick, but his poor effort goes out of play. The ball is off of the pitch and it's a goal kick for Real Madrid."
+        },
+        {
+            "gameTime": "1 - 43:58",
+            "label": "y-card",
+            "description": "Gareth Bale (Real Madrid) sees a yellow! His tackle wasn't that harsh, but he probably talked himself into Miguel Martinez Munuera's book."
+        },
+        {
+            "gameTime": "1 - 43:57",
+            "label": "y-card",
+            "description": "Miguel Martinez Munuera shows a yellow card to Daniel Carvajal (Real Madrid) for a tough tackle."
+        },
+        {
+            "gameTime": "1 - 43:08",
+            "label": "",
+            "description": "Gareth Bale floats in a cross for Cristiano Ronaldo (Real Madrid), whose header from near the penalty spot is really poor and floats high over the bar."
+        },
+        {
+            "gameTime": "1 - 41:43",
+            "label": "",
+            "description": "Asier Riesgo doesn't have to worry about that one. Cristiano Ronaldo puts a cross in towards Gareth Bale (Real Madrid), who is unable to keep his header on target from the centre of the box. He sends the ball high over the crossbar."
+        },
+        {
+            "gameTime": "1 - 40:13",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) times his run too early and the linesman raises his flag for offside."
+        },
+        {
+            "gameTime": "1 - 38:26",
+            "label": "corner",
+            "description": "Toni Kroos (Real Madrid) takes the corner but fails to find any of his teammates."
+        },
+        {
+            "gameTime": "1 - 38:07",
+            "label": "",
+            "description": "Mateo Kovacic (Real Madrid) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball is out of play. Real Madrid will have a chance to score from a corner."
+        },
+        {
+            "gameTime": "1 - 36:38",
+            "label": "corner",
+            "description": "Pedro Leon (Eibar) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety."
+        },
+        {
+            "gameTime": "1 - 36:25",
+            "label": "",
+            "description": "Ander Capa (Eibar) sends a pass into the box, but his attempt is thwarted and cleared. Eibar force a corner. Their opponents will face another attacking threat."
+        },
+        {
+            "gameTime": "1 - 35:26",
+            "label": "corner",
+            "description": "The corner from Pedro Leon (Eibar) is hurriedly cleared."
+        },
+        {
+            "gameTime": "1 - 35:13",
+            "label": "",
+            "description": "Antonio Luna (Eibar) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. Eibar will have a chance to score from a corner kick."
+        },
+        {
+            "gameTime": "1 - 33:05",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) looks to break free, but an opposing player clears the ball away."
+        },
+        {
+            "gameTime": "1 - 32:20",
+            "label": "",
+            "description": "Sergio Enrich (Eibar) fouls an opponent during an attacking move."
+        },
+        {
+            "gameTime": "1 - 30:05",
+            "label": "",
+            "description": "Cristiano Ronaldo (Real Madrid) jinks his way past multiple challenges and fires the ball from the edge of the box to the bottom right corner, but Asier Riesgo shows his agility and makes a save."
+        },
+        {
+            "gameTime": "1 - 29:17",
+            "label": "",
+            "description": "Danilo (Real Madrid) sends a pass into the penalty area, but the opponent manages to cut it out."
+        },
+        {
+            "gameTime": "1 - 28:54",
+            "label": "y-card",
+            "description": "Gonzalo Escalante (Eibar) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Miguel Martinez Munuera ignores the protests."
+        },
+        {
+            "gameTime": "1 - 26:59",
+            "label": "",
+            "description": "Real Madrid showcase their great team work by exchanging one two passes, but one wayward pass sees them lose possession."
+        },
+        {
+            "gameTime": "1 - 21:31",
+            "label": "",
+            "description": "Neat passing move from Real Madrid in order to create new attacking opportunities."
+        },
+        {
+            "gameTime": "1 - 19:28",
+            "label": "corner",
+            "description": "Pedro Leon (Eibar) takes the corner which is cleared."
+        },
+        {
+            "gameTime": "1 - 18:57",
+            "label": "",
+            "description": "Florian Lejeune (Eibar) receives a precise pass and is given time inside the box to send a promising strike towards the roof of the net. Keylor Navas guesses his intention and denies him with a fine save. The referee signals a corner kick to Eibar."
+        },
+        {
+            "gameTime": "1 - 16:55",
+            "label": "soccer-ball",
+            "description": "Cristiano Ronaldo showcases his great technique and produces a beautiful lofted cross into the box. Gareth Bale (Real Madrid) meets the cross and gets himself onto the scoresheet with a header down into the middle of the net. It's 1:1."
+        },
+        {
+            "gameTime": "1 - 16:31",
+            "label": "",
+            "description": "Pedro Leon (Eibar) probably handled the ball."
+        },
+        {
+            "gameTime": "1 - 16:13",
+            "label": "",
+            "description": "One of the defenders reacts at the last minute to brilliantly block a pass from Gareth Bale (Real Madrid)."
+        },
+        {
+            "gameTime": "1 - 15:07",
+            "label": "",
+            "description": "Danilo (Real Madrid) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it. The ball goes out of play and Eibar will have a goal kick."
+        },
+        {
+            "gameTime": "1 - 11:40",
+            "label": "corner",
+            "description": "The resulting corner from Toni Kroos (Real Madrid) is cleared."
+        },
+        {
+            "gameTime": "1 - 11:24",
+            "label": "",
+            "description": "A cross into the box from Daniel Carvajal (Real Madrid) is cleared. Real Madrid will take a corner kick."
+        },
+        {
+            "gameTime": "1 - 10:00",
+            "label": "",
+            "description": "Pepe (Real Madrid) is caught offside!"
+        },
+        {
+            "gameTime": "1 - 09:34",
+            "label": "corner",
+            "description": "Nothing comes of the resulting corner from Toni Kroos (Real Madrid). The defence is alert and manages to cut it out."
+        },
+        {
+            "gameTime": "1 - 09:21",
+            "label": "",
+            "description": "Toni Kroos (Real Madrid) produces a dangerous lofted cross into the box which is intercepted. The ball is out of play and Real Madrid manage to earn a corner."
+        },
+        {
+            "gameTime": "1 - 08:23",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) plays a through ball inside the box, but it's too strong and Asier Riesgo comes off his line to intercept."
+        },
+        {
+            "gameTime": "1 - 05:33",
+            "label": "soccer-ball",
+            "description": "Ander Capa produces a beautiful lofted cross into the box, where Fran Rico (Eibar) rises high to head the ball low into the middle of the goal and beyond the goalkeeper. He makes it 0:1."
+        },
+        {
+            "gameTime": "1 - 03:47",
+            "label": "",
+            "description": "Gareth Bale (Real Madrid) jinks his way past two defenders and from the edge of the box has an effort which goes just wide of the right post."
+        },
+        {
+            "gameTime": "1 - 03:14",
+            "label": "",
+            "description": "A pass by Gareth Bale (Real Madrid) ends up in no man's land, and the attacking effort comes to an end."
+        },
+        {
+            "gameTime": "1 - 02:14",
+            "label": "",
+            "description": "The ball crosses the sideline and it is going to be a throw in."
+        },
+        {
+            "gameTime": "1 - 00:01",
+            "label": "whistle",
+            "description": "The first half has started."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Eibar will kick the game off."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Miguel Martinez Munuera will supervise the game today."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "lineup1",
+            "description": "You can have a look at the starting XIs of both teams in the details of this match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Good afternoon, ladies and gentleman! Welcome to our live text commentary, where we will provide you with instant updates of everything that happens in the match."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The most prolific goal scorer for Eibar is Pedro Leon with 5 goals in this competition so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Real Madrid will miss a few players for this clash: ."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "Sergio Ramos is the player who received the most yellow cards (4) for Real Madrid in this competition so far."
+        },
+        {
+            "gameTime": "0 - 00:00",
+            "label": "",
+            "description": "The performance from both sides could be described as average. There were only a few stirring moments and the fans probably expected more from this game. Real Madrid were the better team in today's clash. The hosts displayed good teamplay with a lot of passes. The visiting side patiently waited in their own half to dispossess the opponent and hit them on the break."
+        }
+    ],
+    "gameAwayTeam": "Eibar",
+    "gameDate": "02/10/2016 - 17:15",
+    "gameHomeTeam": "Real Madrid",
+    "gameScore": "1 - 1"
+}
