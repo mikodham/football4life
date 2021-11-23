@@ -2,6 +2,8 @@
 Intro to Deep Learning Project CS492, Fall 2021, KAIST.
 
 ## Game Dataset 
+To install dataset, run Dataset/download_Soccernet.py and auto_trim.py
+
 In each game folder, / Dataset/SoccerNet / trim_dir / league / year / match
 - '1_field_calib_ccbv.json', 
 - '1_HQ.mkv', => First Half, Full Match
