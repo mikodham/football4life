@@ -1,0 +1,39 @@
+2021-11-23 23:16:38,272 [MainThread  ] [INFO ]  Starting main function
+2021-11-23 23:16:38,273 [MainThread  ] [INFO ]  Parameters:
+2021-11-23 23:16:38,273 [MainThread  ] [INFO ]   SoccerNet_path : Dataset/SoccerNet
+2021-11-23 23:16:38,273 [MainThread  ] [INFO ]         features : ResNET_TF2.npy
+2021-11-23 23:16:38,273 [MainThread  ] [INFO ]       max_epochs : 1000
+2021-11-23 23:16:38,274 [MainThread  ] [INFO ]     load_weights : None
+2021-11-23 23:16:38,274 [MainThread  ] [INFO ]       model_name : NetVLAD++
+2021-11-23 23:16:38,274 [MainThread  ] [INFO ]        test_only : True
+2021-11-23 23:16:38,274 [MainThread  ] [INFO ]      split_train : ['train']
+2021-11-23 23:16:38,274 [MainThread  ] [INFO ]      split_valid : ['valid']
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]       split_test : ['test', 'challenge']
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]          version : 2
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]      feature_dim : None
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]        framerate : 2
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]      window_size : 15
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]             pool : NetVLAD++
+2021-11-23 23:16:38,275 [MainThread  ] [INFO ]       vocab_size : 64
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]       NMS_window : 30
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]    NMS_threshold : 0.0
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]       batch_size : 256
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]               LR : 0.001
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]              LRe : 1e-06
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]         patience : 10
+2021-11-23 23:16:38,276 [MainThread  ] [INFO ]              GPU : 0
+2021-11-23 23:16:38,277 [MainThread  ] [INFO ]   max_num_worker : 4
+2021-11-23 23:16:38,277 [MainThread  ] [INFO ]             seed : 0
+2021-11-23 23:16:38,277 [MainThread  ] [INFO ]         loglevel : INFO
+2021-11-23 23:16:38,278 [MainThread  ] [INFO ]  Checking/Download features and labels locally
+2021-11-23 23:16:38,692 [MainThread  ] [INFO ]  Model(
+  (feature_extractor): Linear(in_features=2048, out_features=512, bias=True)
+  (pool_layer_before): NetVLAD()
+  (pool_layer_after): NetVLAD()
+  (fc): Linear(in_features=32768, out_features=18, bias=True)
+  (drop): Dropout(p=0.4, inplace=False)
+  (sigm): Sigmoid()
+)
+2021-11-23 23:16:38,693 [MainThread  ] [INFO ]  Total number of parameters: 1704466
+2021-11-23 23:16:40,779 [MainThread  ] [INFO ]  Checking/Download features and labels locally

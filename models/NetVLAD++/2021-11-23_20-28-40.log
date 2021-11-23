@@ -1,0 +1,29 @@
+2021-11-23 20:28:40,542 [MainThread  ] [INFO ]  Starting main function
+2021-11-23 20:28:40,542 [MainThread  ] [INFO ]  Parameters:
+2021-11-23 20:28:40,542 [MainThread  ] [INFO ]   SoccerNet_path : Dataset/SoccerNet
+2021-11-23 20:28:40,542 [MainThread  ] [INFO ]         features : ResNET_TF2.npy
+2021-11-23 20:28:40,542 [MainThread  ] [INFO ]       max_epochs : 1000
+2021-11-23 20:28:40,543 [MainThread  ] [INFO ]     load_weights : None
+2021-11-23 20:28:40,543 [MainThread  ] [INFO ]       model_name : NetVLAD++
+2021-11-23 20:28:40,543 [MainThread  ] [INFO ]        test_only : False
+2021-11-23 20:28:40,543 [MainThread  ] [INFO ]      split_train : ['train']
+2021-11-23 20:28:40,543 [MainThread  ] [INFO ]      split_valid : ['valid']
+2021-11-23 20:28:40,543 [MainThread  ] [INFO ]       split_test : ['test', 'challenge']
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]          version : 2
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]      feature_dim : None
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]        framerate : 2
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]      window_size : 15
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]             pool : NetVLAD++
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]       vocab_size : 64
+2021-11-23 20:28:40,544 [MainThread  ] [INFO ]       NMS_window : 30
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]    NMS_threshold : 0.0
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]       batch_size : 256
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]               LR : 0.001
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]              LRe : 1e-06
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]         patience : 10
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]              GPU : -1
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]   max_num_worker : 4
+2021-11-23 20:28:40,545 [MainThread  ] [INFO ]             seed : 0
+2021-11-23 20:28:40,546 [MainThread  ] [INFO ]         loglevel : INFO
+2021-11-23 20:28:40,547 [MainThread  ] [INFO ]  Checking/Download features and labels locally

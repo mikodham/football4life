@@ -1,0 +1,29 @@
+2021-11-23 20:32:35,089 [MainThread  ] [INFO ]  Starting main function
+2021-11-23 20:32:35,089 [MainThread  ] [INFO ]  Parameters:
+2021-11-23 20:32:35,090 [MainThread  ] [INFO ]   SoccerNet_path : Dataset/SoccerNet
+2021-11-23 20:32:35,090 [MainThread  ] [INFO ]         features : ResNET_TF2.npy
+2021-11-23 20:32:35,090 [MainThread  ] [INFO ]       max_epochs : 1000
+2021-11-23 20:32:35,090 [MainThread  ] [INFO ]     load_weights : None
+2021-11-23 20:32:35,091 [MainThread  ] [INFO ]       model_name : NetVLAD++
+2021-11-23 20:32:35,091 [MainThread  ] [INFO ]        test_only : True
+2021-11-23 20:32:35,091 [MainThread  ] [INFO ]      split_train : ['train']
+2021-11-23 20:32:35,091 [MainThread  ] [INFO ]      split_valid : ['valid']
+2021-11-23 20:32:35,091 [MainThread  ] [INFO ]       split_test : ['test', 'challenge']
+2021-11-23 20:32:35,091 [MainThread  ] [INFO ]          version : 2
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]      feature_dim : None
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]  evaluation_frequency : 10
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]        framerate : 2
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]      window_size : 15
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]             pool : NetVLAD++
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]       vocab_size : 64
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]       NMS_window : 30
+2021-11-23 20:32:35,092 [MainThread  ] [INFO ]    NMS_threshold : 0.0
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]       batch_size : 256
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]               LR : 0.001
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]              LRe : 1e-06
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]         patience : 10
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]              GPU : -1
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]   max_num_worker : 4
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]             seed : 0
+2021-11-23 20:32:35,093 [MainThread  ] [INFO ]         loglevel : INFO
+2021-11-23 20:32:35,095 [MainThread  ] [INFO ]  Checking/Download features and labels locally
